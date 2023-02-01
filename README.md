@@ -107,10 +107,12 @@
 - [postcat](https://github.com/eolinker/postcat) - 可扩展的 `API` 工具平台，集成基础的 `API` 管理和测试功能，并且可以通过插件简化 `API` 开发工作，更快更好地创建 `API`。[在线体验](https://postcat.com/) [在线文档](https://docs.postcat.com/)
 - [DOClever](https://github.com/DOClever/DOClever) - **接口管理平台**
 - [yapi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的**接口管理平台**。[在线体验](http://yapi.smart-xwork.cn/) [在线文档](https://hellosean1025.github.io/yapi)
+- [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
 
 ## 知识管理项目
 
 - [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
+- [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线预览](https://docs.requarks.io/demo)
 
 ## 聊天项目
 
