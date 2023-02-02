@@ -3,22 +3,24 @@
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。
 
 ## 目录
-- [编程语言项目](#编程语言项目)
-- [`SprinBoot` 项目](#sprinboot-项目)
-- [源码分析项目](#源码分析项目)
-- [前后端分离项目](#前后端分离项目)
-- [`Vue2` 项目](#vue2-项目)
-- [`Vue3` 项目](#vue3-项目)
-- [微服务项目](#微服务项目)
-- [`Api` 网关项目](#api-网关项目)
-- [中间件项目](#中间件项目)
-- [数据操作项目](#数据操作项目)
-- [测试运维监控项目](#测试运维监控项目)
-- [接口文档管理项目](#接口文档管理项目)
-- [知识管理项目](#知识管理项目)
-- [聊天项目](#聊天项目)
-- [工具项目](#工具项目)
-- [集合项目](#集合项目)
+- [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
+  - [目录](#目录)
+  - [编程语言项目](#编程语言项目)
+  - [`SprinBoot` 项目](#sprinboot-项目)
+  - [源码分析项目](#源码分析项目)
+  - [前后端分离项目](#前后端分离项目)
+  - [`Vue2` 项目](#vue2-项目)
+  - [`Vue3` 项目](#vue3-项目)
+  - [微服务项目](#微服务项目)
+  - [`Api` 网关项目](#api-网关项目)
+  - [中间件项目](#中间件项目)
+  - [数据操作项目](#数据操作项目)
+  - [测试运维监控项目](#测试运维监控项目)
+  - [接口文档管理项目](#接口文档管理项目)
+  - [知识管理项目](#知识管理项目)
+  - [聊天项目](#聊天项目)
+  - [工具项目](#工具项目)
+  - [集合项目](#集合项目)
 
 ## 编程语言项目
 
@@ -105,6 +107,8 @@
 - [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 - [hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 轻量级的**前端监控系统**，无埋点监控前端日志，实时分析前端健康状态。
+- [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
+- [Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
 
 ## 接口文档管理项目
 
@@ -117,7 +121,7 @@
 ## 知识管理项目
 
 - [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
-- [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线预览](https://docs.requarks.io/demo)
+- [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
 
 ## 聊天项目
 
