@@ -30,6 +30,8 @@
 - [concurrent](https://github.com/RedSpider1/concurrent) - `Java` **多线程**系列文章。[在线文档](http://concurrent.redspider.group/RedSpider.html)
 - [learning-note](https://github.com/rbmonster/learning-note) - `Java` **开发及面试**（个人面试、工作总结、资料收集）。[在线文档](https://rbmonster.github.io/learning-note/#/)
 - [blog](https://github.com/biaochenxuying/blog) - 大**前端技术**为主，读书笔记、随笔、理财为辅，做个终身学习者。
+- [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
 
 ## `SprinBoot` 项目
 
@@ -42,7 +44,7 @@
 ## 源码分析项目
 
 - [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - `Java` 流行**框架源码分析**，学习以及总结。
-- [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线预览](https://doocs.github.io/source-code-hunter/#/)
+- [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
 
 ## 前后端分离项目
 
@@ -81,6 +83,7 @@
 - [tesco-mall](https://github.com/Jerusalem01/tesco-mall) - 一套完善的**微服务电商系统**，由前台商城系统和后台管理系统构成，基于 `SpringBoot`、`SpringCloud`、`SpringCloud Alibaba`、`Vue` 实现，采用前后端分离开发模式。涵盖 `Restful` 接口、数据校验、网关、注册发现、配置中心、熔断、限流、降级、链路追踪、性能监控、压力测试、系统预警、集群部署、持续集成、持续部署等。
 - [pig](https://github.com/pig-mesh/pig) - 基于 `Spring Cloud 2021` 、`Spring Boot 2.7`、 `OAuth2` 的 `RBAC` **权限管理系统**。[在线文档](https://www.yuque.com/pig4cloud/pig/gg3ndm)
 - [matecloud](https://github.com/matevip/matecloud) - 一款基于 `Spring Cloud Alibaba` 的微服务架构。目前已经整合 `Spring Boot 2.7.0`、 `Spring Cloud 2021`、`Spring Cloud Alibaba 2021`、`Spring Security Oauth2`、`Feign`、`Dubbo`、`JetCache`、`RocketMQ` 等，支持多租户的低代码平台，`Saas` 平台开发套件。[在线文档](https://www.mate.vip/docs)
+- [goodsKill](https://github.com/techa03/goodsKill) - 基于 `SpringCloud 2021.x` + `Dubbo 3.x` 构建的模拟秒杀微服务项目，集成了 `Elasticsearch`、`Gateway`、`Mybatis-Plus`、`Sharding-JDBC`等常用开源组件。
 
 ## `Api` 网关项目
 
