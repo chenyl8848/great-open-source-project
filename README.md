@@ -109,6 +109,7 @@
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 轻量级的**前端监控系统**，无埋点监控前端日志，实时分析前端健康状态。
 - [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
 - [Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
+- [rainbond](https://github.com/goodrain/rainbond) - **云原生应用管理平台**，使用简单，不需要懂容器、`Kubernetes` 和底层复杂技术，支持管理多个 `Kubernetes` 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。[在线文档](https://www.rainbond.com/docs/)
 
 ## 接口文档管理项目
 
