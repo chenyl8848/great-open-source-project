@@ -1,6 +1,6 @@
 # `Github` 、`Gitee` 优秀的开源项目
 
-> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。
+> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project)
 
 ## 目录
 - [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
@@ -47,6 +47,7 @@
 
 - [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - `Java` 流行**框架源码分析**，学习以及总结。
 - [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
+- [mini-spring](https://github.com/DerekYRC/mini-spring) - 简化版的 `Spring 框架`，能帮助你快速熟悉 `Spring` 源码和掌握 `Spring` 的核心原理。抽取了 `Spring` 的核心逻辑，代码极度简化，保留`Spring` 的核心功能，如 `IOC` 和 `AOP`、资源加载器、事件监听器、类型转换、容器扩展点、`Bean` 生命周期和作用域、应用上下文等核心功能。
 
 ## 前后端分离项目
 
@@ -74,6 +75,7 @@
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于`Vite` + `Vue3` + `Gin` 搭建的开发基础平台（支持 `Ts` , `Js` 混用），集成 `Jwt` 鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。[在线体验](https://demo.gin-vue-admin.com/#/login?redirect=%23/) [在线文档](https://www.gin-vue-admin.com/)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于 `Vue3` + `Element UI Plus` 的**后台管理系统**解决方案。[在线体验](https://lin-xin.gitee.io/example/work/#/dashboard)
+- [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
 
 ## 微服务项目
 
