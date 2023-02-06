@@ -34,6 +34,7 @@
 - [blog](https://github.com/biaochenxuying/blog) - 大**前端技术**为主，读书笔记、随笔、理财为辅，做个终身学习者。
 - [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
+- [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
 
 ## `SprinBoot` 项目
 
