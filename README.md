@@ -3,8 +3,6 @@
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project)
 
 ## 目录
-- [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
-  - [目录](#目录)
   - [编程语言项目](#编程语言项目)
   - [`SprinBoot` 项目](#sprinboot-项目)
   - [源码分析项目](#源码分析项目)
@@ -35,6 +33,7 @@
 - [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
 - [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
+- [Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端（`Java` 、`Golang`）全栈**知识架构体系总结**。
 
 ## `SprinBoot` 项目
 
@@ -147,6 +146,7 @@
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - 跨平台的、重新实现的 `Notepad++`。
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 基于 `electron` 的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
 - [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 `Node.js` `API` `Service`。[在线文档](https://neteasecloudmusicapi-docs.4everland.app/#/)
 
 ## 集合项目
 
