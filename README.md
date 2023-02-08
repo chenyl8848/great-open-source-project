@@ -147,6 +147,8 @@
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 基于 `electron` 的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
 - [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 `Node.js` `API` `Service`。[在线文档](https://neteasecloudmusicapi-docs.4everland.app/#/)
+- [vnote](https://github.com/vnotex/vnote) - 专注于 `Markdown` 的基于 `Qt` 的开源免费的**笔记应用**，提供一个拥有完美编辑体验的舒适的**笔记平台**。[在线文档](https://tamlok.gitee.io/vnote/zh_cn/)
+- [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
 
 ## 集合项目
 
