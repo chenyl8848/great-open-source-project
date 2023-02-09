@@ -10,6 +10,7 @@
 - [`Vue2` 项目](#vue2-项目)
 - [`Vue3` 项目](#vue3-项目)
 - [微服务项目](#微服务项目)
+- [支付项目]#支付项目()
 - [`Api` 网关项目](#api-网关项目)
 - [中间件项目](#中间件项目)
 - [数据操作项目](#数据操作项目)
@@ -34,6 +35,7 @@
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
 - [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
 - [Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端（`Java` 、`Golang`）全栈**知识架构体系总结**。
+- [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - 《重学 Java 设计模式》是一本互联网真实案例实践书籍，以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。[在线体验](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
 
 ## `SprinBoot` 项目
 
@@ -88,6 +90,10 @@
 - [pig](https://github.com/pig-mesh/pig) - 基于 `Spring Cloud 2021` 、`Spring Boot 2.7`、 `OAuth2` 的 `RBAC` **权限管理系统**。[在线文档](https://www.yuque.com/pig4cloud/pig/gg3ndm)
 - [matecloud](https://github.com/matevip/matecloud) - 一款基于 `Spring Cloud Alibaba` 的微服务架构。目前已经整合 `Spring Boot 2.7.0`、 `Spring Cloud 2021`、`Spring Cloud Alibaba 2021`、`Spring Security Oauth2`、`Feign`、`Dubbo`、`JetCache`、`RocketMQ` 等，支持多租户的低代码平台，`Saas` 平台开发套件。[在线文档](https://www.mate.vip/docs)
 - [goodsKill](https://github.com/techa03/goodsKill) - 基于 `SpringCloud 2021.x` + `Dubbo 3.x` 构建的模拟秒杀微服务项目，集成了 `Elasticsearch`、`Gateway`、`Mybatis-Plus`、`Sharding-JDBC`等常用开源组件。
+
+## 支付项目
+
+- [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
 
 ## `Api` 网关项目
 
