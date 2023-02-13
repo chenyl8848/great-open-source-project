@@ -36,6 +36,7 @@
 - [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
 - [Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端（`Java` 、`Golang`）全栈**知识架构体系总结**。
 - [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - 《重学 Java 设计模式》是一本互联网真实案例实践书籍，以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。[在线体验](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
+- [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
 
 ## `SprinBoot` 项目
 
