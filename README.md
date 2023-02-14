@@ -45,6 +45,7 @@
 - [SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator) - 基于 `SpringBoot` + `Freemarker` 的 `JAVA` **代码生成器**，以释放双手为目的，支持 `MySQL/Oracle/PgSQL` 三大数据库， 用`DDL-SQL` 语句生成 `JPA`、`JdbcTemplate`、`Mybatis`、`MybatisPlus`、`BeetlSQL` 等相关代码。
 - [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
+- [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
 
 ## 源码分析项目
 
@@ -133,6 +134,7 @@
 
 - [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
 - [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
+- [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
 
 ## 聊天项目
 
