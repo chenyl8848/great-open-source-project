@@ -98,6 +98,7 @@
 ## 支付项目
 
 - [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
+- [jeepay](https://github.com/jeequan/jeepay) - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 
 ## `Api` 网关项目
 
