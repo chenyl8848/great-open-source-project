@@ -53,6 +53,7 @@
 - [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - `Java` 流行**框架源码分析**，学习以及总结。
 - [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
 - [mini-spring](https://github.com/DerekYRC/mini-spring) - 简化版的 `Spring 框架`，能帮助你快速熟悉 `Spring` 源码和掌握 `Spring` 的核心原理。抽取了 `Spring` 的核心逻辑，代码极度简化，保留`Spring` 的核心功能，如 `IOC` 和 `AOP`、资源加载器、事件监听器、类型转换、容器扩展点、`Bean` 生命周期和作用域、应用上下文等核心功能。
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) - `Spring` 源码阅读。
 
 ## 前后端分离项目
 
@@ -94,6 +95,7 @@
 - [matecloud](https://github.com/matevip/matecloud) - 一款基于 `Spring Cloud Alibaba` 的微服务架构。目前已经整合 `Spring Boot 2.7.0`、 `Spring Cloud 2021`、`Spring Cloud Alibaba 2021`、`Spring Security Oauth2`、`Feign`、`Dubbo`、`JetCache`、`RocketMQ` 等，支持多租户的低代码平台，`Saas` 平台开发套件。[在线文档](https://www.mate.vip/docs)
 - [goodsKill](https://github.com/techa03/goodsKill) - 基于 `SpringCloud 2021.x` + `Dubbo 3.x` 构建的模拟秒杀微服务项目，集成了 `Elasticsearch`、`Gateway`、`Mybatis-Plus`、`Sharding-JDBC`等常用开源组件。
 - [roncoo-education](https://github.com/roncoo/roncoo-education) - 分布式**在线教育系统**。系统采用前后端分离模式，前台采用 `Vue.js` 为核心框架，后台采用 `Spring Cloud` 为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能等。[在线体验](https://eduos.roncoo.net/) [在线文档](https://eduos.roncoo.net/doc/)
+- [smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于 `SpringBoot` && `SpringCloud` 的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据脱敏、接口数据 `mock`、接口文档自动生成、请求幂等校验、接口日志&& `SQL` 日志切面打印、分表分库分布式事务、国际化语言等。
 
 ## 支付项目
 
