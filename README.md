@@ -96,6 +96,7 @@
 - [goodsKill](https://github.com/techa03/goodsKill) - 基于 `SpringCloud 2021.x` + `Dubbo 3.x` 构建的模拟秒杀微服务项目，集成了 `Elasticsearch`、`Gateway`、`Mybatis-Plus`、`Sharding-JDBC`等常用开源组件。
 - [roncoo-education](https://github.com/roncoo/roncoo-education) - 分布式**在线教育系统**。系统采用前后端分离模式，前台采用 `Vue.js` 为核心框架，后台采用 `Spring Cloud` 为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能等。[在线体验](https://eduos.roncoo.net/) [在线文档](https://eduos.roncoo.net/doc/)
 - [smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于 `SpringBoot` && `SpringCloud` 的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据脱敏、接口数据 `mock`、接口文档自动生成、请求幂等校验、接口日志&& `SQL` 日志切面打印、分表分库分布式事务、国际化语言等。
+- [SpringBlade](https://github.com/chillzhuang/SpringBlade) - `SpringCloud` 分布式微服务架构、`SpringBoot` 单体式微服务架构并存的综合型项目，采用 `Java8` `API` 重构了业务代码，完全遵循阿里巴巴编码规范。采用 `Spring Boot 2.7` 、`Spring Cloud 2021` 、`Mybatis` 等核心技术，同时提供基于 `React` 和 `Vue` 的两个前端框架用于快速搭建企业级的 `SaaS` 多租户微服务平台。[在线体验](https://saber.bladex.vip/#/wel/index) 
 
 ## 支付项目
 
