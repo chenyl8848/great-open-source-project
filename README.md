@@ -168,6 +168,7 @@
 - [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
+- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 
 ## 集合项目
 
