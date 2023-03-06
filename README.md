@@ -83,6 +83,7 @@
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于`Vite` + `Vue3` + `Gin` 搭建的开发基础平台（支持 `Ts` , `Js` 混用），集成 `Jwt` 鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。[在线体验](https://demo.gin-vue-admin.com/#/login?redirect=%23/) [在线文档](https://www.gin-vue-admin.com/)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于 `Vue3` + `Element UI Plus` 的**后台管理系统**解决方案。[在线体验](https://lin-xin.gitee.io/example/work/#/dashboard)
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
+- [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` 前端框架。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
 
 ## 微服务项目
 
