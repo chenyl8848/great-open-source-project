@@ -172,6 +172,7 @@
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
 
 ## 集合项目
 
