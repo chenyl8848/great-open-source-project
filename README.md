@@ -174,6 +174,7 @@
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
 - [notable](https://github.com/notable/notable) - 一款开源的高颜值、跨平台的 `Markdown` 编辑器。[下载地址](https://download.notable.app/)
+- [yn](https://github.com/purocean/yn) - 一款强大可扩展的 `Markdown` 编辑器，为生产力而生。[在线体验](https://demo.yank-note.com/#/) [下载地址](https://github.com/purocean/yn/releases)
 
 ## 集合项目
 
