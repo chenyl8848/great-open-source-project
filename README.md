@@ -3,6 +3,7 @@
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project)
 
 ## 目录
+
 - [编程语言项目](#编程语言项目)
 - [`SprinBoot` 项目](#sprinboot-项目)
 - [源码分析项目](#源码分析项目)
@@ -18,8 +19,10 @@
 - [接口文档管理项目](#接口文档管理项目)
 - [知识管理项目](#知识管理项目)
 - [聊天项目](#聊天项目)
+- [`Markdown` 编辑器项目](#markdown-编辑器项目)
 - [工具项目](#工具项目)
 - [集合项目](#集合项目)
+
 
 ## 编程语言项目
 
@@ -83,7 +86,7 @@
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于`Vite` + `Vue3` + `Gin` 搭建的开发基础平台（支持 `Ts` , `Js` 混用），集成 `Jwt` 鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。[在线体验](https://demo.gin-vue-admin.com/#/login?redirect=%23/) [在线文档](https://www.gin-vue-admin.com/)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于 `Vue3` + `Element UI Plus` 的**后台管理系统**解决方案。[在线体验](https://lin-xin.gitee.io/example/work/#/dashboard)
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
-- [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` 前端框架。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
+- [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` **前端框架**。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
 
 ## 微服务项目
@@ -144,6 +147,7 @@
 - [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
 - [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
 - [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
+- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 
 ## 聊天项目
 
@@ -151,30 +155,33 @@
 - [subtlechat](https://github.com/JustCoding-Hai/subtlechat) - 基于前后端分离，采用 `SpringBoot` + `Vue` 框架开发的**网页版聊天室**。 使用了 `Spring Security` 安全框架进行密码的加密存储和登录登出等逻辑的处理，以 `WebSocket` + `Socket.js` + `Stomp.js` 实现消息的发送与接收、监听。搭建 `FastDFS` 文件服务器用于保存图片，使用 `EasyExcel` 导出数据，使用 `Vue.js` 结合 `Element UI` 进行显示弹窗和数据表格分页等功能，以及整个系统的界面进行 `UI` 设计，并且使用 `MyBatis` 结合数据库`MySQL` 进行开发。[在线体验](http://www.javahai.top/index.html) [在线文档](https://github.com/JustCoding-Hai/subtlechat/wiki)
 - [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
 
+## `Markdown` 编辑器项目
+
+- [yn](https://github.com/purocean/yn) - 一款强大可扩展的 `Markdown` 编辑器，为生产力而生。[在线体验](https://demo.yank-note.com/#/) [下载地址](https://github.com/purocean/yn/releases)
+- [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
+- [notable](https://github.com/notable/notable) - 一款开源的高颜值、跨平台的 `Markdown` 编辑器。[下载地址](https://download.notable.app/)
+- [vnote](https://github.com/vnotex/vnote) - 专注于 `Markdown` 的基于 `Qt` 的开源免费的**笔记应用**，提供一个拥有完美编辑体验的舒适的**笔记平台**。[在线文档](https://tamlok.gitee.io/vnote/zh_cn/)
+- [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
+- [cherry-markdown](https://github.com/Tencent/cherry-markdown) - 一款 `JavaScript` `Markdown` **编辑器**，具有开箱即用、轻量简洁、易于扩展等特点，它可以运行在浏览器或服务端( `NodeJs`)。
+
+
 ## 工具项目
 
 - [zfile](https://github.com/zfile-dev/zfile) - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
 - [APIJSON](https://github.com/Tencent/APIJSON) - 专为 `API` 而生的 `JSON` 网络传输协议以及基于这套协议实现的 `ORM` 库。为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。[在线体验](http://apijson.cn/api/) [在线文档](https://github.com/Tencent/APIJSON/blob/master/Document.md)
 - [Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键**同步文章**到多个内容平台，支持今日头条、`WordPress`、知乎、简书、掘金、`CSDN`、`typecho` 各大平台，一次发布，多平台同步发布。
 - [linux-command](https://github.com/jaywcjlove/linux-command) - `Linux` **命令大全**搜索工具，内容包含 `Linux` 命令手册、详解、学习、搜集。[在线体验](https://wangchujiang.com/linux-command/)
-- [cherry-markdown](https://github.com/Tencent/cherry-markdown) - 一款 `JavaScript` `Markdown` **编辑器**，具有开箱即用、轻量简洁、易于扩展等特点，它可以运行在浏览器或服务端( `NodeJs`)。
 - [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
 - [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的`MySQL` `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
 - [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - 跨平台的、重新实现的 `Notepad++`。
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 基于 `electron` 的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
-- [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 `Node.js` `API` `Service`。[在线文档](https://neteasecloudmusicapi-docs.4everland.app/#/)
-- [vnote](https://github.com/vnotex/vnote) - 专注于 `Markdown` 的基于 `Qt` 的开源免费的**笔记应用**，提供一个拥有完美编辑体验的舒适的**笔记平台**。[在线文档](https://tamlok.gitee.io/vnote/zh_cn/)
-- [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
-- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
-- [notable](https://github.com/notable/notable) - 一款开源的高颜值、跨平台的 `Markdown` 编辑器。[下载地址](https://download.notable.app/)
-- [yn](https://github.com/purocean/yn) - 一款强大可扩展的 `Markdown` 编辑器，为生产力而生。[在线体验](https://demo.yank-note.com/#/) [下载地址](https://github.com/purocean/yn/releases)
 
 ## 集合项目
 
