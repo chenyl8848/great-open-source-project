@@ -137,6 +137,7 @@
 - [dataease](https://github.com/dataease/dataease) - 开源的**数据可视化分析工具**，支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表。[在线体验](https://dataease.fit2cloud.com/#/login) 用户名：`demo` 密码：`dataease` [在线文档](https://dataease.io/docs/)
 - [DataX](https://github.com/alibaba/DataX) - 阿里云 `DataWorks` **数据集成**的开源版本，实现了包括 `MySQL`、`Oracle`、`OceanBase`、`SqlServer`、`Postgre`、`HDFS`、`Hive`、`ADS`、`HBase`、`TableStore(OTS)`、`MaxCompute(ODPS)`、`Hologres`、`DRDS ` 等各种异构数据源之间高效的数据同步功能。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式易扩展的可视化 `DAG` **工作流任务调度系统**。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。
+- [TDengine](https://github.com/taosdata/TDengine) - TDengine 是一款开源、高性能、云原生的**时序数据库**（`Time Series Database`, TSDB）, 它专为物联网、车联网、工业互联网、金融、IT 运维等场景优化设计。[在线文档](https://docs.taosdata.com/)
 
 ## 测试运维监控项目
 
