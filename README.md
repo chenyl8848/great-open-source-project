@@ -148,6 +148,9 @@
 - [Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
 - [rainbond](https://github.com/goodrain/rainbond) - **云原生应用管理平台**，使用简单，不需要懂容器、`Kubernetes` 和底层复杂技术，支持管理多个 `Kubernetes` 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。[在线文档](https://www.rainbond.com/docs/)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 简易美观的**监控工具**。[在线体验](https://demo.uptime.kuma.pet:27000/)
+- [oshi](https://github.com/oshi/oshi) - 基于 `JNA`（本地）的免费的操作系统和硬件信息库，专为 `Java` 设计。它可以跨平台的获取系统信息以及硬件信息，如操作系统版本、进程、内存和 `CPU` 使用情况、磁盘和分区、设备、传感器等。[在线文档](https://www.oshi.ooo/)
+- [Ward](https://github.com/Rudolf-Barbu/Ward) - 一款简单、极简主义的服务器监控工具。`SpringBoot` 项目，集成 `OSHI` 的使用。
+- [spug](https://github.com/openspug/spug) - 面向中小型企业设计的轻量级无 `Agent` 的**自动化运维平台**，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。[在线体验](https://demo.spug.cc/) [在线文档](https://spug.cc/docs/about-spug/) 
 
 ## 接口文档管理项目
 
