@@ -190,7 +190,7 @@
 - [Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键**同步文章**到多个内容平台，支持今日头条、`WordPress`、知乎、简书、掘金、`CSDN`、`typecho` 各大平台，一次发布，多平台同步发布。
 - [linux-command](https://github.com/jaywcjlove/linux-command) - `Linux` **命令大全**搜索工具，内容包含 `Linux` 命令手册、详解、学习、搜集。[在线体验](https://wangchujiang.com/linux-command/)
 - [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
-- [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的`MySQL` `SQL` 审核工具。[在线文档](http://next.yearning.io/)
+- [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
 - [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - 跨平台的、重新实现的 `Notepad++`。
@@ -200,6 +200,8 @@
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
+- [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 
 ## 集合项目
 
