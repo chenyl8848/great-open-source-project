@@ -138,6 +138,8 @@
 - [DataX](https://github.com/alibaba/DataX) - 阿里云 `DataWorks` **数据集成**的开源版本，实现了包括 `MySQL`、`Oracle`、`OceanBase`、`SqlServer`、`Postgre`、`HDFS`、`Hive`、`ADS`、`HBase`、`TableStore(OTS)`、`MaxCompute(ODPS)`、`Hologres`、`DRDS ` 等各种异构数据源之间高效的数据同步功能。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式易扩展的可视化 `DAG` **工作流任务调度系统**。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。
 - [TDengine](https://github.com/taosdata/TDengine) - TDengine 是一款开源、高性能、云原生的**时序数据库**（`Time Series Database`, TSDB）, 它专为物联网、车联网、工业互联网、金融、IT 运维等场景优化设计。[在线文档](https://docs.taosdata.com/)
+- [dsq](https://github.com/multiprocessio/dsq) - 一个**命令行工具**，可对数据文件进行 `SQL` 查询，支持 `JSON`、`CSV`、`Excel`、`Parquet` 等数据文件。
+
 
 ## 测试运维监控项目
 
@@ -166,6 +168,8 @@
 - [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
 - [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
+- [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
+
 
 ## 聊天项目
 
@@ -203,6 +207,8 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [tesseract.js](https://github.com/naptha/tesseract.js) - 一个 `JavaScript` 库，可以从图片中获得几乎任何语言的文字。 [在线体验](https://tesseract.projectnaptha.com/)
+- [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
+
 
 ## 集合项目
 
