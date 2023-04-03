@@ -178,6 +178,7 @@
 - [him-netty](https://github.com/lmxdawn/him-netty) 基于 `SpringBoot` + `Netty` + `Protobuf` + `Vue` 开源的 `H5` **即时聊天系统**。
 - [subtlechat](https://github.com/JustCoding-Hai/subtlechat) - 基于前后端分离，采用 `SpringBoot` + `Vue` 框架开发的**网页版聊天室**。 使用了 `Spring Security` 安全框架进行密码的加密存储和登录登出等逻辑的处理，以 `WebSocket` + `Socket.js` + `Stomp.js` 实现消息的发送与接收、监听。搭建 `FastDFS` 文件服务器用于保存图片，使用 `EasyExcel` 导出数据，使用 `Vue.js` 结合 `Element UI` 进行显示弹窗和数据表格分页等功能，以及整个系统的界面进行 `UI` 设计，并且使用 `MyBatis` 结合数据库`MySQL` 进行开发。[在线体验](http://www.javahai.top/index.html) [在线文档](https://github.com/JustCoding-Hai/subtlechat/wiki)
 - [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
+- [tailchat](https://github.com/msgbyte/tailchat) - 一个基于 `React` + `Typescript` 的现代开源 `noIM` 应用程序。[在线体验](https://nightly.paw.msgbyte.com/) [在线文档](https://tailchat.msgbyte.com/zh-Hans/docs/intro)
 
 ## `Markdown` 编辑器项目
 
