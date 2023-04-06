@@ -211,6 +211,8 @@
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [tesseract.js](https://github.com/naptha/tesseract.js) - 一个 `JavaScript` 库，可以从图片中获得几乎任何语言的文字。 [在线体验](https://tesseract.projectnaptha.com/)
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
+- [excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟白板，用于勾画手绘般的图表。[在线体验](https://excalidraw.com/)
+- [Kap](https://github.com/wulkano/Kap) - 一个用网络技术构建的开源屏幕记录工具。
 
 ## 集合项目
 
