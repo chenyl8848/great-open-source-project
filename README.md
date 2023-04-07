@@ -155,6 +155,7 @@
 - [spug](https://github.com/openspug/spug) - 面向中小型企业设计的轻量级无 `Agent` 的**自动化运维平台**，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。[在线体验](https://demo.spug.cc/) [在线文档](https://spug.cc/docs/about-spug/) 
 - [skywalking](https://github.com/apache/skywalking) - APM, 应用性能监控系统。[在线体验](http://demo.skywalking.apache.org/) [在线文档](https://skywalking.apache.org/docs/)
 - [pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM，（应用性能管理）工具，用于大规模分布式系统。[在线体验](http://125.209.240.10:10123/main) [在线文档](https://pinpoint-apm.gitbook.io/pinpoint/)
+- [serverless](https://github.com/serverless/serverless) - 无服务器框架，基于 `AWS Lambda`、`Azure Functions`、`Google CloudFunctions` 等无服务器架构构建网络、移动和物联网应用。[在线文档](https://cn.serverless.com/framework/docs)
 
 ## 接口文档管理项目
 
@@ -179,6 +180,7 @@
 - [subtlechat](https://github.com/JustCoding-Hai/subtlechat) - 基于前后端分离，采用 `SpringBoot` + `Vue` 框架开发的**网页版聊天室**。 使用了 `Spring Security` 安全框架进行密码的加密存储和登录登出等逻辑的处理，以 `WebSocket` + `Socket.js` + `Stomp.js` 实现消息的发送与接收、监听。搭建 `FastDFS` 文件服务器用于保存图片，使用 `EasyExcel` 导出数据，使用 `Vue.js` 结合 `Element UI` 进行显示弹窗和数据表格分页等功能，以及整个系统的界面进行 `UI` 设计，并且使用 `MyBatis` 结合数据库`MySQL` 进行开发。[在线体验](http://www.javahai.top/index.html) [在线文档](https://github.com/JustCoding-Hai/subtlechat/wiki)
 - [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
 - [tailchat](https://github.com/msgbyte/tailchat) - 一个基于 `React` + `Typescript` 的现代开源 `noIM` 应用程序。[在线体验](https://nightly.paw.msgbyte.com/) [在线文档](https://tailchat.msgbyte.com/zh-Hans/docs/intro)
+- [weweChat](https://github.com/trazyn/weweChat) - 基于 `React`、`MobX` 和 `Electron` 构建的非官方**微信客户端**。[在线体验](https://web.wechat.com/) 
 
 ## `Markdown` 编辑器项目
 
