@@ -172,7 +172,7 @@
 - [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
-
+- [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
 
 ## 聊天项目
 
