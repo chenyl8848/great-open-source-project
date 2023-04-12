@@ -140,6 +140,8 @@
 - [TDengine](https://github.com/taosdata/TDengine) - TDengine 是一款开源、高性能、云原生的**时序数据库**（`Time Series Database`, TSDB）, 它专为物联网、车联网、工业互联网、金融、IT 运维等场景优化设计。[在线文档](https://docs.taosdata.com/)
 - [dsq](https://github.com/multiprocessio/dsq) - 一个**命令行工具**，可对数据文件进行 `SQL` 查询，支持 `JSON`、`CSV`、`Excel`、`Parquet` 等数据文件。
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
+- [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
+
 
 ## 测试运维监控项目
 
@@ -215,6 +217,8 @@
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟白板，用于勾画手绘般的图表。[在线体验](https://excalidraw.com/)
 - [Kap](https://github.com/wulkano/Kap) - 一个用网络技术构建的开源屏幕记录工具。
+- [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
+- [screenity](https://github.com/alyssaxuu/screenity) - 适用于 `Chrome` 的强大的屏幕记录器和注释工具。
 
 ## 集合项目
 
