@@ -11,6 +11,7 @@
 - [`Vue2` 项目](#vue2-项目)
 - [`Vue3` 项目](#vue3-项目)
 - [`React` 项目](#react-项目)
+- [`JavaScript` 项目](#javascript-项目)
 - [微服务项目](#微服务项目)
 - [微信项目](#微信项目)
 - [支付项目](#支付项目)
@@ -44,6 +45,8 @@
 - [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
 - [interviewGuide](https://github.com/NotFound9/interviewGuide) - 《后端技术总结》——包括 `Java` 基础、`JVM`、数据库、`MySQL`、`Redis`、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
 - [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - `Effective Java`（第3版）各章节的中英文学习。
+- [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
+- [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 
 ## `SprinBoot` 项目
 
@@ -93,6 +96,9 @@
 
 ## `React` 项目
 - [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
+
+## `JavaScript` 项目
+- [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
 
 ## 微服务项目
 
