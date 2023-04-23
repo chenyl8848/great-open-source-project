@@ -47,6 +47,7 @@
 - [interviewGuide](https://github.com/NotFound9/interviewGuide) - 《后端技术总结》——包括 `Java` 基础、`JVM`、数据库、`MySQL`、`Redis`、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
 - [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - `Effective Java`（第3版）各章节的中英文学习。
 - [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
+- [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
 
 # `Java` 项目
 - [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
