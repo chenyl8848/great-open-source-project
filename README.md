@@ -231,6 +231,8 @@
 - [Kap](https://github.com/wulkano/Kap) - 一个用网络技术构建的开源屏幕记录工具。
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [screenity](https://github.com/alyssaxuu/screenity) - 适用于 `Chrome` 的强大的屏幕记录器和注释工具。
+- [meilisearch](https://github.com/meilisearch/meilisearch) - 一个适配应用程序、网站、工作流的快速搜索引擎。[在线体验](https://where2watch.meilisearch.com/) [在线文档](https://www.meilisearch.com/docs) 
+- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。
 
 ## 集合项目
 
