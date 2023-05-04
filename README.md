@@ -2,6 +2,10 @@
 
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chenyl8848/great-open-source-project&type=Date)](https://star-history.com/#chenyl8848/great-open-source-project&Date)
+
 ## 目录
 
 - [编程语言项目](#编程语言项目)
