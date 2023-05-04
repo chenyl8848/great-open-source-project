@@ -79,6 +79,7 @@
 ## `Vue2` 项目
 
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - **后台前端**解决方案，它基于 [Vue](https://github.com/vuejs/vue), [TypeScript](https://www.typescriptlang.org/) 和 [Element-UI](https://github.com/ElemeFE/element) 实现。[在线体验](https://armour.github.io/vue-typescript-admin-template/#/login?redirect=%2Fdashboard)
+- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
 
 ## `Vue3` 项目
 
@@ -98,9 +99,11 @@
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
 - [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` **前端框架**。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
+- [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
 
 ## `React` 项目
 - [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
+- [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 
 ## `JavaScript` 项目
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
@@ -231,6 +234,7 @@
 - [Kap](https://github.com/wulkano/Kap) - 一个用网络技术构建的开源屏幕记录工具。
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [screenity](https://github.com/alyssaxuu/screenity) - 适用于 `Chrome` 的强大的屏幕记录器和注释工具。
+- [sioyek](https://github.com/ahrm/sioyek) - 一个专注于技术书籍和研究论文的 `PDF` 阅读器。[在线文档](https://sioyek-documentation.readthedocs.io/en/latest/)
 - [meilisearch](https://github.com/meilisearch/meilisearch) - 一个适配应用程序、网站、工作流的快速搜索引擎。[在线体验](https://where2watch.meilisearch.com/) [在线文档](https://www.meilisearch.com/docs) 
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。
 - [lama-cleaner](lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)
@@ -242,4 +246,3 @@
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 `GitHub` 上高质量、有趣的**开源项目**，并将他们进行归类。
 - [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个**包管理器**，**系统镜像**，以及常用软件的好用镜像。
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 整理记录程序员如何优雅的**挣零花钱**。
-
