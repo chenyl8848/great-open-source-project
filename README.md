@@ -2,10 +2,6 @@
 
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chenyl8848/great-open-source-project&type=Date)](https://star-history.com/#chenyl8848/great-open-source-project&Date)
-
 ## 目录
 
 - [编程语言项目](#编程语言项目)
@@ -59,6 +55,8 @@
 - [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 - [solon](https://github.com/noear/solon) - 一个高效的 `Java` 应用开发框架，有自己接口标准规范的开放生态，组合不同的生态插件应对不同需求，方便定制，快速开发。[在线文档](https://solon.noear.org/article/learn-start)
 
+---
+
 ## `SprinBoot` 项目
 
 - [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - 基于 `SpringBoot` 的**快速学习**示例，整合开源框架，如：`RabbitMQ`、`Kafka`、`Jpa`、`Redis`、`Oauth2`、`Swagger`、`Jsp`、`Docker`、`k3s`、`k3d`、`k8s`、`Mybatis` 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 `Cache`、爬虫、`JWT`、`GraphQL`、`Dubbo`、	`Zookeeper` 和 `Async` 等等。
@@ -68,12 +66,16 @@
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
 
+---
+
 ## 源码分析项目
 
 - [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - `Java` 流行**框架源码分析**，学习以及总结。
 - [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
 - [mini-spring](https://github.com/DerekYRC/mini-spring) - 简化版的 `Spring 框架`，能帮助你快速熟悉 `Spring` 源码和掌握 `Spring` 的核心原理。抽取了 `Spring` 的核心逻辑，代码极度简化，保留`Spring` 的核心功能，如 `IOC` 和 `AOP`、资源加载器、事件监听器、类型转换、容器扩展点、`Bean` 生命周期和作用域、应用上下文等核心功能。
 - [spring-analysis](https://github.com/seaswalker/spring-analysis) - `Spring` 源码阅读。
+
+---
 
 ## 前后端分离项目
 
@@ -82,10 +84,14 @@
 - [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
 
+---
+
 ## `Vue2` 项目
 
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - **后台前端**解决方案，它基于 [Vue](https://github.com/vuejs/vue), [TypeScript](https://www.typescriptlang.org/) 和 [Element-UI](https://github.com/ElemeFE/element) 实现。[在线体验](https://armour.github.io/vue-typescript-admin-template/#/login?redirect=%2Fdashboard)
 - [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
+
+---
 
 ## `Vue3` 项目
 
@@ -107,12 +113,18 @@
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
 - [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
 
+---
+
 ## `React` 项目
 - [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
 - [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 
+---
+
 ## `JavaScript` 项目
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
+
+---
 
 ## 微服务项目
 
@@ -129,6 +141,8 @@
 - [smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于 `SpringBoot` && `SpringCloud` 的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据脱敏、接口数据 `mock`、接口文档自动生成、请求幂等校验、接口日志&& `SQL` 日志切面打印、分表分库分布式事务、国际化语言等。
 - [SpringBlade](https://github.com/chillzhuang/SpringBlade) - `SpringCloud` 分布式微服务架构、`SpringBoot` 单体式微服务架构并存的综合型项目，采用 `Java8` `API` 重构了业务代码，完全遵循阿里巴巴编码规范。采用 `Spring Boot 2.7` 、`Spring Cloud 2021` 、`Mybatis` 等核心技术，同时提供基于 `React` 和 `Vue` 的两个前端框架用于快速搭建企业级的 `SaaS` 多租户微服务平台。[在线体验](https://saber.bladex.vip/#/wel/index) 
 
+---
+
 ## 微信项目
 
 - [WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 `Java SDK`，支持包括微**信支付，开放平台，小程序，企业微信，公众号**等的后端开发。
@@ -136,11 +150,14 @@
 - [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
 - [weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信支付** `Java` 后端 `Demo`。
 
+---
 
 ## 支付项目
 
 - [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
 - [jeepay](https://github.com/jeequan/jeepay) - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+
+---
 
 ## `Api` 网关项目
 
@@ -148,9 +165,13 @@
 - [kong](https://github.com/Kong/kong) - 云原生 `API` **网关**。[在线文档](https://konghq.com/)
 - [shenyu](https://github.com/apache/shenyu) - 异步的，高性能的，跨语言的，响应式的 `API` **网关**。[在线文档](https://shenyu.apache.org/)
 
+---
+
 ## 中间件项目
 
 - [dynamic-tp](https://github.com/dromara/dynamic-tp) - 轻量级**动态线程池**，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持 `Nacos`、`Apollo`，`Zookeeper`、`Consul`、`Etcd`，可通过 `SPI` 自定义实现）。[在线文档](https://dynamictp.cn/)
+
+---
 
 ## 数据操作项目
 
@@ -162,6 +183,8 @@
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
+
+---
 
 ## 测试运维监控项目
 
@@ -180,6 +203,8 @@
 - [serverless](https://github.com/serverless/serverless) - 无服务器框架，基于 `AWS Lambda`、`Azure Functions`、`Google CloudFunctions` 等无服务器架构构建网络、移动和物联网应用。[在线文档](https://cn.serverless.com/framework/docs)
 - [matomo](https://github.com/matomo-org/matomo) - 一款功能强大的开源 `web` 分析工具，可以帮助跟踪和理解网站的访问者行为，以及优化网站业务。提供了丰富的报告和实时数据分析功能，并提供了一套完整的隐私保护措施，确保用户数据安全。[在线体验](https://demo.matomo.cloud/)
 
+---
+
 ## 接口文档管理项目
 
 - [Torna](https://gitee.com/durcframework/torna) - **接口文档**解决方案，目标是让接口文档管理变得更加方便、快捷。`Torna` 采用团队协作的方式管理和维护接口文档，将不同形式的文档纳入进来统一维护。[在线文档](https://torna.cn/dev/)
@@ -187,6 +212,8 @@
 - [DOClever](https://github.com/DOClever/DOClever) - **接口管理平台**
 - [yapi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的**接口管理平台**。[在线体验](http://yapi.smart-xwork.cn/) [在线文档](https://hellosean1025.github.io/yapi)
 - [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
+
+---
 
 ## 知识管理项目
 
@@ -197,6 +224,8 @@
 - [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
 - [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
 
+---
+
 ## 聊天项目
 
 - [him-netty](https://github.com/lmxdawn/him-netty) 基于 `SpringBoot` + `Netty` + `Protobuf` + `Vue` 开源的 `H5` **即时聊天系统**。
@@ -204,6 +233,8 @@
 - [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
 - [tailchat](https://github.com/msgbyte/tailchat) - 一个基于 `React` + `Typescript` 的现代开源 `noIM` 应用程序。[在线体验](https://nightly.paw.msgbyte.com/) [在线文档](https://tailchat.msgbyte.com/zh-Hans/docs/intro)
 - [weweChat](https://github.com/trazyn/weweChat) - 基于 `React`、`MobX` 和 `Electron` 构建的非官方**微信客户端**。[在线体验](https://web.wechat.com/) 
+
+---
 
 ## `Markdown` 编辑器项目
 
@@ -214,6 +245,7 @@
 - [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
 - [cherry-markdown](https://github.com/Tencent/cherry-markdown) - 一款 `JavaScript` `Markdown` **编辑器**，具有开箱即用、轻量简洁、易于扩展等特点，它可以运行在浏览器或服务端( `NodeJs`)。
 
+---
 
 ## 工具项目
 
@@ -246,9 +278,13 @@
 - [lama-cleaner](lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
 
+---
+
 ## 集合项目
 
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - 优秀**中文项目集合**，可以无语言障碍地、更高效地吸收优秀经验成果。
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 `GitHub` 上高质量、有趣的**开源项目**，并将他们进行归类。
 - [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个**包管理器**，**系统镜像**，以及常用软件的好用镜像。
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 整理记录程序员如何优雅的**挣零花钱**。
+
+---
