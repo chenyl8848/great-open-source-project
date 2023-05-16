@@ -261,6 +261,7 @@
 - [DOClever](https://github.com/DOClever/DOClever) - **接口管理平台**
 - [yapi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的**接口管理平台**。[在线体验](http://yapi.smart-xwork.cn/) [在线文档](https://hellosean1025.github.io/yapi)
 - [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
+- [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的**开源接口管理工具** `RAP`第二代。[在线体验](http://rap2.taobao.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
