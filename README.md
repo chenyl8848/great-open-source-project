@@ -80,6 +80,7 @@
 - [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
 - [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
 - [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 可免费获得的编程书籍。[在线体验](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -150,6 +151,7 @@
 - [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` **前端框架**。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
 - [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
+- [polyglot](https://github.com/liou666/polyglot) - 桌面端 `AI` 语言练习应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
