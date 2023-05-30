@@ -232,6 +232,7 @@
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
+- [Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
