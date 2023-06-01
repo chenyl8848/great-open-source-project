@@ -254,6 +254,7 @@
 - [serverless](https://github.com/serverless/serverless) - 无服务器框架，基于 `AWS Lambda`、`Azure Functions`、`Google CloudFunctions` 等无服务器架构构建网络、移动和物联网应用。[在线文档](https://cn.serverless.com/framework/docs)
 - [matomo](https://github.com/matomo-org/matomo) - 一款功能强大的开源 `web` 分析工具，可以帮助跟踪和理解网站的访问者行为，以及优化网站业务。提供了丰富的报告和实时数据分析功能，并提供了一套完整的隐私保护措施，确保用户数据安全。[在线体验](https://demo.matomo.cloud/)
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 `Linux` **服务器运维管理面板**。[在线体验](https://demo.1panel.cn/) [在线文档](https://1panel.cn/docs/)
+- [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -278,6 +279,7 @@
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
 - [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
+- [mkdocs](https://github.com/mkdocs/mkdocs) - 一个快速、简单和完全华丽的**静态网站生成器**，主要用于构建项目文档。文档源文件用 `Markdown` 编写，并通过一个 `YAML` 配置文件进行配置。[在线文档](https://www.mkdocs.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
