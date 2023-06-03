@@ -281,6 +281,7 @@
 - [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
 - [mkdocs](https://github.com/mkdocs/mkdocs) - 一个快速、简单和完全华丽的**静态网站生成器**，主要用于构建项目文档。文档源文件用 `Markdown` 编写，并通过一个 `YAML` 配置文件进行配置。[在线文档](https://www.mkdocs.org/)
 - [docz](https://github.com/doczjs/docz) - 通过 `MDX` 快速创建实时加载、`SEO` 友好、可生产的文档网站，并通过利用 `GatsbyJS` 和 `Gatsby` 主题阴影，在需要时定制其外观、感觉和行为。[在线文档](https://www.docz.site/docs/introduction)
+- [docusaurus](https://github.com/facebook/docusaurus) - 易于维护的**开源文档网站**。[在线文档](https://docusaurus.io/zh-CN/docs)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
