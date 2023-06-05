@@ -348,6 +348,8 @@
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - `QtScrcpy` 可以通过 `USB` /网络连接 `Android` 设备，并进行显示和控制。无需 `root` 权限。同时支持 `GNU/Linux`，`Windows` 和 `MacOS` 三大主流桌面平台。
 - [plane](https://github.com/makeplane/plane) - 开源的 `JIRA`，线性和高度替代。`Plane` 帮助你以最简单的方式跟踪你的问题、史诗和产品路线图。[在线体验](https://app.plane.so/)
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
+- [china-ex](https://github.com/itorr/china-ex) - 「中国制霸生成器」中国三十四省份制霸标记工具。[在线体验](https://lab.magiconch.com/china-ex/)
+- [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
