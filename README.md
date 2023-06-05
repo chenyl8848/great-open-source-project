@@ -347,6 +347,7 @@
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - `QtScrcpy` 可以通过 `USB` /网络连接 `Android` 设备，并进行显示和控制。无需 `root` 权限。同时支持 `GNU/Linux`，`Windows` 和 `MacOS` 三大主流桌面平台。
 - [plane](https://github.com/makeplane/plane) - 开源的 `JIRA`，线性和高度替代。`Plane` 帮助你以最简单的方式跟踪你的问题、史诗和产品路线图。[在线体验](https://app.plane.so/)
+- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
