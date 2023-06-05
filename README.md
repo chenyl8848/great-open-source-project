@@ -255,6 +255,7 @@
 - [matomo](https://github.com/matomo-org/matomo) - 一款功能强大的开源 `web` 分析工具，可以帮助跟踪和理解网站的访问者行为，以及优化网站业务。提供了丰富的报告和实时数据分析功能，并提供了一套完整的隐私保护措施，确保用户数据安全。[在线体验](https://demo.matomo.cloud/)
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 `Linux` **服务器运维管理面板**。[在线体验](https://demo.1panel.cn/) [在线文档](https://1panel.cn/docs/)
 - [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
+- [dozzle](https://github.com/amir20/dozzle) - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
