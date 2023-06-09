@@ -350,6 +350,7 @@
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
 - [china-ex](https://github.com/itorr/china-ex) - 「中国制霸生成器」中国三十四省份制霸标记工具。[在线体验](https://lab.magiconch.com/china-ex/)
 - [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
+- [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
