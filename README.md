@@ -351,6 +351,7 @@
 - [china-ex](https://github.com/itorr/china-ex) - 「中国制霸生成器」中国三十四省份制霸标记工具。[在线体验](https://lab.magiconch.com/china-ex/)
 - [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
+- [scrcpy](https://github.com/Genymobile/scrcpy) - 支持通过 `USB` /网络在 `Linux`，`Windows` 和 `MacOS` 投影操作 `Android` 设备。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
