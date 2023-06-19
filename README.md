@@ -353,6 +353,7 @@
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
 - [scrcpy](https://github.com/Genymobile/scrcpy) - 支持通过 `USB` /网络在 `Linux`，`Windows` 和 `MacOS` 投影操作 `Android` 设备。
 - [emoji](https://github.com/Wscats/emoji) - 基于 `Vue` 编写的 `Github` 表情包大全。[在线体验](https://wscats.github.io/emoji/omi/build/)
+- [wallabag](https://github.com/wallabag/wallabag) - 一个用于保存和组织网络内容的自托管应用程序。它允许用户保存文章、新闻、博客帖子等网页内容，并在需要时进行阅读。[在线体验](https://app.wallabag.it/register)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
