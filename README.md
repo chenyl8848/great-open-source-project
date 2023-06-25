@@ -128,6 +128,8 @@
 
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - **后台前端**解决方案，它基于 [Vue](https://github.com/vuejs/vue), [TypeScript](https://www.typescriptlang.org/) 和 [Element-UI](https://github.com/ElemeFE/element) 实现。[在线体验](https://armour.github.io/vue-typescript-admin-template/#/login?redirect=%2Fdashboard)
 - [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
+- [Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 `Vue` 的在线音乐播放器。[在线体验](https://netease-music.fe-mm.com/#/music/historylist)
+- [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - 基于`Vue2` + `Vue-Router` + `Vuex` 实现的移动端答题小项目。[在线体验](https://cangdu.org/happyfri/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
