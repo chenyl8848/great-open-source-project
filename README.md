@@ -88,7 +88,8 @@
 ## `Java` 项目
 - [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 - [solon](https://github.com/noear/solon) - 一个高效的 `Java` 应用开发框架，有自己接口标准规范的开放生态，组合不同的生态插件应对不同需求，方便定制，快速开发。[在线文档](https://solon.noear.org/article/learn-start)
-
+- [Java-Interview-Advanced](https://github.com/shishan100/Java-Interview-Advanced) - `Java` 进阶面试。
+- 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
