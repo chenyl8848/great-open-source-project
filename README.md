@@ -364,6 +364,7 @@
 - [wallabag](https://github.com/wallabag/wallabag) - 一个用于保存和组织网络内容的自托管应用程序。它允许用户保存文章、新闻、博客帖子等网页内容，并在需要时进行阅读。[在线体验](https://app.wallabag.it/register)
 - [new-pac](https://github.com/Alvin9999/new-pac) - 免费科学上网、`VPN`、一键翻墙浏览器，`vps` 一键搭建翻墙服务器脚本/教程。
 - [nali](https://github.com/zu1k/nali) - 一个查询 `IP` 地理信息和 `CDN` 服务提供商的离线终端工具。
+- [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
