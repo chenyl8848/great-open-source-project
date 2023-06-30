@@ -297,6 +297,7 @@
 - [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
 - [tailchat](https://github.com/msgbyte/tailchat) - 一个基于 `React` + `Typescript` 的现代开源 `noIM` 应用程序。[在线体验](https://nightly.paw.msgbyte.com/) [在线文档](https://tailchat.msgbyte.com/zh-Hans/docs/intro)
 - [weweChat](https://github.com/trazyn/weweChat) - 基于 `React`、`MobX` 和 `Electron` 构建的非官方**微信客户端**。[在线体验](https://web.wechat.com/) 
+- [anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - 基于 `livekit` 和 `Next.js` 的匿名聊天室。[在线体验](https://chat.cwy666.eu.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
