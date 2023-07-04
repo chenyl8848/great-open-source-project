@@ -365,6 +365,7 @@
 - [new-pac](https://github.com/Alvin9999/new-pac) - 免费科学上网、`VPN`、一键翻墙浏览器，`vps` 一键搭建翻墙服务器脚本/教程。
 - [nali](https://github.com/zu1k/nali) - 一个查询 `IP` 地理信息和 `CDN` 服务提供商的离线终端工具。
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
+- [qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - 一个主要用于人工智能**生成二维码**的工具包，能够生成基本的二维码，并与输出的二维码进行比较，找到错位的像素。[在线体验](https://qrcode.antfu.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
