@@ -314,6 +314,7 @@
 - [vnote](https://github.com/vnotex/vnote) - 专注于 `Markdown` 的基于 `Qt` 的开源免费的**笔记应用**，提供一个拥有完美编辑体验的舒适的**笔记平台**。[在线文档](https://tamlok.gitee.io/vnote/zh_cn/)
 - [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
 - [cherry-markdown](https://github.com/Tencent/cherry-markdown) - 一款 `JavaScript` `Markdown` **编辑器**，具有开箱即用、轻量简洁、易于扩展等特点，它可以运行在浏览器或服务端( `NodeJs`)。
+- [markdown2pdf](https://gitee.com/codeleilei/markdown2pdf) - 使用 `Markdown` 语法来构建 `Pdf` 简历。[在线体验](https://codeleilei.gitee.io/markdown2pdf/#/template)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
