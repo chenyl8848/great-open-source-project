@@ -369,6 +369,7 @@
 - [qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - 一个主要用于人工智能**生成二维码**的工具包，能够生成基本的二维码，并与输出的二维码进行比较，找到错位的像素。[在线体验](https://qrcode.antfu.me/)
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [jumpserver](https://github.com/jumpserver/jumpserver) - 开源堡垒机，是符合 4A 规范的专业运维安全审计系统。[在线体验](https://demo.jumpserver.org/)
+- [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 Golang + Flutter 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
