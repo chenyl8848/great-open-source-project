@@ -375,6 +375,7 @@
 - [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
 - [immich](https://github.com/immich-app/immich) - 高性能的自托管照片和视频备份应用。[在线体验](https://demo.immich.app/)
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
+- [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
