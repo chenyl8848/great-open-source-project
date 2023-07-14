@@ -132,6 +132,7 @@
 - [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
 - [Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 `Vue` 的在线音乐播放器。[在线体验](https://netease-music.fe-mm.com/#/music/historylist)
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - 基于`Vue2` + `Vue-Router` + `Vuex` 实现的移动端答题小项目。[在线体验](https://cangdu.org/happyfri/)
+- [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - 百度地图 `Vue2` 组件库。[在线文档](https://dafrok.github.io/vue-baidu-map/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -156,6 +157,7 @@
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
 - [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
 - [polyglot](https://github.com/liou666/polyglot) - 桌面端 `AI` 语言练习应用。
+- [vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl) - 百度地图 `GL` 版 `Vue3` 组件库。[在线文档](https://yue1123.github.io/vue3-baidu-map-gl/zh-CN/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -187,6 +189,7 @@
 - [roncoo-education](https://github.com/roncoo/roncoo-education) - 分布式**在线教育系统**。系统采用前后端分离模式，前台采用 `Vue.js` 为核心框架，后台采用 `Spring Cloud` 为核心框架。系统目前主要功能有课程点播功能，支持多家视频云的接入，课程附件管理功能，支持多家存储云的接入，讲师管理功能，支持讲师入驻功能等。[在线体验](https://eduos.roncoo.net/) [在线文档](https://eduos.roncoo.net/doc/)
 - [smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于 `SpringBoot` && `SpringCloud` 的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据脱敏、接口数据 `mock`、接口文档自动生成、请求幂等校验、接口日志&& `SQL` 日志切面打印、分表分库分布式事务、国际化语言等。
 - [SpringBlade](https://github.com/chillzhuang/SpringBlade) - `SpringCloud` 分布式微服务架构、`SpringBoot` 单体式微服务架构并存的综合型项目，采用 `Java8` `API` 重构了业务代码，完全遵循阿里巴巴编码规范。采用 `Spring Boot 2.7` 、`Spring Cloud 2021` 、`Mybatis` 等核心技术，同时提供基于 `React` 和 `Vue` 的两个前端框架用于快速搭建企业级的 `SaaS` 多租户微服务平台。[在线体验](https://saber.bladex.vip/#/wel/index) 
+- [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 微服务化 `RBAC` 的管理平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
