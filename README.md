@@ -102,6 +102,7 @@
 - [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
+- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `Spring Boot` + `Vue 3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
