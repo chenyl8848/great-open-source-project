@@ -81,6 +81,7 @@
 - [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
 - [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 可免费获得的编程书籍。[在线体验](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
+- [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -393,6 +394,7 @@
 - [FastGithub](https://github.com/dotnetcore/FastGithub) - `github` 加速神器。
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
+- [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
