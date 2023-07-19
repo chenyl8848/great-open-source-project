@@ -161,6 +161,7 @@
 - [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
 - [polyglot](https://github.com/liou666/polyglot) - 桌面端 `AI` 语言练习应用。
 - [vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl) - 百度地图 `GL` 版 `Vue3` 组件库。[在线文档](https://yue1123.github.io/vue3-baidu-map-gl/zh-CN/)
+- [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - `Vue3` + `Vite4` + `Element-Plus` + `TypeScript` 编写的一款后台管理系统。[在线体验](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -388,6 +389,8 @@
 - [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
 - [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
+- [FastGithub](https://github.com/dotnetcore/FastGithub) - `github` 加速神器。
+- [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
