@@ -135,6 +135,7 @@
 - [Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 `Vue` 的在线音乐播放器。[在线体验](https://netease-music.fe-mm.com/#/music/historylist)
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - 基于`Vue2` + `Vue-Router` + `Vuex` 实现的移动端答题小项目。[在线体验](https://cangdu.org/happyfri/)
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - 百度地图 `Vue2` 组件库。[在线文档](https://dafrok.github.io/vue-baidu-map/#/)
+- [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于 `fabric.js` 和 `Vue` 的图片编辑器，可自定义字体、素材、设计模板。[在线体验](https://nihaojob.gitbook.io/editor/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -267,6 +268,7 @@
 - [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
 - [dozzle](https://github.com/amir20/dozzle) - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
 - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - 一个针对高并发、低延迟应用设计的高性能 `Java` 性能监控和统计工具。
+- [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.dlww.cc:4433/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -385,6 +387,7 @@
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
 - [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
+- [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
