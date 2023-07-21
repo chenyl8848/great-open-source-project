@@ -395,6 +395,8 @@
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
+- [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
