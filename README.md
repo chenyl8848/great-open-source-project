@@ -137,6 +137,8 @@
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - 基于`Vue2` + `Vue-Router` + `Vuex` 实现的移动端答题小项目。[在线体验](https://cangdu.org/happyfri/)
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - 百度地图 `Vue2` 组件库。[在线文档](https://dafrok.github.io/vue-baidu-map/#/)
 - [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于 `fabric.js` 和 `Vue` 的图片编辑器，可自定义字体、素材、设计模板。[在线体验](https://nihaojob.gitbook.io/editor/)
+- [vue-cropper](https://github.com/xyxiao001/vue-cropper) - 一个优雅的图片裁剪插件。[在线体验](https://github.xyxiao.cn/vue-cropper/docs/vue2.html)
+- [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -177,6 +179,7 @@
 ## `JavaScript` 项目
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
+- [mind-map](https://github.com/wanglin2/mind-map) - 一个简单&强大的 `Web` 思维导图。[在线体验](https://wanglin2.github.io/mind-map/) [在线文档](https://wanglin2.github.io/mind-map/#/doc/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -411,6 +414,7 @@
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 基于 `docsify` 实现的网站集合。
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
+- [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
