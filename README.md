@@ -180,6 +180,7 @@
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [mind-map](https://github.com/wanglin2/mind-map) - 一个简单&强大的 `Web` 思维导图。[在线体验](https://wanglin2.github.io/mind-map/) [在线文档](https://wanglin2.github.io/mind-map/#/doc/zh/)
+- [LogicFlow](https://github.com/didi/LogicFlow) - 一款流程图编辑框架，提供了一系列流程图交互、编辑所必需的功能和灵活的节点自定义、插件等拓展机制。[在线文档](https://site.logic-flow.cn/docs/#/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
