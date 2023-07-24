@@ -92,6 +92,7 @@
 - [Java-Interview-Advanced](https://github.com/shishan100/Java-Interview-Advanced) - `Java` 进阶面试。
 - [tianai-captcha](https://gitee.com/tianai/tianai-captcha) - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
 - [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
+- [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线体验](https://dozermapper.github.io/gitbook/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -200,6 +201,7 @@
 - [smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于 `SpringBoot` && `SpringCloud` 的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据脱敏、接口数据 `mock`、接口文档自动生成、请求幂等校验、接口日志&& `SQL` 日志切面打印、分表分库分布式事务、国际化语言等。
 - [SpringBlade](https://github.com/chillzhuang/SpringBlade) - `SpringCloud` 分布式微服务架构、`SpringBoot` 单体式微服务架构并存的综合型项目，采用 `Java8` `API` 重构了业务代码，完全遵循阿里巴巴编码规范。采用 `Spring Boot 2.7` 、`Spring Cloud 2021` 、`Mybatis` 等核心技术，同时提供基于 `React` 和 `Vue` 的两个前端框架用于快速搭建企业级的 `SaaS` 多租户微服务平台。[在线体验](https://saber.bladex.vip/#/wel/index) 
 - [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 微服务化 `RBAC` 的管理平台。
+- [congomall](https://github.com/nageoffer/congomall) - `TOC` 商城系统，`SpringCloud-Alibaba` 微服务架构设计，基于 `DDD` 领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能。[在线体验](http://cmall.magestack.cn/#/home) [在线文档](https://magestack.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -236,6 +238,7 @@
 ## 中间件项目
 
 - [dynamic-tp](https://github.com/dromara/dynamic-tp) - 轻量级**动态线程池**，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持 `Nacos`、`Apollo`，`Zookeeper`、`Consul`、`Etcd`，可通过 `SPI` 自定义实现）。[在线文档](https://dynamictp.cn/)
+- [hippo4j](https://github.com/opengoofy/hippo4j) - 异步线程池框架，支持线程池动态变更&监控&报警。[在线文档](https://hippo4j.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
