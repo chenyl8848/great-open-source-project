@@ -401,6 +401,8 @@
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
+- [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
+- [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
