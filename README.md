@@ -182,6 +182,7 @@
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [mind-map](https://github.com/wanglin2/mind-map) - 一个简单&强大的 `Web` 思维导图。[在线体验](https://wanglin2.github.io/mind-map/) [在线文档](https://wanglin2.github.io/mind-map/#/doc/zh/)
 - [LogicFlow](https://github.com/didi/LogicFlow) - 一款流程图编辑框架，提供了一系列流程图交互、编辑所必需的功能和灵活的节点自定义、插件等拓展机制。[在线文档](https://site.logic-flow.cn/docs/#/zh/)
+- [Luckysheet](https://github.com/dream-num/Luckysheet) - 一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。[在线体验](https://dream-num.github.io/LuckysheetDemo/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -334,6 +335,7 @@
 - [markdown2pdf](https://gitee.com/codeleilei/markdown2pdf) - 使用 `Markdown` 语法来构建 `Pdf` 简历。[在线体验](https://codeleilei.gitee.io/markdown2pdf/#/template)
 - [vditor](https://github.com/Vanessa219/vditor) - 一款浏览器端的 `Markdown` 编辑器，支持所见即所得（富文本）、即时渲染（类似 `Typora`）和分屏预览模式。[在线体验](https://ld246.com/guide/markdown) [在线文档](https://b3log.org/vditor/)
 - [dillinger](https://github.com/joemccann/dillinger) - 一个 `Markdown` 编辑器。[在线体验](https://dillinger.io/)
+- [md](https://github.com/doocs/md) - `WeChat Markdown Editor` | 一款高度简洁的微信 `Markdown` 编辑器：支持 `Markdown` 语法、色盘取色、多图上传、一键下载文档、自定义 `CSS` 样式、一键重置等特性。[在线体验](https://doocs.github.io/md/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
