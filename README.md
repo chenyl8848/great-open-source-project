@@ -93,6 +93,7 @@
 - [tianai-captcha](https://gitee.com/tianai/tianai-captcha) - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
 - [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线体验](https://dozermapper.github.io/gitbook/)
+- [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -408,6 +409,7 @@
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
 - [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
+- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -423,6 +425,7 @@
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
 - [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
