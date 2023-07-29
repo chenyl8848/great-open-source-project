@@ -184,6 +184,7 @@
 - [mind-map](https://github.com/wanglin2/mind-map) - 一个简单&强大的 `Web` 思维导图。[在线体验](https://wanglin2.github.io/mind-map/) [在线文档](https://wanglin2.github.io/mind-map/#/doc/zh/)
 - [LogicFlow](https://github.com/didi/LogicFlow) - 一款流程图编辑框架，提供了一系列流程图交互、编辑所必需的功能和灵活的节点自定义、插件等拓展机制。[在线文档](https://site.logic-flow.cn/docs/#/zh/)
 - [Luckysheet](https://github.com/dream-num/Luckysheet) - 一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。[在线体验](https://dream-num.github.io/LuckysheetDemo/)
+- [visualization-collection](https://github.com/hepengwei/visualization-collection) - 一个专注于前端视觉效果的集合应用，包含 `CSS` 动效、`Canvas` 动画、人工智能应用等上百个案例。[在线体验](http://hepengwei.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -410,6 +411,7 @@
 - [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
+- [any-rule](https://github.com/any86/any-rule) - 常用正则大全, 支持 `web` / `vscode` / `idea` / `Alfred Workflow` 多平台。[在线体验](https://any-rule.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
