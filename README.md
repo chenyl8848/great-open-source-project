@@ -186,6 +186,8 @@
 - [LogicFlow](https://github.com/didi/LogicFlow) - 一款流程图编辑框架，提供了一系列流程图交互、编辑所必需的功能和灵活的节点自定义、插件等拓展机制。[在线文档](https://site.logic-flow.cn/docs/#/zh/)
 - [Luckysheet](https://github.com/dream-num/Luckysheet) - 一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。[在线体验](https://dream-num.github.io/LuckysheetDemo/)
 - [visualization-collection](https://github.com/hepengwei/visualization-collection) - 一个专注于前端视觉效果的集合应用，包含 `CSS` 动效、`Canvas` 动画、人工智能应用等上百个案例。[在线体验](http://hepengwei.cn/)
+- [butterfly](https://github.com/alibaba/butterfly) - 基于 `JavaScript`/`React`/`Vue2` 的流程图组件。[在线体验](https://butterfly-dag.gitee.io/butterfly-dag/demo/analysis)
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - 一个无框架依赖的思维导图内核。[在线体验](https://mind-elixir.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
