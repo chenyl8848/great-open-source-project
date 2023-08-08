@@ -416,6 +416,7 @@
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 - [any-rule](https://github.com/any86/any-rule) - 常用正则大全, 支持 `web` / `vscode` / `idea` / `Alfred Workflow` 多平台。[在线体验](https://any-rule.vercel.app/)
+- [frp](https://github.com/fatedier/frp) - 一个快速反向代理，可以将 `NAT` 或防火墙后面的本地服务器暴露在互联网上。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
