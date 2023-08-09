@@ -141,6 +141,7 @@
 - [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于 `fabric.js` 和 `Vue` 的图片编辑器，可自定义字体、素材、设计模板。[在线体验](https://nihaojob.gitbook.io/editor/)
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - 一个优雅的图片裁剪插件。[在线体验](https://github.xyxiao.cn/vue-cropper/docs/vue2.html)
 - [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
+- [vue-office](https://github.com/501351981/vue-office) - 支持 `word(.docx)`、`excel(.xlsx)`、`pdf` 等各类型 `office` 文件预览的 `Vue` 组件集合。[在线体验](https://501351981.github.io/vue-office/examples/dist/#/docx) [在线文档](https://501351981.github.io/vue-office/examples/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
