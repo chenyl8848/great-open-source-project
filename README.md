@@ -189,6 +189,7 @@
 - [visualization-collection](https://github.com/hepengwei/visualization-collection) - 一个专注于前端视觉效果的集合应用，包含 `CSS` 动效、`Canvas` 动画、人工智能应用等上百个案例。[在线体验](http://hepengwei.cn/)
 - [butterfly](https://github.com/alibaba/butterfly) - 基于 `JavaScript`/`React`/`Vue2` 的流程图组件。[在线体验](https://butterfly-dag.gitee.io/butterfly-dag/demo/analysis)
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - 一个无框架依赖的思维导图内核。[在线体验](https://mind-elixir.com/#/)
+- [jsmind](https://github.com/hizzgdev/jsmind) - 一个显示/编辑思维导图的纯 `JavaScript` 类库。[在线体验](https://jsmind.online/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -327,6 +328,7 @@
 - [weweChat](https://github.com/trazyn/weweChat) - 基于 `React`、`MobX` 和 `Electron` 构建的非官方**微信客户端**。[在线体验](https://web.wechat.com/) 
 - [anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - 基于 `livekit` 和 `Next.js` 的匿名聊天室。[在线体验](https://chat.cwy666.eu.org/)
 - [meet](https://github.com/livekit-examples/meet) - 基于 `LiveKit Components`、`LiveKit Cloud` 和 `Next.js` 构建的**开源视频会议应用程序**。[在线体验](https://meet.livekit.io/)
+- [MrDoc](https://github.com/zmister2016/MrDoc) - 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。[在线体验](http://mrdoc.zmister.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
