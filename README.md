@@ -28,6 +28,8 @@
     - [聊天项目](#聊天项目)
     - [`Markdown` 编辑器项目](#markdown-编辑器项目)
     - [`Linux` 项目](#linux-项目)
+    - [`Windows` 软件项目](#windows-软件项目)
+    - [浏览器插件项目](#浏览器插件项目)
     - [工具项目](#工具项目)
     - [集合项目](#集合项目)
         
@@ -57,6 +59,8 @@
 - [聊天项目](#聊天项目)
 - [`Markdown` 编辑器项目](#markdown-编辑器项目)
 - [`Linux` 项目](#linux-项目)
+- [`Windows` 软件项目](#windows-软件项目)
+- [浏览器插件项目](#浏览器插件项目)
 - [工具项目](#工具项目)
 - [集合项目](#集合项目)
 
@@ -129,6 +133,7 @@
 - [lilishop](https://github.com/lilishop/lilishop) - 商城系统，后端基于 `SpringBoot` 研发，前端使用  `Vue`、`uniapp` 开发， 前后端分离，支持分布式部署，支持 `Docker`，各个 `API` 独立。
 - [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
+- [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -193,6 +198,7 @@
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - 一个无框架依赖的思维导图内核。[在线体验](https://mind-elixir.com/#/)
 - [jsmind](https://github.com/hizzgdev/jsmind) - 一个显示/编辑思维导图的纯 `JavaScript` 类库。[在线体验](https://jsmind.online/)
 - [tesseract.js](https://github.com/naptha/tesseract.js) - 一个 `JavaScript` 库，可以从图片中获得几乎任何语言的文字。 [在线体验](https://tesseract.projectnaptha.com/)
+- [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -265,6 +271,7 @@
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
 - [Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
+- [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -357,6 +364,25 @@
 
 - [linux-command](https://github.com/jaywcjlove/linux-command) - `Linux` **命令大全**搜索工具，内容包含 `Linux` 命令手册、详解、学习、搜集。[在线体验](https://wangchujiang.com/linux-command/)
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `Windows` 软件项目
+
+- [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
+- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
+- [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
+- [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 浏览器插件项目
+
+- [magic-copy](https://github.com/kevmo314/magic-copy) - 基于 `Meta` 的 `Segment Anything Model` 从图像中**抠图**并复制到剪贴板或者下载的**谷歌浏览器插件**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -367,7 +393,6 @@
 - [APIJSON](https://github.com/Tencent/APIJSON) - 专为 `API` 而生的 `JSON` 网络传输协议以及基于这套协议实现的 `ORM` 库。为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。[在线体验](http://apijson.cn/api/) [在线文档](https://github.com/Tencent/APIJSON/blob/master/Document.md)
 - [Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键**同步文章**到多个内容平台，支持今日头条、`WordPress`、知乎、简书、掘金、`CSDN`、`typecho` 各大平台，一次发布，多平台同步发布。
 - [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
-- [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - 跨平台的、重新实现的 `Notepad++`。
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 基于 `electron` 的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
@@ -375,7 +400,6 @@
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟白板，用于勾画手绘般的图表。[在线体验](https://excalidraw.com/)
@@ -387,16 +411,13 @@
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。
 - [lama-cleaner](lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
-- [magic-copy](https://github.com/kevmo314/magic-copy) - 基于 `Meta` 的 `Segment Anything Model` 从图像中**抠图**并复制到剪贴板或者下载的**谷歌浏览器插件**。
 - [Gource](https://github.com/acaudwell/Gource) - 一个用于**可视化软件版本控制历史的工具**。它能够生成令人印象深刻的演示视频，展示代码库的演化过程。
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - 一个为 `docsify.js` 设计的**简单主题系统**，具有丰富的自定义选项的多个主题，改进的桌面和移动体验，以及对传统浏览器的支持（ `IE11+` ）。[在线体验](https://jhildenbiddle.github.io/docsify-themeable)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - `QtScrcpy` 可以通过 `USB` /网络连接 `Android` 设备，并进行显示和控制。无需 `root` 权限。同时支持 `GNU/Linux`，`Windows` 和 `MacOS` 三大主流桌面平台。
 - [plane](https://github.com/makeplane/plane) - 开源的 `JIRA`，线性和高度替代。`Plane` 帮助你以最简单的方式跟踪你的问题、史诗和产品路线图。[在线体验](https://app.plane.so/)
-- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
 - [china-ex](https://github.com/itorr/china-ex) - 「中国制霸生成器」中国三十四省份制霸标记工具。[在线体验](https://lab.magiconch.com/china-ex/)
-- [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
 - [scrcpy](https://github.com/Genymobile/scrcpy) - 支持通过 `USB` /网络在 `Linux`，`Windows` 和 `MacOS` 投影操作 `Android` 设备。
 - [emoji](https://github.com/Wscats/emoji) - 基于 `Vue` 编写的 `Github` 表情包大全。[在线体验](https://wscats.github.io/emoji/omi/build/)
@@ -405,7 +426,6 @@
 - [nali](https://github.com/zu1k/nali) - 一个查询 `IP` 地理信息和 `CDN` 服务提供商的离线终端工具。
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
 - [qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - 一个主要用于人工智能**生成二维码**的工具包，能够生成基本的二维码，并与输出的二维码进行比较，找到错位的像素。[在线体验](https://qrcode.antfu.me/)
-- [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [jumpserver](https://github.com/jumpserver/jumpserver) - 开源堡垒机，是符合 4A 规范的专业运维安全审计系统。[在线体验](https://demo.jumpserver.org/)
 - [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 Golang + Flutter 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
 - [tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - 用 `webrt` 在 `web` 端传输文件，支持传输超大文件。[在线体验](https://im.iamtsm.cn/file)
@@ -414,20 +434,21 @@
 - [immich](https://github.com/immich-app/immich) - 高性能的自托管照片和视频备份应用。[在线体验](https://demo.immich.app/)
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
-- [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
 - [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [FastGithub](https://github.com/dotnetcore/FastGithub) - `github` 加速神器。
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
-- [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 - [any-rule](https://github.com/any86/any-rule) - 常用正则大全, 支持 `web` / `vscode` / `idea` / `Alfred Workflow` 多平台。[在线体验](https://any-rule.vercel.app/)
 - [frp](https://github.com/fatedier/frp) - 一个快速反向代理，可以将 `NAT` 或防火墙后面的本地服务器暴露在互联网上。
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
+- [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
+- [tldraw](https://github.com/tldraw/tldraw) - 一个轻量级的画图工具。[在线体验](https://www.tldraw.com/)
+- [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
