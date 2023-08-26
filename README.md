@@ -38,31 +38,58 @@
 
 ## 目录
 
-- [编程语言项目](#编程语言项目)
-- [`SprinBoot` 项目](#sprinboot-项目)
-- [`Java` 项目](#java-项目)
-- [源码分析项目](#源码分析项目)
-- [前后端分离项目](#前后端分离项目)
-- [`Vue2` 项目](#vue2-项目)
-- [`Vue3` 项目](#vue3-项目)
-- [`React` 项目](#react-项目)
-- [`JavaScript` 项目](#javascript-项目)
-- [微服务项目](#微服务项目)
-- [微信项目](#微信项目)
-- [支付项目](#支付项目)
-- [`Api` 网关项目](#api-网关项目)
-- [中间件项目](#中间件项目)
-- [数据操作项目](#数据操作项目)
-- [测试运维监控项目](#测试运维监控项目)
-- [接口文档管理项目](#接口文档管理项目)
-- [知识管理项目](#知识管理项目)
-- [聊天项目](#聊天项目)
-- [`Markdown` 编辑器项目](#markdown-编辑器项目)
-- [`Linux` 项目](#linux-项目)
-- [`Windows` 软件项目](#windows-软件项目)
-- [浏览器插件项目](#浏览器插件项目)
-- [工具项目](#工具项目)
-- [集合项目](#集合项目)
+- [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
+  - [目录](#目录)
+  - [编程语言项目](#编程语言项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部-)
+  - [`Java` 项目](#java-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--1)
+  - [`SprinBoot` 项目](#sprinboot-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--2)
+  - [源码分析项目](#源码分析项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--3)
+  - [前后端分离项目](#前后端分离项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--4)
+  - [`Vue2` 项目](#vue2-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--5)
+  - [`Vue3` 项目](#vue3-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--6)
+  - [`React` 项目](#react-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--7)
+  - [`JavaScript` 项目](#javascript-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--8)
+  - [微服务项目](#微服务项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--9)
+  - [微信项目](#微信项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--10)
+  - [支付项目](#支付项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--11)
+  - [`Api` 网关项目](#api-网关项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--12)
+  - [中间件项目](#中间件项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--13)
+  - [数据操作项目](#数据操作项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--14)
+  - [测试运维监控项目](#测试运维监控项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--15)
+  - [接口文档管理项目](#接口文档管理项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--16)
+  - [知识管理项目](#知识管理项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--17)
+  - [聊天项目](#聊天项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--18)
+  - [`Markdown` 编辑器项目](#markdown-编辑器项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--19)
+  - [`Linux` 项目](#linux-项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--20)
+  - [`Windows` 软件项目](#windows-软件项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--21)
+  - [浏览器插件项目](#浏览器插件项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--22)
+  - [工具项目](#工具项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--23)
+  - [集合项目](#集合项目)
+  - [**⬆️ 回到顶部 **](#️-回到顶部--24)
 
 
 ## 编程语言项目
@@ -310,6 +337,7 @@
 - [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
 - [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的**开源接口管理工具** `RAP`第二代。[在线体验](http://rap2.taobao.org/)
 - [insomnia](https://github.com/Kong/insomnia) - 一个开源的、跨平台的 `GraphQL`、`REST`、`WebSockets` 和 `gRPC` 的 `API` 客户端。
+- [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -356,6 +384,7 @@
 - [vditor](https://github.com/Vanessa219/vditor) - 一款浏览器端的 `Markdown` 编辑器，支持所见即所得（富文本）、即时渲染（类似 `Typora`）和分屏预览模式。[在线体验](https://ld246.com/guide/markdown) [在线文档](https://b3log.org/vditor/)
 - [dillinger](https://github.com/joemccann/dillinger) - 一个 `Markdown` 编辑器。[在线体验](https://dillinger.io/)
 - [md](https://github.com/doocs/md) - `WeChat Markdown Editor` | 一款高度简洁的微信 `Markdown` 编辑器：支持 `Markdown` 语法、色盘取色、多图上传、一键下载文档、自定义 `CSS` 样式、一键重置等特性。[在线体验](https://doocs.github.io/md/)
+- [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 基于 `Vue`、`Vditor` 所构建的在线 `Markdown` 编辑器，支持绘制流程图、甘特图、时序图、任务列表、`echarts` 图表、五线谱，以及 `PPT` 预览、视频音频解析、`HTML` 自动转换为 `Markdown` 等功能。[在线体验](https://markdown.lovejade.cn/?utm_source=github.com)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -365,6 +394,7 @@
 - [linux-command](https://github.com/jaywcjlove/linux-command) - `Linux` **命令大全**搜索工具，内容包含 `Linux` 命令手册、详解、学习、搜集。[在线体验](https://wangchujiang.com/linux-command/)
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
+- [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -376,6 +406,8 @@
 - [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
 - [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
+- [TTime](https://github.com/InkTimeRecord/TTime) - 一款简洁高效的输入、截图、划词翻译软件。
+- [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -449,6 +481,7 @@
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
 - [tldraw](https://github.com/tldraw/tldraw) - 一个轻量级的画图工具。[在线体验](https://www.tldraw.com/)
 - [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
+- [quiver](https://github.com/varkor/quiver) - 一个现代的网络交换图编辑器。[在线体验](https://q.uiver.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
