@@ -200,6 +200,7 @@
 - [jsmind](https://github.com/hizzgdev/jsmind) - 一个显示/编辑思维导图的纯 `JavaScript` 类库。[在线体验](https://jsmind.online/)
 - [tesseract.js](https://github.com/naptha/tesseract.js) - 一个 `JavaScript` 库，可以从图片中获得几乎任何语言的文字。 [在线体验](https://tesseract.projectnaptha.com/)
 - [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
+- [mindmaps](https://github.com/drichard/mindmaps) - 一个利用 `HTML5` 技术的开源、离线、思维导图应用程序。[在线体验](https://www.mindmaps.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
