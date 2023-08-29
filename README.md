@@ -6,7 +6,7 @@
     <details>
     <summary><b>目录</b></summary>
     <p>
-
+    
     - [编程语言项目](#编程语言项目)
     - [`SprinBoot` 项目](#sprinboot-项目)
     - [`Java` 项目](#java-项目)
@@ -201,6 +201,8 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - 一个 `JavaScript` 库，可以从图片中获得几乎任何语言的文字。 [在线体验](https://tesseract.projectnaptha.com/)
 - [cursor-effects](https://github.com/tholman/cursor-effects) - 用现代的 `JavaScript` 为你的浏览器建立老式的光标效果。[在线体验](https://tholman.com/cursor-effects/)
 - [mindmaps](https://github.com/drichard/mindmaps) - 一个利用 `HTML5` 技术的开源、离线、思维导图应用程序。[在线体验](https://www.mindmaps.app/)
+- [heti](https://github.com/sivan/heti) - 专为中文内容展示设计的排版样式增强。基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。[在线体验](https://sivan.github.io/heti/)
+- [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
