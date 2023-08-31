@@ -176,6 +176,7 @@
 - [polyglot](https://github.com/liou666/polyglot) - 桌面端 `AI` 语言练习应用。
 - [vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl) - 百度地图 `GL` 版 `Vue3` 组件库。[在线文档](https://yue1123.github.io/vue3-baidu-map-gl/zh-CN/)
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - `Vue3` + `Vite4` + `Element-Plus` + `TypeScript` 编写的一款后台管理系统。[在线体验](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
+- [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - `Vue` 后台管理。[在线体验](https://vue-admin-beautiful.com/shop-vite/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -203,6 +204,7 @@
 - [mindmaps](https://github.com/drichard/mindmaps) - 一个利用 `HTML5` 技术的开源、离线、思维导图应用程序。[在线体验](https://www.mindmaps.app/)
 - [heti](https://github.com/sivan/heti) - 专为中文内容展示设计的排版样式增强。基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。[在线体验](https://sivan.github.io/heti/)
 - [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
+- [relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機。[在线体验](https://passer-by.com/relationship/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -459,7 +461,6 @@
 - [tldraw](https://github.com/tldraw/tldraw) - 一个轻量级的画图工具。[在线体验](https://www.tldraw.com/)
 - [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
 - [quiver](https://github.com/varkor/quiver) - 一个现代的网络交换图编辑器。[在线体验](https://q.uiver.app/)
-
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
