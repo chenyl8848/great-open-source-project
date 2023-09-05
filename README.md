@@ -185,6 +185,7 @@
 - [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
 - [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
+- [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -364,6 +365,7 @@
 - [dillinger](https://github.com/joemccann/dillinger) - 一个 `Markdown` 编辑器。[在线体验](https://dillinger.io/)
 - [md](https://github.com/doocs/md) - `WeChat Markdown Editor` | 一款高度简洁的微信 `Markdown` 编辑器：支持 `Markdown` 语法、色盘取色、多图上传、一键下载文档、自定义 `CSS` 样式、一键重置等特性。[在线体验](https://doocs.github.io/md/)
 - [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 基于 `Vue`、`Vditor` 所构建的在线 `Markdown` 编辑器，支持绘制流程图、甘特图、时序图、任务列表、`echarts` 图表、五线谱，以及 `PPT` 预览、视频音频解析、`HTML` 自动转换为 `Markdown` 等功能。[在线体验](https://markdown.lovejade.cn/?utm_source=github.com)
+- [joplin](https://github.com/laurent22/joplin) - 一个开源的记事本应用程序。[在线文档](https://joplinapp.org/cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
