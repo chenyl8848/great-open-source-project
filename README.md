@@ -367,6 +367,7 @@
 - [md](https://github.com/doocs/md) - `WeChat Markdown Editor` | 一款高度简洁的微信 `Markdown` 编辑器：支持 `Markdown` 语法、色盘取色、多图上传、一键下载文档、自定义 `CSS` 样式、一键重置等特性。[在线体验](https://doocs.github.io/md/)
 - [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 基于 `Vue`、`Vditor` 所构建的在线 `Markdown` 编辑器，支持绘制流程图、甘特图、时序图、任务列表、`echarts` 图表、五线谱，以及 `PPT` 预览、视频音频解析、`HTML` 自动转换为 `Markdown` 等功能。[在线体验](https://markdown.lovejade.cn/?utm_source=github.com)
 - [joplin](https://github.com/laurent22/joplin) - 一个开源的记事本应用程序。[在线文档](https://joplinapp.org/cn/)
+- [mdx-editor](https://github.com/maqi1520/mdx-editor) - 一个好用的微信排版编辑器，更是一个跨平台 `Markdown` 笔记软件。[在线体验](https://editor.runjs.cool/create)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
