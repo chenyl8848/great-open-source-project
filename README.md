@@ -368,6 +368,7 @@
 - [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 基于 `Vue`、`Vditor` 所构建的在线 `Markdown` 编辑器，支持绘制流程图、甘特图、时序图、任务列表、`echarts` 图表、五线谱，以及 `PPT` 预览、视频音频解析、`HTML` 自动转换为 `Markdown` 等功能。[在线体验](https://markdown.lovejade.cn/?utm_source=github.com)
 - [joplin](https://github.com/laurent22/joplin) - 一个开源的记事本应用程序。[在线文档](https://joplinapp.org/cn/)
 - [mdx-editor](https://github.com/maqi1520/mdx-editor) - 一个好用的微信排版编辑器，更是一个跨平台 `Markdown` 笔记软件。[在线体验](https://editor.runjs.cool/create)
+- [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 一个轻量级的 `MarkDown` 文档协作工具。[在线体验](https://chencoding.top:8084/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -378,6 +379,7 @@
 - [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
+- [next-terminal](https://github.com/dushixiang/next-terminal) - `Next Terminal` 是一个简单好用安全的开源交互审计系统，支持 `RDP`、`SSH`、`VNC`、`Telnet`、`Kubernetes` 协议。[在线体验](https://next.typesafe.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
