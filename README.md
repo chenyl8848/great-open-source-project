@@ -208,6 +208,8 @@
 - [heti](https://github.com/sivan/heti) - 专为中文内容展示设计的排版样式增强。基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。[在线体验](https://sivan.github.io/heti/)
 - [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
 - [relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機。[在线体验](https://passer-by.com/relationship/)
+- [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
+- [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -469,6 +471,7 @@
 - [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
 - [quiver](https://github.com/varkor/quiver) - 一个现代的网络交换图编辑器。[在线体验](https://q.uiver.app/)
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
+- [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
