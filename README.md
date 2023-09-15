@@ -136,6 +136,7 @@
 - [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
+- [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -479,6 +480,7 @@
 - [quiver](https://github.com/varkor/quiver) - 一个现代的网络交换图编辑器。[在线体验](https://q.uiver.app/)
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
+- [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具。支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
