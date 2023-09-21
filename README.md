@@ -102,6 +102,7 @@
 - [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线体验](https://dozermapper.github.io/gitbook/)
 - [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -153,6 +154,7 @@
 - [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [vue-office](https://github.com/501351981/vue-office) - 支持 `word(.docx)`、`excel(.xlsx)`、`pdf` 等各类型 `office` 文件预览的 `Vue` 组件集合。[在线体验](https://501351981.github.io/vue-office/examples/dist/#/docx) [在线文档](https://501351981.github.io/vue-office/examples/docs/)
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - 一个极简的 `vue` `admin` 管理后台。[在线体验](https://panjiachen.github.io/vue-admin-template/#/login?redirect=%2Fdashboard)
+- [k-form-design](https://github.com/Kchengz/k-form-design) - 基于 `Vue Ant-Design` 的表单设计器。[在线体验](http://cdn.kcz66.com/k-form-design.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -232,6 +234,7 @@
 - [SpringBlade](https://github.com/chillzhuang/SpringBlade) - `SpringCloud` 分布式微服务架构、`SpringBoot` 单体式微服务架构并存的综合型项目，采用 `Java8` `API` 重构了业务代码，完全遵循阿里巴巴编码规范。采用 `Spring Boot 2.7` 、`Spring Cloud 2021` 、`Mybatis` 等核心技术，同时提供基于 `React` 和 `Vue` 的两个前端框架用于快速搭建企业级的 `SaaS` 多租户微服务平台。[在线体验](https://saber.bladex.vip/#/wel/index) 
 - [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 微服务化 `RBAC` 的管理平台。
 - [congomall](https://github.com/nageoffer/congomall) - `TOC` 商城系统，`SpringCloud-Alibaba` 微服务架构设计，基于 `DDD` 领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能。[在线体验](http://cmall.magestack.cn/#/home) [在线文档](https://magestack.cn/)
+- [hmily](https://github.com/dromara/hmily) - 金融级柔性分布式事务解决方案。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
