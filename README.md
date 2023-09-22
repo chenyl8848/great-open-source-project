@@ -500,6 +500,8 @@
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
 - [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南。
+- [cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验、资源和 `OneNote` 笔记。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
