@@ -484,6 +484,7 @@
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具。支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
