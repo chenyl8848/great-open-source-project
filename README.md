@@ -505,6 +505,7 @@
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南。
 - [cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验、资源和 `OneNote` 笔记。
 - [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
+- [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
