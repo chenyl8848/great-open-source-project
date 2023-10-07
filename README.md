@@ -288,6 +288,8 @@
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
 - [Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
 - [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
+- 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
+- [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
