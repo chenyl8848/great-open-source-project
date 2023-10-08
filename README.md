@@ -103,6 +103,7 @@
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线体验](https://dozermapper.github.io/gitbook/)
 - [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
+- [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -288,7 +289,7 @@
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
 - [Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
 - [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
-- 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
+- [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
