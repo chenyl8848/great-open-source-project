@@ -90,6 +90,7 @@
 - [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 可免费获得的编程书籍。[在线体验](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 - [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - `Python` 100天从新手到大师。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
