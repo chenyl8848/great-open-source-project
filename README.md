@@ -105,6 +105,8 @@
 - [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
+- [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
+- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 互联网 `Java` 开发的学习历程技术汇总。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -237,6 +239,8 @@
 - [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 微服务化 `RBAC` 的管理平台。
 - [congomall](https://github.com/nageoffer/congomall) - `TOC` 商城系统，`SpringCloud-Alibaba` 微服务架构设计，基于 `DDD` 领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能。[在线体验](http://cmall.magestack.cn/#/home) [在线文档](https://magestack.cn/)
 - [hmily](https://github.com/dromara/hmily) - 金融级柔性分布式事务解决方案。
+- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) - 基于 `SpringCloud2.1` 的微服务开发脚手架。
+- [awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
