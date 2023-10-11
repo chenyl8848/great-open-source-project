@@ -107,6 +107,7 @@
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
 - [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 互联网 `Java` 开发的学习历程技术汇总。
+- [advanced-java](https://github.com/doocs/advanced-java) - 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -514,6 +515,7 @@
 - [cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验、资源和 `OneNote` 笔记。
 - [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
