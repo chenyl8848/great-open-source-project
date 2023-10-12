@@ -108,6 +108,7 @@
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
 - [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 互联网 `Java` 开发的学习历程技术汇总。
 - [advanced-java](https://github.com/doocs/advanced-java) - 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
+- [PowerJob](https://github.com/PowerJob/PowerJob) - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -242,6 +243,7 @@
 - [hmily](https://github.com/dromara/hmily) - 金融级柔性分布式事务解决方案。
 - [SpringCloud](https://github.com/zhoutaoo/SpringCloud) - 基于 `SpringCloud2.1` 的微服务开发脚手架。
 - [awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统。
+- [twelvet](https://github.com/twelvet-s/twelvet) - 基于 `Spring Boot 3.X` 的 `Spring Cloud Alibaba` / `Spring Cloud Tencent` +` React` 的微服务框架。[在线体验](https://cloud.twelvet.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -516,6 +518,7 @@
 - [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
+- [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`.[在线体验](https://doocs.github.io/leetcode/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
