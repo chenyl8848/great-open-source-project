@@ -244,6 +244,7 @@
 - [SpringCloud](https://github.com/zhoutaoo/SpringCloud) - 基于 `SpringCloud2.1` 的微服务开发脚手架。
 - [awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统。
 - [twelvet](https://github.com/twelvet-s/twelvet) - 基于 `Spring Boot 3.X` 的 `Spring Cloud Alibaba` / `Spring Cloud Tencent` +` React` 的微服务框架。[在线体验](https://cloud.twelvet.cn/)
+- [mica](https://github.com/lets-mica/mica) - `Spring Cloud` 微服务开发核心工具集。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
