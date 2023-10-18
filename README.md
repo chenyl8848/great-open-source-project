@@ -62,7 +62,7 @@
   - [聊天项目](#聊天项目)
   - [`Markdown` 编辑器项目](#markdown-编辑器项目)
   - [`Linux` 项目](#linux-项目)
-  - [`Windows` 软件项目](#windows-软件项目)
+  - [软件项目](#软件项目)
   - [浏览器插件项目](#浏览器插件项目)
   - [工具项目](#工具项目)
   - [集合项目](#集合项目)
@@ -109,6 +109,7 @@
 - [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 互联网 `Java` 开发的学习历程技术汇总。
 - [advanced-java](https://github.com/doocs/advanced-java) - 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 - [PowerJob](https://github.com/PowerJob/PowerJob) - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
+- [JavaInterview](https://github.com/hello-java-maker/JavaInterview) - `Java` 面试 + `Java` 后端技术学习指南。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -122,6 +123,7 @@
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
 - [WeBlog](https://github.com/weiwosuoai/WeBlog) - `Spring Boot` + `Vue 3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
+- [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似excel操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -411,7 +413,7 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
-## `Windows` 软件项目
+## 软件项目
 
 - [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
@@ -420,6 +422,10 @@
 - [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
 - [TTime](https://github.com/InkTimeRecord/TTime) - 一款简洁高效的输入、截图、划词翻译软件。
 - [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
+- [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 技术的翻译器。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
+- [bruno](https://github.com/usebruno/bruno) - 用于探索和测试应用程序的开源集成开发环境（`postman`/`insomnia` 的轻量级替代品）。
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -497,8 +503,6 @@
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具。支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
-- [bruno](https://github.com/usebruno/bruno) - 用于探索和测试应用程序的开源集成开发环境（`postman`/`insomnia` 的轻量级替代品）。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -520,7 +524,8 @@
 - [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
-- [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`.[在线体验](https://doocs.github.io/leetcode/#/)
+- [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
+- [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
