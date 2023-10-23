@@ -247,6 +247,7 @@
 - [awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统。
 - [twelvet](https://github.com/twelvet-s/twelvet) - 基于 `Spring Boot 3.X` 的 `Spring Cloud Alibaba` / `Spring Cloud Tencent` +` React` 的微服务框架。[在线体验](https://cloud.twelvet.cn/)
 - [mica](https://github.com/lets-mica/mica) - `Spring Cloud` 微服务开发核心工具集。
+- [novel-cloud](https://github.com/201206030/novel-cloud) - 基于 `novel` 构建的 `Spring Cloud` 微服务技术栈学习型小说项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -526,6 +527,7 @@
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
 - [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
+- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
