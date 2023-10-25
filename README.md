@@ -303,6 +303,7 @@
 - [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
+- [Archery](https://github.com/hhyo/Archery) - `SQL` 审核查询平台。[在线体验](https://demo.archerydms.com/) [在线文档](https://archerydms.com/home/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
