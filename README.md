@@ -125,6 +125,8 @@
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
 - [WeBlog](https://github.com/weiwosuoai/WeBlog) - `Spring Boot` + `Vue 3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似excel操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 深入学习并实战 `Spring Boot` 的项目。
+- [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
