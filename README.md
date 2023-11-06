@@ -511,6 +511,7 @@
 - [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
 - [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [logpaste](https://github.com/mtlynch/logpaste) - 用于存储文本日志文件的简单 `Web` 服务。[在线体验](https://logpaste.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
