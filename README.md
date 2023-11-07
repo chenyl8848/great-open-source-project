@@ -195,6 +195,7 @@
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - `Vue3` + `Vite4` + `Element-Plus` + `TypeScript` 编写的一款后台管理系统。[在线体验](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - `Vue` 后台管理。[在线体验](https://vue-admin-beautiful.com/shop-vite/)
 - [cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 一个很酷的后台权限管理框架，模块化、插件化、`CRUD` 极速开发。[在线体验](https://show.cool-admin.com/)
+- [custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。[在线体验](https://www.xiaoli.vip/custom-avatar/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
