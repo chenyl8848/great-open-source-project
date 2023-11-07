@@ -118,7 +118,7 @@
 ## `SprinBoot` 项目
 
 - [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - 基于 `SpringBoot` 的**快速学习**示例，整合开源框架，如：`RabbitMQ`、`Kafka`、`Jpa`、`Redis`、`Oauth2`、`Swagger`、`Jsp`、`Docker`、`k3s`、`k3d`、`k8s`、`Mybatis` 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 `Cache`、爬虫、`JWT`、`GraphQL`、`Dubbo`、	`Zookeeper` 和 `Async` 等等。
-- [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
+- [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
 - [SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator) - 基于 `SpringBoot` + `Freemarker` 的 `JAVA` **代码生成器**，以释放双手为目的，支持 `MySQL/Oracle/PgSQL` 三大数据库， 用`DDL-SQL` 语句生成 `JPA`、`JdbcTemplate`、`Mybatis`、`MybatisPlus`、`BeetlSQL` 等相关代码。
 - [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
