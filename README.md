@@ -354,7 +354,8 @@
 
 ## `AI` 项目
 
-[scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。
+- [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。
+- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - 绘制一个模型并为其生成 `HTML`.
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
