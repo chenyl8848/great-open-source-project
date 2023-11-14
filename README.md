@@ -61,6 +61,7 @@
   - [数据操作项目](#数据操作项目)
   - [测试运维监控项目](#测试运维监控项目)
   - [网络项目](#网络项目)
+  - [`AI` 项目](#ai-项目)
   - [接口文档管理项目](#接口文档管理项目)
   - [知识管理项目](#知识管理项目)
   - [聊天项目](#聊天项目)
@@ -133,6 +134,7 @@
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
 - [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 一款基于代码生成器的**低代码开发平台**。[在线体验](http://boot3.jeecg.com/) [在线文档](https://www.jeecg.com/)
 - [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
+- [PlayEdu](https://github.com/PlayEdu/PlayEdu) - 一款适用于搭建内部培训平台的开源系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -347,6 +349,12 @@
 ## 网络项目
 
 - [SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+## `AI` 项目
+
+[scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
