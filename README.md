@@ -64,6 +64,7 @@
   - [`AI` 项目](#ai-项目)
   - [接口文档管理项目](#接口文档管理项目)
   - [知识管理项目](#知识管理项目)
+  - [博客项目](#博客项目)
   - [聊天项目](#聊天项目)
   - [`Markdown` 编辑器项目](#markdown-编辑器项目)
   - [`Linux` 项目](#linux-项目)
@@ -356,6 +357,10 @@
 
 - [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。
 - [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - 绘制一个模型并为其生成 `HTML`.
+- [upscayl](https://github.com/upscayl/upscayl) - 适用于 `Linux`、`MacOS` 和 `Windows` 的免费开源 `AI` 图像放大器。
+- [WantWords](https://github.com/thunlp/WantWords) - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一款图像压缩 `Web` 应用程序，可通过多种格式减小图像大小。[在线体验](https://squoosh.app/)
+- [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -386,6 +391,13 @@
 - [docusaurus](https://github.com/facebook/docusaurus) - 易于维护的**开源文档网站**。[在线文档](https://docusaurus.io/zh-CN/docs)
 - [MrDoc](https://github.com/zmister2016/MrDoc) - 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。[在线体验](http://mrdoc.zmister.com/)
 - [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+## 博客项目
+
+- [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
+- [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于 `Django` 的博客系统。[在线体验](https://www.lylinux.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -447,6 +459,7 @@
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
 - [bruno](https://github.com/usebruno/bruno) - 用于探索和测试应用程序的开源集成开发环境（`postman`/`insomnia` 的轻量级替代品）。
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
+- [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -528,8 +541,8 @@
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
 - [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储文本日志文件的简单 `Web` 服务。[在线体验](https://logpaste.com/)
-- [WantWords](https://github.com/thunlp/WantWords) - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
 - [inshellisense](https://github.com/microsoft/inshellisense) - 为 `Shell` 提供 `IDE` 风格的自动完成功能。
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
