@@ -355,7 +355,7 @@
 
 ## `AI` 项目
 
-- [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。
+- [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。[在线体验](https://scribblediffusion.com/)
 - [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - 绘制一个模型并为其生成 `HTML`.
 - [upscayl](https://github.com/upscayl/upscayl) - 适用于 `Linux`、`MacOS` 和 `Windows` 的免费开源 `AI` 图像放大器。
 - [WantWords](https://github.com/thunlp/WantWords) - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
