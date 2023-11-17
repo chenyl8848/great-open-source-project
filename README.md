@@ -235,6 +235,8 @@
 - [relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機。[在线体验](https://passer-by.com/relationship/)
 - [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
 - [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
+- [json-server](https://github.com/typicode/json-server) - 在 30 秒内创建一个 `REST API` 服务。
+- [xinshi-ui](https://github.com/biaogebusy/xinshi-ui) - 丰富的组件库，完整的前端解决方案，通过 `Web Builder` 拖拽快速构建响应式、多主题的网站。[在线体验](https://www.zhaobg.com/builder)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
