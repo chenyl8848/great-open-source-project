@@ -108,7 +108,7 @@
 - [Java-Interview-Advanced](https://github.com/shishan100/Java-Interview-Advanced) - `Java` 进阶面试。
 - [tianai-captcha](https://gitee.com/tianai/tianai-captcha) - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
 - [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
-- [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线体验](https://dozermapper.github.io/gitbook/)
+- [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线文档](https://dozermapper.github.io/gitbook/)
 - [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
@@ -117,6 +117,8 @@
 - [advanced-java](https://github.com/doocs/advanced-java) - 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 - [PowerJob](https://github.com/PowerJob/PowerJob) - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
 - [JavaInterview](https://github.com/hello-java-maker/JavaInterview) - `Java` 面试 + `Java` 后端技术学习指南。
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) - `Java` 面试 + `Java` 学习指南。
+- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -238,6 +240,7 @@
 - [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
 - [json-server](https://github.com/typicode/json-server) - 在 30 秒内创建一个 `REST API` 服务。
 - [xinshi-ui](https://github.com/biaogebusy/xinshi-ui) - 丰富的组件库，完整的前端解决方案，通过 `Web Builder` 拖拽快速构建响应式、多主题的网站。[在线体验](https://www.zhaobg.com/builder)
+- [inpaint-web](https://github.com/lxfater/inpaint-web) - 基于 `Webgpu` 技术和 `wasm` 技术的免费开源 `inpainting` 工具。[在线体验](https://inpaintweb.lxfater.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -347,6 +350,7 @@
 - [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.dlww.cc:4433/)
 - [nightingale](https://github.com/ccfos/nightingale) - 告警管理专家，一体化的开源可观测平台。[在线文档](https://flashcat.cloud/docs/)
 - [jumpserver](https://github.com/jumpserver/jumpserver) - **开源堡垒机**，符合 4A 规范的专业**运维安全审计系统**。[在线体验](https://demo.jumpserver.org/) [在线文档](https://docs.jumpserver.org/zh/v3/)
+- [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
