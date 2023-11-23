@@ -119,6 +119,7 @@
 - [JavaInterview](https://github.com/hello-java-maker/JavaInterview) - `Java` 面试 + `Java` 后端技术学习指南。
 - [JavaFamily](https://github.com/AobingJava/JavaFamily) - `Java` 面试 + `Java` 学习指南。
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
+- [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
