@@ -120,6 +120,7 @@
 - [JavaFamily](https://github.com/AobingJava/JavaFamily) - `Java` 面试 + `Java` 学习指南。
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
+- [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -140,6 +141,8 @@
 - [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
 - [PlayEdu](https://github.com/PlayEdu/PlayEdu) - 一款适用于搭建内部培训平台的开源系统。
 - [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
+- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
+- [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
