@@ -183,6 +183,7 @@
 - [vue-office](https://github.com/501351981/vue-office) - 支持 `word(.docx)`、`excel(.xlsx)`、`pdf` 等各类型 `office` 文件预览的 `Vue` 组件集合。[在线体验](https://501351981.github.io/vue-office/examples/dist/#/docx) [在线文档](https://501351981.github.io/vue-office/examples/docs/)
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - 一个极简的 `vue` `admin` 管理后台。[在线体验](https://panjiachen.github.io/vue-admin-template/#/login?redirect=%2Fdashboard)
 - [k-form-design](https://github.com/Kchengz/k-form-design) - 基于 `Vue Ant-Design` 的表单设计器。[在线体验](http://cdn.kcz66.com/k-form-design.html)
+- [gridsome](https://github.com/gridsome/gridsome) -  轻松构建静态生成的网站和应用程序。[在线文档](https://gridsome.org/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -246,6 +247,8 @@
 - [json-server](https://github.com/typicode/json-server) - 在 30 秒内创建一个 `REST API` 服务。
 - [xinshi-ui](https://github.com/biaogebusy/xinshi-ui) - 丰富的组件库，完整的前端解决方案，通过 `Web Builder` 拖拽快速构建响应式、多主题的网站。[在线体验](https://www.zhaobg.com/builder)
 - [inpaint-web](https://github.com/lxfater/inpaint-web) - 基于 `Webgpu` 技术和 `wasm` 技术的免费开源 `inpainting` 工具。[在线体验](https://inpaintweb.lxfater.com/)
+- [zhlint](https://github.com/zhlint-project/zhlint) - 中文文本内容的 `linting` 工具。
+- [Logan](https://github.com/Meituan-Dianping/Logan) - 团点评集团推出的大前端日志系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -374,6 +377,7 @@
 - [WantWords](https://github.com/thunlp/WantWords) - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一款图像压缩 `Web` 应用程序，可通过多种格式减小图像大小。[在线体验](https://squoosh.app/)
 - [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -474,6 +478,8 @@
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
 - [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
 - [lively](https://github.com/rocksdanister/lively) - 动画桌面壁纸软件。
+- [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
+- [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
