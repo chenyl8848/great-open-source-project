@@ -480,6 +480,7 @@
 - [lively](https://github.com/rocksdanister/lively) - 动画桌面壁纸软件。
 - [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
