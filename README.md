@@ -20,6 +20,7 @@
     - [`Vue3` 项目](#vue3-项目)
     - [`React` 项目](#react-项目)
     - [`JavaScript` 项目](#javascript-项目)
+    - [`Node.js` 项目](#node.js-项目)
     - [微服务项目](#微服务项目)
     - [微信项目](#微信项目)
     - [支付项目](#支付项目)
@@ -99,6 +100,7 @@
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - `Python` 100天从新手到大师。
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
+- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -249,9 +251,18 @@
 - [inpaint-web](https://github.com/lxfater/inpaint-web) - 基于 `Webgpu` 技术和 `wasm` 技术的免费开源 `inpainting` 工具。[在线体验](https://inpaintweb.lxfater.com/)
 - [zhlint](https://github.com/zhlint-project/zhlint) - 中文文本内容的 `linting` 工具。
 - [Logan](https://github.com/Meituan-Dianping/Logan) - 团点评集团推出的大前端日志系统。
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 全面和详尽的 `JavaScript` 和 `Node.js` 测试最佳实践。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
+
+## `Node.js` 项目
+
+- [Cronicle](https://github.com/jhuckaby/Cronicle) - 一个简单的分布式任务计划程序和运行器，具有基于 `Web` 的 `UI`.
+- [earth](https://github.com/cambecc/earth) - 一个可视化全球天气状况的项目。[在线体验](https://earth.nullschool.net/)
+- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ## 微服务项目
 
@@ -331,6 +342,7 @@
 - [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
 - [Archery](https://github.com/hhyo/Archery) - `SQL` 审核查询平台。[在线体验](https://demo.archerydms.com/) [在线文档](https://archerydms.com/home/)
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - 强大的 `SQL` 注入工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -569,6 +581,8 @@
 - [server](https://github.com/screego/server) - 浏览器屏幕共享工具。[在线体验](https://app.screego.net/) [在线文档](https://screego.net/#/)
 - [InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - `Firefox` 和 `Chrome` 扩展，为 `Instagram` 图片、视频创建一个下载按钮。
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
+- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
+- [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -593,6 +607,7 @@
 - [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
 - [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
+- [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆。[在线体验](https://gh.sunguoqi.com/Awesome-Love-Code/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
