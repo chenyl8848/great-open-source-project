@@ -54,6 +54,7 @@
   - [`Vue3` 项目](#vue3-项目)
   - [`React` 项目](#react-项目)
   - [`JavaScript` 项目](#javascript-项目)
+  - [`Node.js` 项目](#node.js-项目)
   - [微服务项目](#微服务项目)
   - [微信项目](#微信项目)
   - [支付项目](#支付项目)
@@ -79,21 +80,11 @@
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7天用 `Go` 从零实现系列。[在线文档](https://geektutu.com/post/gee.html)
 - [50projects50days](https://github.com/bradtraversy/50projects50days) -  50+ 个基于 `HTML/CSS` 、`JavaScript` 实现的**小网页项目**。
 - [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》。
-- [javacore](https://github.com/dunwu/javacore) - `Java` 核心技术的经验总结。[在线文档](https://dunwu.github.io/javacore/)
-- [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
-- [concurrent](https://github.com/RedSpider1/concurrent) - `Java` **多线程**系列文章。[在线文档](http://concurrent.redspider.group/RedSpider.html)
-- [learning-note](https://github.com/rbmonster/learning-note) - `Java` **开发及面试**（个人面试、工作总结、资料收集）。[在线文档](https://rbmonster.github.io/learning-note/#/)
 - [blog](https://github.com/biaochenxuying/blog) - 大**前端技术**为主，读书笔记、随笔、理财为辅，做个终身学习者。
-- [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
 - [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
 - [Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端（`Java` 、`Golang`）全栈**知识架构体系总结**。
 - [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - 《重学 Java 设计模式》是一本互联网真实案例实践书籍，以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。[在线体验](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
-- [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
 - [interviewGuide](https://github.com/NotFound9/interviewGuide) - 《后端技术总结》——包括 `Java` 基础、`JVM`、数据库、`MySQL`、`Redis`、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
-- [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - `Effective Java`（第3版）各章节的中英文学习。
-- [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
-- [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
 - [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 可免费获得的编程书籍。[在线体验](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 - [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -106,6 +97,16 @@
 ---
 
 ## `Java` 项目
+- [javacore](https://github.com/dunwu/javacore) - `Java` 核心技术的经验总结。[在线文档](https://dunwu.github.io/javacore/)
+- [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
+- [concurrent](https://github.com/RedSpider1/concurrent) - `Java` **多线程**系列文章。[在线文档](http://concurrent.redspider.group/RedSpider.html)
+- [learning-note](https://github.com/rbmonster/learning-note) - `Java` **开发及面试**（个人面试、工作总结、资料收集）。[在线文档](https://rbmonster.github.io/learning-note/#/)
+- [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
+- [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
+- [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - `Effective Java`（第3版）各章节的中英文学习。
+- [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
+- [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
 - [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 - [solon](https://github.com/noear/solon) - 一个高效的 `Java` 应用开发框架，有自己接口标准规范的开放生态，组合不同的生态插件应对不同需求，方便定制，快速开发。[在线文档](https://solon.noear.org/article/learn-start)
 - [Java-Interview-Advanced](https://github.com/shishan100/Java-Interview-Advanced) - `Java` 进阶面试。
@@ -498,6 +499,7 @@
 - [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
+- [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -587,7 +589,6 @@
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [server](https://github.com/screego/server) - 浏览器屏幕共享工具。[在线体验](https://app.screego.net/) [在线文档](https://screego.net/#/)
-- [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台，支持任何语言和框架。
 
