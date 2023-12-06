@@ -265,6 +265,7 @@
 - [earth](https://github.com/cambecc/earth) - 一个可视化全球天气状况的项目。[在线体验](https://earth.nullschool.net/)
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 可以通过 `Web` 服务的方式构建 `API` 访问的工具，使用 `Node.js` + `Vue` 开发，功能与 `Postman` 类似。[在线体验](https://hoppscotch.io/)
+- [habitica](https://github.com/HabitRPG/habitica) - 一个习惯跟踪器应用程序，它像角色扮演游戏一样对待您的目标。[在线体验](https://habitica.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
