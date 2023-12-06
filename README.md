@@ -124,6 +124,7 @@
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
+- [JustAuth](https://github.com/justauth/JustAuth) - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -186,6 +187,7 @@
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - 一个极简的 `vue` `admin` 管理后台。[在线体验](https://panjiachen.github.io/vue-admin-template/#/login?redirect=%2Fdashboard)
 - [k-form-design](https://github.com/Kchengz/k-form-design) - 基于 `Vue Ant-Design` 的表单设计器。[在线体验](http://cdn.kcz66.com/k-form-design.html)
 - [gridsome](https://github.com/gridsome/gridsome) -  轻松构建静态生成的网站和应用程序。[在线文档](https://gridsome.org/docs/)
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -215,6 +217,7 @@
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - `Vue` 后台管理。[在线体验](https://vue-admin-beautiful.com/shop-vite/)
 - [cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 一个很酷的后台权限管理框架，模块化、插件化、`CRUD` 极速开发。[在线体验](https://show.cool-admin.com/)
 - [custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。[在线体验](https://www.xiaoli.vip/custom-avatar/)
+- [slidev](https://github.com/slidevjs/slidev) - 为**开发者**打造的**演示文稿**工具。[在线文档](https://cn.sli.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -261,6 +264,7 @@
 - [Cronicle](https://github.com/jhuckaby/Cronicle) - 一个简单的分布式任务计划程序和运行器，具有基于 `Web` 的 `UI`.
 - [earth](https://github.com/cambecc/earth) - 一个可视化全球天气状况的项目。[在线体验](https://earth.nullschool.net/)
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 可以通过 `Web` 服务的方式构建 `API` 访问的工具，使用 `Node.js` + `Vue` 开发，功能与 `Postman` 类似。[在线体验](https://hoppscotch.io/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -493,6 +497,7 @@
 - [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
+- [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -500,6 +505,8 @@
 ## 浏览器插件项目
 
 - [magic-copy](https://github.com/kevmo314/magic-copy) - 基于 `Meta` 的 `Segment Anything Model` 从图像中**抠图**并复制到剪贴板或者下载的**谷歌浏览器插件**。
+- [InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - `Firefox` 和 `Chrome` 扩展，为 `Instagram` 图片、视频创建一个下载按钮。
+- [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -579,10 +586,9 @@
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [server](https://github.com/screego/server) - 浏览器屏幕共享工具。[在线体验](https://app.screego.net/) [在线文档](https://screego.net/#/)
-- [InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - `Firefox` 和 `Chrome` 扩展，为 `Instagram` 图片、视频创建一个下载按钮。
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
-- [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
+- [crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台，支持任何语言和框架。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
