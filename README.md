@@ -349,7 +349,8 @@
 - [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
 - [Archery](https://github.com/hhyo/Archery) - `SQL` 审核查询平台。[在线体验](https://demo.archerydms.com/) [在线文档](https://archerydms.com/home/)
-- [sqlmap](https://github.com/sqlmapproject/sqlmap) - 强大的 `SQL` 注入工具。
+- 强大的 `SQL` 注入工具。
+- [db-tutorial](https://github.com/dunwu/db-tutorial) - 一个**数据库**教程。[在线文档](https://dunwu.github.io/db-tutorial/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -502,6 +503,7 @@
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
+- [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
