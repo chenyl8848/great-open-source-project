@@ -256,6 +256,9 @@
 - [zhlint](https://github.com/zhlint-project/zhlint) - 中文文本内容的 `linting` 工具。
 - [Logan](https://github.com/Meituan-Dianping/Logan) - 团点评集团推出的大前端日志系统。
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 全面和详尽的 `JavaScript` 和 `Node.js` 测试最佳实践。
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 用 `JavaScript` 实现算法和数据结构。
+- [win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版。[在线体验](https://tjy-gitnub.github.io/win12/desktop.html)
+- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
