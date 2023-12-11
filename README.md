@@ -92,6 +92,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -354,6 +355,7 @@
 - [Archery](https://github.com/hhyo/Archery) - `SQL` 审核查询平台。[在线体验](https://demo.archerydms.com/) [在线文档](https://archerydms.com/home/)
 - 强大的 `SQL` 注入工具。
 - [db-tutorial](https://github.com/dunwu/db-tutorial) - 一个**数据库**教程。[在线文档](https://dunwu.github.io/db-tutorial/)
+- [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -507,6 +509,7 @@
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
 - [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+- [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。[在线文档](https://copyq.readthedocs.io/en/latest/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
