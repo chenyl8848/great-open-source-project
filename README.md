@@ -93,6 +93,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
+- [JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址)。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -149,6 +150,7 @@
 - [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
+- [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
