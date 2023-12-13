@@ -94,6 +94,7 @@
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
 - [JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址)。
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 图解系统设计。[在线体验](https://blog.bytebytego.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -627,6 +628,7 @@
 - [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
 - [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆。[在线体验](https://gh.sunguoqi.com/Awesome-Love-Code/)
+- [awesome-python](https://github.com/vinta/awesome-python) - 精选的 `Python` 框架、项目。[在线体验](https://awesome-python.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
