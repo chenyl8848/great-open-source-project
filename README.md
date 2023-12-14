@@ -95,6 +95,7 @@
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
 - [JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址)。
 - [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 图解系统设计。[在线体验](https://blog.bytebytego.com/)
+- [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -275,6 +276,7 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 可以通过 `Web` 服务的方式构建 `API` 访问的工具，使用 `Node.js` + `Vue` 开发，功能与 `Postman` 类似。[在线体验](https://hoppscotch.io/)
 - [habitica](https://github.com/HabitRPG/habitica) - 一个习惯跟踪器应用程序，它像角色扮演游戏一样对待您的目标。[在线体验](https://habitica.com/)
 - [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
+- [webstudio](https://github.com/webstudio-is/webstudio) - 一个开源的可视化开发平台。[在线体验](https://webstudio.is/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
