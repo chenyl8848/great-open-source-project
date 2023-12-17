@@ -639,6 +639,7 @@
 - [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆。[在线体验](https://gh.sunguoqi.com/Awesome-Love-Code/)
 - [awesome-python](https://github.com/vinta/awesome-python) - 精选的 `Python` 框架、项目。[在线体验](https://awesome-python.com/)
 - [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - `AI` 副业赚钱大集合。
+- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - 各种编程语言、框架和工具的路线图集合。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
