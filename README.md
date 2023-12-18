@@ -226,6 +226,7 @@
 - [cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 一个很酷的后台权限管理框架，模块化、插件化、`CRUD` 极速开发。[在线体验](https://show.cool-admin.com/)
 - [custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。[在线体验](https://www.xiaoli.vip/custom-avatar/)
 - [slidev](https://github.com/slidevjs/slidev) - 为**开发者**打造的**演示文稿**工具。[在线文档](https://cn.sli.dev/)
+- [Dashboard](https://github.com/leon-kfd/Dashboard) - 基于`Vue3`, `Typescript`, `Vite`的一个完全自定义配置的浏览器起始页。[在线体验](https://www.howdz.xyz/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -235,6 +236,7 @@
 - [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
+- [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -280,6 +282,8 @@
 - [habitica](https://github.com/HabitRPG/habitica) - 一个习惯跟踪器应用程序，它像角色扮演游戏一样对待您的目标。[在线体验](https://habitica.com/)
 - [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
 - [webstudio](https://github.com/webstudio-is/webstudio) - 一个开源的可视化开发平台。[在线体验](https://webstudio.is/)
+- [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
+- [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -612,6 +616,9 @@
 - [crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台，支持任何语言和框架。
 - [github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - `Github` 年度代码统计生成视频工具。[在线体验](https://www.githubunwrapped.com/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
+- [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
+- [cheat.sh](https://github.com/chubin/cheat.sh) - 一个优雅的研发搜索工具。[在线体验](https://cheat.sh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
