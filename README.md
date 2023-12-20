@@ -535,6 +535,7 @@
 - [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。[在线文档](https://copyq.readthedocs.io/en/latest/)
 - [vlc](https://github.com/videolan/vlc) - 一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
+- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
