@@ -271,6 +271,7 @@
 - [win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版。[在线体验](https://tjy-gitnub.github.io/win12/desktop.html)
 - [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
+- [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS `+ `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -286,6 +287,7 @@
 - [webstudio](https://github.com/webstudio-is/webstudio) - 一个开源的可视化开发平台。[在线体验](https://webstudio.is/)
 - [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 一款功能强大，专业可靠的 `H5` 可视化页面配置解决方案。[在线体验](http://h5.dooring.cn/h5_plus) [在线文档](http://h5.dooring.cn/doc)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -319,6 +321,7 @@
 
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
 - [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
+- [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -438,6 +441,7 @@
 - [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的**开源接口管理工具** `RAP`第二代。[在线体验](http://rap2.taobao.org/)
 - [insomnia](https://github.com/Kong/insomnia) - 一个开源的、跨平台的 `GraphQL`、`REST`、`WebSockets` 和 `gRPC` 的 `API` 客户端。
 - [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
+- [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
