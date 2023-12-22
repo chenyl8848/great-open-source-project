@@ -133,6 +133,7 @@
 - [JustAuth](https://github.com/justauth/JustAuth) - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
 - [jarboot](https://github.com/majianzheng/jarboot) - 一个 `Java` 进程启停、管理、诊断的平台，可以管理、守护、监控及诊断本地和远程的 `Java` 进程。[在线文档](https://www.yuque.com/jarboot/usage)
 - [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。
+- [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -313,6 +314,7 @@
 - [twelvet](https://github.com/twelvet-s/twelvet) - 基于 `Spring Boot 3.X` 的 `Spring Cloud Alibaba` / `Spring Cloud Tencent` +` React` 的微服务框架。[在线体验](https://cloud.twelvet.cn/)
 - [mica](https://github.com/lets-mica/mica) - `Spring Cloud` 微服务开发核心工具集。
 - [novel-cloud](https://github.com/201206030/novel-cloud) - 基于 `novel` 构建的 `Spring Cloud` 微服务技术栈学习型小说项目。
+- [iot-dc3](https://github.com/pnoker/iot-dc3) - 基于 `Spring Cloud` 的开源可分布式物联网 (`IOT`) 平台。[在线文档](https://doc.dc3.site/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -409,6 +411,7 @@
 - [nightingale](https://github.com/ccfos/nightingale) - 告警管理专家，一体化的开源可观测平台。[在线文档](https://flashcat.cloud/docs/)
 - [jumpserver](https://github.com/jumpserver/jumpserver) - **开源堡垒机**，符合 4A 规范的专业**运维安全审计系统**。[在线体验](https://demo.jumpserver.org/) [在线文档](https://docs.jumpserver.org/zh/v3/)
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - 极简&高效的主机监控系统。[在线体验](http://101.35.223.197:9999/dash/main) [在线文档](https://www.wgstart.com/docs.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -442,6 +445,7 @@
 - [insomnia](https://github.com/Kong/insomnia) - 一个开源的、跨平台的 `GraphQL`、`REST`、`WebSockets` 和 `gRPC` 的 `API` 客户端。
 - [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
 - [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
+- [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -635,6 +639,7 @@
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - 一个优雅的研发搜索工具。[在线体验](https://cheat.sh/)
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和GIF.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
