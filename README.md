@@ -324,6 +324,7 @@
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
 - [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
 - [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
+- [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -383,6 +384,7 @@
 - 强大的 `SQL` 注入工具。
 - [db-tutorial](https://github.com/dunwu/db-tutorial) - 一个**数据库**教程。[在线文档](https://dunwu.github.io/db-tutorial/)
 - [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -484,6 +486,7 @@
 - [anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - 基于 `livekit` 和 `Next.js` 的匿名聊天室。[在线体验](https://chat.cwy666.eu.org/)
 - [meet](https://github.com/livekit-examples/meet) - 基于 `LiveKit Components`、`LiveKit Cloud` 和 `Next.js` 构建的**开源视频会议应用程序**。[在线体验](https://meet.livekit.io/)
 - [im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统。[在线文档](https://docs.wildfirechat.cn/)
+- [openvidu](https://github.com/OpenVidu/openvidu) - 轻松创建自定义的视频会议。[在线体验](https://openvidu.io/demos#0) 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -640,6 +643,7 @@
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - 一个优雅的研发搜索工具。[在线体验](https://cheat.sh/)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和GIF.
+- [FreeControl](https://github.com/pdone/FreeControl) - 在 `PC` 上控制 `Android` 设备的工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
