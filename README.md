@@ -229,7 +229,7 @@
 - [custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。[在线体验](https://www.xiaoli.vip/custom-avatar/)
 - [slidev](https://github.com/slidevjs/slidev) - 为**开发者**打造的**演示文稿**工具。[在线文档](https://cn.sli.dev/)
 - [Dashboard](https://github.com/leon-kfd/Dashboard) - 基于`Vue3`, `Typescript`, `Vite`的一个完全自定义配置的浏览器起始页。[在线体验](https://www.howdz.xyz/)
-- [go-view](https://github.com/dromara/go-view) - 个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
+- [go-view](https://github.com/dromara/go-view) - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -289,6 +289,7 @@
 - [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 一款功能强大，专业可靠的 `H5` 可视化页面配置解决方案。[在线体验](http://h5.dooring.cn/h5_plus) [在线文档](http://h5.dooring.cn/doc)
+- [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -325,6 +326,8 @@
 - [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
 - [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
 - [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
+- [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
+- [moredoc](https://github.com/mnt-ltd/moredoc) - 基于 `Go` 开发的类似百度文库的开源文库系统。[在线体验](https://moredoc.mnt.ltd/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -448,6 +451,7 @@
 - [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
 - [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
+- [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -547,6 +551,7 @@
 - [vlc](https://github.com/videolan/vlc) - 一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
 - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
+- [heynote](https://github.com/heyman/heynote) - 方便开发人员专使用的便签软件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
