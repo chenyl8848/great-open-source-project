@@ -389,6 +389,7 @@
 - [db-tutorial](https://github.com/dunwu/db-tutorial) - 一个**数据库**教程。[在线文档](https://dunwu.github.io/db-tutorial/)
 - [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
+- [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
