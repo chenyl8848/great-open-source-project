@@ -445,7 +445,7 @@
 ## 接口文档管理项目
 
 - [Torna](https://gitee.com/durcframework/torna) - **接口文档**解决方案，目标是让接口文档管理变得更加方便、快捷。`Torna` 采用团队协作的方式管理和维护接口文档，将不同形式的文档纳入进来统一维护。[在线文档](https://torna.cn/dev/)
-- [postcat](https://github.com/eolinker/postcat) - 可扩展的 `API` 工具平台，集成基础的 `API` 管理和测试功能，并且可以通过插件简化 `API` 开发工作，更快更好地创建 `API`。[在线体验](https://postcat.com/) [在线文档](https://docs.postcat.com/)
+- [postcat](https://github.com/postcatlab/postcat) - 可扩展的 `API` 工具平台，集成基础的 `API` 管理和测试功能，并且可以通过插件简化 `API` 开发工作，更快更好地创建 `API`。[在线体验](https://postcat.com/) [在线文档](https://docs.postcat.com/)
 - [DOClever](https://github.com/DOClever/DOClever) - **接口管理平台**
 - [yapi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的**接口管理平台**。[在线体验](http://yapi.smart-xwork.cn/) [在线文档](https://hellosean1025.github.io/yapi)
 - [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
