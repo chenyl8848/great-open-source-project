@@ -99,6 +99,7 @@
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱。
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。[在线体验](https://es6.ruanyifeng.com/)
 - [EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础学习博客。[在线体验](https://blog.touchczy.top/#/)
+- [books](https://github.com/MichealWayne/books) - 前端/设计相关的书籍（电子书）。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -159,6 +160,7 @@
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
 - [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
+- [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -200,6 +202,7 @@
 - [k-form-design](https://github.com/Kchengz/k-form-design) - 基于 `Vue Ant-Design` 的表单设计器。[在线体验](http://cdn.kcz66.com/k-form-design.html)
 - [gridsome](https://github.com/gridsome/gridsome) -  轻松构建静态生成的网站和应用程序。[在线文档](https://gridsome.org/docs/)
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
+- [vue](https://github.com/ygs-code/vue) - `Vue` 源码逐行注释分析+40多m的 `Vue` 源码程序流程图思维导图。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -439,6 +442,7 @@
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一款图像压缩 `Web` 应用程序，可通过多种格式减小图像大小。[在线体验](https://squoosh.app/)
 - [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - 语音克隆工具。[在线体验](https://www.lepton.ai/playground/openvoice)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -556,6 +560,7 @@
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
 - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
 - [heynote](https://github.com/heyman/heynote) - 方便开发人员专使用的便签软件。
+- [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
