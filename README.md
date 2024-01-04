@@ -245,6 +245,7 @@
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
+- [movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -333,6 +334,7 @@
 - [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
 - [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
 - [moredoc](https://github.com/mnt-ltd/moredoc) - 基于 `Go` 开发的类似百度文库的开源文库系统。[在线体验](https://moredoc.mnt.ltd/)
+- [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -483,6 +485,7 @@
 
 - [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
 - [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于 `Django` 的博客系统。[在线体验](https://www.lylinux.net/)
+- [bolo-solo](https://github.com/adlered/bolo-solo) - 基于 `Java` 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。[在线体验](https://demo.stackoverflow.wiki/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -561,6 +564,7 @@
 - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
 - [heynote](https://github.com/heyman/heynote) - 方便开发人员专使用的便签软件。
 - [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
+- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 纯粹的 `Windows` 右键菜单管理程序。[在线文档](https://bluepointlilac.github.io/ContextMenuManager/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
