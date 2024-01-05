@@ -296,6 +296,7 @@
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 一款功能强大，专业可靠的 `H5` 可视化页面配置解决方案。[在线体验](http://h5.dooring.cn/h5_plus) [在线文档](http://h5.dooring.cn/doc)
 - [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 轻量级的 `Node.js` 私有 `registry` 代理。[在线文档](https://verdaccio.org/docs/what-is-verdaccio)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -335,6 +336,7 @@
 - [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
 - [moredoc](https://github.com/mnt-ltd/moredoc) - 基于 `Go` 开发的类似百度文库的开源文库系统。[在线体验](https://moredoc.mnt.ltd/)
 - [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
+- [navidrome](https://github.com/navidrome/navidrome) - 与 `Subsonic/Airsonic` 兼容的现代音乐播放器。[在线文档](https://www.navidrome.org/docs/installation/) [在线体验](https://demo.navidrome.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -690,6 +692,7 @@
 - [awesome-python](https://github.com/vinta/awesome-python) - 精选的 `Python` 框架、项目。[在线体验](https://awesome-python.com/)
 - [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - `AI` 副业赚钱大集合。
 - [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - 各种编程语言、框架和工具的路线图集合。
+- [public-apis](https://github.com/public-apis/public-apis) - 免费的 `API` 接口集合。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
