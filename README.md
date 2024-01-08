@@ -65,6 +65,7 @@
   - [测试运维监控项目](#测试运维监控项目)
   - [网络项目](#网络项目)
   - [`AI` 项目](#ai-项目)
+  - [`ChatGPT` 项目](#chatgpt-项目)
   - [接口文档管理项目](#接口文档管理项目)
   - [知识管理项目](#知识管理项目)
   - [博客项目](#博客项目)
@@ -450,8 +451,12 @@
 - [WantWords](https://github.com/thunlp/WantWords) - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一款图像压缩 `Web` 应用程序，可通过多种格式减小图像大小。[在线体验](https://squoosh.app/)
 - [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
-- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - 语音克隆工具。[在线体验](https://www.lepton.ai/playground/openvoice)
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+## `ChatGPT` 项目
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -693,6 +698,7 @@
 - [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - `AI` 副业赚钱大集合。
 - [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - 各种编程语言、框架和工具的路线图集合。
 - [public-apis](https://github.com/public-apis/public-apis) - 免费的 `API` 接口集合。
+- [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - `ChatGPT` 集合项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
