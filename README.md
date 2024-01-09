@@ -238,6 +238,7 @@
 - [slidev](https://github.com/slidevjs/slidev) - 为**开发者**打造的**演示文稿**工具。[在线文档](https://cn.sli.dev/)
 - [Dashboard](https://github.com/leon-kfd/Dashboard) - 基于`Vue3`, `Typescript`, `Vite`的一个完全自定义配置的浏览器起始页。[在线体验](https://www.howdz.xyz/)
 - [go-view](https://github.com/dromara/go-view) - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 `Electron` + `Vue3` 开发的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -343,6 +344,7 @@
 - [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
 - [navidrome](https://github.com/navidrome/navidrome) - 与 `Subsonic/Airsonic` 兼容的现代音乐播放器。[在线文档](https://www.navidrome.org/docs/installation/) [在线体验](https://demo.navidrome.org/)
 - [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 `Golang` + `Flutter` 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
+- [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -602,9 +604,7 @@
 - [Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键**同步文章**到多个内容平台，支持今日头条、`WordPress`、知乎、简书、掘金、`CSDN`、`typecho` 各大平台，一次发布，多平台同步发布。
 - [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 基于 `electron` 的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
-- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
@@ -636,7 +636,6 @@
 - [immich](https://github.com/immich-app/immich) - 高性能的自托管照片和视频备份应用。[在线体验](https://demo.immich.app/)
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
-- [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [FastGithub](https://github.com/dotnetcore/FastGithub) - `github` 加速神器。
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
@@ -669,6 +668,7 @@
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - 一个优雅的研发搜索工具。[在线体验](https://cheat.sh/)
 - [FreeControl](https://github.com/pdone/FreeControl) - 在 `PC` 上控制 `Android` 设备的工具。
+- [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
