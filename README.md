@@ -138,6 +138,7 @@
 - [jarboot](https://github.com/majianzheng/jarboot) - 一个 `Java` 进程启停、管理、诊断的平台，可以管理、守护、监控及诊断本地和远程的 `Java` 进程。[在线文档](https://www.yuque.com/jarboot/usage)
 - [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
+- [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -584,6 +585,7 @@
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和GIF.
+- [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
