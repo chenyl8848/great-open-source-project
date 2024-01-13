@@ -186,6 +186,7 @@
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
+- [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
