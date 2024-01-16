@@ -305,6 +305,7 @@
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 轻量级的 `Node.js` 私有 `registry` 代理。[在线文档](https://verdaccio.org/docs/what-is-verdaccio)
 - [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 `Node.js` `API` `Service`。[在线文档](https://neteasecloudmusicapi-docs.4everland.app/#/)
+- [github-rank](https://github.com/jaywcjlove/github-rank) - `Github` 全球/中国用户排名，全球仓库 `Star` 最多排名，通过 `Github API v3` 来生成页面数据。[在线体验](https://wangchujiang.com/github-rank/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -585,8 +586,9 @@
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和GIF.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和 GIF.
 - [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
+- [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -702,6 +704,7 @@
 - [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - 各种编程语言、框架和工具的路线图集合。
 - [public-apis](https://github.com/public-apis/public-apis) - 免费的 `API` 接口集合。
 - [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - `ChatGPT` 集合项目。
+- [NetCodeTop](https://github.com/bianchenglequ/NetCodeTop) - 收集 `GitHub` 上有关. `Net`、`.NetCore` 有趣、有用、热门的开源项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
