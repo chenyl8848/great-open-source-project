@@ -518,6 +518,8 @@
 - [meet](https://github.com/livekit-examples/meet) - 基于 `LiveKit Components`、`LiveKit Cloud` 和 `Next.js` 构建的**开源视频会议应用程序**。[在线体验](https://meet.livekit.io/)
 - [im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统。[在线文档](https://docs.wildfirechat.cn/)
 - [openvidu](https://github.com/OpenVidu/openvidu) - 轻松创建自定义的视频会议。[在线体验](https://openvidu.io/demos#0) 
+- [open-im-server](https://github.com/openimsdk/open-im-server) - 一个专门设计用于在应用程序中集成聊天、音视频通话、通知以及AI聊天机器人等通信功能的服务平台。[在线体验](https://www.openim.io/zh/commercial) [在线文档](https://docs.openim.io/zh-Hans/guides/introduction)
+- [WuKongIM](https://github.com/WuKongIM/WuKongIM) - 高性能通用实时通讯服务，支持即时通讯（聊天软件）(`IM`、`Chat`)、消息推送、消息中台、音视频信令、直播弹幕、客服系统、`AI` 通讯、即时社区等场景。[在线体验](http://imdemo.githubim.com/#/) [在线文档](https://githubim.com/guide/guide.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
