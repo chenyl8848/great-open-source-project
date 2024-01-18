@@ -101,6 +101,7 @@
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。[在线体验](https://es6.ruanyifeng.com/)
 - [EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础学习博客。[在线体验](https://blog.touchczy.top/#/)
 - [books](https://github.com/MichealWayne/books) - 前端/设计相关的书籍（电子书）。
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南。[在线体验](https://csdiy.wiki/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -541,6 +542,7 @@
 - [mdx-editor](https://github.com/maqi1520/mdx-editor) - 一个好用的微信排版编辑器，更是一个跨平台 `Markdown` 笔记软件。[在线体验](https://editor.runjs.cool/create)
 - [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 一个轻量级的 `MarkDown` 文档协作工具。[在线体验](https://chencoding.top:8084/)
 - [markdoc](https://github.com/markdoc/markdoc) - 一个强大、灵活、基于 `Markdown` 的编辑器。[在线体验](https://markdoc.dev/sandbox?mode=preview)
+- [notes](https://github.com/nuttyartist/notes) - 基于 `C++` 实现的 `Markdown` 编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
