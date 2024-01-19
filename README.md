@@ -543,6 +543,7 @@
 - [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 一个轻量级的 `MarkDown` 文档协作工具。[在线体验](https://chencoding.top:8084/)
 - [markdoc](https://github.com/markdoc/markdoc) - 一个强大、灵活、基于 `Markdown` 的编辑器。[在线体验](https://markdoc.dev/sandbox?mode=preview)
 - [notes](https://github.com/nuttyartist/notes) - 基于 `C++` 实现的 `Markdown` 编辑器。
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) - 开源 `Web` 富文本编辑器，开箱即用，配置简单，支持 `JS`、`Vue`、`React`.[在线文档](https://www.wangeditor.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
