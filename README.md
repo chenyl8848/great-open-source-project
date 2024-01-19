@@ -593,6 +593,7 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和 GIF.
 - [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
 - [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
+- [DevToys](https://github.com/veler/DevToys) - 一款离线的 Windows 应用程序，用于开发者的工具集合。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
