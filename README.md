@@ -140,6 +140,7 @@
 - [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
+- [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的api接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -164,6 +165,7 @@
 - [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
 - [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
+- [open-sign-old](https://github.com/kaifangqian/open-sign-old) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -410,6 +412,7 @@
 - [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
+- [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 一款方便、快捷的数据库文档查询、导出工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
