@@ -137,7 +137,7 @@
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
 - [JustAuth](https://github.com/justauth/JustAuth) - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
 - [jarboot](https://github.com/majianzheng/jarboot) - 一个 `Java` 进程启停、管理、诊断的平台，可以管理、守护、监控及诊断本地和远程的 `Java` 进程。[在线文档](https://www.yuque.com/jarboot/usage)
-- [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。
+- [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。[在线文档](https://x-file-storage.xuyanwu.cn/#/)
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
 - [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的api接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
@@ -351,6 +351,7 @@
 - [navidrome](https://github.com/navidrome/navidrome) - 与 `Subsonic/Airsonic` 兼容的现代音乐播放器。[在线文档](https://www.navidrome.org/docs/installation/) [在线体验](https://demo.navidrome.org/)
 - [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 `Golang` + `Flutter` 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
 - [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
+- [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -524,6 +525,12 @@
 - [openvidu](https://github.com/OpenVidu/openvidu) - 轻松创建自定义的视频会议。[在线体验](https://openvidu.io/demos#0) 
 - [open-im-server](https://github.com/openimsdk/open-im-server) - 一个专门设计用于在应用程序中集成聊天、音视频通话、通知以及AI聊天机器人等通信功能的服务平台。[在线体验](https://www.openim.io/zh/commercial) [在线文档](https://docs.openim.io/zh-Hans/guides/introduction)
 - [WuKongIM](https://github.com/WuKongIM/WuKongIM) - 高性能通用实时通讯服务，支持即时通讯（聊天软件）(`IM`、`Chat`)、消息推送、消息中台、音视频信令、直播弹幕、客服系统、`AI` 通讯、即时社区等场景。[在线体验](http://imdemo.githubim.com/#/) [在线文档](https://githubim.com/guide/guide.html)
+- [box-im](https://gitee.com/bluexsx/box-im) - 一个仿微信的聊天工具。后端采用 `SpringBoot` + `Netty` 实现，`Web` 端使用 `Vue`，移动端使用 `Uniapp`，支持私聊、群聊、离线消息、发送图片、文件、语音、`emoji` 表情、视频聊天等功能。[在线体验](https://www.boxim.online/#/login) [在线文档](https://www.yuque.com/u1475064/mufu2a)
+- [has-chat](https://gitee.com/howcode/has-chat) - 一款前端基于 `Vue3`,后端基于 `Express.js` 的极简聊天应用。[在线体验](https://gitee.com/link?target=https%3A%2F%2Fhowcode.online%2Fhaschat)
+- [im-uniapp](https://gitee.com/lakaola/im-uniapp) - 聊天IM，精仿微信，支持单聊、群聊、朋友圈、摇一摇、附近的人、收藏、扫码、机器人、文字、图片、名片、实时音视频通话等功能。
+- [V-IM](https://gitee.com/alyouge/V-IM) - 基于 `JS` 的超轻量级聊天软件。[在线体验](http://101.200.151.183/#/)
+- [j-im](https://gitee.com/xchao/j-im) - 用 `Java` 语言开发的轻量、高性能、单机支持几十万至百万在线用户 IM.
+- [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一套专为移动端开发的原创 IM 通信层框架。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -714,6 +721,7 @@
 - [public-apis](https://github.com/public-apis/public-apis) - 免费的 `API` 接口集合。
 - [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - `ChatGPT` 集合项目。
 - [NetCodeTop](https://github.com/bianchenglequ/NetCodeTop) - 收集 `GitHub` 上有关. `Net`、`.NetCore` 有趣、有用、热门的开源项目。
+- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
