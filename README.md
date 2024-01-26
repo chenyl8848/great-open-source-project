@@ -58,6 +58,7 @@
   - [微服务项目](#微服务项目)
   - [`Go` 项目](#go-项目)
   - [微信项目](#微信项目)
+  - [小程序项目](#小程序项目)
   - [支付项目](#支付项目)
   - [`Api` 网关项目](#api-网关项目)
   - [中间件项目](#中间件项目)
@@ -363,6 +364,13 @@
 - [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信公众号** `Java` 后端 `Demo`，支持多公众号。
 - [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
 - [weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信支付** `Java` 后端 `Demo`。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 小程序项目
+
+- [WeHalo](https://github.com/savingrun/WeHalo) - 微信小程序版博客。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
