@@ -103,6 +103,7 @@
 - [EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础学习博客。[在线体验](https://blog.touchczy.top/#/)
 - [books](https://github.com/MichealWayne/books) - 前端/设计相关的书籍（电子书）。
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南。[在线体验](https://csdiy.wiki/)
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -700,6 +701,7 @@
 - [FreeControl](https://github.com/pdone/FreeControl) - 在 `PC` 上控制 `Android` 设备的工具。
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作，模拟点击和键入。
+- [RollToolsApi](https://github.com/MZCretin/RollToolsApi) - 一个提供开发中常用数据的一个稳定聚合 `Api` 接口源。[在线文档](https://www.mxnzp.com/doc/list)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
