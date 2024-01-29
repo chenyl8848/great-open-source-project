@@ -23,6 +23,7 @@
     - [`Node.js` 项目](#node.js-项目)
     - [微服务项目](#微服务项目)
     - [微信项目](#微信项目)
+    - [工作流OA项目](#工作流OA项目)
     - [支付项目](#支付项目)
     - [`Api` 网关项目](#api-网关项目)
     - [中间件项目](#中间件项目)
@@ -58,6 +59,7 @@
   - [微服务项目](#微服务项目)
   - [`Go` 项目](#go-项目)
   - [微信项目](#微信项目)
+  - [工作流`OA`项目](#工作流OA项目)
   - [小程序项目](#小程序项目)
   - [支付项目](#支付项目)
   - [`Api` 网关项目](#api-网关项目)
@@ -360,6 +362,20 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
+## 工作流`OA`项目
+
+- [RuoYi-activiti](https://gitee.com/shenzhanwang/RuoYi-activiti) - 基于 `Activiti 6.0`，集流程设计、流程部署、流程执行、任务办理、流程监控于一体的开源工作流开发平台。
+- [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic) - 基于 `JDK17`、`Activiti7`、`Vue3`、`TS`、`Vite`、`ElementPlus` 实现的工作流、低代码、快速开发平台。[在线体验](http://demoa5.tongzhouyun.com/index) [在线文档](http://www.agilebpm.cn/)
+- [JFlow](https://gitee.com/opencc/JFlow) - 适合中国国情的工作流引擎。[在线体验](http://vue3.ccbpm.cn/#/WF/Comm/TreeEns?EnName=TreeEns_FlowSort2Flow)
+- [jw-workflow-engine](https://gitee.com/willianfu/jw-workflow-engine) -  工作流设计器，自研表单及流程设计，`UI` 简洁美观。
+- [ferry](https://github.com/lanyulei/ferry) - 集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统。[在线体验](http://fdevops.com:8001/#/dashboard)
+- [RuoYi-Flowable-Plus](https://github.com/KonBAI-Q/RuoYi-Flowable-Plus) - 基于 `RuoYi-Vue-Plus` 进行二次开发扩展 `Flowable` 工作流功能，支持在线表单设计和丰富的工作流程设计能力。[在线体验](http://159.75.158.189/)
+- [cxygzl](https://gitee.com/junyue/cxygzl) - 基于 `Flowable` 的开箱即用的低代码开源专业工作流引擎。[在线文档](https://www.cxygzl.com/guide/)
+- [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong.gitee.io/flowlong-designer/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
 ## 微信项目
 
 - [WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 `Java SDK`，支持包括微**信支付，开放平台，小程序，企业微信，公众号**等的后端开发。
@@ -473,6 +489,7 @@
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一款图像压缩 `Web` 应用程序，可通过多种格式减小图像大小。[在线体验](https://squoosh.app/)
 - [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - 语音克隆工具。[在线体验](https://www.lepton.ai/playground/openvoice)
+- [search_with_lepton](https://github.com/leptonai/search_with_lepton) - 使用 `Lepton AI` 构建基于对话的快速搜索。[在线体验](https://search.lepton.run/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
