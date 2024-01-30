@@ -490,6 +490,7 @@
 - [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - 语音克隆工具。[在线体验](https://www.lepton.ai/playground/openvoice)
 - [search_with_lepton](https://github.com/leptonai/search_with_lepton) - 使用 `Lepton AI` 构建基于对话的快速搜索。[在线体验](https://search.lepton.run/)
+- [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
