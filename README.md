@@ -752,6 +752,7 @@
 - [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - `ChatGPT` 集合项目。
 - [NetCodeTop](https://github.com/bianchenglequ/NetCodeTop) - 收集 `GitHub` 上有关. `Net`、`.NetCore` 有趣、有用、热门的开源项目。
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
+- [free-api](https://github.com/fangzesheng/free-api) - 免费的接口服务集合。[在线体验](https://www.free-api.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
