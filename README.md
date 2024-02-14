@@ -146,6 +146,7 @@
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
 - [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的api接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
+- [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index) 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -639,6 +640,7 @@
 - [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
 - [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
 - [DevToys](https://github.com/veler/DevToys) - 一款离线的 Windows 应用程序，用于开发者的工具集合。
+- [gitbutler](https://github.com/gitbutlerapp/gitbutler) - `Git` 分支管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
