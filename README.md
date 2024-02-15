@@ -147,6 +147,7 @@
 - [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的api接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index) 
+- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -293,7 +294,8 @@
 - [win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版。[在线体验](https://tjy-gitnub.github.io/win12/desktop.html)
 - [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
-- [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS `+ `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
+- [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS ` + `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
+- [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
