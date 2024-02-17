@@ -643,6 +643,7 @@
 - [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
 - [DevToys](https://github.com/veler/DevToys) - 一款离线的 Windows 应用程序，用于开发者的工具集合。
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - `Git` 分支管理工具。
+- [Thief](https://github.com/cteamx/Thief) - 一款基于 `Electron` 开发的跨平台多功能(`真正创新的`)摸鱼软件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
