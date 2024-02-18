@@ -644,6 +644,8 @@
 - [DevToys](https://github.com/veler/DevToys) - 一款离线的 Windows 应用程序，用于开发者的工具集合。
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - `Git` 分支管理工具。
 - [Thief](https://github.com/cteamx/Thief) - 一款基于 `Electron` 开发的跨平台多功能(`真正创新的`)摸鱼软件。
+- [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
+- [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
