@@ -646,6 +646,7 @@
 - [Thief](https://github.com/cteamx/Thief) - 一款基于 `Electron` 开发的跨平台多功能(`真正创新的`)摸鱼软件。
 - [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
 - [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
+- [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -735,6 +736,7 @@
 - [Image-to-Braille](https://github.com/505e06b2/Image-to-Braille) - 图片转点阵文本生成器。[在线体验](https://505e06b2.github.io/Image-to-Braille/)
 - [github-profile-generator](https://github.com/wuyasong/github-profile-generator) - `GitHub` 个人主页生成器。[在线体验](https://githubprofile.com/zh)
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
+- [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
