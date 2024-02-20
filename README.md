@@ -148,6 +148,7 @@
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index) 
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
+- [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -431,7 +432,6 @@
 
 - [dataease](https://github.com/dataease/dataease) - 开源的**数据可视化分析工具**，支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表。[在线体验](https://dataease.fit2cloud.com/#/login) 用户名：`demo` 密码：`dataease` [在线文档](https://dataease.io/docs/)
 - [DataX](https://github.com/alibaba/DataX) - 阿里云 `DataWorks` **数据集成**的开源版本，实现了包括 `MySQL`、`Oracle`、`OceanBase`、`SqlServer`、`Postgre`、`HDFS`、`Hive`、`ADS`、`HBase`、`TableStore(OTS)`、`MaxCompute(ODPS)`、`Hologres`、`DRDS ` 等各种异构数据源之间高效的数据同步功能。
-- [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式易扩展的可视化 `DAG` **工作流任务调度系统**。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。
 - [TDengine](https://github.com/taosdata/TDengine) - TDengine 是一款开源、高性能、云原生的**时序数据库**（`Time Series Database`, TSDB）, 它专为物联网、车联网、工业互联网、金融、IT 运维等场景优化设计。[在线文档](https://docs.taosdata.com/)
 - [dsq](https://github.com/multiprocessio/dsq) - 一个**命令行工具**，可对数据文件进行 `SQL` 查询，支持 `JSON`、`CSV`、`Excel`、`Parquet` 等数据文件。
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
