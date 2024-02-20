@@ -173,6 +173,7 @@
 - [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
 - [open-sign-old](https://github.com/kaifangqian/open-sign-old) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
+- [admin3](https://github.com/cjbi/admin3) - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
