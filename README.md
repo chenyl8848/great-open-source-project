@@ -347,6 +347,7 @@
 - [mica](https://github.com/lets-mica/mica) - `Spring Cloud` 微服务开发核心工具集。
 - [novel-cloud](https://github.com/201206030/novel-cloud) - 基于 `novel` 构建的 `Spring Cloud` 微服务技术栈学习型小说项目。
 - [iot-dc3](https://github.com/pnoker/iot-dc3) - 基于 `Spring Cloud` 的开源可分布式物联网 (`IOT`) 平台。[在线文档](https://doc.dc3.site/)
+- [yanhuo_dev](https://gitee.com/xzjsccz/yanhuo_dev) - 一个基于微服务架构的前后端分离仿小红书项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
