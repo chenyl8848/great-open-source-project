@@ -175,6 +175,7 @@
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
 - [open-sign-old](https://github.com/kaifangqian/open-sign-old) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
 - [admin3](https://github.com/cjbi/admin3) - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
+- [nginx-gui](https://github.com/onlyGuo/nginx-gui) - 一个基于 `SpringBoot` 实现的 `Nginx` 可视化管理项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -220,6 +221,8 @@
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
 - [vue](https://github.com/ygs-code/vue) - `Vue` 源码逐行注释分析+40多m的 `Vue` 源码程序流程图思维导图。
 - [emoji](https://github.com/Wscats/emoji) - 基于 `Vue` 编写的 `Github` 表情包大全。[在线体验](https://wscats.github.io/emoji/omi/build/)
+- [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
+- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -772,6 +775,7 @@
 - [NetCodeTop](https://github.com/bianchenglequ/NetCodeTop) - 收集 `GitHub` 上有关. `Net`、`.NetCore` 有趣、有用、热门的开源项目。
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [free-api](https://github.com/fangzesheng/free-api) - 免费的接口服务集合。[在线体验](https://www.free-api.com/)
+- [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - `Api` 接口集合。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
