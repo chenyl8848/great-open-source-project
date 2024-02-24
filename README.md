@@ -301,6 +301,7 @@
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
 - [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS ` + `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
 - [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
+- [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - 以分类的形式，展示不同 `CSS` 属性或者不同的课题使用 `CSS` 来解决的各种方法。[在线体验](https://csscoco.com/inspiration/#/./init)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -324,6 +325,7 @@
 - [github-rank](https://github.com/jaywcjlove/github-rank) - `Github` 全球/中国用户排名，全球仓库 `Star` 最多排名，通过 `Github API v3` 来生成页面数据。[在线体验](https://wangchujiang.com/github-rank/)
 - [nvm-desktop](https://github.com/1111mp/nvm-desktop) - 一个可视化界面操作管理多个 `Node` 版本的桌面应用，支持 `Macos` 和 `Windows` 系统。
 - [cal.com](https://github.com/calcom/cal.com) -  基于 `Next.js` + `React` + `Tailwind CSS` 构建的现代化、开源的日程管理平台。[在线体验](https://app.cal.com/auth/login)
+- [static](https://github.com/staticfile/static) - 开放静态文件，为开源库提供稳定、快速的免费 `CDN` 服务。[在线体验](https://www.staticfile.net/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -351,6 +353,7 @@
 - [novel-cloud](https://github.com/201206030/novel-cloud) - 基于 `novel` 构建的 `Spring Cloud` 微服务技术栈学习型小说项目。
 - [iot-dc3](https://github.com/pnoker/iot-dc3) - 基于 `Spring Cloud` 的开源可分布式物联网 (`IOT`) 平台。[在线文档](https://doc.dc3.site/)
 - [yanhuo_dev](https://gitee.com/xzjsccz/yanhuo_dev) - 一个基于微服务架构的前后端分离仿小红书项目。
+- [youlai-mall](https://github.com/youlaitech/youlai-mall) - 基于 `Spring Boot 3`、`Spring Cloud & Alibaba 2022`、`SAS OAuth2` 、`Vue3`、`Element-Plus`、`uni-app` 构建的开源全栈商城。[在线文档](https://www.youlai.tech/) [在线体验](https://admin.youlai.tech/#/dashboard)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -508,6 +511,8 @@
 ## `ChatGPT` 项目
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 - [ChatGemini](https://github.com/bclswl0827/ChatGemini) - 一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图。[在线体验](http://ibcl.us/ChatGemini/)
+- [SoraWebui](https://github.com/SoraWebui/SoraWebui) - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
+- [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -607,6 +612,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
 - [next-terminal](https://github.com/dushixiang/next-terminal) - `Next Terminal` 是一个简单好用安全的开源交互审计系统，支持 `RDP`、`SSH`、`VNC`、`Telnet`、`Kubernetes` 协议。[在线体验](https://next.typesafe.cn/)
+- [linux-tutorial](https://github.com/dunwu/linux-tutorial) - `Linux` 教程，主要内容：`Linux` 命令、`Linux` 系统运维、软件运维、精选常用 `Shell` 脚本。[在线体验](https://dunwu.github.io/linux-tutorial/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -776,6 +782,7 @@
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [free-api](https://github.com/fangzesheng/free-api) - 免费的接口服务集合。[在线体验](https://www.free-api.com/)
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - `Api` 接口集合。
+- [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
