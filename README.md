@@ -257,6 +257,8 @@
 - [Dashboard](https://github.com/leon-kfd/Dashboard) - 基于`Vue3`, `Typescript`, `Vite`的一个完全自定义配置的浏览器起始页。[在线体验](https://www.howdz.xyz/)
 - [go-view](https://github.com/dromara/go-view) - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 `Electron` + `Vue3` 开发的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
+- [yft-design](https://github.com/dromara/yft-design) - 基于 `Vue3` + `TypeScript` + `Fabric.js` + `Element-Plus` 实现的多页面图片设计器。[在线体验](https://yft.design/)
+- [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -288,7 +290,6 @@
 - [heti](https://github.com/sivan/heti) - 专为中文内容展示设计的排版样式增强。基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。[在线体验](https://sivan.github.io/heti/)
 - [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
 - [relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機。[在线体验](https://passer-by.com/relationship/)
-- [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
 - [lucide](https://github.com/lucide-icons/lucide) - 精美一致的图标工具包。[在线体验](https://lucide.dev/icons/)
 - [json-server](https://github.com/typicode/json-server) - 在 30 秒内创建一个 `REST API` 服务。
 - [xinshi-ui](https://github.com/biaogebusy/xinshi-ui) - 丰富的组件库，完整的前端解决方案，通过 `Web Builder` 拖拽快速构建响应式、多主题的网站。[在线体验](https://www.zhaobg.com/builder)
@@ -327,6 +328,8 @@
 - [nvm-desktop](https://github.com/1111mp/nvm-desktop) - 一个可视化界面操作管理多个 `Node` 版本的桌面应用，支持 `Macos` 和 `Windows` 系统。
 - [cal.com](https://github.com/calcom/cal.com) -  基于 `Next.js` + `React` + `Tailwind CSS` 构建的现代化、开源的日程管理平台。[在线体验](https://app.cal.com/auth/login)
 - [static](https://github.com/staticfile/static) - 开放静态文件，为开源库提供稳定、快速的免费 `CDN` 服务。[在线体验](https://www.staticfile.net/)
+- [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
+- [fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 一款基于 `fabricjs` 的创意图片编辑器。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -406,6 +409,7 @@
 ## 小程序项目
 
 - [WeHalo](https://github.com/savingrun/WeHalo) - 微信小程序版博客。
+- [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕 `WordPress` 小程序开源版。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
