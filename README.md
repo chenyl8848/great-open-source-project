@@ -792,6 +792,8 @@
 - [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具。
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - `Java` 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等。
 - [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms漏洞利用工具，爆破工具、内网横向及免杀、社工钓鱼以及应急响应等资料。
+- [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - `GitHub` 最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。[在线体验](https://helloqingfeng.github.io/front-end-index/index.html)
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合。[在线体验](https://v2fy.com/asset/0i/ChineseBQB/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
