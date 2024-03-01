@@ -801,3 +801,8 @@
 
 ## 【持续更新中~】
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chenyl8848/great-open-source-project&type=Date)](https://star-history.com/#chenyl8848/great-open-source-project&Date)
+
+
