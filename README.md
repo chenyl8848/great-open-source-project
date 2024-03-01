@@ -177,6 +177,7 @@
 - [admin3](https://github.com/cjbi/admin3) - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
 - [nginx-gui](https://github.com/onlyGuo/nginx-gui) - 一个基于 `SpringBoot` 实现的 `Nginx` 可视化管理项目。
 - [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
+- [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
