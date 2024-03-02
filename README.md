@@ -513,6 +513,7 @@
 - [search_with_lepton](https://github.com/leptonai/search_with_lepton) - 使用 `Lepton AI` 构建基于对话的快速搜索。[在线体验](https://search.lepton.run/)
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - 虚拟服装试穿工具。[在线体验](https://ootd.ibot.cn/)
+- [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - 一款可以自动创建带有配乐及字幕的短视频工具！
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -666,6 +667,7 @@
 - [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
 - [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
 - [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
+- [trilium](https://github.com/zadam/trilium) - 一个层次化的笔记应用程序，专注于建立大型个人知识库。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
