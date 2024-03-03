@@ -153,7 +153,7 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
-## `SprinBoot` 项目
+## `SpringBoot` 项目
 
 - [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - 基于 `SpringBoot` 的**快速学习**示例，整合开源框架，如：`RabbitMQ`、`Kafka`、`Jpa`、`Redis`、`Oauth2`、`Swagger`、`Jsp`、`Docker`、`k3s`、`k3d`、`k8s`、`Mybatis` 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 `Cache`、爬虫、`JWT`、`GraphQL`、`Dubbo`、	`Zookeeper` 和 `Async` 等等。
 - [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
@@ -514,6 +514,7 @@
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - 虚拟服装试穿工具。[在线体验](https://ootd.ibot.cn/)
 - [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - 一款可以自动创建带有配乐及字幕的短视频工具！
+- [ai-sfc](https://github.com/YunYouJun/ai-sfc) - 一款借助 `AI` 服务生成春联的开源工具。[在线体验](https://ai-sfc.yunyoujun.cn/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
