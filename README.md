@@ -149,6 +149,7 @@
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index) 
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
+- [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -378,6 +379,7 @@
 - [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 - [crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台，支持任何语言和框架。
 - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 基于 `Go` + `Vue` 实现的 `openLDAP` 后台管理项目。[在线体验](http://demo-go-ldap-admin.eryajf.net/#/login?redirect=%2Fdashboard) [在线文档](http://ldapdoc.eryajf.net/)
+- [hugo](https://github.com/gohugoio/hugo) - 一个用 `Go` 语言构建的快速灵活的**静态网站生成器**，旨在提供速度和灵活性。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
