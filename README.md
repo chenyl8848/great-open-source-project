@@ -179,6 +179,7 @@
 - [nginx-gui](https://github.com/onlyGuo/nginx-gui) - 一个基于 `SpringBoot` 实现的 `Nginx` 可视化管理项目。
 - [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
 - [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
+- [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -681,6 +682,7 @@
 - [InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - `Firefox` 和 `Chrome` 扩展，为 `Instagram` 图片、视频创建一个下载按钮。
 - [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
+- [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -800,6 +802,7 @@
 - [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms漏洞利用工具，爆破工具、内网横向及免杀、社工钓鱼以及应急响应等资料。
 - [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - `GitHub` 最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。[在线体验](https://helloqingfeng.github.io/front-end-index/index.html)
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合。[在线体验](https://v2fy.com/asset/0i/ChineseBQB/)
+- [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
