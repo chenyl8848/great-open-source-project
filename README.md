@@ -333,6 +333,7 @@
 - [static](https://github.com/staticfile/static) - 开放静态文件，为开源库提供稳定、快速的免费 `CDN` 服务。[在线体验](https://www.staticfile.net/)
 - [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
 - [fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 一款基于 `fabricjs` 的创意图片编辑器。
+- [sweetalert](https://github.com/t4t5/sweetalert) - 一个美观的 `JavaScript` 的 `alert` 的替代品。[在线文档](https://sweetalert.js.org/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -765,6 +766,7 @@
 - [github-profile-generator](https://github.com/wuyasong/github-profile-generator) - `GitHub` 个人主页生成器。[在线体验](https://githubprofile.com/zh)
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
+- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
