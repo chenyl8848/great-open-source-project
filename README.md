@@ -673,6 +673,7 @@
 - [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
 - [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
 - [trilium](https://github.com/zadam/trilium) - 一个层次化的笔记应用程序，专注于建立大型个人知识库。
+- [czkawka](https://github.com/qarmin/czkawka) - 一款简单、快速且免费的应用程序，用于从计算机中删除不必要的文件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
