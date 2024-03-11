@@ -262,6 +262,7 @@
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 `Electron` + `Vue3` 开发的**音乐软件**。[在线文档](https://lxmusic.toside.cn/)
 - [yft-design](https://github.com/dromara/yft-design) - 基于 `Vue3` + `TypeScript` + `Fabric.js` + `Element-Plus` 实现的多页面图片设计器。[在线体验](https://yft.design/)
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
+- [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - `RuoYi` `Vue3` 版本。[在线体验](https://vue.ruoyi.vip/login?redirect=%2Findex) [在线文档](https://doc.ruoyi.vip/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -334,6 +335,7 @@
 - [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
 - [fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 一款基于 `fabricjs` 的创意图片编辑器。
 - [sweetalert](https://github.com/t4t5/sweetalert) - 一个美观的 `JavaScript` 的 `alert` 的替代品。[在线文档](https://sweetalert.js.org/)
+- [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
