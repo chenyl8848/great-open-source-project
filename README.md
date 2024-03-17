@@ -737,7 +737,6 @@
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
-- [FastGithub](https://github.com/dotnetcore/FastGithub) - `github` 加速神器。
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
