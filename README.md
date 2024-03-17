@@ -386,6 +386,7 @@
 - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 基于 `Go` + `Vue` 实现的 `openLDAP` 后台管理项目。[在线体验](http://demo-go-ldap-admin.eryajf.net/#/login?redirect=%2Fdashboard) [在线文档](http://ldapdoc.eryajf.net/)
 - [hugo](https://github.com/gohugoio/hugo) - 一个用 `Go` 语言构建的快速灵活的**静态网站生成器**，旨在提供速度和灵活性。
 - [DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) -  一个基于 `Go` 开发的能够高速采集海量互联网数据的开源搜索引擎。
+- [zincsearch](https://github.com/zincsearch/zincsearch) - 一个基于 `Go` 开发的轻量的全文索引搜索引擎。[在线文档](https://zincsearch-docs.zinc.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -499,6 +500,7 @@
 - [jumpserver](https://github.com/jumpserver/jumpserver) - **开源堡垒机**，符合 4A 规范的专业**运维安全审计系统**。[在线体验](https://demo.jumpserver.org/) [在线文档](https://docs.jumpserver.org/zh/v3/)
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - 极简&高效的主机监控系统。[在线体验](http://101.35.223.197:9999/dash/main) [在线文档](https://www.wgstart.com/docs.html)
+- [statping-ng](https://github.com/statping-ng/statping-ng) - 针对任何类型项目的 `Web` 和应用程序状态监控。[在线文档](https://statping-ng.github.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
