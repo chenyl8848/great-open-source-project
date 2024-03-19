@@ -685,6 +685,7 @@
 - [czkawka](https://github.com/qarmin/czkawka) - 一款简单、快速且免费的应用程序，用于从计算机中删除不必要的文件。
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。 
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
+- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
