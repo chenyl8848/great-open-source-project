@@ -777,6 +777,7 @@
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [revezone](https://github.com/revezone/revezone) - 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具，支持 `Excalidraw`、`Tldraw` 白板和类 `Notion` 笔记。[在线体验](https://revezone.com/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
