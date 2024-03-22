@@ -698,6 +698,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
 - [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用。
+- [wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。[在线体验](https://wai.shaiwang.life/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
