@@ -151,6 +151,7 @@
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
 - [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
+- [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -820,6 +821,7 @@
 - [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - `GitHub` 最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。[在线体验](https://helloqingfeng.github.io/front-end-index/index.html)
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合。[在线体验](https://v2fy.com/asset/0i/ChineseBQB/)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
