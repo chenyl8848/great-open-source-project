@@ -113,7 +113,6 @@
 
 ## `Java` 项目
 - [javacore](https://github.com/dunwu/javacore) - `Java` 核心技术的经验总结。[在线文档](https://dunwu.github.io/javacore/)
-- [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
 - [concurrent](https://github.com/RedSpider1/concurrent) - `Java` **多线程**系列文章。[在线文档](http://concurrent.redspider.group/RedSpider.html)
 - [learning-note](https://github.com/rbmonster/learning-note) - `Java` **开发及面试**（个人面试、工作总结、资料收集）。[在线文档](https://rbmonster.github.io/learning-note/#/)
 - [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
@@ -152,6 +151,7 @@
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
 - [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
 - [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
+- [EasyCode](https://github.com/makejavas/EasyCode) - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -164,7 +164,6 @@
 - [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
-- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `Spring Boot` + `Vue 3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似excel操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 - [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 深入学习并实战 `Spring Boot` 的项目。
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
@@ -245,7 +244,6 @@
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin) - 基于`Vue3`、`Vite3`、`TypeScript`、`NaiveUI` 和 `UnoCSS` 的清新优雅的**中后台模版**。[在线体验](https://soybean.pro/#/login?redirect=/dashboard/analysis) [在线文档](https://docs.soybean.pro/)
 - [cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 一个很酷的**后台权限管理框架**，模块化、插件化、CRUD极速开发，永久开源免费，基于`midway.js 3.0`、`typeorm`、`mysql`、`jwt`、`element-ui`、`vuex`、`vue-router`、`vue` 等构建。[在线体验](https://show.cool-admin.com/)  账户：`admin`，密码：`123456` [在线文档](https://cool-js.com/)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 `Vue3.x` + `TypeScript` 的**在线演示文稿（幻灯片）应用**，还原了大部分 `Office PowerPoint` 常用功能，实现在线 `PPT` 的编辑、演示。支持导出 `PPT` 文件。[在线体验](https://pipipi-pikachu.github.io/PPTist/)
-- [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于`Vite` + `Vue3` + `Gin` 搭建的开发基础平台（支持 `Ts` , `Js` 混用），集成 `Jwt` 鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。[在线体验](https://demo.gin-vue-admin.com/#/login?redirect=%23/) [在线文档](https://www.gin-vue-admin.com/)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于 `Vue3` + `Element UI Plus` 的**后台管理系统**解决方案。[在线体验](https://lin-xin.gitee.io/example/work/#/dashboard)
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
@@ -323,7 +321,6 @@
 - [habitica](https://github.com/HabitRPG/habitica) - 一个习惯跟踪器应用程序，它像角色扮演游戏一样对待您的目标。[在线体验](https://habitica.com/)
 - [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
 - [webstudio](https://github.com/webstudio-is/webstudio) - 一个开源的可视化开发平台。[在线体验](https://webstudio.is/)
-- [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 一款功能强大，专业可靠的 `H5` 可视化页面配置解决方案。[在线体验](http://h5.dooring.cn/h5_plus) [在线文档](http://h5.dooring.cn/doc)
 - [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
@@ -578,6 +575,11 @@
 - [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
 - [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于 `Django` 的博客系统。[在线体验](https://www.lylinux.net/)
 - [bolo-solo](https://github.com/adlered/bolo-solo) - 基于 `Java` 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。[在线体验](https://demo.stackoverflow.wiki/)
+- [NBlog](https://github.com/Naccl/NBlog) -  `Spring Boot` + `Vue` 前后端分离博客系统。[在线体验](https://naccl.top/home)
+- [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
+- [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
+- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `Spring Boot` + `Vue 3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
+- [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
