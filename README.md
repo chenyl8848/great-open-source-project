@@ -525,6 +525,7 @@
 - [OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - 虚拟服装试穿工具。[在线体验](https://ootd.ibot.cn/)
 - [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - 一款可以自动创建带有配乐及字幕的短视频工具！
 - [ai-sfc](https://github.com/YunYouJun/ai-sfc) - 一款借助 `AI` 服务生成春联的开源工具。[在线体验](https://ai-sfc.yunyoujun.cn/)
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
