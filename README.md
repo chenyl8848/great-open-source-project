@@ -471,6 +471,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 一款方便、快捷的数据库文档查询、导出工具。
+- [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
