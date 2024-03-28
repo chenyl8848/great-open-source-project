@@ -181,6 +181,7 @@
 - [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
 - [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
 - [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
+- [smart-admin](https://github.com/1024-lab/smart-admin) - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -785,6 +786,7 @@
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [revezone](https://github.com/revezone/revezone) - 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具，支持 `Excalidraw`、`Tldraw` 白板和类 `Notion` 笔记。[在线体验](https://revezone.com/index.html)
+- [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
