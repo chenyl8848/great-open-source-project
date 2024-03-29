@@ -421,6 +421,7 @@
 
 - [WeHalo](https://github.com/savingrun/WeHalo) - 微信小程序版博客。
 - [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕 `WordPress` 小程序开源版。
+- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 `React/Vue/Nerv` 等框架来开发微信/京东/百度/支付宝/字节跳动/ `QQ` 小程序/`H5`/`React Native` 等应用。[在线文档](https://docs.taro.zone/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -693,6 +694,7 @@
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。 
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
+- [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
