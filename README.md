@@ -264,6 +264,7 @@
 - [yft-design](https://github.com/dromara/yft-design) - 基于 `Vue3` + `TypeScript` + `Fabric.js` + `Element-Plus` 实现的多页面图片设计器。[在线体验](https://yft.design/)
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
 - [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - `RuoYi` `Vue3` 版本。[在线体验](https://vue.ruoyi.vip/login?redirect=%2Findex) [在线文档](https://doc.ruoyi.vip/)
+- [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - `Vue3` 全家桶 + `Vant` 搭建大型单页面商城项目。[在线体验](http://47.99.134.126:5008/#/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
