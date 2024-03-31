@@ -182,6 +182,7 @@
 - [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
 - [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
 - [smart-admin](https://github.com/1024-lab/smart-admin) - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
+- [maku-generator](https://gitee.com/makunet/maku-generator) - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -265,6 +266,8 @@
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
 - [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - `RuoYi` `Vue3` 版本。[在线体验](https://vue.ruoyi.vip/login?redirect=%2Findex) [在线文档](https://doc.ruoyi.vip/)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - `Vue3` 全家桶 + `Vant` 搭建大型单页面商城项目。[在线体验](http://47.99.134.126:5008/#/home)
+- [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu) - `Nuxt3` + `Vue3` 实战在线教育 `SSR` 网站。
+- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
