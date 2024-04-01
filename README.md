@@ -268,6 +268,7 @@
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - `Vue3` 全家桶 + `Vant` 搭建大型单页面商城项目。[在线体验](http://47.99.134.126:5008/#/home)
 - [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu) - `Nuxt3` + `Vue3` 实战在线教育 `SSR` 网站。
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
+- [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
