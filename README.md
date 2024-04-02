@@ -107,6 +107,7 @@
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南。[在线体验](https://csdiy.wiki/)
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
+- [nginx-book](https://github.com/taobao/nginx-book) - `Nginx` 开发从入门到精通。[在线体验](https://tengine.taobao.org/book/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -193,6 +194,7 @@
 - [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
 - [mini-spring](https://github.com/DerekYRC/mini-spring) - 简化版的 `Spring 框架`，能帮助你快速熟悉 `Spring` 源码和掌握 `Spring` 的核心原理。抽取了 `Spring` 的核心逻辑，代码极度简化，保留`Spring` 的核心功能，如 `IOC` 和 `AOP`、资源加载器、事件监听器、类型转换、容器扩展点、`Bean` 生命周期和作用域、应用上下文等核心功能。
 - [spring-analysis](https://github.com/seaswalker/spring-analysis) - `Spring` 源码阅读。
+- [spring-reading](https://github.com/xuchengsheng/spring-reading) - `Spring` 框架源码阅读。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -207,6 +209,7 @@
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 - [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
+- [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `Spring Boot 3` + `Vue 3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -269,6 +272,7 @@
 - [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu) - `Nuxt3` + `Vue3` 实战在线教育 `SSR` 网站。
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
+- [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -835,6 +839,7 @@
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合。[在线体验](https://v2fy.com/asset/0i/ChineseBQB/)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总。
+- [ins](https://github.com/zhaoolee/ins) - 开源**灵感**数据库，免费无广告。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
