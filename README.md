@@ -108,6 +108,7 @@
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [nginx-book](https://github.com/taobao/nginx-book) - `Nginx` 开发从入门到精通。[在线体验](https://tengine.taobao.org/book/index.html)
+- [theByteBook](https://github.com/isno/theByteBook) - 《深入架构原理与实践》。[在线体验](https://www.thebyte.com.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -210,6 +211,7 @@
 - [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 - [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
 - [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `Spring Boot 3` + `Vue 3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
+- [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
