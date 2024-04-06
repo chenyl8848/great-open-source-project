@@ -402,6 +402,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - 一个用 `Go` 语言构建的快速灵活的**静态网站生成器**，旨在提供速度和灵活性。
 - [DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) -  一个基于 `Go` 开发的能够高速采集海量互联网数据的开源搜索引擎。
 - [zincsearch](https://github.com/zincsearch/zincsearch) - 一个基于 `Go` 开发的轻量的全文索引搜索引擎。[在线文档](https://zincsearch-docs.zinc.dev/)
+- [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -805,6 +806,7 @@
 - [revezone](https://github.com/revezone/revezone) - 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具，支持 `Excalidraw`、`Tldraw` 白板和类 `Notion` 笔记。[在线体验](https://revezone.com/index.html)
 - [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
 - [talebook](https://github.com/talebook/talebook) - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
+- [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -847,6 +849,7 @@
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总。
 - [ins](https://github.com/zhaoolee/ins) - 开源**灵感**数据库，免费无广告。
+- [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - `Vue` 相关开源项目库汇总。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
