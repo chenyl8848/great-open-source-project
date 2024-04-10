@@ -489,6 +489,7 @@
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 一款方便、快捷的数据库文档查询、导出工具。
 - [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
+- [drawdb](https://github.com/drawdb-io/drawdb) - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -850,6 +851,7 @@
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总。
 - [ins](https://github.com/zhaoolee/ins) - 开源**灵感**数据库，免费无广告。
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - `Vue` 相关开源项目库汇总。
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 免费的 `ChatGPT` 镜像网站列表。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
