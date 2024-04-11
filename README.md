@@ -712,6 +712,8 @@
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
+- [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
+- [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
