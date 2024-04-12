@@ -649,6 +649,7 @@
 - [wangEditor](https://github.com/wangeditor-team/wangEditor) - 开源 `Web` 富文本编辑器，开箱即用，配置简单，支持 `JS`、`Vue`、`React`.[在线文档](https://www.wangeditor.com/)
 - [canvas-editor](https://github.com/Hufe921/canvas-editor) - 基于 `Canvas/SVG` 实现的富文本编辑器。[在线体验](https://hufe.club/canvas-editor) [在线文档](https://hufe.club/canvas-editor-docs/)
 - [blossom](https://github.com/blossom-editor/blossom) - 支持私有部署的云端存储双链笔记软件。[在线体验](https://www.wangyunf.com/blossom-demo/#/) [在线文档](https://www.wangyunf.com/blossom-doc/index.html)
+- [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 `Markdown` 编辑器，让排版变 Nice.[在线体验](https://legacy.mdnice.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -854,6 +855,7 @@
 - [ins](https://github.com/zhaoolee/ins) - 开源**灵感**数据库，免费无广告。
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - `Vue` 相关开源项目库汇总。
 - [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 免费的 `ChatGPT` 镜像网站列表。
+- [hamulete](https://github.com/hoochanlon/hamulete) - 国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。[在线体验](https://hoochanlon.github.io/hamulete/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
