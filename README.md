@@ -237,6 +237,7 @@
 - [emoji](https://github.com/Wscats/emoji) - 基于 `Vue` 编写的 `Github` 表情包大全。[在线体验](https://wscats.github.io/emoji/omi/build/)
 - [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
+- [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
