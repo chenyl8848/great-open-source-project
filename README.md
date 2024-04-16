@@ -814,6 +814,7 @@
 - [talebook](https://github.com/talebook/talebook) - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
 - [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
 - [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
+- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - **小红书爬虫**，**抖音爬虫**， **快手爬虫**， **B站爬虫**， **微博爬虫**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -860,6 +861,7 @@
 - [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 免费的 `ChatGPT` 镜像网站列表。
 - [hamulete](https://github.com/hoochanlon/hamulete) - 国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。[在线体验](https://hoochanlon.github.io/hamulete/)
 - [OneFile](https://github.com/521xueweihan/OneFile) - 汇集了一个文件、运行简单、一看就懂的开源项目。
+- [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
