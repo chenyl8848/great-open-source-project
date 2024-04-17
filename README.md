@@ -521,6 +521,7 @@
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - 极简&高效的主机监控系统。[在线体验](http://101.35.223.197:9999/dash/main) [在线文档](https://www.wgstart.com/docs.html)
 - [statping-ng](https://github.com/statping-ng/statping-ng) - 针对任何类型项目的 `Web` 和应用程序状态监控。[在线文档](https://statping-ng.github.io/)
+- [orion-ops-pro](https://github.com/lijiahangmax/orion-ops-pro) - 一款现代化、高颜值的一站式智能运维管理平台。[在线体验](http://101.43.254.243:1081/workplace) [在线文档](https://lijiahangmax.github.io/orion-ops-pro/#/README)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -814,7 +815,8 @@
 - [talebook](https://github.com/talebook/talebook) - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
 - [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
 - [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
-- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - **小红书爬虫**，**抖音爬虫**， **快手爬虫**， **B站爬虫**， **微博爬虫**。
+- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书爬虫、抖音爬虫、快手爬虫、B站爬虫、微博爬虫。
+- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
