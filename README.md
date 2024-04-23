@@ -278,6 +278,7 @@
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
 - [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
+- [nova-admin](https://github.com/chansee97/nova-admin) - 一个简洁、干净的中后台管理模板。[在线体验](https://nova-admin-site.netlify.app/dashboard/workbench) [在线文档](https://nova-admin-docs.netlify.app/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -289,6 +290,7 @@
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
 - [movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -817,6 +819,7 @@
 - [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书爬虫、抖音爬虫、快手爬虫、B站爬虫、微博爬虫。
 - [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
