@@ -109,6 +109,7 @@
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [nginx-book](https://github.com/taobao/nginx-book) - `Nginx` 开发从入门到精通。[在线体验](https://tengine.taobao.org/book/index.html)
 - [theByteBook](https://github.com/isno/theByteBook) - 《深入架构原理与实践》。[在线体验](https://www.thebyte.com.cn/)
+- [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -291,6 +292,7 @@
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
 - [movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
+- [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -440,6 +442,8 @@
 - [WeHalo](https://github.com/savingrun/WeHalo) - 微信小程序版博客。
 - [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕 `WordPress` 小程序开源版。
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 `React/Vue/Nerv` 等框架来开发微信/京东/百度/支付宝/字节跳动/ `QQ` 小程序/`H5`/`React Native` 等应用。[在线文档](https://docs.taro.zone/docs/)
+- [Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 `Json` 方式绘制一张可以发到朋友圈的图片。[在线体验](https://painterjs.github.io/)
+- [wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 电影推荐微信小程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -867,6 +871,7 @@
 - [hamulete](https://github.com/hoochanlon/hamulete) - 国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。[在线体验](https://hoochanlon.github.io/hamulete/)
 - [OneFile](https://github.com/521xueweihan/OneFile) - 汇集了一个文件、运行简单、一看就懂的开源项目。
 - [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总。
+- [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
