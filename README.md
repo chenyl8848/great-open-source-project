@@ -444,6 +444,7 @@
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 `React/Vue/Nerv` 等框架来开发微信/京东/百度/支付宝/字节跳动/ `QQ` 小程序/`H5`/`React Native` 等应用。[在线文档](https://docs.taro.zone/docs/)
 - [Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 `Json` 方式绘制一张可以发到朋友圈的图片。[在线体验](https://painterjs.github.io/)
 - [wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 电影推荐微信小程序。
+- [WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序【专注时钟】。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -824,6 +825,7 @@
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书爬虫、抖音爬虫、快手爬虫、B站爬虫、微博爬虫。
 - [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
+- [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
