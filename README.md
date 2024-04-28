@@ -293,6 +293,7 @@
 - [movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
 - [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
+- [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -408,6 +409,7 @@
 - [DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) -  一个基于 `Go` 开发的能够高速采集海量互联网数据的开源搜索引擎。
 - [zincsearch](https://github.com/zincsearch/zincsearch) - 一个基于 `Go` 开发的轻量的全文索引搜索引擎。[在线文档](https://zincsearch-docs.zinc.dev/)
 - [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
+- [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -724,6 +726,7 @@
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 - [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
 - [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
+- [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
