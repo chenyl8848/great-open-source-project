@@ -727,6 +727,7 @@
 - [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
 - [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
 - [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
+- [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
