@@ -447,6 +447,7 @@
 - [Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 `Json` 方式绘制一张可以发到朋友圈的图片。[在线体验](https://painterjs.github.io/)
 - [wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 电影推荐微信小程序。
 - [WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序【专注时钟】。
+- [hioshop-miniprogram](https://github.com/iamdarcy/hioshop-miniprogram) - 微信小程序商城，开源免费商用，海风小店。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
