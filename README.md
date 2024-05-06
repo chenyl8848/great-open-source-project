@@ -280,6 +280,7 @@
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
 - [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
 - [nova-admin](https://github.com/chansee97/nova-admin) - 一个简洁、干净的中后台管理模板。[在线体验](https://nova-admin-site.netlify.app/dashboard/workbench) [在线文档](https://nova-admin-docs.netlify.app/zh/)
+- [pictode](https://github.com/JessYan0913/pictode) - 一个基于 Vue3、TypeScript、Konva、HeadlessUI 和 Tailwind CSS 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -559,6 +560,8 @@
 - [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - 一款可以自动创建带有配乐及字幕的短视频工具！
 - [ai-sfc](https://github.com/YunYouJun/ai-sfc) - 一款借助 `AI` 服务生成春联的开源工具。[在线体验](https://ai-sfc.yunyoujun.cn/)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频。
+- [openui](https://github.com/wandb/openui) - 网页构建工具。[在线体验](https://openui.fly.dev/ai/new)
+- [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
