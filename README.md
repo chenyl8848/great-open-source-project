@@ -297,6 +297,7 @@
 - [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
 - [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
+- [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -607,6 +608,7 @@
 - [MrDoc](https://github.com/zmister2016/MrDoc) - 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。[在线体验](http://mrdoc.zmister.com/)
 - [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
 - [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
+- [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
