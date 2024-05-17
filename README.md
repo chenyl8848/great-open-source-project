@@ -156,6 +156,7 @@
 - [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
 - [EasyCode](https://github.com/makejavas/EasyCode) - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
+- [ofdrw](https://github.com/ofdrw/ofdrw) - 开源的 `OFD` 处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -419,6 +420,7 @@
 - [zincsearch](https://github.com/zincsearch/zincsearch) - 一个基于 `Go` 开发的轻量的全文索引搜索引擎。[在线文档](https://zincsearch-docs.zinc.dev/)
 - [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
 - [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
+- [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -542,6 +544,7 @@
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - 极简&高效的主机监控系统。[在线体验](http://101.35.223.197:9999/dash/main) [在线文档](https://www.wgstart.com/docs.html)
 - [statping-ng](https://github.com/statping-ng/statping-ng) - 针对任何类型项目的 `Web` 和应用程序状态监控。[在线文档](https://statping-ng.github.io/)
 - [orion-ops-pro](https://github.com/lijiahangmax/orion-ops-pro) - 一款现代化、高颜值的一站式智能运维管理平台。[在线体验](http://101.43.254.243:1081/workplace) [在线文档](https://lijiahangmax.github.io/orion-ops-pro/#/README)
+- [OpsManage](https://github.com/welliamcao/OpsManage) - 一款代码部署、应用部署、计划任务、设备资产管理平台。[在线体验](http://42.194.214.22:8000/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
