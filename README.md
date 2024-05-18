@@ -368,6 +368,7 @@
 - [ioredis](https://github.com/redis/ioredis) - 一个用于 `Node.js` 的 `Redis` 客户端，具有强大、性能优化和功能齐全的特点。
 - [puter](https://github.com/HeyPuter/puter) - 基于 `Web` 的桌面操作系统，运行于浏览器中，具有丰富的功能、速度极快且可高度扩展。[在线体验](https://puter.com/)
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 `Windows` / `macOS` / `Linux`. [在线体验](https://music.qier222.com/)
+- [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -745,6 +746,7 @@
 - [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
 - [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
 - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
+- [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
