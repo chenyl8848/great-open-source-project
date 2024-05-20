@@ -157,6 +157,7 @@
 - [EasyCode](https://github.com/makejavas/EasyCode) - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
 - [ofdrw](https://github.com/ofdrw/ofdrw) - 开源的 `OFD` 处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能。
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 设计模式 `Java` 版。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -302,6 +303,7 @@
 - [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
+- [pic-smaller](https://github.com/joye61/pic-smaller) - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -747,6 +749,7 @@
 - [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
 - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
