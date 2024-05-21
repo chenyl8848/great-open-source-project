@@ -287,6 +287,7 @@
 - [nova-admin](https://github.com/chansee97/nova-admin) - 一个简洁、干净的中后台管理模板。[在线体验](https://nova-admin-site.netlify.app/dashboard/workbench) [在线文档](https://nova-admin-docs.netlify.app/zh/)
 - [pictode](https://github.com/JessYan0913/pictode) - 一个基于 Vue3、TypeScript、Konva、HeadlessUI 和 Tailwind CSS 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
+- [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
