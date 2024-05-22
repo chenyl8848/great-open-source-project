@@ -192,6 +192,7 @@
 - [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
 - [DWSurvey](https://github.com/wkeyuan/DWSurvey) - 一款简单、高效、成熟、稳定、专业的开源问卷系统。
 - [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
+- [spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。[在线体验](http://demo.spiderflow.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
