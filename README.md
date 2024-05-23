@@ -765,6 +765,7 @@
 - [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用。
 - [wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。[在线体验](https://wai.shaiwang.life/)
 - [leek-fund](https://github.com/LeekHub/leek-fund) - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
+- [cat-catch](https://github.com/xifangczy/cat-catch) - 一个音乐/视频地址解析下载插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -854,6 +855,7 @@
 - [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
 - [EasySpider](https://github.com/NaiboWang/EasySpider) - 一个可视化浏览器自动化测试/数据采集/爬虫软件。
 - [WeChatMsg](https://github.com/LC044/WeChatMsg) - 一款强大的微信聊天记录管理工具。
+- [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - `PDF` 转成 `Markdown` 工具。[在线体验](https://pdf2md.morethan.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -903,6 +905,7 @@
 - [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总。
 - [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
+- [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
