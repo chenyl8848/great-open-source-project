@@ -342,6 +342,10 @@
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - 以分类的形式，展示不同 `CSS` 属性或者不同的课题使用 `CSS` 来解决的各种方法。[在线体验](https://csscoco.com/inspiration/#/./init)
 - [paint-board](https://github.com/LHRUN/paint-board) - 一款支持多端操作的趣味艺术画板。[在线体验](https://songlh.top/paint-board/)
 - [carbon](https://github.com/carbon-app/carbon) - 代码转图片工具。[在线体验](https://carbon.now.sh/)
+- [handsontable](https://github.com/handsontable/handsontable) - 在线电子表格组件。[在线体验](https://handsontable.com/demo) [在线文档](https://handsontable.com/docs/javascript-data-grid/)
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - 基于 `JavaScript` 快速构建 `Web Excel`.[在线文档](https://hondrytravis.com/x-spreadsheet-doc/)
+- [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - 一款开箱即用的类似 `Excel` 和 `Google Sheets` 的 `JavaScript` 表格组件。[在线体验](https://ruilisi.github.io/fortune-sheet-demo/?path=/story/features--basic)
+- [univer](https://github.com/dream-num/univer) - 一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。[在线体验](https://univer.ai/playground)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -373,6 +377,7 @@
 - [puter](https://github.com/HeyPuter/puter) - 基于 `Web` 的桌面操作系统，运行于浏览器中，具有丰富的功能、速度极快且可高度扩展。[在线体验](https://puter.com/)
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 `Windows` / `macOS` / `Linux`. [在线体验](https://music.qier222.com/)
 - [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
+- [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -856,6 +861,7 @@
 - [EasySpider](https://github.com/NaiboWang/EasySpider) - 一个可视化浏览器自动化测试/数据采集/爬虫软件。
 - [WeChatMsg](https://github.com/LC044/WeChatMsg) - 一款强大的微信聊天记录管理工具。
 - [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - `PDF` 转成 `Markdown` 工具。[在线体验](https://pdf2md.morethan.io/)
+- [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - 使用浏览器的在线图片格式转化器。[在线体验](https://imagestool.com/webp2jpg-online/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
