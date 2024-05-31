@@ -690,6 +690,7 @@
 - [canvas-editor](https://github.com/Hufe921/canvas-editor) - 基于 `Canvas/SVG` 实现的富文本编辑器。[在线体验](https://hufe.club/canvas-editor) [在线文档](https://hufe.club/canvas-editor-docs/)
 - [blossom](https://github.com/blossom-editor/blossom) - 支持私有部署的云端存储双链笔记软件。[在线体验](https://www.wangyunf.com/blossom-demo/#/) [在线文档](https://www.wangyunf.com/blossom-doc/index.html)
 - [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 `Markdown` 编辑器，让排版变 Nice.[在线体验](https://legacy.mdnice.com/)
+- [editor.md](https://github.com/pandao/editor.md) - 一款开源的、可嵌入的 `Markdown` 在线编辑器（组件），基于 `CodeMirror`、`jQuery` 和 `Marked` 构建。[在线体验](http://editor.md.ipandao.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
