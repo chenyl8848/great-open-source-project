@@ -291,6 +291,7 @@
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey) - 一套轻量、安全的**问卷系统基座**，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
+- [teriteri-client](https://github.com/xunlu129/teriteri-client) - 一个基于 `Vue3` 搭建的视频网站平台客户端。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -380,6 +381,7 @@
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 `Windows` / `macOS` / `Linux`. [在线体验](https://music.qier222.com/)
 - [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
+- [cobalt](https://github.com/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
