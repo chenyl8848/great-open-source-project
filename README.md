@@ -222,6 +222,7 @@
 - [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `Spring Boot 3` + `Vue 3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
 - [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
 - [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
+- [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -292,6 +293,8 @@
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey) - 一套轻量、安全的**问卷系统基座**，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
 - [teriteri-client](https://github.com/xunlu129/teriteri-client) - 一个基于 `Vue3` 搭建的视频网站平台客户端。
+- [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 一个基于 `Vue3`、`Vite4`、`ant-design-vue4`、`Pinia`、`UnoCSS` 和 `Typescript` 的一整套企业级中后台前端/设计解决方案。[在线体验](https://antdv-pro.com/dashboard/analysis)
+- [varlet-app-template](https://github.com/varletjs/varlet-app-template) - 一个开箱即用的轻量化移动端 Web 模板，基于 `Vue3`、 `Varlet`、 `Vite`、`Typescript` 开发。[在线体验](https://varlet-app-template.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -382,6 +385,7 @@
 - [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
 - [cobalt](https://github.com/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
+- [ejyy](https://gitee.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
