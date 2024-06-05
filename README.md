@@ -477,6 +477,8 @@
 - [wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 电影推荐微信小程序。
 - [WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序【专注时钟】。
 - [hioshop-miniprogram](https://github.com/iamdarcy/hioshop-miniprogram) - 微信小程序商城，开源免费商用，海风小店。
+- [pinche_xcx](https://github.com/vincenth520/pinche_xcx) - **同城拼车**微信小程序。
+- [weapp-library](https://github.com/imageslr/weapp-library) - **在线借书平台**微信小程序。[在线文档](https://imageslr.github.io/weapp-library/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
