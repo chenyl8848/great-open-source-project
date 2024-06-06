@@ -223,6 +223,7 @@
 - [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
 - [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
 - [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
+- [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -236,7 +237,6 @@
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - 百度地图 `Vue2` 组件库。[在线文档](https://dafrok.github.io/vue-baidu-map/#/)
 - [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于 `fabric.js` 和 `Vue` 的图片编辑器，可自定义字体、素材、设计模板。[在线体验](https://nihaojob.gitbook.io/editor/)
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - 一个优雅的图片裁剪插件。[在线体验](https://github.xyxiao.cn/vue-cropper/docs/vue2.html)
-- [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [vue-office](https://github.com/501351981/vue-office) - 支持 `word(.docx)`、`excel(.xlsx)`、`pdf` 等各类型 `office` 文件预览的 `Vue` 组件集合。[在线体验](https://501351981.github.io/vue-office/examples/dist/#/docx) [在线文档](https://501351981.github.io/vue-office/examples/docs/)
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - 一个极简的 `vue` `admin` 管理后台。[在线体验](https://panjiachen.github.io/vue-admin-template/#/login?redirect=%2Fdashboard)
 - [k-form-design](https://github.com/Kchengz/k-form-design) - 基于 `Vue Ant-Design` 的表单设计器。[在线体验](http://cdn.kcz66.com/k-form-design.html)
