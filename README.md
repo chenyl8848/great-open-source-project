@@ -386,6 +386,7 @@
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
 - [cobalt](https://github.com/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
 - [ejyy](https://gitee.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
+- [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -592,6 +593,7 @@
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频。
 - [openui](https://github.com/wandb/openui) - 网页构建工具。[在线体验](https://openui.fly.dev/ai/new)
 - [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - 一款基于 `Gradio` 的图像生成软件。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
