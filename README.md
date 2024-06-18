@@ -297,6 +297,7 @@
 - [varlet-app-template](https://github.com/varletjs/varlet-app-template) - 一个开箱即用的轻量化移动端 Web 模板，基于 `Vue3`、 `Varlet`、 `Vite`、`Typescript` 开发。[在线体验](https://varlet-app-template.vercel.app/)
 - [typing-word](https://github.com/zyronon/typing-word) - 可在网页上使用的背单词软件。[在线体验](https://typing-word.ttentau.top/#/practice)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
+- [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
