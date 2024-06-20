@@ -935,6 +935,7 @@
 - [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 - [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
+- [chinese-independent-developer/](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
