@@ -315,6 +315,7 @@
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
 - [pic-smaller](https://github.com/joye61/pic-smaller) - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
+- [Cap](https://github.com/CapSoftware/Cap) - 一款简单易用的分享和录制屏幕视频工具。[在线体验](https://cap.so/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
