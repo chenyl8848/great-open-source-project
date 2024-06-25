@@ -421,6 +421,7 @@
 - [yanhuo_dev](https://gitee.com/xzjsccz/yanhuo_dev) - 一个基于微服务架构的前后端分离仿小红书项目。
 - [youlai-mall](https://github.com/youlaitech/youlai-mall) - 基于 `Spring Boot 3`、`Spring Cloud & Alibaba 2022`、`SAS OAuth2` 、`Vue3`、`Element-Plus`、`uni-app` 构建的开源全栈商城。[在线文档](https://www.youlai.tech/) [在线体验](https://admin.youlai.tech/#/dashboard)
 - [mfish-nocode](https://github.com/mfish-qf/mfish-nocode) - 基于 `SpringBoot3` + `Spring Cloud Alibaba` 实现的摸鱼低代码平台。[在线体验](http://app.mfish.com.cn:11119/dashboard/workbench) [在线文档](https://www.mfish.com.cn/)
+- [springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的 `Spring Cloud` 教程。[在线文档](https://www.macrozheng.com/cloud/cloud_catalog.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
