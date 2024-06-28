@@ -943,6 +943,8 @@
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 - [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
 - [chinese-independent-developer/](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
+- [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
+- [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
