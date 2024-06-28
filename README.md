@@ -225,6 +225,7 @@
 - [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
 - [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
 - [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
+- [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
