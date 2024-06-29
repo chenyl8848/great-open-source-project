@@ -391,7 +391,7 @@
 - [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
 - [cobalt](https://github.com/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
-- [ejyy](https://gitee.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
+- [ejyy](https://github.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
 - [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
 - [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
 
