@@ -110,6 +110,7 @@
 - [nginx-book](https://github.com/taobao/nginx-book) - `Nginx` 开发从入门到精通。[在线体验](https://tengine.taobao.org/book/index.html)
 - [theByteBook](https://github.com/isno/theByteBook) - 《深入架构原理与实践》。[在线体验](https://www.thebyte.com.cn/)
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 天 `Python` 编程学习挑战。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -249,6 +250,7 @@
 - [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -300,6 +302,7 @@
 - [typing-word](https://github.com/zyronon/typing-word) - 可在网页上使用的背单词软件。[在线体验](https://typing-word.ttentau.top/#/practice)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
+- [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
