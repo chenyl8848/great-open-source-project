@@ -372,7 +372,6 @@
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 可以通过 `Web` 服务的方式构建 `API` 访问的工具，使用 `Node.js` + `Vue` 开发，功能与 `Postman` 类似。[在线体验](https://hoppscotch.io/)
 - [habitica](https://github.com/HabitRPG/habitica) - 一个习惯跟踪器应用程序，它像角色扮演游戏一样对待您的目标。[在线体验](https://habitica.com/)
-- [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
 - [webstudio](https://github.com/webstudio-is/webstudio) - 一个开源的可视化开发平台。[在线体验](https://webstudio.is/)
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 一款功能强大，专业可靠的 `H5` 可视化页面配置解决方案。[在线体验](http://h5.dooring.cn/h5_plus) [在线文档](http://h5.dooring.cn/doc)
@@ -719,6 +718,11 @@
 - [blossom](https://github.com/blossom-editor/blossom) - 支持私有部署的云端存储双链笔记软件。[在线体验](https://www.wangyunf.com/blossom-demo/#/) [在线文档](https://www.wangyunf.com/blossom-doc/index.html)
 - [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 `Markdown` 编辑器，让排版变 Nice.[在线体验](https://legacy.mdnice.com/)
 - [editor.md](https://github.com/pandao/editor.md) - 一款开源的、可嵌入的 `Markdown` 在线编辑器（组件），基于 `CodeMirror`、`jQuery` 和 `Marked` 构建。[在线体验](http://editor.md.ipandao.com/)
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - 一个功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。[在线文档](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/quick-start.html)
+- [quill](https://github.com/slab/quill) - 一个现代的 `WYSIWYG` 编辑器，具有兼容性和可扩展性。[在线文档](https://quilljs.com/docs/quickstart)
+- [tinymce](https://github.com/tinymce/tinymce) - 富文本编辑 `JavaScript` 库。[在线文档](https://www.tiny.cloud/docs/tinymce/latest/)
+- [editor.js](https://github.com/codex-team/editor.js) - 块样式编辑器，采用的是独特的一套 `Json` 数据结构。[在线体验](https://editorjs.io/getting-started/)
+- [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
