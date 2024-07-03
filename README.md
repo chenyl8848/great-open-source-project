@@ -227,6 +227,7 @@
 - [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
 - [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
+- [Snowy](https://github.com/xiaonuobase/Snowy) - 一款国内首个**国密前后分离快速开发平台**，采用 `Vue3` + `Ant Design Vue3` + `Vite` + `SpringBoot` + `Mp` + `HuTool` + `SaToken`.[在线体验](https://snowy.xiaonuo.vip/index) [在线文档](https://xiaonuo.vip/doc?catalogueId=1574674492144766978&menuId=1574684190755540994)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -303,6 +304,7 @@
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
+- [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
