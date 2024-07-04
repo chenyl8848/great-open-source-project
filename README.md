@@ -78,6 +78,7 @@
   - [软件项目](#软件项目)
   - [浏览器插件项目](#浏览器插件项目)
   - [工具项目](#工具项目)
+  - [下载工具](#下载工具)
   - [集合项目](#集合项目)
 
 ## 编程语言项目
@@ -228,6 +229,7 @@
 - [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
 - [Snowy](https://github.com/xiaonuobase/Snowy) - 一款国内首个**国密前后分离快速开发平台**，采用 `Vue3` + `Ant Design Vue3` + `Vite` + `SpringBoot` + `Mp` + `HuTool` + `SaToken`.[在线体验](https://snowy.xiaonuo.vip/index) [在线文档](https://xiaonuo.vip/doc?catalogueId=1574674492144766978&menuId=1574684190755540994)
+- [entfrm-boot](https://gitee.com/entfrm/entfrm-boot) ![](https://gitee.com/entfrm/entfrm-boot/badge/star.svg?theme=dark) ![](https://gitee.com/entfrm/entfrm-boot/badge/fork.svg?theme=dark) - 一个以模块化为核心的无代码开发平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -902,6 +904,16 @@
 - [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - `PDF` 转成 `Markdown` 工具。[在线体验](https://pdf2md.morethan.io/)
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - 使用浏览器的在线图片格式转化器。[在线体验](https://imagestool.com/webp2jpg-online/)
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 下载工具
+
+- [downkyi](https://github.com/leiurayer/downkyi) ![](https://img.shields.io/github/stars/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/forks/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/license/leiurayer/downkyi) ![](https://img.shields.io/github/last-commit/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
+- [BBDown](https://github.com/nilaoda/BBDown) ![](https://img.shields.io/github/stars/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/forks/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/license/nilaoda/BBDown) ![](https://img.shields.io/github/last-commit/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
+- [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
+- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
