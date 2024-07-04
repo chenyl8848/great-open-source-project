@@ -396,7 +396,6 @@
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 `Windows` / `macOS` / `Linux`. [在线体验](https://music.qier222.com/)
 - [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
-- [cobalt](https://github.com/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
 - [ejyy](https://github.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
 - [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
 - [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
@@ -795,7 +794,6 @@
 - [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
 - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `macOS` 屏幕录制工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -821,9 +819,7 @@
 - [APIJSON](https://github.com/Tencent/APIJSON) - 专为 `API` 而生的 `JSON` 网络传输协议以及基于这套协议实现的 `ORM` 库。为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。[在线体验](http://apijson.cn/api/) [在线文档](https://github.com/Tencent/APIJSON/blob/master/Document.md)
 - [Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键**同步文章**到多个内容平台，支持今日头条、`WordPress`、知乎、简书、掘金、`CSDN`、`typecho` 各大平台，一次发布，多平台同步发布。
 - [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
-- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟白板，用于勾画手绘般的图表。[在线体验](https://excalidraw.com/)
@@ -890,7 +886,6 @@
 - [github-profile-generator](https://github.com/wuyasong/github-profile-generator) - `GitHub` 个人主页生成器。[在线体验](https://githubprofile.com/zh)
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
-- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [revezone](https://github.com/revezone/revezone) - 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具，支持 `Excalidraw`、`Tldraw` 白板和类 `Notion` 笔记。[在线体验](https://revezone.com/index.html)
 - [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
 - [talebook](https://github.com/talebook/talebook) - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
@@ -910,6 +905,12 @@
 
 ## 下载工具
 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/license/yt-dlp/yt-dlp) ![](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/forks/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/license/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/last-commit/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
+- [cobalt](https://github.com/imputnet/cobalt) ![](https://img.shields.io/github/stars/imputnet/cobalt?style=social) ![](https://img.shields.io/github/forks/imputnet/cobalt?style=social) ![](https://img.shields.io/github/license/imputnet/cobalt) ![](https://img.shields.io/github/last-commit/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) ![](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/forks/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/ytdl-org/youtube-dl) ![](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
+- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/license/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/last-commit/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/stars/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/forks/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/license/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/last-commit/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [downkyi](https://github.com/leiurayer/downkyi) ![](https://img.shields.io/github/stars/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/forks/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/license/leiurayer/downkyi) ![](https://img.shields.io/github/last-commit/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
 - [BBDown](https://github.com/nilaoda/BBDown) ![](https://img.shields.io/github/stars/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/forks/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/license/nilaoda/BBDown) ![](https://img.shields.io/github/last-commit/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
 - [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
