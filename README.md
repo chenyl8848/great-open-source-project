@@ -307,6 +307,7 @@
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 - [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/forks/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/license/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow) - 高度可定制的 `Vue 3` 流程图组件。[在线文档](https://vueflow.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -399,6 +400,7 @@
 - [ejyy](https://github.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
 - [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
 - [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
+- [nocodb](https://github.com/nocodb/nocodb) ![](https://img.shields.io/github/stars/nocodb/nocodb?style=social) ![](https://img.shields.io/github/forks/nocodb/nocodb?style=social) ![](https://img.shields.io/github/license/nocodb/nocodb) ![](https://img.shields.io/github/last-commit/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
