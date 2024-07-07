@@ -78,7 +78,7 @@
   - [软件项目](#软件项目)
   - [浏览器插件项目](#浏览器插件项目)
   - [工具项目](#工具项目)
-  - [下载工具](#下载工具)
+  - [下载工具项目](#下载工具项目)
   - [集合项目](#集合项目)
 
 ## 编程语言项目
@@ -366,6 +366,7 @@
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - 基于 `JavaScript` 快速构建 `Web Excel`.[在线文档](https://hondrytravis.com/x-spreadsheet-doc/)
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - 一款开箱即用的类似 `Excel` 和 `Google Sheets` 的 `JavaScript` 表格组件。[在线体验](https://ruilisi.github.io/fortune-sheet-demo/?path=/story/features--basic)
 - [univer](https://github.com/dream-num/univer) - 一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。[在线体验](https://univer.ai/playground)
+- [js-screen-shot](https://github.com/likaia/js-screen-shot) ![](https://img.shields.io/github/stars/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/forks/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/license/likaia/js-screen-shot) ![](https://img.shields.io/github/last-commit/likaia/js-screen-shot) - `web` 端自定义截图插件。[在线文档](https://www.kaisir.cn/js-screen-shot/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -905,7 +906,7 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
-## 下载工具
+## 下载工具项目
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/license/yt-dlp/yt-dlp) ![](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/forks/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/license/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/last-commit/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
