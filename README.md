@@ -929,7 +929,7 @@
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 `GitHub` 上高质量、有趣的**开源项目**，并将他们进行归类。
 - [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个**包管理器**，**系统镜像**，以及常用软件的好用镜像。
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 整理记录程序员如何优雅的**挣零花钱**。
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。[在线体验](http://shici.store/)
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 基于 `docsify` 实现的网站集合。
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
