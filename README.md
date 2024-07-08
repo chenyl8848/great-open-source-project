@@ -918,6 +918,7 @@
 - [BBDown](https://github.com/nilaoda/BBDown) ![](https://img.shields.io/github/stars/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/forks/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/license/nilaoda/BBDown) ![](https://img.shields.io/github/last-commit/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
 - [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
+- [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
