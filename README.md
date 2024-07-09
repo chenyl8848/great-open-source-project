@@ -99,7 +99,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
-- [JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址)。
+- ~~[JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址）。~~
 - [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 图解系统设计。[在线体验](https://blog.bytebytego.com/)
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱。
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。[在线体验](https://es6.ruanyifeng.com/)
