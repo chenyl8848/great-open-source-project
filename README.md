@@ -403,6 +403,7 @@
 - [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
 - [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
 - [nocodb](https://github.com/nocodb/nocodb) ![](https://img.shields.io/github/stars/nocodb/nocodb?style=social) ![](https://img.shields.io/github/forks/nocodb/nocodb?style=social) ![](https://img.shields.io/github/license/nocodb/nocodb) ![](https://img.shields.io/github/last-commit/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
+- [talk](https://github.com/vasanthv/talk) ![](https://img.shields.io/github/stars/vasanthv/talk?style=social) ![](https://img.shields.io/github/forks/vasanthv/talk?style=social) ![](https://img.shields.io/github/license/vasanthv/talk) ![](https://img.shields.io/github/last-commit/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
