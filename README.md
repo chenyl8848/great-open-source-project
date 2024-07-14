@@ -112,6 +112,7 @@
 - [theByteBook](https://github.com/isno/theByteBook) - 《深入架构原理与实践》。[在线体验](https://www.thebyte.com.cn/)
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 天 `Python` 编程学习挑战。
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) ![](https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/forks/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/license/d2l-ai/d2l-zh) ![](https://img.shields.io/github/last-commit/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。[在线体验](http://zh.d2l.ai/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
