@@ -975,6 +975,7 @@
 - [chinese-independent-developer/](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
 - [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
