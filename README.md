@@ -161,6 +161,7 @@
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
 - [ofdrw](https://github.com/ofdrw/ofdrw) - 开源的 `OFD` 处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能。
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 设计模式 `Java` 版。
+- [gushici](https://github.com/xenv/gushici) ![](https://img.shields.io/github/stars/xenv/gushici?style=social) ![](https://img.shields.io/github/forks/xenv/gushici?style=social) ![](https://img.shields.io/github/license/xenv/gushici) ![](https://img.shields.io/github/last-commit/xenv/gushici) - 采用 `Vert.x` + `Redis` 全异步开发的一个可以随机返回一句古诗词名句的接口。[在线文档](https://www.jinrishici.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
