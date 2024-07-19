@@ -620,7 +620,7 @@
 - [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - 一款基于 `Gradio` 的图像生成软件。
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
-- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/forks/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/license/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp) - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
+- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/forks/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/license/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/last-commit/netease-youdao/EmotiVoice) - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
