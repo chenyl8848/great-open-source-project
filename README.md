@@ -257,6 +257,7 @@
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
+- [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
