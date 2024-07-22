@@ -839,7 +839,8 @@
 - [sioyek](https://github.com/ahrm/sioyek) - 一个专注于技术书籍和研究论文的 `PDF` 阅读器。[在线文档](https://sioyek-documentation.readthedocs.io/en/latest/)
 - [meilisearch](https://github.com/meilisearch/meilisearch) - 一个适配应用程序、网站、工作流的快速搜索引擎。[在线体验](https://where2watch.meilisearch.com/) [在线文档](https://www.meilisearch.com/docs) 
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。
-- [lama-cleaner](lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)
+- ~~[lama-cleaner](https://github.com/Sanster/lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)~~
+- [IOPaint](https://github.com/Sanster/IOPaint) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://huggingface.co/spaces/Sanster/iopaint-lama) [在线文档](https://www.iopaint.com/)
 - [Gource](https://github.com/acaudwell/Gource) - 一个用于**可视化软件版本控制历史的工具**。它能够生成令人印象深刻的演示视频，展示代码库的演化过程。
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - 一个为 `docsify.js` 设计的**简单主题系统**，具有丰富的自定义选项的多个主题，改进的桌面和移动体验，以及对传统浏览器的支持（ `IE11+` ）。[在线体验](https://jhildenbiddle.github.io/docsify-themeable)
@@ -875,7 +876,6 @@
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具。支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
-- [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储文本日志文件的简单 `Web` 服务。[在线体验](https://logpaste.com/)
 - [inshellisense](https://github.com/microsoft/inshellisense) - 为 `Shell` 提供 `IDE` 风格的自动完成功能。
 - [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
