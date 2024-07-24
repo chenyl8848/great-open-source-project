@@ -622,6 +622,8 @@
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - 一款基于 `Gradio` 的图像生成软件。
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/forks/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/license/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/last-commit/netease-youdao/EmotiVoice) - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
+- [video2x](https://github.com/k4yt3x/video2x) - 视频、`Gif` 和图像无损放大工具。
+- [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 开源 `AI` 图像放大与增强工具。[在线体验](https://clarityai.co/dashboard)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -805,6 +807,7 @@
 - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `macOS` 屏幕录制工具。
+- [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
