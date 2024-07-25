@@ -408,6 +408,7 @@
 - [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
 - [nocodb](https://github.com/nocodb/nocodb) ![](https://img.shields.io/github/stars/nocodb/nocodb?style=social) ![](https://img.shields.io/github/forks/nocodb/nocodb?style=social) ![](https://img.shields.io/github/license/nocodb/nocodb) ![](https://img.shields.io/github/last-commit/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
 - [talk](https://github.com/vasanthv/talk) ![](https://img.shields.io/github/stars/vasanthv/talk?style=social) ![](https://img.shields.io/github/forks/vasanthv/talk?style=social) ![](https://img.shields.io/github/license/vasanthv/talk) ![](https://img.shields.io/github/last-commit/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
+- [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -682,6 +683,7 @@
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 - [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
 - [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
+- [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
