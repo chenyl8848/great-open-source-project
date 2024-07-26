@@ -594,6 +594,7 @@
 - [orion-ops-pro](https://github.com/lijiahangmax/orion-ops-pro) - 一款现代化、高颜值的一站式智能运维管理平台。[在线体验](http://101.43.254.243:1081/workplace) [在线文档](https://lijiahangmax.github.io/orion-ops-pro/#/README)
 - [OpsManage](https://github.com/welliamcao/OpsManage) - 一款代码部署、应用部署、计划任务、设备资产管理平台。[在线体验](http://42.194.214.22:8000/)
 - [opendevops](https://github.com/opendevops-cn/opendevops) - 一款为用户提供企业多混合云、一站式 `DevOps`、自动化运维、完全开源的云管理平台、自动化运维平台。[在线体验](https://demo.opendevops.cn/login)
+- [ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控。[在线体验](https://tz.cloudcpp.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
