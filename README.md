@@ -710,6 +710,7 @@
 - [j-im](https://gitee.com/xchao/j-im) - 用 `Java` 语言开发的轻量、高性能、单机支持几十万至百万在线用户 IM.
 - [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一套专为移动端开发的原创 IM 通信层框架。
 - [chat-system](https://github.com/likaia/chat-system) - 一个在线聊天系统，最大程度的还原了 `Mac` 客户端 `QQ`. [在线体验](https://www.kaisir.cn/chat-system/index.html#/login)
+- [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue 3` 和 `TypeScript` 构建的即时通讯系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
