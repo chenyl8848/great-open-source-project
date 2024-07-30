@@ -627,6 +627,7 @@
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/forks/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/license/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/last-commit/netease-youdao/EmotiVoice) - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [video2x](https://github.com/k4yt3x/video2x) - 视频、`Gif` 和图像无损放大工具。
 - [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 开源 `AI` 图像放大与增强工具。[在线体验](https://clarityai.co/dashboard)
+- [MinerU](https://github.com/opendatalab/MinerU) - 一站式开源高质量数据提取工具，支持 `PDF`/网页/多格式电子书提取。[在线文档](https://opendatalab.com/docs/datasets/?channel=datasets)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -988,6 +989,7 @@
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
 - [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
+- [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
