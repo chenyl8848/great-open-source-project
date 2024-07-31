@@ -373,6 +373,7 @@
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - 一款开箱即用的类似 `Excel` 和 `Google Sheets` 的 `JavaScript` 表格组件。[在线体验](https://ruilisi.github.io/fortune-sheet-demo/?path=/story/features--basic)
 - [univer](https://github.com/dream-num/univer) - 一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。[在线体验](https://univer.ai/playground)
 - [js-screen-shot](https://github.com/likaia/js-screen-shot) ![](https://img.shields.io/github/stars/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/forks/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/license/likaia/js-screen-shot) ![](https://img.shields.io/github/last-commit/likaia/js-screen-shot) - `web` 端自定义截图插件。[在线文档](https://www.kaisir.cn/js-screen-shot/)
+- [drawio](https://github.com/jgraph/drawio) - 一个用于通用图表的 `JavaScript` 客户端编辑器。[在线体验](https://app.diagrams.net/?src=about)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -814,6 +815,7 @@
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `macOS` 屏幕录制工具。
 - [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - 一个基于 `Electron` 的图表和白板桌面应用程序，它包装了核心的 `draw.io` 编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
