@@ -818,6 +818,7 @@
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `macOS` 屏幕录制工具。
 - [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - 一个基于 `Electron` 的图表和白板桌面应用程序，它包装了核心的 `draw.io` 编辑器。
+- [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -994,6 +995,7 @@
 - [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
 - [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
+- [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
