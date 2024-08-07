@@ -113,6 +113,7 @@
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 天 `Python` 编程学习挑战。
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) ![](https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/forks/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/license/d2l-ai/d2l-zh) ![](https://img.shields.io/github/last-commit/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。[在线体验](http://zh.d2l.ai/index.html)
+- [PPHC](https://github.com/johnlui/PPHC) - 《高并发的哲学原理》开源图书。[在线体验](https://pphc.lvwenhan.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -598,6 +599,7 @@
 - [OpsManage](https://github.com/welliamcao/OpsManage) - 一款代码部署、应用部署、计划任务、设备资产管理平台。[在线体验](http://42.194.214.22:8000/)
 - [opendevops](https://github.com/opendevops-cn/opendevops) - 一款为用户提供企业多混合云、一站式 `DevOps`、自动化运维、完全开源的云管理平台、自动化运维平台。[在线体验](https://demo.opendevops.cn/login)
 - [ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控。[在线体验](https://tz.cloudcpp.com/)
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - `Nginx` 可视化配置工具。 [在线文档](https://docs.digitalocean.com/products/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -835,6 +837,7 @@
 - [leek-fund](https://github.com/LeekHub/leek-fund) - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
 - [cat-catch](https://github.com/xifangczy/cat-catch) - 一个音乐/视频地址解析下载插件。
 - [github-chinese](https://github.com/maboloshi/github-chinese) - `GitHub` 中文化插件。
+- [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
