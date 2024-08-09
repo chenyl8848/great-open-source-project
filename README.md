@@ -259,7 +259,7 @@
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
-- [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
+- [filegator](https://github.com/filegator/filegator) - 强大的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -301,7 +301,7 @@
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
 - [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
 - [nova-admin](https://github.com/chansee97/nova-admin) - 一个简洁、干净的中后台管理模板。[在线体验](https://nova-admin-site.netlify.app/dashboard/workbench) [在线文档](https://nova-admin-docs.netlify.app/zh/)
-- [pictode](https://github.com/JessYan0913/pictode) - 一个基于 Vue3、TypeScript、Konva、HeadlessUI 和 Tailwind CSS 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
+- [pictode](https://github.com/JessYan0913/pictode) - 一个基于 `Vue3`、`TypeScript`、`Konva`、`HeadlessUI` 和 `Tailwind CSS` 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey) - 一套轻量、安全的**问卷系统基座**，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
@@ -316,6 +316,7 @@
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/forks/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/license/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow) - 高度可定制的 `Vue 3` 流程图组件。[在线文档](https://vueflow.dev/)
 - [undraw-ui](https://github.com/readpage/undraw-ui) ![](https://img.shields.io/github/stars/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/forks/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/license/readpage/undraw-ui) ![](https://img.shields.io/github/last-commit/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
 - [MyIP](https://github.com/jason5ng32/MyIP) - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
+- [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -676,6 +677,7 @@
 - [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
 - [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
 - [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -718,6 +720,7 @@
 - [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一套专为移动端开发的原创 IM 通信层框架。
 - [chat-system](https://github.com/likaia/chat-system) - 一个在线聊天系统，最大程度的还原了 `Mac` 客户端 `QQ`. [在线体验](https://www.kaisir.cn/chat-system/index.html#/login)
 - [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue 3` 和 `TypeScript` 构建的即时通讯系统。
+- [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -822,6 +825,8 @@
 - [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - 一个基于 `Electron` 的图表和白板桌面应用程序，它包装了核心的 `draw.io` 编辑器。
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。
+- [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
+- [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1000,6 +1005,7 @@
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
 - [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
 - [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
