@@ -378,6 +378,7 @@
 - [univer](https://github.com/dream-num/univer) - 一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。[在线体验](https://univer.ai/playground)
 - [js-screen-shot](https://github.com/likaia/js-screen-shot) ![](https://img.shields.io/github/stars/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/forks/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/license/likaia/js-screen-shot) ![](https://img.shields.io/github/last-commit/likaia/js-screen-shot) - `web` 端自定义截图插件。[在线文档](https://www.kaisir.cn/js-screen-shot/)
 - [drawio](https://github.com/jgraph/drawio) - 一个用于通用图表的 `JavaScript` 客户端编辑器。[在线体验](https://app.diagrams.net/?src=about)
+- [tui.calendar](https://github.com/nhn/tui.calendar) - 功能齐全的 `JavaScript` 日历管理框架。[在线体验](https://ui.toast.com/tui-calendar)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -573,64 +574,36 @@
 ## 测试运维监控项目
 
 - [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
-
 - [hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
-
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 轻量级的**前端监控系统**，无埋点监控前端日志，实时分析前端健康状态。
-
 - [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
-
 - [Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
-
 - [rainbond](https://github.com/goodrain/rainbond) - **云原生应用管理平台**，使用简单，不需要懂容器、`Kubernetes` 和底层复杂技术，支持管理多个 `Kubernetes` 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。[在线文档](https://www.rainbond.com/docs/)
-
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 简易美观的**监控工具**。[在线体验](https://demo.uptime.kuma.pet:27000/)
-
 - [oshi](https://github.com/oshi/oshi) - 基于 `JNA`（本地）的免费的操作系统和硬件信息库，专为 `Java` 设计。它可以跨平台的获取系统信息以及硬件信息，如操作系统版本、进程、内存和 `CPU` 使用情况、磁盘和分区、设备、传感器等。[在线文档](https://www.oshi.ooo/)
-
 - [Ward](https://github.com/Rudolf-Barbu/Ward) - 一款简单、极简主义的服务器监控工具。`SpringBoot` 项目，集成 `OSHI` 的使用。
-
 - [spug](https://github.com/openspug/spug) - 面向中小型企业设计的轻量级无 `Agent` 的**自动化运维平台**，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。[在线体验](https://demo.spug.cc/) [在线文档](https://spug.cc/docs/about-spug/) 
-
 - [skywalking](https://github.com/apache/skywalking) - APM, 应用性能监控系统。[在线体验](http://demo.skywalking.apache.org/) [在线文档](https://skywalking.apache.org/docs/)
-
 - [pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM，（应用性能管理）工具，用于大规模分布式系统。[在线体验](http://125.209.240.10:10123/main) [在线文档](https://pinpoint-apm.gitbook.io/pinpoint/)
-
 - [serverless](https://github.com/serverless/serverless) - 无服务器框架，基于 `AWS Lambda`、`Azure Functions`、`Google CloudFunctions` 等无服务器架构构建网络、移动和物联网应用。[在线文档](https://cn.serverless.com/framework/docs)
-
 - [matomo](https://github.com/matomo-org/matomo) - 一款功能强大的开源 `web` 分析工具，可以帮助跟踪和理解网站的访问者行为，以及优化网站业务。提供了丰富的报告和实时数据分析功能，并提供了一套完整的隐私保护措施，确保用户数据安全。[在线体验](https://demo.matomo.cloud/)
-
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 `Linux` **服务器运维管理面板**。[在线体验](https://demo.1panel.cn/) [在线文档](https://1panel.cn/docs/)
-
 - [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
-
 - [dozzle](https://github.com/amir20/dozzle) - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
-
 - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - 一个针对高并发、低延迟应用设计的高性能 `Java` 性能监控和统计工具。
-
 - [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.dlww.cc:4433/)
-
 - [nightingale](https://github.com/ccfos/nightingale) - 告警管理专家，一体化的开源可观测平台。[在线文档](https://flashcat.cloud/docs/)
-
 - [jumpserver](https://github.com/jumpserver/jumpserver) - **开源堡垒机**，符合 4A 规范的专业**运维安全审计系统**。[在线体验](https://demo.jumpserver.org/) [在线文档](https://docs.jumpserver.org/zh/v3/)
-
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
-
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - 极简&高效的主机监控系统。[在线体验](http://101.35.223.197:9999/dash/main) [在线文档](https://www.wgstart.com/docs.html)
-
 - [statping-ng](https://github.com/statping-ng/statping-ng) - 针对任何类型项目的 `Web` 和应用程序状态监控。[在线文档](https://statping-ng.github.io/)
-
 - [orion-ops-pro](https://github.com/lijiahangmax/orion-ops-pro) - 一款现代化、高颜值的一站式智能运维管理平台。[在线体验](http://101.43.254.243:1081/workplace) [在线文档](https://lijiahangmax.github.io/orion-ops-pro/#/README)
-
 - [OpsManage](https://github.com/welliamcao/OpsManage) - 一款代码部署、应用部署、计划任务、设备资产管理平台。[在线体验](http://42.194.214.22:8000/)
-
 - [opendevops](https://github.com/opendevops-cn/opendevops) - 一款为用户提供企业多混合云、一站式 `DevOps`、自动化运维、完全开源的云管理平台、自动化运维平台。[在线体验](https://demo.opendevops.cn/login)
-
 - [ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控。[在线体验](https://tz.cloudcpp.com/)
-
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - `Nginx` 可视化配置工具。 [在线文档](https://docs.digitalocean.com/products/)
-
-- [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index) 
+- [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index)
+- [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
