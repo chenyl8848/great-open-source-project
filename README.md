@@ -69,6 +69,7 @@
   - [网络项目](#网络项目)
   - [`AI` 项目](#ai-项目)
   - [`ChatGPT` 项目](#chatgpt-项目)
+  - [高仿项目](#高仿项目)
   - [接口文档管理项目](#接口文档管理项目)
   - [知识管理项目](#知识管理项目)
   - [博客项目](#博客项目)
@@ -151,7 +152,7 @@
 - [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。[在线文档](https://x-file-storage.xuyanwu.cn/#/)
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
-- [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的api接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
+- [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
@@ -175,7 +176,7 @@
 - [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
-- [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似excel操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
+- [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 - [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 深入学习并实战 `Spring Boot` 的项目。
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
 - [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 一款基于代码生成器的**低代码开发平台**。[在线体验](http://boot3.jeecg.com/) [在线文档](https://www.jeecg.com/)
@@ -222,7 +223,6 @@
 - [zfile](https://github.com/zfile-dev/zfile) - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
 - [litemall](https://github.com/linlinjava/litemall) - 基于 `Spring Boot` 后端 + `Vue` 管理员前端 + 微信小程序用户前端 + `Vue` 用户移动端的**小商场系统**。[在线文档](https://linlinjava.gitbook.io/litemall)
 - [lilishop](https://github.com/lilishop/lilishop) - 商城系统，后端基于 `SpringBoot` 研发，前端使用  `Vue`、`uniapp` 开发， 前后端分离，支持分布式部署，支持 `Docker`，各个 `API` 独立。
-- [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
@@ -242,7 +242,6 @@
 ## `Vue2` 项目
 
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - **后台前端**解决方案，它基于 [Vue](https://github.com/vuejs/vue), [TypeScript](https://www.typescriptlang.org/) 和 [Element-UI](https://github.com/ElemeFE/element) 实现。[在线体验](https://armour.github.io/vue-typescript-admin-template/#/login?redirect=%2Fdashboard)
-- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
 - [Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 `Vue` 的在线音乐播放器。[在线体验](https://netease-music.fe-mm.com/#/music/historylist)
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - 基于`Vue2` + `Vue-Router` + `Vuex` 实现的移动端答题小项目。[在线体验](https://cangdu.org/happyfri/)
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - 百度地图 `Vue2` 组件库。[在线文档](https://dafrok.github.io/vue-baidu-map/#/)
@@ -254,10 +253,7 @@
 - [gridsome](https://github.com/gridsome/gridsome) -  轻松构建静态生成的网站和应用程序。[在线文档](https://gridsome.org/docs/)
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
 - [emoji](https://github.com/Wscats/emoji) - 基于 `Vue` 编写的 `Github` 表情包大全。[在线体验](https://wscats.github.io/emoji/omi/build/)
-- [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
-- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
-- [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
 - [filegator](https://github.com/filegator/filegator) - 强大的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
 - [Mall-Vue](https://github.com/PowerDos/Mall-Vue) - 一个基于 `Vue` + `Vuex` + `iView` 做的一个电商网站前端项目。[在线体验](https://powerdos.github.io/Mall-Vue/index.html#/)
 
@@ -281,7 +277,6 @@
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
 - [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` **前端框架**。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
-- [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
 - [polyglot](https://github.com/liou666/polyglot) - 桌面端 `AI` 语言练习应用。
 - [vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl) - 百度地图 `GL` 版 `Vue3` 组件库。[在线文档](https://yue1123.github.io/vue3-baidu-map-gl/zh-CN/)
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - `Vue3` + `Vite4` + `Element-Plus` + `TypeScript` 编写的一款后台管理系统。[在线体验](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
@@ -297,9 +292,7 @@
 - [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - `RuoYi` `Vue3` 版本。[在线体验](https://vue.ruoyi.vip/login?redirect=%2Findex) [在线文档](https://doc.ruoyi.vip/)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - `Vue3` 全家桶 + `Vant` 搭建大型单页面商城项目。[在线体验](http://47.99.134.126:5008/#/home)
 - [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu) - `Nuxt3` + `Vue3` 实战在线教育 `SSR` 网站。
-- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
-- [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
 - [nova-admin](https://github.com/chansee97/nova-admin) - 一个简洁、干净的中后台管理模板。[在线体验](https://nova-admin-site.netlify.app/dashboard/workbench) [在线文档](https://nova-admin-docs.netlify.app/zh/)
 - [pictode](https://github.com/JessYan0913/pictode) - 一个基于 `Vue3`、`TypeScript`、`Konva`、`HeadlessUI` 和 `Tailwind CSS` 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
@@ -323,7 +316,6 @@
 
 ## `React` 项目
 - [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
-- [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
@@ -442,7 +434,6 @@
 - [mica](https://github.com/lets-mica/mica) - `Spring Cloud` 微服务开发核心工具集。
 - [novel-cloud](https://github.com/201206030/novel-cloud) - 基于 `novel` 构建的 `Spring Cloud` 微服务技术栈学习型小说项目。
 - [iot-dc3](https://github.com/pnoker/iot-dc3) - 基于 `Spring Cloud` 的开源可分布式物联网 (`IOT`) 平台。[在线文档](https://doc.dc3.site/)
-- [yanhuo_dev](https://gitee.com/xzjsccz/yanhuo_dev) - 一个基于微服务架构的前后端分离仿小红书项目。
 - [youlai-mall](https://github.com/youlaitech/youlai-mall) - 基于 `Spring Boot 3`、`Spring Cloud & Alibaba 2022`、`SAS OAuth2` 、`Vue3`、`Element-Plus`、`uni-app` 构建的开源全栈商城。[在线文档](https://www.youlai.tech/) [在线体验](https://admin.youlai.tech/#/dashboard)
 - [mfish-nocode](https://github.com/mfish-qf/mfish-nocode) - 基于 `SpringBoot3` + `Spring Cloud Alibaba` 实现的摸鱼低代码平台。[在线体验](http://app.mfish.com.cn:11119/dashboard/workbench) [在线文档](https://www.mfish.com.cn/)
 - [springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的 `Spring Cloud` 教程。[在线文档](https://www.macrozheng.com/cloud/cloud_catalog.html)
@@ -645,6 +636,21 @@
 - [ChatGemini](https://github.com/bclswl0827/ChatGemini) - 一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图。[在线体验](http://ibcl.us/ChatGemini/)
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui) - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+## 高仿项目
+
+- [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
+- [yanhuo_dev](https://gitee.com/xzjsccz/yanhuo_dev) - 一个基于微服务架构的前后端分离仿小红书项目。
+- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
+- [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
+- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
+- [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
+- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
+- [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
+- [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
