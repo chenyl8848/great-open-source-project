@@ -277,7 +277,6 @@
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
 - [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` **前端框架**。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
-- [polyglot](https://github.com/liou666/polyglot) - 桌面端 `AI` 语言练习应用。
 - [vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl) - 百度地图 `GL` 版 `Vue3` 组件库。[在线文档](https://yue1123.github.io/vue3-baidu-map-gl/zh-CN/)
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - `Vue3` + `Vite4` + `Element-Plus` + `TypeScript` 编写的一款后台管理系统。[在线体验](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - `Vue` 后台管理。[在线体验](https://vue-admin-beautiful.com/shop-vite/)
@@ -602,6 +601,7 @@
 ## 网络项目
 
 - [SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
+- [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -623,7 +623,6 @@
 - [openui](https://github.com/wandb/openui) - 网页构建工具。[在线体验](https://openui.fly.dev/ai/new)
 - [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - 一款基于 `Gradio` 的图像生成软件。
-- [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/forks/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/license/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/last-commit/netease-youdao/EmotiVoice) - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [video2x](https://github.com/k4yt3x/video2x) - 视频、`Gif` 和图像无损放大工具。
 - [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 开源 `AI` 图像放大与增强工具。[在线体验](https://clarityai.co/dashboard)
@@ -636,6 +635,8 @@
 - [ChatGemini](https://github.com/bclswl0827/ChatGemini) - 一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图。[在线体验](http://ibcl.us/ChatGemini/)
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui) - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
+- [polyglot](https://github.com/liou666/polyglot) - 跨平台 `AI` 语言练习应用。[在线体验](https://polyglotai.xyz/)
+- [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -852,6 +853,7 @@
 - [cat-catch](https://github.com/xifangczy/cat-catch) - 一个音乐/视频地址解析下载插件。
 - [github-chinese](https://github.com/maboloshi/github-chinese) - `GitHub` 中文化插件。
 - [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
+- [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -892,7 +894,6 @@
 - [immich](https://github.com/immich-app/immich) - 高性能的自托管照片和视频备份应用。[在线体验](https://demo.immich.app/)
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
-- [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
@@ -903,7 +904,6 @@
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
 - [tldraw](https://github.com/tldraw/tldraw) - 一个轻量级的画图工具。[在线体验](https://www.tldraw.com/)
 - [quiver](https://github.com/varkor/quiver) - 一个现代的网络交换图编辑器。[在线体验](https://q.uiver.app/)
-- [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具。支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
@@ -914,7 +914,6 @@
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [server](https://github.com/screego/server) - 浏览器屏幕共享工具。[在线体验](https://app.screego.net/) [在线文档](https://screego.net/#/)
-- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - `Github` 年度代码统计生成视频工具。[在线体验](https://www.githubunwrapped.com/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
@@ -958,6 +957,7 @@
 - [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
 - [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
+- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
