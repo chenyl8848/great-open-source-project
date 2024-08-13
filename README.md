@@ -115,6 +115,7 @@
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 天 `Python` 编程学习挑战。
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) ![](https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/forks/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/license/d2l-ai/d2l-zh) ![](https://img.shields.io/github/last-commit/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。[在线体验](http://zh.d2l.ai/index.html)
 - [PPHC](https://github.com/johnlui/PPHC) - 《高并发的哲学原理》开源图书。[在线体验](https://pphc.lvwenhan.com/)
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -731,6 +732,7 @@
 - [chat-system](https://github.com/likaia/chat-system) - 一个在线聊天系统，最大程度的还原了 `Mac` 客户端 `QQ`. [在线体验](https://www.kaisir.cn/chat-system/index.html#/login)
 - [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue 3` 和 `TypeScript` 构建的即时通讯系统。
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
+- [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
