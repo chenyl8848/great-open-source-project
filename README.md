@@ -653,6 +653,7 @@
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
 - [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
 - [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
+- [vue-meituan](https://github.com/zwStar/vue-meituan) - `Vue` + `Node` + `MongoDB` 仿美团外卖点餐系统带支付功能。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
