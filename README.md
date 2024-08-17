@@ -228,7 +228,7 @@
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 - [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
-- [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `Spring Boot 3` + `Vue 3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
+- [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
 - [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
 - [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
 - [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
@@ -268,7 +268,7 @@
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 免费开源的**中后台模版**，基于`Vue3`, `Vite2`,`TypeScript` 等主流技术开发，开箱即用的**中后台前端**解决方案。[在线体验](https://vben.vvbin.cn/#/login?redirect=/dashboard)
 - [paopao-ce](https://github.com/rocboss/paopao-ce) - 基于 `gin` + `zinc` + `vue` + `ts`  的清新文艺**微社区**。[在线体验](https://www.paopao.info/#/)
 - [vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin) - 基于 `Vue3` + `ElementPlus` + `Typescript` + `Vite` 搭建的**后台管理模板**；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等。[在线体验](https://geekqiaqia.github.io/vue3.0-template-admin/#/login?redirect=/home)
-- [yuindex](https://github.com/liyupi/yuindex) - 极客范儿的浏览器主页 ，`Vue 3` + `Node.js` 全栈项目，自实现 `web` 终端 + **命令系统**。[在线体验](https://yuindex.com/)
+- [yuindex](https://github.com/liyupi/yuindex) - 极客范儿的浏览器主页 ，`Vue3` + `Node.js` 全栈项目，自实现 `web` 终端 + **命令系统**。[在线体验](https://yuindex.com/)
 - [vue3-element-plus-admin](https://github.com/gmingchen/vue3-element-plus-admin) - 基于 `Vue3` + `Element-Plus` + `Java` 的多企业后台权限管理系统，提供了完善的权限体系，可以用于**网站管理后台**、`SAAS`、`CMS`、`CRM`、`OA`、`ERP`等，企业和个人都可以免费使用。[在线体验](http://admin.gumingchen.icu/) [在线文档](http://admin.gumingchen.icu/doc/)
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin) - 基于`Vue3`、`Vite3`、`TypeScript`、`NaiveUI` 和 `UnoCSS` 的清新优雅的**中后台模版**。[在线体验](https://soybean.pro/#/login?redirect=/dashboard/analysis) [在线文档](https://docs.soybean.pro/)
 - [cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 一个很酷的**后台权限管理框架**，模块化、插件化、CRUD极速开发，永久开源免费，基于`midway.js 3.0`、`typeorm`、`mysql`、`jwt`、`element-ui`、`vuex`、`vue-router`、`vue` 等构建。[在线体验](https://show.cool-admin.com/)  账户：`admin`，密码：`123456` [在线文档](https://cool-js.com/)
@@ -306,10 +306,11 @@
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 - [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
-- [vue-flow](https://github.com/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/forks/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/license/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow) - 高度可定制的 `Vue 3` 流程图组件。[在线文档](https://vueflow.dev/)
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/forks/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/license/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
 - [undraw-ui](https://github.com/readpage/undraw-ui) ![](https://img.shields.io/github/stars/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/forks/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/license/readpage/undraw-ui) ![](https://img.shields.io/github/last-commit/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
 - [MyIP](https://github.com/jason5ng32/MyIP) - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
 - [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
+- [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -702,7 +703,7 @@
 - [NBlog](https://github.com/Naccl/NBlog) -  `Spring Boot` + `Vue` 前后端分离博客系统。[在线体验](https://naccl.top/home)
 - [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
 - [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
-- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `Spring Boot` + `Vue 3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
+- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `SpringBoot` + `Vue3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 - [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
 - [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
@@ -732,7 +733,7 @@
 - [j-im](https://gitee.com/xchao/j-im) - 用 `Java` 语言开发的轻量、高性能、单机支持几十万至百万在线用户 IM.
 - [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一套专为移动端开发的原创 IM 通信层框架。
 - [chat-system](https://github.com/likaia/chat-system) - 一个在线聊天系统，最大程度的还原了 `Mac` 客户端 `QQ`. [在线体验](https://www.kaisir.cn/chat-system/index.html#/login)
-- [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue 3` 和 `TypeScript` 构建的即时通讯系统。
+- [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue3` 和 `TypeScript` 构建的即时通讯系统。
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
 - [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
 
@@ -842,6 +843,7 @@
 - [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
 - [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
+- ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -876,12 +878,10 @@
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [screenity](https://github.com/alyssaxuu/screenity) - 适用于 `Chrome` 的强大的屏幕记录器和注释工具。
 - [sioyek](https://github.com/ahrm/sioyek) - 一个专注于技术书籍和研究论文的 `PDF` 阅读器。[在线文档](https://sioyek-documentation.readthedocs.io/en/latest/)
-- [meilisearch](https://github.com/meilisearch/meilisearch) - 一个适配应用程序、网站、工作流的快速搜索引擎。[在线体验](https://where2watch.meilisearch.com/) [在线文档](https://www.meilisearch.com/docs) 
-- [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。
+- [meilisearch](https://github.com/meilisearch/meilisearch) - 一个适配应用程序、网站、工作流的快速搜索引擎。[在线体验](https://where2watch.meilisearch.com/) [在线文档](https://www.meilisearch.com/docs)
 - ~~[lama-cleaner](https://github.com/Sanster/lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)~~
 - [IOPaint](https://github.com/Sanster/IOPaint) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://huggingface.co/spaces/Sanster/iopaint-lama) [在线文档](https://www.iopaint.com/)
 - [Gource](https://github.com/acaudwell/Gource) - 一个用于**可视化软件版本控制历史的工具**。它能够生成令人印象深刻的演示视频，展示代码库的演化过程。
-- [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - 一个为 `docsify.js` 设计的**简单主题系统**，具有丰富的自定义选项的多个主题，改进的桌面和移动体验，以及对传统浏览器的支持（ `IE11+` ）。[在线体验](https://jhildenbiddle.github.io/docsify-themeable)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - `QtScrcpy` 可以通过 `USB` /网络连接 `Android` 设备，并进行显示和控制。无需 `root` 权限。同时支持 `GNU/Linux`，`Windows` 和 `MacOS` 三大主流桌面平台。
@@ -1013,7 +1013,7 @@
 - [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 - [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
-- [chinese-independent-developer/](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
 - [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
