@@ -514,6 +514,7 @@
 - [xpay](https://github.com/Exrick/xpay) - 个人免签收款支付系统。完全免费，资金直接到达本人账号，支持支付宝/微信/QQ/云闪付，无需备案，无需签约，无需挂机监控APP，无需插件，无需第三方支付 `SDK`，无需营业执照身份证，只需收款码，搞定支付流程，现已支持移动端支付。
 - [IJPay](https://github.com/Javen205/IJPay) - 让支付触手可及，封装了微信支付、`QQ` 支付、支付宝支付、京东支付、银联支付、`PayPal` 支付等常用的支付方式以及各种常用的接口。[在线文档](https://javen205.gitee.io/ijpay/)
 - [dax-pay](https://github.com/dromara/dax-pay) - 免费开源的支付网关，支持支付宝、微信、云闪付等通道。[在线体验](https://daxpay.demo.bootx.cn/#/dashboard/analysis)
+- [payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付、`V3` 支付 `Spring Boot Starter`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -840,6 +841,7 @@
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。
 - [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
 - [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
+- [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
