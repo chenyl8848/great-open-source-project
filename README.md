@@ -299,7 +299,7 @@
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey) - 一套轻量、安全的**问卷系统基座**，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
 - [teriteri-client](https://github.com/xunlu129/teriteri-client) - 一个基于 `Vue3` 搭建的视频网站平台客户端。
-- [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 一个基于 `Vue3`、`Vite4`、`ant-design-vue4`、`Pinia`、`UnoCSS` 和 `Typescript` 的一整套企业级中后台前端/设计解决方案。[在线体验](https://antdv-pro.com/dashboard/analysis)
+- [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 一个基于 `Vue3`、`Vite4`、`ant-design-vue4`、`Pinia`、`UnoCSS` 和 `Typescript` 的一整套企业级中后台前端/设计解决方案。[在线体验](https://antdv-pro.com/dashboard/analysis) [在线文档](https://docs.antdv-pro.com/)
 - [varlet-app-template](https://github.com/varletjs/varlet-app-template) - 一个开箱即用的轻量化移动端 Web 模板，基于 `Vue3`、 `Varlet`、 `Vite`、`Typescript` 开发。[在线体验](https://varlet-app-template.vercel.app/)
 - [typing-word](https://github.com/zyronon/typing-word) - 可在网页上使用的背单词软件。[在线体验](https://typing-word.ttentau.top/#/practice)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
