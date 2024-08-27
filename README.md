@@ -313,6 +313,7 @@
 - [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [tools-web](https://github.com/naroat/tools-web) - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
+- [logoly](https://github.com/bestony/logoly) - 一个 `Pornhub` 风格的 `Logo` 生成器。[在线体验](https://www.logoly.pro/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -658,6 +659,7 @@
 - [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
 - [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 - [vue-meituan](https://github.com/zwStar/vue-meituan) - `Vue` + `Node` + `MongoDB` 仿美团外卖点餐系统带支付功能。
+- [vue-store](https://github.com/hai-27/vue-store) - 基于 `Vue` + `Vue-Router` + `Vuex` + `Element-UI` + `Axios`，仿小米商城实现的**电商项目**。[在线体验](http://8.141.3.248/#/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -846,6 +848,7 @@
 - [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
 - ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) - `Telegram` 桌面端应用程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
