@@ -258,6 +258,7 @@
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
 - [filegator](https://github.com/filegator/filegator) - 强大的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
 - [Mall-Vue](https://github.com/PowerDos/Mall-Vue) - 一个基于 `Vue` + `Vuex` + `iView` 做的一个电商网站前端项目。[在线体验](https://powerdos.github.io/Mall-Vue/index.html#/)
+- [folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -314,6 +315,7 @@
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [tools-web](https://github.com/naroat/tools-web) - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
 - [logoly](https://github.com/bestony/logoly) - 一个 `Pornhub` 风格的 `Logo` 生成器。[在线体验](https://www.logoly.pro/)
+- [form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的 `Vue` 可视化表单设计器，可以通过拖拽的方式快速创建表单。[在线体验](https://form-create.com/v3/designer/) [在线文档](https://view.form-create.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1026,6 +1028,7 @@
 - [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
 - [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
