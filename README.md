@@ -851,6 +851,7 @@
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
 - ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - `Telegram` 桌面端应用程序。
+- [EcoPaste](https://github.com/ayangweb/EcoPaste) - 适用于 `Windows`、`MacOS` 和 `Linux` 的开源**剪贴板管理工具**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1029,6 +1030,7 @@
 - [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记。
+- [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
