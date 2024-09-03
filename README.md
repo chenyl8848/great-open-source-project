@@ -165,6 +165,7 @@
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 设计模式 `Java` 版。
 - [gushici](https://github.com/xenv/gushici) ![](https://img.shields.io/github/stars/xenv/gushici?style=social) ![](https://img.shields.io/github/forks/xenv/gushici?style=social) ![](https://img.shields.io/github/license/xenv/gushici) ![](https://img.shields.io/github/last-commit/xenv/gushici) - 采用 `Vert.x` + `Redis` 全异步开发的一个可以随机返回一句古诗词名句的接口。[在线文档](https://www.jinrishici.com/)
 - [xJavaFxTool](https://github.com/864381832/xJavaFxTool) - 基于 `JavaFx` 搭建的实用小工具集合。
+- [bestJavaer](https://github.com/crisxuan/bestJavaer) - 一个成为更好的 `Java` 程序员的系列教程。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -203,6 +204,7 @@
 - [magic-api](https://github.com/ssssssss-team/magic-api) - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
 - [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
 - [tduck-platform](https://github.com/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/forks/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/license/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/last-commit/TDuckCloud/tduck-platform) - 填鸭表单问卷系统。[在线体验](https://demo.tduckapp.com/home) [在线文档](https://doc.tduckcloud.com/openSource/index.html)
+- [smart-sso](https://github.com/a466350665/smart-sso) - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -334,6 +336,7 @@
 - [pic-smaller](https://github.com/joye61/pic-smaller) - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
 - [Cap](https://github.com/CapSoftware/Cap) - 一款简单易用的分享和录制屏幕视频工具。[在线体验](https://cap.so/)
 - [dber](https://github.com/findyourmagic/dber) - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
+- [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -509,6 +512,7 @@
 - [pinche_xcx](https://github.com/vincenth520/pinche_xcx) - **同城拼车**微信小程序。
 - [weapp-library](https://github.com/imageslr/weapp-library) - **在线借书平台**微信小程序。[在线文档](https://imageslr.github.io/weapp-library/)
 - [QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 微信小程序，考试小程序，答题小程序，刷题小程序。
+- [yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) - 一款全面的**校园教务查询微信小程序**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
