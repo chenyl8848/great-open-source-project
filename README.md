@@ -318,6 +318,7 @@
 - [tools-web](https://github.com/naroat/tools-web) - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
 - [logoly](https://github.com/bestony/logoly) - 一个 `Pornhub` 风格的 `Logo` 生成器。[在线体验](https://www.logoly.pro/)
 - [form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的 `Vue` 可视化表单设计器，可以通过拖拽的方式快速创建表单。[在线体验](https://form-create.com/v3/designer/) [在线文档](https://view.form-create.com/)
+- [annotree](https://github.com/itchaox/annotree) - 生成文件夹目录注释树。[在线文档](https://www.annotree.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
