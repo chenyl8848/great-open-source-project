@@ -960,6 +960,7 @@
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - 使用浏览器的在线图片格式转化器。[在线体验](https://imagestool.com/webp2jpg-online/)
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
 - [pintree](https://github.com/Pintree-io/pintree) - 通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
+- [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
