@@ -339,6 +339,7 @@
 - [Cap](https://github.com/CapSoftware/Cap) - 一款简单易用的分享和录制屏幕视频工具。[在线体验](https://cap.so/)
 - [dber](https://github.com/findyourmagic/dber) - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
 - [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
+- [aspoem](https://github.com/meetqy/aspoem) - 现代化诗词学习网站，一个更加注重UI和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
