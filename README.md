@@ -80,7 +80,7 @@
   - [浏览器插件项目](#浏览器插件项目)
   - [工具项目](#工具项目)
   - [下载工具项目](#下载工具项目)
-  - [集合项目](#集合项目)
+  - [合集项目](#合集项目)
 
 ## 编程语言项目
 
@@ -985,7 +985,7 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
-## 集合项目
+## 合集项目
 
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - 优秀**中文项目集合**，可以无语言障碍地、更高效地吸收优秀经验成果。
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 `GitHub` 上高质量、有趣的**开源项目**，并将他们进行归类。
@@ -1041,6 +1041,7 @@
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记。
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
+- [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
