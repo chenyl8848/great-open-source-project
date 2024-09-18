@@ -240,7 +240,7 @@
 - [entfrm-boot](https://gitee.com/entfrm/entfrm-boot) ![](https://gitee.com/entfrm/entfrm-boot/badge/star.svg?theme=dark) ![](https://gitee.com/entfrm/entfrm-boot/badge/fork.svg?theme=dark) - 一个以模块化为核心的无代码开发平台。
 - [Guns](https://github.com/stylefeng/Guns) - 一个现代化的 `Java` 应用开发框架，基于主流技术 `SpringBoot2` + `Vue3`. [在线文档](https://www.javaguns.com/gunsDoc?categoryId=1504358893655011330&artId=1504360559456399362)
 - [music-website](https://github.com/Yin-Hongwei/music-website) - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
-- [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 基于 `Spring Boot` 的在线考试系统。
+- [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
