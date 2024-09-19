@@ -321,6 +321,7 @@
 - [logoly](https://github.com/bestony/logoly) - 一个 `Pornhub` 风格的 `Logo` 生成器。[在线体验](https://www.logoly.pro/)
 - [form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的 `Vue` 可视化表单设计器，可以通过拖拽的方式快速创建表单。[在线体验](https://form-create.com/v3/designer/) [在线文档](https://view.form-create.com/)
 - [annotree](https://github.com/itchaox/annotree) - 生成文件夹目录注释树。[在线文档](https://www.annotree.com/)
+- [tts-vue](https://github.com/LokerL/tts-vue) - 基于 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建的**微软语音合成工具**。[在线文档](https://tts-doc.loker.vip/home.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -517,6 +518,10 @@
 - [weapp-library](https://github.com/imageslr/weapp-library) - **在线借书平台**微信小程序。[在线文档](https://imageslr.github.io/weapp-library/)
 - [QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 微信小程序，考试小程序，答题小程序，刷题小程序。
 - [yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) - 一款全面的**校园教务查询微信小程序**。
+- [ddrun](https://gitee.com/landalfyao/ddrun) - 一套**跑腿下单接单**系统。
+- [yshop-drink](https://github.com/guchengwuyue/yshop-drink) - 一个**在线点餐**小程序，支持多门店模式，`SaaS` 多租户模式。
+- [qdpz](https://gitee.com/kevin_chou/qdpz) - 一个常用小程序功能的集合，基于 `Vue` 实现，使用 `colorUi` 与 `uView`，完美支持微信小程序。
+- [linfeng-community](https://gitee.com/virus010101/linfeng-community) - 一个基于 `SpringBoot`、`MybatisPlus`、`Redis`、`Vue`、`Uniapp` 的前后端分离的**社交论坛问答发帖**/`BBS`，`SNS` 项目。[在线文档](https://www.kancloud.cn/linfengkj/linfeng_community/2754703)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -861,6 +866,7 @@
 - ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - `Telegram` 桌面端应用程序。
 - [EcoPaste](https://github.com/ayangweb/EcoPaste) - 适用于 `Windows`、`MacOS` 和 `Linux` 的开源**剪贴板管理工具**。
+- [gif123](https://github.com/aardio/gif123) - 极简 `GIF` **录屏工具**，可一键快速复制 `GIF` 图像并直接粘贴到其他程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
