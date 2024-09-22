@@ -615,6 +615,7 @@
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - `Nginx` 可视化配置工具。 [在线文档](https://docs.digitalocean.com/products/)
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index)
 - [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
+- [certimate](https://github.com/usual2970/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
