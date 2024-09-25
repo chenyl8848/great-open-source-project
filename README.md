@@ -80,6 +80,7 @@
   - [浏览器插件项目](#浏览器插件项目)
   - [工具项目](#工具项目)
   - [下载工具项目](#下载工具项目)
+  - [游戏项目](#游戏项目)
   - [合集项目](#合集项目)
 
 ## 编程语言项目
@@ -990,6 +991,13 @@
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
 - [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 游戏项目
+
+- [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
