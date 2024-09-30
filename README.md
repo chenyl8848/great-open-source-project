@@ -618,6 +618,7 @@
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index)
 - [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
 - [certimate](https://github.com/usual2970/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
+- [SamWaf](https://github.com/samwafgo/SamWaf) - 一款开源轻量级的网站**应用防火墙**。[在线文档](https://doc.samwaf.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -652,6 +653,7 @@
 - [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 开源 `AI` 图像放大与增强工具。[在线体验](https://clarityai.co/dashboard)
 - [MinerU](https://github.com/opendatalab/MinerU) - 一站式开源高质量数据提取工具，支持 `PDF`/网页/多格式电子书提取。[在线文档](https://opendatalab.com/docs/datasets/?channel=datasets)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的AI证件照制作算法。[在线体验](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
+- [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -732,6 +734,7 @@
 - [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
 - [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
 - [OneBlog](https://github.com/zhangyd-c/OneBlog) - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
+- [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
