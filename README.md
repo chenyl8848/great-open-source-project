@@ -1065,6 +1065,7 @@
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
+- [cskaoyan](https://github.com/csseky/cskaoyan) - 计算机考研和软件工程考研专业的各个学校**考研真题**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
