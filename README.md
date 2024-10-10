@@ -81,6 +81,10 @@
   - [工具项目](#工具项目)
   - [下载工具项目](#下载工具项目)
   - [游戏项目](#游戏项目)
+  - [计算机考研项目](#计算机考研项目)
+  - [考公项目](#考公项目)
+  - [副业赚钱项目](#副业赚钱项目)
+  - [程序员项目](#程序员项目)
   - [合集项目](#合集项目)
 
 ## 编程语言项目
@@ -610,7 +614,7 @@
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - 极简&高效的主机监控系统。[在线体验](http://101.35.223.197:9999/dash/main) [在线文档](https://www.wgstart.com/docs.html)
 - [statping-ng](https://github.com/statping-ng/statping-ng) - 针对任何类型项目的 `Web` 和应用程序状态监控。[在线文档](https://statping-ng.github.io/)
-- [orion-ops-pro](https://github.com/lijiahangmax/orion-ops-pro) - 一款现代化、高颜值的一站式智能运维管理平台。[在线体验](http://101.43.254.243:1081/workplace) [在线文档](https://lijiahangmax.github.io/orion-ops-pro/#/README)
+- [orion-visor](https://github.com/dromara/orion-visor) - 一款现代化、高颜值的一站式智能运维管理平台。[在线体验](https://dv.orionsec.cn/) [在线文档](https://visor.orionsec.cn/)
 - [OpsManage](https://github.com/welliamcao/OpsManage) - 一款代码部署、应用部署、计划任务、设备资产管理平台。[在线体验](http://42.194.214.22:8000/)
 - [opendevops](https://github.com/opendevops-cn/opendevops) - 一款为用户提供企业多混合云、一站式 `DevOps`、自动化运维、完全开源的云管理平台、自动化运维平台。[在线体验](https://demo.opendevops.cn/login)
 - [ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控。[在线体验](https://tz.cloudcpp.com/)
@@ -1009,29 +1013,62 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
+## 计算机考研项目
+
+- [cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验、资源和 `OneNote` 笔记。
+- [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
+- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课(408)思维导图和笔记。
+- [cskaoyan](https://github.com/csseky/cskaoyan) - 计算机考研和软件工程考研专业的各个学校**考研真题**。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 考公项目
+
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南。
+- [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 副业赚钱项目
+
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 整理记录程序员如何优雅的**挣零花钱**。
+- [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - `AI` 副业赚钱大集合。
+- [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
+- [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具。
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
+- [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 程序员项目
+
+- [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
+- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
+- [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
 ## 合集项目
 
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - 优秀**中文项目集合**，可以无语言障碍地、更高效地吸收优秀经验成果。
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 `GitHub` 上高质量、有趣的**开源项目**，并将他们进行归类。
 - [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个**包管理器**，**系统镜像**，以及常用软件的好用镜像。
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 整理记录程序员如何优雅的**挣零花钱**。
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 基于 `docsify` 实现的网站集合。
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
-- [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
 - [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。
-- [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南。
-- [cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验、资源和 `OneNote` 笔记。
 - [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
 - [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
-- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
 - [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆。[在线体验](https://gh.sunguoqi.com/Awesome-Love-Code/)
 - [awesome-python](https://github.com/vinta/awesome-python) - 精选的 `Python` 框架、项目。[在线体验](https://awesome-python.com/)
-- [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - `AI` 副业赚钱大集合。
 - [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - 各种编程语言、框架和工具的路线图集合。
 - [public-apis](https://github.com/public-apis/public-apis) - 免费的 `API` 接口集合。
 - [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - `ChatGPT` 集合项目。
@@ -1039,12 +1076,10 @@
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [free-api](https://github.com/fangzesheng/free-api) - 免费的接口服务集合。[在线体验](https://www.free-api.com/)
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - `Api` 接口集合。
-- [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具。
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - `Java` 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等。
 - [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms漏洞利用工具，爆破工具、内网横向及免杀、社工钓鱼以及应急响应等资料。
 - [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - `GitHub` 最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。[在线体验](https://helloqingfeng.github.io/front-end-index/index.html)
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合。[在线体验](https://v2fy.com/asset/0i/ChineseBQB/)
-- [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总。
 - [ins](https://github.com/zhaoolee/ins) - 开源**灵感**数据库，免费无广告。
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - `Vue` 相关开源项目库汇总。
@@ -1055,18 +1090,11 @@
 - [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 - [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
-- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
-- [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 程序员如何优雅地做副业。[在线文档](https://r.ftqq.com/lean-side-bussiness/index.html)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
-- [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
-- [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
-- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记。
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
-- [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
-- [cskaoyan](https://github.com/csseky/cskaoyan) - 计算机考研和软件工程考研专业的各个学校**考研真题**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
