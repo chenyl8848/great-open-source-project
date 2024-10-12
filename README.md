@@ -767,6 +767,7 @@
 - [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue3` 和 `TypeScript` 构建的即时通讯系统。
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
 - [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
+- [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -897,6 +898,7 @@
 - [github-chinese](https://github.com/maboloshi/github-chinese) - `GitHub` 中文化插件。
 - [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
+- [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
