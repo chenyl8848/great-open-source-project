@@ -881,6 +881,7 @@
 - [gif123](https://github.com/aardio/gif123) - 极简 `GIF` **录屏工具**，可一键快速复制 `GIF` 图像并直接粘贴到其他程序。
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
 - [PeaZip](https://github.com/peazip/PeaZip) - 一款免费且开源的文件压缩与解压工具。
+- [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
