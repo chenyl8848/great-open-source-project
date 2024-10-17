@@ -247,6 +247,7 @@
 - [Guns](https://github.com/stylefeng/Guns) - 一个现代化的 `Java` 应用开发框架，基于主流技术 `SpringBoot2` + `Vue3`. [在线文档](https://www.javaguns.com/gunsDoc?categoryId=1504358893655011330&artId=1504360559456399362)
 - [music-website](https://github.com/Yin-Hongwei/music-website) - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
+- [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -621,6 +622,8 @@
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - `Nginx` 可视化配置工具。 [在线文档](https://docs.digitalocean.com/products/)
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index)
 - [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
+- [nginx-ui](https://github.com/0xJacky/nginx-ui) - `Nginx` 网络管理界面。[在线体验](https://demo.nginxui.com)
+- [easynode](https://github.com/chaos-zhu/easynode) - 一个 `Linux` 服务器 `Web SSH` 面板。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -800,6 +803,7 @@
 - [tinymce](https://github.com/tinymce/tinymce) - 富文本编辑 `JavaScript` 库。[在线文档](https://www.tiny.cloud/docs/tinymce/latest/)
 - [editor.js](https://github.com/codex-team/editor.js) - 块样式编辑器，采用的是独特的一套 `Json` 数据结构。[在线体验](https://editorjs.io/getting-started/)
 - [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
+- [batnoter](https://github.com/batnoter/batnoter) - 一个开源、基于 `Markdown`、自托管的笔记 `Web` 应用程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -882,6 +886,7 @@
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
 - [PeaZip](https://github.com/peazip/PeaZip) - 一款免费且开源的文件压缩与解压工具。
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
