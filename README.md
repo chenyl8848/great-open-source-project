@@ -804,6 +804,7 @@
 - [editor.js](https://github.com/codex-team/editor.js) - 块样式编辑器，采用的是独特的一套 `Json` 数据结构。[在线体验](https://editorjs.io/getting-started/)
 - [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
 - [batnoter](https://github.com/batnoter/batnoter) - 一个开源、基于 `Markdown`、自托管的笔记 `Web` 应用程序。
+- [hedgedoc](https://github.com/hedgedoc/hedgedoc) - 一个开源、基于网页、自托管的协作 `Markdown` 编辑器。[在线文档](https://docs.hedgedoc.org/setup/getting-started/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -887,6 +888,7 @@
 - [PeaZip](https://github.com/peazip/PeaZip) - 一款免费且开源的文件压缩与解压工具。
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
+- [massCode](https://github.com/massCodeIO/massCode) - 一个免费开源的跨平台代码片段管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
