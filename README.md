@@ -211,6 +211,7 @@
 - [tduck-platform](https://github.com/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/forks/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/license/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/last-commit/TDuckCloud/tduck-platform) - 填鸭表单问卷系统。[在线体验](https://demo.tduckapp.com/home) [在线文档](https://doc.tduckcloud.com/openSource/index.html)
 - [smart-sso](https://github.com/a466350665/smart-sso) - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
 - [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
+- [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -458,6 +459,7 @@
 - [youlai-mall](https://github.com/youlaitech/youlai-mall) - 基于 `Spring Boot 3`、`Spring Cloud & Alibaba 2022`、`SAS OAuth2` 、`Vue3`、`Element-Plus`、`uni-app` 构建的开源全栈商城。[在线文档](https://www.youlai.tech/) [在线体验](https://admin.youlai.tech/#/dashboard)
 - [mfish-nocode](https://github.com/mfish-qf/mfish-nocode) - 基于 `SpringBoot3` + `Spring Cloud Alibaba` 实现的摸鱼低代码平台。[在线体验](http://app.mfish.com.cn:11119/dashboard/workbench) [在线文档](https://www.mfish.com.cn/)
 - [springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的 `Spring Cloud` 教程。[在线文档](https://www.macrozheng.com/cloud/cloud_catalog.html)
+- [shortlink](https://github.com/nageoffer/shortlink) - `SaaS` 短链接系统，承载高并发和海量存储等场景难题。[在线体验](http://shortlink.nageoffer.com/home/space) [在线文档](https://nageoffer.com/shortlink/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -889,6 +891,7 @@
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
 - [massCode](https://github.com/massCodeIO/massCode) - 一个免费开源的跨平台代码片段管理工具。
+- [TV](https://github.com/Guovin/TV) - `IPTV` 电视直播源更新工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -907,6 +910,7 @@
 - [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 - [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
+- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
