@@ -808,6 +808,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
 - [batnoter](https://github.com/batnoter/batnoter) - 一个开源、基于 `Markdown`、自托管的笔记 `Web` 应用程序。
 - [hedgedoc](https://github.com/hedgedoc/hedgedoc) - 一个开源、基于网页、自托管的协作 `Markdown` 编辑器。[在线文档](https://docs.hedgedoc.org/setup/getting-started/)
+- [MiaoYan](https://github.com/tw93/MiaoYan) - 轻灵的 `Markdown` 笔记本伴你写出妙言。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
