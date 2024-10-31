@@ -431,6 +431,7 @@
 - [nocodb](https://github.com/nocodb/nocodb) ![](https://img.shields.io/github/stars/nocodb/nocodb?style=social) ![](https://img.shields.io/github/forks/nocodb/nocodb?style=social) ![](https://img.shields.io/github/license/nocodb/nocodb) ![](https://img.shields.io/github/last-commit/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
 - [talk](https://github.com/vasanthv/talk) ![](https://img.shields.io/github/stars/vasanthv/talk?style=social) ![](https://img.shields.io/github/forks/vasanthv/talk?style=social) ![](https://img.shields.io/github/license/vasanthv/talk) ![](https://img.shields.io/github/last-commit/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
 - [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
+- [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
