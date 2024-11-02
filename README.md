@@ -250,6 +250,7 @@
 - [music-website](https://github.com/Yin-Hongwei/music-website) - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
 - [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
+- [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
