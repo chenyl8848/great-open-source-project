@@ -352,6 +352,7 @@
 - [dber](https://github.com/findyourmagic/dber) - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
 - [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
 - [aspoem](https://github.com/meetqy/aspoem) - 现代化诗词学习网站，一个更加注重UI和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
+- [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -433,6 +434,7 @@
 - [talk](https://github.com/vasanthv/talk) ![](https://img.shields.io/github/stars/vasanthv/talk?style=social) ![](https://img.shields.io/github/forks/vasanthv/talk?style=social) ![](https://img.shields.io/github/license/vasanthv/talk) ![](https://img.shields.io/github/last-commit/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
 - [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
 - [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
+- [cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库。[在线文档](https://theajack.github.io/cnchar/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1114,6 +1116,7 @@
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
 - [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 Go 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
+- [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 程序员常用高效实用工具、软件资源精选，办公效率提升利器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
