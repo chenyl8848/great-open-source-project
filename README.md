@@ -466,6 +466,7 @@
 - [mfish-nocode](https://github.com/mfish-qf/mfish-nocode) - 基于 `SpringBoot3` + `Spring Cloud Alibaba` 实现的摸鱼低代码平台。[在线体验](http://app.mfish.com.cn:11119/dashboard/workbench) [在线文档](https://www.mfish.com.cn/)
 - [springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的 `Spring Cloud` 教程。[在线文档](https://www.macrozheng.com/cloud/cloud_catalog.html)
 - [shortlink](https://github.com/nageoffer/shortlink) - `SaaS` 短链接系统，承载高并发和海量存储等场景难题。[在线体验](http://shortlink.nageoffer.com/home/space) [在线文档](https://nageoffer.com/shortlink/)
+- [r-nacos](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/create-center/r-nacos) - 一个用 `Rust` 实现的 `Nacos` 服务。[在线体验](https://www.bestreven.top/rnacos/manage/configs) [在线文档](https://r-nacos.github.io/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
