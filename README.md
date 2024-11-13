@@ -633,6 +633,7 @@
 - [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
 - [nginx-ui](https://github.com/0xJacky/nginx-ui) - `Nginx` 网络管理界面。[在线体验](https://demo.nginxui.com)
 - [easynode](https://github.com/chaos-zhu/easynode) - 一个 `Linux` 服务器 `Web SSH` 面板。
+- [bottom](https://github.com/ClementTsang/bottom) - 跨平台终端系统监控工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1005,6 +1006,7 @@
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
 - [pintree](https://github.com/Pintree-io/pintree) - 通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
+- [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
