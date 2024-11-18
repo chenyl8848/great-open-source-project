@@ -121,6 +121,8 @@
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) ![](https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/forks/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/license/d2l-ai/d2l-zh) ![](https://img.shields.io/github/last-commit/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。[在线体验](http://zh.d2l.ai/index.html)
 - [PPHC](https://github.com/johnlui/PPHC) - 《高并发的哲学原理》开源图书。[在线体验](https://pphc.lvwenhan.com/)
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
+- [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
+- [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - 《算法新解》。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
