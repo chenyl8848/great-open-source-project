@@ -702,6 +702,7 @@
 - [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
 - [vue-meituan](https://github.com/zwStar/vue-meituan) - `Vue` + `Node` + `MongoDB` 仿美团外卖点餐系统带支付功能。
 - [vue-store](https://github.com/hai-27/vue-store) - 基于 `Vue` + `Vue-Router` + `Vuex` + `Element-UI` + `Axios`，仿小米商城实现的**电商项目**。[在线体验](http://8.141.3.248/#/)
+- [pilipala](https://github.com/guozhigq/pilipala) - 使用 `Flutter` 开发的 `BiliBili` 第三方客户端。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
