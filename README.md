@@ -439,6 +439,7 @@
 - [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
 - [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
 - [cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库。[在线文档](https://theajack.github.io/cnchar/)
+- [webvm](https://github.com/leaningtech/webvm) - 一个运行在浏览器中的 `Linux` 虚拟机。[在线体验](https://webvm.io/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
