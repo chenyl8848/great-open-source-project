@@ -906,6 +906,7 @@
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
 - [massCode](https://github.com/massCodeIO/massCode) - 一个免费开源的跨平台代码片段管理工具。
 - [TV](https://github.com/Guovin/TV) - `IPTV` 电视直播源更新工具。
+- [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
