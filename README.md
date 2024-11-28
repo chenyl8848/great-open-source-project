@@ -102,7 +102,6 @@
 - [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - `Python` 100天从新手到大师。
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
-- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
 - ~~[JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址）。~~
@@ -216,7 +215,6 @@
 - [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
 - [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
 - [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
-- [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -722,6 +720,7 @@
 - [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
 - [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
+- [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1128,6 +1127,7 @@
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
 - [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 Go 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 程序员常用高效实用工具、软件资源精选，办公效率提升利器。
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
