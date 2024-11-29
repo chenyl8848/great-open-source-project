@@ -692,7 +692,7 @@
 ## 高仿项目
 
 - [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
-- [yanhuo_dev](https://gitee.com/xzjsccz/yanhuo_dev) - 一个基于微服务架构的前后端分离仿小红书项目。
+- [yanhuo-springboot-vue](https://gitee.com/xzjsccz/yanhuo-springboot-vue) - 一个基于微服务架构的前后端分离仿小红书项目。[在线体验](http://175.178.249.190/dashboard)
 - [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
 - [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
