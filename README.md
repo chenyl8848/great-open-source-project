@@ -58,6 +58,7 @@
   - [`Node.js` 项目](#node.js-项目)
   - [微服务项目](#微服务项目)
   - [`Go` 项目](#go-项目)
+  - [`Python` 项目](#python-项目)
   - [微信项目](#微信项目)
   - [工作流`OA`项目](#工作流OA项目)
   - [小程序项目](#小程序项目)
@@ -494,6 +495,13 @@
 - [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
 - [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
 - [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `Python` 项目
+
+- [stock](https://github.com/myhhub/stock) - **股票系统**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
