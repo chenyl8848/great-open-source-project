@@ -606,6 +606,7 @@
 - [DataRoom](https://github.com/gcpaas/DataRoom) - 大屏设计器。[在线体验](http://gcpaas.gccloud.com/bigScreen/big-screen-list)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
+- [chartdb](https://github.com/chartdb/chartdb)- 一个功能强大的、基于网页的数据库图表编辑器。[在线体验](https://app.chartdb.io/diagrams/wzuzvobkucys)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -646,6 +647,7 @@
 - [nginx-ui](https://github.com/0xJacky/nginx-ui) - `Nginx` 网络管理界面。[在线体验](https://demo.nginxui.com)
 - [easynode](https://github.com/chaos-zhu/easynode) - 一个 `Linux` 服务器 `Web SSH` 面板。
 - [bottom](https://github.com/ClementTsang/bottom) - 跨平台终端系统监控工具。
+- [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
