@@ -834,6 +834,7 @@
 - [batnoter](https://github.com/batnoter/batnoter) - 一个开源、基于 `Markdown`、自托管的笔记 `Web` 应用程序。
 - [hedgedoc](https://github.com/hedgedoc/hedgedoc) - 一个开源、基于网页、自托管的协作 `Markdown` 编辑器。[在线文档](https://docs.hedgedoc.org/setup/getting-started/)
 - [MiaoYan](https://github.com/tw93/MiaoYan) - 轻灵的 `Markdown` 笔记本伴你写出妙言。
+- [Markdown2Html](https://github.com/shenweiyan/Markdown2Html) - 一款 `Markdown` 转 `Html`，支持掘金、知乎和微信公众号的编辑器。[在线体验](https://md.weiyan.cc/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -938,6 +939,7 @@
 - [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
 - [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
 - [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件。
+- [markdown-download](https://github.com/kscript/markdown-download) - 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN 的文章转为 `Markdown` 文档并下载的谷歌浏览器插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
