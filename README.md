@@ -1028,6 +1028,7 @@
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
 - [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
+- [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
