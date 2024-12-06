@@ -648,6 +648,7 @@
 - [easynode](https://github.com/chaos-zhu/easynode) - 一个 `Linux` 服务器 `Web SSH` 面板。
 - [bottom](https://github.com/ClementTsang/bottom) - 跨平台终端系统监控工具。
 - [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
+- [dpanel](https://github.com/donknap/dpanel) - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
