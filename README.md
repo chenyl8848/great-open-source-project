@@ -336,6 +336,7 @@
 - [form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的 `Vue` 可视化表单设计器，可以通过拖拽的方式快速创建表单。[在线体验](https://form-create.com/v3/designer/) [在线文档](https://view.form-create.com/)
 - [annotree](https://github.com/itchaox/annotree) - 生成文件夹目录注释树。[在线文档](https://www.annotree.com/)
 - [tts-vue](https://github.com/LokerL/tts-vue) - 基于 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建的**微软语音合成工具**。[在线文档](https://tts-doc.loker.vip/home.html)
+- [gi-demo](https://github.com/lin-97/gi-demo) - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
