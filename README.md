@@ -59,6 +59,7 @@
   - [微服务项目](#微服务项目)
   - [`Go` 项目](#go-项目)
   - [`Python` 项目](#python-项目)
+  - [`PHP` 项目](#php-项目)
   - [微信项目](#微信项目)
   - [工作流`OA`项目](#工作流OA项目)
   - [小程序项目](#小程序项目)
@@ -503,6 +504,13 @@
 ## `Python` 项目
 
 - [stock](https://github.com/myhhub/stock) - **股票系统**。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `PHP` 项目
+
+- [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1030,7 +1038,6 @@
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
 - [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
-- [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
