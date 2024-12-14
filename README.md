@@ -175,6 +175,7 @@
 - [xJavaFxTool](https://github.com/864381832/xJavaFxTool) - 基于 `JavaFx` 搭建的实用小工具集合。
 - [bestJavaer](https://github.com/crisxuan/bestJavaer) - 一个成为更好的 `Java` 程序员的系列教程。
 - [neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 一个基于 `Netty` 的、开源的 `Java` **内网穿透**项目。
+- [SMS4J](https://github.com/dromara/SMS4J) - 短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 `SDK` 的繁琐流程。[在线文档](https://sms4j.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -497,6 +498,7 @@
 - [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
 - [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
 - [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
+- [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -696,6 +698,7 @@
 - [MinerU](https://github.com/opendatalab/MinerU) - 一站式开源高质量数据提取工具，支持 `PDF`/网页/多格式电子书提取。[在线文档](https://opendatalab.com/docs/datasets/?channel=datasets)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的AI证件照制作算法。[在线体验](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
+- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
