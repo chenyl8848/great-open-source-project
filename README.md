@@ -929,6 +929,7 @@
 - [TV](https://github.com/Guovin/TV) - `IPTV` 电视直播源更新工具。
 - [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -950,6 +951,7 @@
 - [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件。
 - [markdown-download](https://github.com/kscript/markdown-download) - 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN 的文章转为 `Markdown` 文档并下载的谷歌浏览器插件。
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
+- [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
