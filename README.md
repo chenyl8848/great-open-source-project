@@ -69,6 +69,7 @@
   - [数据操作项目](#数据操作项目)
   - [测试运维监控项目](#测试运维监控项目)
   - [网络项目](#网络项目)
+  - [导航页项目](#导航页项目)
   - [`AI` 项目](#ai-项目)
   - [`ChatGPT` 项目](#chatgpt-项目)
   - [高仿项目](#高仿项目)
@@ -328,7 +329,6 @@
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
-- [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/forks/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/license/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
 - [undraw-ui](https://github.com/readpage/undraw-ui) ![](https://img.shields.io/github/stars/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/forks/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/license/readpage/undraw-ui) ![](https://img.shields.io/github/last-commit/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
 - [MyIP](https://github.com/jason5ng32/MyIP) - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
@@ -392,7 +392,6 @@
 - [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
 - [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS ` + `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
-- [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - 以分类的形式，展示不同 `CSS` 属性或者不同的课题使用 `CSS` 来解决的各种方法。[在线体验](https://csscoco.com/inspiration/#/./init)
 - [paint-board](https://github.com/LHRUN/paint-board) - 一款支持多端操作的趣味艺术画板。[在线体验](https://songlh.top/paint-board/)
 - [carbon](https://github.com/carbon-app/carbon) - 代码转图片工具。[在线体验](https://carbon.now.sh/)
@@ -676,6 +675,14 @@
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
+## 导航页项目
+
+- [pintree](https://github.com/Pintree-io/pintree) - 通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
+- [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
+- [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
 ## `AI` 项目
 
 - [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。[在线体验](https://scribblediffusion.com/)
@@ -703,6 +710,7 @@
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
 ## `ChatGPT` 项目
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
@@ -713,6 +721,7 @@
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
 ## 高仿项目
 
@@ -733,6 +742,7 @@
 - [12306](https://github.com/nageoffer/12306) - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
 ## 接口文档管理项目
 
@@ -1026,7 +1036,6 @@
 - [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - `PDF` 转成 `Markdown` 工具。[在线体验](https://pdf2md.morethan.io/)
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - 使用浏览器的在线图片格式转化器。[在线体验](https://imagestool.com/webp2jpg-online/)
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
-- [pintree](https://github.com/Pintree-io/pintree) - 通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
 - [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
