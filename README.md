@@ -1087,6 +1087,7 @@
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
