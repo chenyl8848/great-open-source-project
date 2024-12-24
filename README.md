@@ -866,6 +866,9 @@
 - [Markdown2Html](https://github.com/shenweiyan/Markdown2Html) - 一款 `Markdown` 转 `Html`，支持掘金、知乎和微信公众号的编辑器。[在线体验](https://md.weiyan.cc/)
 - [markdown-to-image](https://github.com/gcui-art/markdown-to-image) - `React` 组件用于将 `Markdown` 渲染为漂亮的社交媒体图片。[在线体验](https://readpo.com/zh/poster)
 - [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1043,6 +1046,7 @@
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
 - [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
+- [pandoc](https://github.com/jgm/pandoc) - 通用文件转换器。[在线体验](https://pandoc.org/try/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
