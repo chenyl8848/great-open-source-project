@@ -361,6 +361,7 @@
 - [aspoem](https://github.com/meetqy/aspoem) - 现代化诗词学习网站，一个更加注重 `UI` 和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
 - [umami](https://github.com/umami-software/umami) - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -443,6 +444,7 @@
 - [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
 - [cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库。[在线文档](https://theajack.github.io/cnchar/)
 - [webvm](https://github.com/leaningtech/webvm) - 一个运行在浏览器中的 `Linux` 虚拟机。[在线体验](https://webvm.io/)
+- [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -507,6 +509,7 @@
 ## `Python` 项目
 
 - [stock](https://github.com/myhhub/stock) - **股票系统**。
+- [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -515,6 +518,8 @@
 
 - [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
 - [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
+- [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
+- [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -674,6 +679,7 @@
 - [certimate](https://github.com/usual2970/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
 - [SamWaf](https://github.com/samwafgo/SamWaf) - 一款开源轻量级的网站**应用防火墙**。[在线文档](https://doc.samwaf.com/)
 - [domain-admin](https://github.com/dromara/domain-admin) - 域名 `SSL` 证书监测平台、`SSL` 证书申请自动续签。[在线体验](https://mouday.github.io/domain-admin-web/) [在线文档](https://domain-admin.readthedocs.io/zh-cn/latest/index.html)
+- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -947,6 +953,8 @@
 - [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
+- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -977,13 +985,11 @@
 
 - [APIJSON](https://github.com/Tencent/APIJSON) - 专为 `API` 而生的 `JSON` 网络传输协议以及基于这套协议实现的 `ORM` 库。为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。[在线体验](http://apijson.cn/api/) [在线文档](https://github.com/Tencent/APIJSON/blob/master/Document.md)
 - [Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键**同步文章**到多个内容平台，支持今日头条、`WordPress`、知乎、简书、掘金、`CSDN`、`typecho` 各大平台，一次发布，多平台同步发布。
-- [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟白板，用于勾画手绘般的图表。[在线体验](https://excalidraw.com/)
 - [Kap](https://github.com/wulkano/Kap) - 一个用网络技术构建的开源屏幕记录工具。
-- [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [screenity](https://github.com/alyssaxuu/screenity) - 适用于 `Chrome` 的强大的屏幕记录器和注释工具。
 - [sioyek](https://github.com/ahrm/sioyek) - 一个专注于技术书籍和研究论文的 `PDF` 阅读器。[在线文档](https://sioyek-documentation.readthedocs.io/en/latest/)
 - [meilisearch](https://github.com/meilisearch/meilisearch) - 一个适配应用程序、网站、工作流的快速搜索引擎。[在线体验](https://where2watch.meilisearch.com/) [在线文档](https://www.meilisearch.com/docs)
@@ -1005,8 +1011,6 @@
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
-- [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
-- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
 - [tldraw](https://github.com/tldraw/tldraw) - 一个轻量级的画图工具。[在线体验](https://www.tldraw.com/)
@@ -1014,11 +1018,8 @@
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具。支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储文本日志文件的简单 `Web` 服务。[在线体验](https://logpaste.com/)
 - [inshellisense](https://github.com/microsoft/inshellisense) - 为 `Shell` 提供 `IDE` 风格的自动完成功能。
-- [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
-- [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [server](https://github.com/screego/server) - 浏览器屏幕共享工具。[在线体验](https://app.screego.net/) [在线文档](https://screego.net/#/)
 - [github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - `Github` 年度代码统计生成视频工具。[在线体验](https://www.githubunwrapped.com/)
-- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - 一个优雅的研发搜索工具。[在线体验](https://cheat.sh/)
@@ -1034,7 +1035,6 @@
 - [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
 - [talebook](https://github.com/talebook/talebook) - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
 - [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
-- [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书爬虫、抖音爬虫、快手爬虫、B站爬虫、微博爬虫。
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
 - [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
@@ -1044,7 +1044,6 @@
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - 使用浏览器的在线图片格式转化器。[在线体验](https://imagestool.com/webp2jpg-online/)
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
-- [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
 - [pandoc](https://github.com/jgm/pandoc) - 通用文件转换器。[在线体验](https://pandoc.org/try/)
 
@@ -1088,6 +1087,7 @@
 - [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
+- [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
