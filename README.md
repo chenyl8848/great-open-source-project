@@ -768,6 +768,7 @@
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
 - [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
 - [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
+- [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
