@@ -404,6 +404,7 @@
 - [js-screen-shot](https://github.com/likaia/js-screen-shot) ![](https://img.shields.io/github/stars/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/forks/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/license/likaia/js-screen-shot) ![](https://img.shields.io/github/last-commit/likaia/js-screen-shot) - `web` 端自定义截图插件。[在线文档](https://www.kaisir.cn/js-screen-shot/)
 - [drawio](https://github.com/jgraph/drawio) - 一个用于通用图表的 `JavaScript` 客户端编辑器。[在线体验](https://app.diagrams.net/?src=about)
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 功能齐全的 `JavaScript` 日历管理框架。[在线体验](https://ui.toast.com/tui-calendar)
+- [mermaid](https://github.com/mermaid-js/mermaid) - 一个基于 `Javascript` 的图表绘制工具，通过解析类 `Markdown` 的文本语法来实现图表的创建和动态修改。[在线体验](https://mermaid.live/) [在线文档](https://mermaid.js.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -978,6 +979,7 @@
 - [markdown-download](https://github.com/kscript/markdown-download) - 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN 的文章转为 `Markdown` 文档并下载的谷歌浏览器插件。
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
+- [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1089,6 +1091,7 @@
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
+- [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
