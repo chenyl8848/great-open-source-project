@@ -877,6 +877,7 @@
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
+- [markitdown](https://github.com/microsoft/markitdown) - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
