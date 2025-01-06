@@ -362,6 +362,7 @@
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
 - [umami](https://github.com/umami-software/umami) - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
 - [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
+- [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1093,6 +1094,7 @@
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
+- [elasticvue](https://github.com/cars10/elasticvue) - 一个免费且开源的 `Elasticsearch` 图形用户界面。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
