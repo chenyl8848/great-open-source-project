@@ -536,6 +536,8 @@
 - [RuoYi-Flowable-Plus](https://github.com/KonBAI-Q/RuoYi-Flowable-Plus) - 基于 `RuoYi-Vue-Plus` 进行二次开发扩展 `Flowable` 工作流功能，支持在线表单设计和丰富的工作流程设计能力。[在线体验](http://159.75.158.189/)
 - [cxygzl](https://gitee.com/junyue/cxygzl) - 基于 `Flowable` 的开箱即用的低代码开源专业工作流引擎。[在线文档](https://www.cxygzl.com/guide/)
 - [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong.gitee.io/flowlong-designer/)
+- [oa_system](https://gitee.com/aaluoxiang/oa_system) - 一个 `OA` 办公自动化系统。[在线体验](http://101.43.32.218:8088/index)
+- [JFinalOA](https://gitee.com/glorylion/JFinalOA) - 基于 `JFinal` 框架开发的企业办公系统。[在线体验](http://admin.dianshixinxi.com:90/index)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
