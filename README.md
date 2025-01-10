@@ -363,6 +363,7 @@
 - [umami](https://github.com/umami-software/umami) - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
 - [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
+- [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -722,6 +723,7 @@
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的AI证件照制作算法。[在线体验](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
+- [MagicMirror](https://github.com/idootop/MagicMirror) - 一键 `AI` 换脸、发型、穿搭，发现更美的自己。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -839,6 +841,7 @@
 - [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
 - [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
 - [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
+- [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用。[在线体验](https://fiora.suisuijiang.com/) [在线文档](https://yinxin630.github.io/fiora/zh-Hans/docs/getting-start/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
