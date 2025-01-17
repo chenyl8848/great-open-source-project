@@ -655,7 +655,7 @@
 - [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
 - [dozzle](https://github.com/amir20/dozzle) - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
 - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - 一个针对高并发、低延迟应用设计的高性能 `Java` 性能监控和统计工具。
-- [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.dlww.cc:4433/)
+- [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.ninesix.cc:4433/login) [在线文档](https://qinglong.online/index)
 - [nightingale](https://github.com/ccfos/nightingale) - 告警管理专家，一体化的开源可观测平台。[在线文档](https://flashcat.cloud/docs/)
 - [jumpserver](https://github.com/jumpserver/jumpserver) - **开源堡垒机**，符合 4A 规范的专业**运维安全审计系统**。[在线体验](https://demo.jumpserver.org/) [在线文档](https://docs.jumpserver.org/zh/v3/)
 - [nezha](https://github.com/naiba/nezha) - 开源、轻量、易用的服务器监控、运维工具。[在线体验](https://ops.naibahq.com/) [在线文档](https://nezha.wiki/)
