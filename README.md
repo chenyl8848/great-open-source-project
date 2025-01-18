@@ -674,6 +674,7 @@
 - [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
 - [dpanel](https://github.com/donknap/dpanel) - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
 - [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
+- [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
