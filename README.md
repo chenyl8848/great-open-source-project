@@ -506,6 +506,7 @@
 - [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
 - [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
 - [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
+- [superfile](https://github.com/yorukot/superfile) - 一个现代终端文件管理器，为命令行文件操作提供了一个直观且漂亮的界面。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -967,6 +968,8 @@
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
+- [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
+- [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -990,6 +993,7 @@
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
 - [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
+- [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
