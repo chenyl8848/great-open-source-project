@@ -677,6 +677,7 @@
 - [dpanel](https://github.com/donknap/dpanel) - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
 - [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1084,6 +1085,7 @@
 - [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
+- [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
