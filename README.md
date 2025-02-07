@@ -450,6 +450,7 @@
 - [webvm](https://github.com/leaningtech/webvm) - 一个运行在浏览器中的 `Linux` 虚拟机。[在线体验](https://webvm.io/)
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [v86](https://github.com/copy/v86) - 一个基于 `Web` 的 `x86` 模拟器，它通过将机器代码即时编译为 `WebAssembly` 来实现出色的性能。[在线体验](https://copy.sh/v86/)
+- [melody](https://github.com/foamzou/melody) - 音乐管理工具。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -740,6 +741,7 @@
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [polyglot](https://github.com/liou666/polyglot) - 跨平台 `AI` 语言练习应用。[在线体验](https://polyglotai.xyz/)
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入。[在线文档](https://docs.link-ai.tech/cow/quick-start)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1204,10 +1206,11 @@
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
-- [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 Go 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
+- [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 `Go` 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 程序员常用高效实用工具、软件资源精选，办公效率提升利器。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 集成 `DeepSeek` 模型的开源项目或者软件合集。
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - `VS Code` 插件集合项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
