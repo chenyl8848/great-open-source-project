@@ -342,6 +342,7 @@
 - [tts-vue](https://github.com/LokerL/tts-vue) - 基于 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建的**微软语音合成工具**。[在线文档](https://tts-doc.loker.vip/home.html)
 - [gi-demo](https://github.com/lin-97/gi-demo) - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
+- [basic](https://github.com/fantastic-admin/basic) - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -453,6 +454,7 @@
 - [v86](https://github.com/copy/v86) - 一个基于 `Web` 的 `x86` 模拟器，它通过将机器代码即时编译为 `WebAssembly` 来实现出色的性能。[在线体验](https://copy.sh/v86/)
 - [melody](https://github.com/foamzou/melody) - 音乐管理工具。
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html)
+- [WebGAL](https://github.com/OpenWebGAL/WebGAL) - 全新的网页端视觉小说引擎。[在线体验](https://demo.openwebgal.com/) [在线文档](https://docs.openwebgal.com/)
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -765,6 +767,7 @@
 - [pilipala](https://github.com/guozhigq/pilipala) - 使用 `Flutter` 开发的 `BiliBili` 第三方客户端。
 - [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
 - [12306](https://github.com/nageoffer/12306) - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
+- [instagram-mern](https://github.com/jigar-sable/instagram-mern) - 仿 `Instagram` 项目。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
