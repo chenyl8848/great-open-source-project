@@ -166,7 +166,6 @@
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
 - [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 - [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
-- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
 - [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
 - [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
@@ -397,7 +396,6 @@
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 全面和详尽的 `JavaScript` 和 `Node.js` 测试最佳实践。
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 用 `JavaScript` 实现算法和数据结构。
 - [win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版。[在线体验](https://tjy-gitnub.github.io/win12/desktop.html)
-- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
 - [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 `TS ` + `Canvas` 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件。[在线文档](https://100px.net/)
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - 以分类的形式，展示不同 `CSS` 属性或者不同的课题使用 `CSS` 来解决的各种方法。[在线体验](https://csscoco.com/inspiration/#/./init)
@@ -1120,7 +1118,8 @@
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 - [elasticvue](https://github.com/cars10/elasticvue) - 一个免费且开源的 `Elasticsearch` 图形用户界面。
-- [code996](https://github.com/hellodigua/code996) - 一个可以统计 `Git` 项目的 `commit` 时间分布工具。
+- [code996](https://github.com/hellodigua/code996) - 一个可以统计 `Git` 项目的 `commit` 时间分布工具。[在线文档](https://hellodigua.github.io/code996/#/)
+- [xpipe](https://github.com/xpipe-io/xpipe) - 一款好用的终端工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1128,6 +1127,8 @@
 ## 游戏项目
 
 - [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
+- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
+- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
