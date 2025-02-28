@@ -6,6 +6,8 @@
 
 <img align="" height="180px" src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
 
+<img align="" height="300px" src="https://chencoding.top:8090/_media/communicationgroups.png" />
+
 [^_^]: 注释隐藏目录
     <details>
     <summary><b>目录</b></summary>
