@@ -3,16 +3,9 @@
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
 
 ## 【关注公众号，浏览开源项目文章~】
+<img align="" height="200px"  src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 60%;">
-    <img align="" height="200px" width="100%" src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
-  </div>
-  <div style="width: 24%;">
-    <img align="" height="200px" src="https://chencoding.top:8090/_media/communicationgroups.png" />
-  </div>
-</div>
-
+<img align="" height="240px" src="https://chencoding.top:8090/_media/communicationgroups.png" />
 
 [^_^]: 注释隐藏目录
     <details>
