@@ -640,6 +640,8 @@
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
 - [chartdb](https://github.com/chartdb/chartdb)- 一个功能强大的、基于网页的数据库图表编辑器。[在线体验](https://app.chartdb.io/diagrams/wzuzvobkucys)
+- [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1128,7 +1130,6 @@
 - [code996](https://github.com/hellodigua/code996) - 一个可以统计 `Git` 项目的 `commit` 时间分布工具。[在线文档](https://hellodigua.github.io/code996/#/)
 - [xpipe](https://github.com/xpipe-io/xpipe) - 一款好用的终端工具。
 - [dasel](https://github.com/TomWright/dasel) - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
-- [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
