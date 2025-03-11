@@ -549,6 +549,7 @@
 - [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong.gitee.io/flowlong-designer/)
 - [oa_system](https://gitee.com/aaluoxiang/oa_system) - 一个 `OA` 办公自动化系统。[在线体验](http://101.43.32.218:8088/index)
 - [JFinalOA](https://gitee.com/glorylion/JFinalOA) - 基于 `JFinal` 框架开发的企业办公系统。[在线体验](http://admin.dianshixinxi.com:90/index)
+- [mldong](https://gitee.com/mldong/mldong) - 基于 SpringBoot + Vue3 实现的快速开发平台、工作流引擎。[在线体验](https://flow.mldong.com/dashboard/analysis) [在线文档](https://doc.mldong.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
