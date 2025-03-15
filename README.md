@@ -262,6 +262,7 @@
 - [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
 - [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
 - [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
+- [linjiashop](https://github.com/microapp-store/linjiashop) - 一个基于 `SpringBoot` 和 `Vue` 的 `Web` 商城系统。[在线文档](http://linjiashop.enilu.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
