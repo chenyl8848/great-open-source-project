@@ -223,6 +223,7 @@
 - [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
 - [waynboot-mall](https://github.com/wayn111/waynboot-mall) - 一套全部开源的微商城项目，包含运营后台、`H5` 商城前台和服务端接口。[在线文档](https://apifox.com/apidoc/shared-f48b11f5-6137-4722-9c70-b9c5c3e5b09b)
 - [book_novels](https://gitee.com/lin_zhao_quan/book_novels) -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
+- [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file) - 一款功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1104,6 +1105,7 @@
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
 - [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
+- [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
