@@ -91,6 +91,7 @@
   - [副业赚钱项目](#副业赚钱项目)
   - [程序员项目](#程序员项目)
   - [合集项目](#合集项目)
+  - [打赏作者☕](#打赏作者☕)
 
 ## 编程语言项目
 
@@ -1238,10 +1239,14 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
 
+## 打赏作者☕
+
+![](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/pay.png)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
 ## 【持续更新中~】
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chenyl8848/great-open-source-project&type=Date)](https://star-history.com/#chenyl8848/great-open-source-project&Date)
-
-
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
