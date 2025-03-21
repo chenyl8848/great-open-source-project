@@ -1135,6 +1135,7 @@
 - [code996](https://github.com/hellodigua/code996) - 一个可以统计 `Git` 项目的 `commit` 时间分布工具。[在线文档](https://hellodigua.github.io/code996/#/)
 - [xpipe](https://github.com/xpipe-io/xpipe) - 一款好用的终端工具。
 - [dasel](https://github.com/TomWright/dasel) - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
+- [git-who](https://github.com/sinclairtarget/git-who) - 一个命令行工具，用于解析 Git 代码库用户提交信息。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
