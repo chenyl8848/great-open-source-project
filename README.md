@@ -5,7 +5,7 @@
 ## 【关注公众号，浏览开源项目文章~】
 <img align="" height="200px"  src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
 
-<img align="" height="240px" src="https://chencoding.top:8090/_media/communicationgroups2.png" />
+<img align="" height="240px" src="https://chencoding.top:8090/_media/communicationgroups.png" />
 
 [^_^]: 注释隐藏目录
     <details>
@@ -991,6 +991,7 @@
 - [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的工具。[在线文档](https://www.yuque.com/legado/wiki)
+- [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
