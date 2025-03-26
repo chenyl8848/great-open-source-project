@@ -180,6 +180,8 @@
 - [bestJavaer](https://github.com/crisxuan/bestJavaer) - 一个成为更好的 `Java` 程序员的系列教程。
 - [neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 一个基于 `Netty` 的、开源的 `Java` **内网穿透**项目。
 - [SMS4J](https://github.com/dromara/SMS4J) - 短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 `SDK` 的繁琐流程。[在线文档](https://sms4j.com/)
+- [mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 开箱即用的 `SpringBoot` 操作日志组件。
+- [poi-tl](https://github.com/Sayi/poi-tl) - 基于 `Apache POI` 的 Word 模板引擎，可以动态生成 `Word` 文档。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -906,6 +908,7 @@
 - [markitdown](https://github.com/microsoft/markitdown) - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
 - [markwhen](https://github.com/mark-when/markwhen) - 一款从 `Markdown` 文本创建美观的层级时间线的工具。[在线体验](https://markwhen.com/)
 - [editor](https://github.com/umodoc/editor) - 一个基于 `Vue3` 和 `Tiptap` 的适合于国人使用的本土化开源文档编辑器。[在线体验](https://demo.umodoc.com/editor?lang=zh-CN) [在线文档](https://editor.umodoc.com/cn/docs)
+- [flatnotes](https://github.com/dullage/flatnotes) - 一款自托管、无需数据库的在线 `Markdown` 笔记应用。[在线体验](https://demo.flatnotes.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -992,6 +995,7 @@
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的工具。[在线文档](https://www.yuque.com/legado/wiki)
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
+- [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1018,6 +1022,7 @@
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
 - [Json-Assistant](https://github.com/MemoryZy/Json-Assistant) - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
 - [chapter_reader](https://gitee.com/wind_invade/chapter_reader) - `IDEA` 在线&本地小说阅读插件。
+- [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
