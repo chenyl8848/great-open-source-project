@@ -745,6 +745,9 @@
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
 - [MagicMirror](https://github.com/idootop/MagicMirror) - 一键 `AI` 换脸、发型、穿搭，发现更美的自己。
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio) - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
+- [deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 一个连接强大 `AI` 与个人世界的智能助手。
+- [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -990,7 +993,6 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
-- [cherry-studio](https://github.com/CherryHQ/cherry-studio) - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
 - [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
 - [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
@@ -1245,6 +1247,8 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 集成 `DeepSeek` 模型的开源项目或者软件合集。
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - `VS Code` 插件集合项目。
+- [FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview) - 大模型算法岗面试题（含答案）合集。
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 各种基于大语言模型（`LLM`）的 `APP` 合集。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
