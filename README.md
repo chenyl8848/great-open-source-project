@@ -649,6 +649,7 @@
 - [chartdb](https://github.com/chartdb/chartdb)- 一个功能强大的、基于网页的数据库图表编辑器。[在线体验](https://app.chartdb.io/diagrams/wzuzvobkucys)
 - [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
+- [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -801,6 +802,7 @@
 - [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
 - [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
 - [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
+- [yaade](https://github.com/EsperoTech/yaade) - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1117,6 +1119,7 @@
 - [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
 - [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
 - [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
+- [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬，`B` 站直播录播工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1195,6 +1198,7 @@
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
 - [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员。[在线文档](https://www.dev-life.site/)
+- [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
