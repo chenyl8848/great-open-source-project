@@ -376,6 +376,7 @@
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 - [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 - [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
+- [drawnix](https://github.com/plait-board/drawnix) - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
