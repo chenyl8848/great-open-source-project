@@ -351,6 +351,7 @@
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
 - [basic](https://github.com/fantastic-admin/basic) - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
+- [VutronMusic](https://github.com/stark81/VutronMusic) - 一个基于 `Vue` 实现的高颜值的第三方网易云播放器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -651,6 +652,7 @@
 - [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
+- [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -762,6 +764,7 @@
 - [polyglot](https://github.com/liou666/polyglot) - 跨平台 `AI` 语言练习应用。[在线体验](https://polyglotai.xyz/)
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入。[在线文档](https://docs.link-ai.tech/cow/quick-start)
+- [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -824,6 +827,7 @@
 - [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
 - [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
+- [openproject](https://github.com/opf/openproject) - 一款开源的项目管理工具。
 
 ## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
