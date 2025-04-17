@@ -875,6 +875,7 @@
 - [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
 - [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
 - [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用。[在线体验](https://fiora.suisuijiang.com/) [在线文档](https://yinxin630.github.io/fiora/zh-Hans/docs/getting-start/)
+- [JiwuChat](https://github.com/KiWi233333/JiwuChat) - 一款基于 `Tauri2` 和 `Nuxt3` 构建的轻量多平台即时通讯聊天应用，具备多种实时消息、`AI` 群聊机器人。[在线体验](https://chat.jiwu.kiwi233.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
