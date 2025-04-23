@@ -129,6 +129,7 @@
 - [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
 - [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - 《算法新解》。
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1001,7 +1002,6 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
-- [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
 - [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的工具。[在线文档](https://www.yuque.com/legado/wiki)
@@ -1139,7 +1139,7 @@
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
 - [DevToys](https://github.com/veler/DevToys) - 一款离线的 Windows 应用程序，用于开发者的工具集合。
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - `Git` 分支管理工具。
-- [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
+- [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
 - [Gource](https://github.com/acaudwell/Gource) - 一个用于**可视化软件版本控制历史的工具**。它能够生成令人印象深刻的演示视频，展示代码库的演化过程。
 - [nali](https://github.com/zu1k/nali) - 一个查询 `IP` 地理信息和 `CDN` 服务提供商的离线终端工具。
 - [any-rule](https://github.com/any86/any-rule) - 常用正则大全, 支持 `web` / `vscode` / `idea` / `Alfred Workflow` 多平台。[在线体验](https://any-rule.vercel.app/)
@@ -1147,7 +1147,6 @@
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 - [elasticvue](https://github.com/cars10/elasticvue) - 一个免费且开源的 `Elasticsearch` 图形用户界面。
