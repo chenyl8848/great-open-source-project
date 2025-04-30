@@ -5,7 +5,7 @@
 ## 【关注公众号，浏览开源项目文章~】
 <img align="" height="200px"  src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
 
-<img align="" height="240px" src="https://chencoding.top:8090/_media/communicationgroups.png" />
+<img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" />
 
 [^_^]: 注释隐藏目录
     <details>
@@ -1009,6 +1009,7 @@
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
+- [ShareX](https://github.com/ShareX/ShareX) - 一款基于 `C#` 开发的 免费开源 `Windows` **截图工具**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
