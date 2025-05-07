@@ -353,6 +353,7 @@
 - [basic](https://github.com/fantastic-admin/basic) - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [VutronMusic](https://github.com/stark81/VutronMusic) - 一个基于 `Vue` 实现的高颜值的第三方网易云播放器。
+- [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个基于 `Vue` + `Electron` 实现的第三方音乐播放器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
@@ -1010,6 +1011,7 @@
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
 - [ShareX](https://github.com/ShareX/ShareX) - 一款基于 `C#` 开发的 免费开源 `Windows` **截图工具**。
+- [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
