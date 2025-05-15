@@ -1264,6 +1264,7 @@
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - `VS Code` 插件集合项目。
 - [FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview) - 大模型算法岗面试题（含答案）合集。
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 各种基于大语言模型（`LLM`）的 `APP` 合集。
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学 `PDF` 教材。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
