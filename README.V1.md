@@ -7,83 +7,157 @@
 
 <img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" />
 
+[^_^]: 注释隐藏目录
+    <details>
+    <summary><b>目录</b></summary>
+    <p>
+    
+    - [编程语言项目](#编程语言项目)
+    - [`SprinBoot` 项目](#sprinboot-项目)
+    - [`Java` 项目](#java-项目)
+    - [源码分析项目](#源码分析项目)
+    - [前后端分离项目](#前后端分离项目)
+    - [`Vue2` 项目](#vue2-项目)
+    - [`Vue3` 项目](#vue3-项目)
+    - [`React` 项目](#react-项目)
+    - [`JavaScript` 项目](#javascript-项目)
+    - [`Node.js` 项目](#node.js-项目)
+    - [微服务项目](#微服务项目)
+    - [微信项目](#微信项目)
+    - [工作流OA项目](#工作流OA项目)
+    - [支付项目](#支付项目)
+    - [`Api` 网关项目](#api-网关项目)
+    - [中间件项目](#中间件项目)
+    - [数据操作项目](#数据操作项目)
+    - [测试运维监控项目](#测试运维监控项目)
+    - [接口文档管理项目](#接口文档管理项目)
+    - [知识管理项目](#知识管理项目)
+    - [聊天项目](#聊天项目)
+    - [`Markdown` 编辑器项目](#markdown-编辑器项目)
+    - [`Linux` 项目](#linux-项目)
+    - [`Windows` 软件项目](#windows-软件项目)
+    - [浏览器插件项目](#浏览器插件项目)
+    - [工具项目](#工具项目)
+    - [集合项目](#集合项目)
+        
+    </p>
+    </details>
+
 ## 目录
 
-- [编程语言](#编程语言)
-  - [Java 项目](#java-项目)
-  - [Python 项目](#python-项目)
-  - [GO 项目](#go-项目)
-  - [PHP 项目](#php-项目)
-  - [Linux 项目](#linux-项目)
-  - [Vue2 项目](#vue2-项目)
-  - [Vue3 项目](#vue3-项目)
-  - [React 项目](#react-项目)
-  - [JavaScript 项目](#javascript-项目)
-  - [Node.js 项目](#nodejs-项目)
-- [实战项目](#实战项目)
-  - [SpringBoot 项目](#springboot-项目)
+- [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
+  - [目录](#目录)
+  - [编程语言项目](#编程语言项目)
+  - [`Java` 项目](#java-项目)
+  - [`SprinBoot` 项目](#sprinboot-项目)
+  - [源码分析项目](#源码分析项目)
   - [前后端分离项目](#前后端分离项目)
+  - [`Vue2` 项目](#vue2-项目)
+  - [`Vue3` 项目](#vue3-项目)
+  - [`React` 项目](#react-项目)
+  - [`JavaScript` 项目](#javascript-项目)
+  - [`Node.js` 项目](#node.js-项目)
   - [微服务项目](#微服务项目)
-  - [高仿项目](#高仿项目)
-  - [工作流 OA 项目](#工作流-oa-项目)
+  - [`Go` 项目](#go-项目)
+  - [`Python` 项目](#python-项目)
+  - [`PHP` 项目](#php-项目)
+  - [微信项目](#微信项目)
+  - [工作流`OA`项目](#工作流OA项目)
+  - [小程序项目](#小程序项目)
   - [支付项目](#支付项目)
-  - [Api 网关项目](#api-网关项目)
+  - [`Api` 网关项目](#api-网关项目)
   - [中间件项目](#中间件项目)
   - [数据操作项目](#数据操作项目)
+  - [测试运维监控项目](#测试运维监控项目)
+  - [网络项目](#网络项目)
+  - [导航页项目](#导航页项目)
+  - [`AI` 项目](#ai-项目)
+  - [`ChatGPT` 项目](#chatgpt-项目)
+  - [高仿项目](#高仿项目)
+  - [接口文档管理项目](#接口文档管理项目)
+  - [知识管理项目](#知识管理项目)
   - [博客项目](#博客项目)
   - [聊天项目](#聊天项目)
-  - [微信项目](#微信项目)
-  - [小程序项目](#小程序项目)
-- [Web 项目](#web-项目)
-  - [运维监控](#运维监控)
-  - [网络项目](#网络项目)
-  - [浏览器导航页](#浏览器导航页)
-- [AI 项目](#ai-项目)
-  - [ChatGPT 项目](#chatgpt-项目)
-- [工具项目](#工具项目)
-  - [开发工具](#开发工具)
-  - [插件工具](#插件工具)
-  - [下载工具](#下载工具)
-- [学习项目](#学习项目)
-  - [编程教程](#编程教程)
-  - [数据结构与算法](#数据结构与算法)
-  - [编程书籍](#编程书籍)
-  - [框架源码分析](#框架源码分析)
-  - [面试资料](#面试资料)
-  - [程序员](#程序员)
-  - [考公考研](#考公考研)
-  - [语言学习](#语言学习)
-  - [经典文学](#经典文学)
-  - [生活技能](#生活技能)
-- [软件项目](#软件项目)
-  - [多平台](#多平台])
-  - [Windows 端](#windows-端)
-  - [安卓端](#安卓端)
-  - [IOS 端](#ios-端)
-- [文库项目](#文库项目)
-  - [接口文档管理](#接口文档管理)
-  - [项目管理](#项目管理)
-  - [知识库管理](#知识库管理)
-  - [Makdown 编辑器](#makdown-编辑器)
-- [宝藏项目](#宝藏项目)
-  - [副业赚钱](#副业赚钱)
-  - [摸鱼游戏](#摸鱼游戏)
-  - [合集汇总](#合集汇总)
-- [打赏作者](#打赏作者)
-- [【持续更新中~】](#持续更新中)
+  - [`Markdown` 编辑器项目](#markdown-编辑器项目)
+  - [`Linux` 项目](#linux-项目)
+  - [软件项目](#软件项目)
+  - [浏览器插件项目](#浏览器插件项目)
+  - [工具项目](#工具项目)
+  - [下载工具项目](#下载工具项目)
+  - [开发工具项目](#开发工具项目)
+  - [游戏项目](#游戏项目)
+  - [计算机考研项目](#计算机考研项目)
+  - [考公项目](#考公项目)
+  - [副业赚钱项目](#副业赚钱项目)
+  - [程序员项目](#程序员项目)
+  - [合集项目](#合集项目)
+  - [打赏作者](#打赏作者)
 
-## 编程语言
+## 编程语言项目
 
-### Java 项目
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7天用 `Go` 从零实现系列。[在线文档](https://geektutu.com/post/gee.html)
+- [50projects50days](https://github.com/bradtraversy/50projects50days) -  50+ 个基于 `HTML/CSS` 、`JavaScript` 实现的**小网页项目**。
+- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》。
+- [blog](https://github.com/biaochenxuying/blog) - 大**前端技术**为主，读书笔记、随笔、理财为辅，做个终身学习者。
+- [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
+- [Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端（`Java` 、`Golang`）全栈**知识架构体系总结**。
+- [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - 《重学 Java 设计模式》是一本互联网真实案例实践书籍，以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。[在线体验](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
+- [interviewGuide](https://github.com/NotFound9/interviewGuide) - 《后端技术总结》——包括 `Java` 基础、`JVM`、数据库、`MySQL`、`Redis`、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
+- [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 可免费获得的编程书籍。[在线体验](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
+- [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - `Python` 100天从新手到大师。
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
+- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
+- ~~[JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址）。~~
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 图解系统设计。[在线体验](https://blog.bytebytego.com/)
+- [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱。
+- [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。[在线体验](https://es6.ruanyifeng.com/)
+- [EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础学习博客。[在线体验](https://blog.touchczy.top/#/)
+- [books](https://github.com/MichealWayne/books) - 前端/设计相关的书籍（电子书）。
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南。[在线体验](https://csdiy.wiki/)
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
+- [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
+- [nginx-book](https://github.com/taobao/nginx-book) - `Nginx` 开发从入门到精通。[在线体验](https://tengine.taobao.org/book/index.html)
+- [theByteBook](https://github.com/isno/theByteBook) - 《深入架构原理与实践》。[在线体验](https://www.thebyte.com.cn/)
+- [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 天 `Python` 编程学习挑战。
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) ![](https://img.shields.io/github/stars/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/forks/d2l-ai/d2l-zh?style=social) ![](https://img.shields.io/github/license/d2l-ai/d2l-zh) ![](https://img.shields.io/github/last-commit/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。[在线体验](http://zh.d2l.ai/index.html)
+- [PPHC](https://github.com/johnlui/PPHC) - 《高并发的哲学原理》开源图书。[在线体验](https://pphc.lvwenhan.com/)
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
+- [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
+- [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - 《算法新解》。
+- [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `Java` 项目
+- [javacore](https://github.com/dunwu/javacore) - `Java` 核心技术的经验总结。[在线文档](https://dunwu.github.io/javacore/)
+- [concurrent](https://github.com/RedSpider1/concurrent) - `Java` **多线程**系列文章。[在线文档](http://concurrent.redspider.group/RedSpider.html)
+- [learning-note](https://github.com/rbmonster/learning-note) - `Java` **开发及面试**（个人面试、工作总结、资料收集）。[在线文档](https://rbmonster.github.io/learning-note/#/)
+- [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
+- [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
+- [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - `Effective Java`（第3版）各章节的中英文学习。
 - [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
+- [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
 - [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 - [solon](https://github.com/noear/solon) - 一个高效的 `Java` 应用开发框架，有自己接口标准规范的开放生态，组合不同的生态插件应对不同需求，方便定制，快速开发。[在线文档](https://solon.noear.org/article/learn-start)
+- [Java-Interview-Advanced](https://github.com/shishan100/Java-Interview-Advanced) - `Java` 进阶面试。
 - [tianai-captcha](https://gitee.com/tianai/tianai-captcha) - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
+- [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线文档](https://dozermapper.github.io/gitbook/)
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
+- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 互联网 `Java` 开发的学习历程技术汇总。
+- [advanced-java](https://github.com/doocs/advanced-java) - 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 - [PowerJob](https://github.com/PowerJob/PowerJob) - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
+- [JavaInterview](https://github.com/hello-java-maker/JavaInterview) - `Java` 面试 + `Java` 后端技术学习指南。
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) - `Java` 面试 + `Java` 学习指南。
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
@@ -93,76 +167,111 @@
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
 - [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
+- [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
+- [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
 - [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
+- [EasyCode](https://github.com/makejavas/EasyCode) - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
 - [ofdrw](https://github.com/ofdrw/ofdrw) - 开源的 `OFD` 处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能。
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 设计模式 `Java` 版。
 - [gushici](https://github.com/xenv/gushici) ![](https://img.shields.io/github/stars/xenv/gushici?style=social) ![](https://img.shields.io/github/forks/xenv/gushici?style=social) ![](https://img.shields.io/github/license/xenv/gushici) ![](https://img.shields.io/github/last-commit/xenv/gushici) - 采用 `Vert.x` + `Redis` 全异步开发的一个可以随机返回一句古诗词名句的接口。[在线文档](https://www.jinrishici.com/)
 - [xJavaFxTool](https://github.com/864381832/xJavaFxTool) - 基于 `JavaFx` 搭建的实用小工具集合。
+- [bestJavaer](https://github.com/crisxuan/bestJavaer) - 一个成为更好的 `Java` 程序员的系列教程。
 - [neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 一个基于 `Netty` 的、开源的 `Java` **内网穿透**项目。
 - [SMS4J](https://github.com/dromara/SMS4J) - 短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 `SDK` 的繁琐流程。[在线文档](https://sms4j.com/)
 - [mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 开箱即用的 `SpringBoot` 操作日志组件。
 - [poi-tl](https://github.com/Sayi/poi-tl) - 基于 `Apache POI` 的 Word 模板引擎，可以动态生成 `Word` 文档。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### Python 项目
+## `SpringBoot` 项目
 
-- [stock](https://github.com/myhhub/stock) - **股票系统**。
-- [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	GO 项目
-
-- [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
-- [Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
-- [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
-- [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
-- [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
-- [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
-- [moredoc](https://github.com/mnt-ltd/moredoc) - 基于 `Go` 开发的类似百度文库的开源文库系统。[在线体验](https://moredoc.mnt.ltd/)
-- [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
-- [navidrome](https://github.com/navidrome/navidrome) - 与 `Subsonic/Airsonic` 兼容的现代音乐播放器。[在线文档](https://www.navidrome.org/docs/installation/) [在线体验](https://demo.navidrome.org/)
-- [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 `Golang` + `Flutter` 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
-- [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
-- [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
-- [crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台，支持任何语言和框架。
-- [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 基于 `Go` + `Vue` 实现的 `openLDAP` 后台管理项目。[在线体验](http://demo-go-ldap-admin.eryajf.net/#/login?redirect=%2Fdashboard) [在线文档](http://ldapdoc.eryajf.net/)
-- [hugo](https://github.com/gohugoio/hugo) - 一个用 `Go` 语言构建的快速灵活的**静态网站生成器**，旨在提供速度和灵活性。
-- [DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) -  一个基于 `Go` 开发的能够高速采集海量互联网数据的开源搜索引擎。
-- [zincsearch](https://github.com/zincsearch/zincsearch) - 一个基于 `Go` 开发的轻量的全文索引搜索引擎。[在线文档](https://zincsearch-docs.zinc.dev/)
-- [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
-- [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
-- [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
-- [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
-- [superfile](https://github.com/yorukot/superfile) - 一个现代终端文件管理器，为命令行文件操作提供了一个直观且漂亮的界面。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	PHP 项目
-
-- [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
-- [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
-- [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
-- [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
-- [zentaopms](https://github.com/easysoft/zentaopms) - 一款国产的开源项目管理软件。[在线体验](https://zentao.demo.qucheng.cc/index.php?m=my&f=index) [在线文档](https://www.zentao.net/book/zentaopms/38.html)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	Linux 项目
-
-- [linux-command](https://github.com/jaywcjlove/linux-command) - `Linux` **命令大全**搜索工具，内容包含 `Linux` 命令手册、详解、学习、搜集。[在线体验](https://wangchujiang.com/linux-command/)
-- [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
-- [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
-- [next-terminal](https://github.com/dushixiang/next-terminal) - `Next Terminal` 是一个简单好用安全的开源交互审计系统，支持 `RDP`、`SSH`、`VNC`、`Telnet`、`Kubernetes` 协议。[在线体验](https://next.typesafe.cn/)
-- [linux-tutorial](https://github.com/dunwu/linux-tutorial) - `Linux` 教程，主要内容：`Linux` 命令、`Linux` 系统运维、软件运维、精选常用 `Shell` 脚本。[在线体验](https://dunwu.github.io/linux-tutorial/)
+- [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - 基于 `SpringBoot` 的**快速学习**示例，整合开源框架，如：`RabbitMQ`、`Kafka`、`Jpa`、`Redis`、`Oauth2`、`Swagger`、`Jsp`、`Docker`、`k3s`、`k3d`、`k8s`、`Mybatis` 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 `Cache`、爬虫、`JWT`、`GraphQL`、`Dubbo`、	`Zookeeper` 和 `Async` 等等。
+- [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
+- [SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator) - 基于 `SpringBoot` + `Freemarker` 的 `JAVA` **代码生成器**，以释放双手为目的，支持 `MySQL/Oracle/PgSQL` 三大数据库， 用`DDL-SQL` 语句生成 `JPA`、`JdbcTemplate`、`Mybatis`、`MybatisPlus`、`BeetlSQL` 等相关代码。
+- [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
+- [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
+- [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
+- [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 深入学习并实战 `Spring Boot` 的项目。
+- [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
+- [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 一款基于代码生成器的**低代码开发平台**。[在线体验](http://boot3.jeecg.com/) [在线文档](https://www.jeecg.com/)
+- [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
+- [PlayEdu](https://github.com/PlayEdu/PlayEdu) - 一款适用于搭建内部培训平台的开源系统。
+- [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
+- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
+- [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
+- [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
+- [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
+- [open-sign-old](https://github.com/kaifangqian/kaifangqian-base) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
+- [admin3](https://github.com/cjbi/admin3) - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
+- [nginx-gui](https://github.com/onlyGuo/nginx-gui) - 一个基于 `SpringBoot` 实现的 `Nginx` 可视化管理项目。
+- [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
+- [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
+- [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
+- [smart-admin](https://github.com/1024-lab/smart-admin) - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
+- [maku-generator](https://gitee.com/makunet/maku-generator) - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
+- [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
+- [DWSurvey](https://github.com/wkeyuan/DWSurvey) - 一款简单、高效、成熟、稳定、专业的开源问卷系统。
+- [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
+- [spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。[在线体验](http://demo.spiderflow.org/)
+- [magic-api](https://github.com/ssssssss-team/magic-api) - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
+- [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
+- [tduck-platform](https://github.com/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/forks/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/license/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/last-commit/TDuckCloud/tduck-platform) - 填鸭表单问卷系统。[在线体验](https://demo.tduckapp.com/home) [在线文档](https://doc.tduckcloud.com/openSource/index.html)
+- [smart-sso](https://github.com/a466350665/smart-sso) - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
+- [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
+- [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
+- [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
+- [waynboot-mall](https://github.com/wayn111/waynboot-mall) - 一套全部开源的微商城项目，包含运营后台、`H5` 商城前台和服务端接口。[在线文档](https://apifox.com/apidoc/shared-f48b11f5-6137-4722-9c70-b9c5c3e5b09b)
+- [book_novels](https://gitee.com/lin_zhao_quan/book_novels) -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
+- [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file) - 一款功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	Vue2 项目
+## 源码分析项目
+
+- [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - `Java` 流行**框架源码分析**，学习以及总结。
+- [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
+- [mini-spring](https://github.com/DerekYRC/mini-spring) - 简化版的 `Spring 框架`，能帮助你快速熟悉 `Spring` 源码和掌握 `Spring` 的核心原理。抽取了 `Spring` 的核心逻辑，代码极度简化，保留`Spring` 的核心功能，如 `IOC` 和 `AOP`、资源加载器、事件监听器、类型转换、容器扩展点、`Bean` 生命周期和作用域、应用上下文等核心功能。
+- [spring-analysis](https://github.com/seaswalker/spring-analysis) - `Spring` 源码阅读。
+- [spring-reading](https://github.com/xuchengsheng/spring-reading) - `Spring` 框架源码阅读。
+- [vue](https://github.com/ygs-code/vue) - `Vue` 源码逐行注释分析+40多m的 `Vue` 源码程序流程图思维导图。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 前后端分离项目
+
+- [zfile](https://github.com/zfile-dev/zfile) - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
+- [litemall](https://github.com/linlinjava/litemall) - 基于 `Spring Boot` 后端 + `Vue` 管理员前端 + 微信小程序用户前端 + `Vue` 用户移动端的**小商场系统**。[在线文档](https://linlinjava.gitbook.io/litemall)
+- [lilishop](https://github.com/lilishop/lilishop) - 商城系统，后端基于 `SpringBoot` 研发，前端使用  `Vue`、`uniapp` 开发， 前后端分离，支持分布式部署，支持 `Docker`，各个 `API` 独立。
+- [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
+- [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
+- [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
+- [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
+- [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
+- [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
+- [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
+- [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
+- [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
+- [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
+- [Snowy](https://github.com/xiaonuobase/Snowy) - 一款国内首个**国密前后分离快速开发平台**，采用 `Vue3` + `Ant Design Vue3` + `Vite` + `SpringBoot` + `Mp` + `HuTool` + `SaToken`.[在线体验](https://snowy.xiaonuo.vip/index) [在线文档](https://xiaonuo.vip/doc?catalogueId=1574674492144766978&menuId=1574684190755540994)
+- [entfrm-boot](https://gitee.com/entfrm/entfrm-boot) ![](https://gitee.com/entfrm/entfrm-boot/badge/star.svg?theme=dark) ![](https://gitee.com/entfrm/entfrm-boot/badge/fork.svg?theme=dark) - 一个以模块化为核心的无代码开发平台。
+- [Guns](https://github.com/stylefeng/Guns) - 一个现代化的 `Java` 应用开发框架，基于主流技术 `SpringBoot2` + `Vue3`. [在线文档](https://www.javaguns.com/gunsDoc?categoryId=1504358893655011330&artId=1504360559456399362)
+- [music-website](https://github.com/Yin-Hongwei/music-website) - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
+- [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
+- [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
+- [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
+- [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
+- [linjiashop](https://github.com/microapp-store/linjiashop) - 一个基于 `SpringBoot` 和 `Vue` 的 `Web` 商城系统。[在线文档](http://linjiashop.enilu.cn/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `Vue2` 项目
 
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - **后台前端**解决方案，它基于 [Vue](https://github.com/vuejs/vue), [TypeScript](https://www.typescriptlang.org/) 和 [Element-UI](https://github.com/ElemeFE/element) 实现。[在线体验](https://armour.github.io/vue-typescript-admin-template/#/login?redirect=%2Fdashboard)
 - [Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 `Vue` 的在线音乐播放器。[在线体验](https://netease-music.fe-mm.com/#/music/historylist)
@@ -182,8 +291,9 @@
 - [folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	Vue3 项目
+## `Vue3` 项目
 
 - [vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 基于 `vue3.x` + `CompositionAPI setup` 语法糖 + `typescript` + `vite` + `element plus` + `vue-router-next` + `pinia` 技术，适配手机、平板、`pc` 的**后台开源免费模板**。[在线体验](https://lyt-top.gitee.io/vue-next-admin-preview/#/login) [在线文档](https://lyt-top.gitee.io/vue-next-admin-doc-preview/)
 - [vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 一个**管理端模板**解决方案，基于`vue3`, `ts` 和 `element-plus`，项目都是以 `composition api` 风格编写。[在线体验](https://admin-tmpl-test.rencaiyoujia.cn/#/login?redirect=/dashboard)
@@ -245,15 +355,16 @@
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个基于 `Vue` + `Electron` 实现的第三方音乐播放器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	React 项目
-
+## `React` 项目
 - [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
 - ~~[movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)~~
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
+- [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
 - [pic-smaller](https://github.com/joye61/pic-smaller) - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
@@ -270,10 +381,9 @@
 - [drawnix](https://github.com/plait-board/drawnix) - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### JavaScript 项目
-
-- [50projects50days](https://github.com/bradtraversy/50projects50days) -  50+ 个基于 `HTML/CSS` 、`JavaScript` 实现的**小网页项目**。
+## `JavaScript` 项目
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [mind-map](https://github.com/wanglin2/mind-map) - 一个简单&强大的 `Web` 思维导图。[在线体验](https://wanglin2.github.io/mind-map/) [在线文档](https://wanglin2.github.io/mind-map/#/doc/zh/)
@@ -313,8 +423,9 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - 一个基于 `Javascript` 的图表绘制工具，通过解析类 `Markdown` 的文本语法来实现图表的创建和动态修改。[在线体验](https://mermaid.live/) [在线文档](https://mermaid.js.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### Node.js 项目
+## `Node.js` 项目
 
 - [Cronicle](https://github.com/jhuckaby/Cronicle) - 一个简单的分布式任务计划程序和运行器，具有基于 `Web` 的 `UI`.
 - [earth](https://github.com/cambecc/earth) - 一个可视化全球天气状况的项目。[在线体验](https://earth.nullschool.net/)
@@ -335,6 +446,7 @@
 - [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
 - [fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 一款基于 `fabricjs` 的创意图片编辑器。
 - [sweetalert](https://github.com/t4t5/sweetalert) - 一个美观的 `JavaScript` 的 `alert` 的替代品。[在线文档](https://sweetalert.js.org/)
+- [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
 - [ioredis](https://github.com/redis/ioredis) - 一个用于 `Node.js` 的 `Redis` 客户端，具有强大、性能优化和功能齐全的特点。
 - [puter](https://github.com/HeyPuter/puter) - 基于 `Web` 的桌面操作系统，运行于浏览器中，具有丰富的功能、速度极快且可高度扩展。[在线体验](https://puter.com/)
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 `Windows` / `macOS` / `Linux`. [在线体验](https://music.qier222.com/)
@@ -355,82 +467,9 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html)
 - [WebGAL](https://github.com/OpenWebGAL/WebGAL) - 全新的网页端视觉小说引擎。[在线体验](https://demo.openwebgal.com/) [在线文档](https://docs.openwebgal.com/)
 
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
-## 实战项目
-
-###	SpringBoot 项目
-
-- [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) - 基于 `SpringBoot` 的**快速学习**示例，整合开源框架，如：`RabbitMQ`、`Kafka`、`Jpa`、`Redis`、`Oauth2`、`Swagger`、`Jsp`、`Docker`、`k3s`、`k3d`、`k8s`、`Mybatis` 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 `Cache`、爬虫、`JWT`、`GraphQL`、`Dubbo`、	`Zookeeper` 和 `Async` 等等。
-- [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
-- [SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator) - 基于 `SpringBoot` + `Freemarker` 的 `JAVA` **代码生成器**，以释放双手为目的，支持 `MySQL/Oracle/PgSQL` 三大数据库， 用`DDL-SQL` 语句生成 `JPA`、`JdbcTemplate`、`Mybatis`、`MybatisPlus`、`BeetlSQL` 等相关代码。
-- [jetlinks-community](https://github.com/jetlinks/jetlinks-community) - 基于 `Java8`、`Spring Boot 2.x`、`WebFlux`、`Netty`、`Vert.x`、`Reactor` 等开发，是一个全响应式的**企业级物联网平台**。支持统一物模型管理，多种设备，多种厂家，统一管理。统一设备连接管理，多协议适配(`TCP`、`MQTT`、`UDP`、`CoAP`、`HTTP`等)。屏蔽网络编程复杂性，灵活接入不同厂家不同协议等设备；实时数据处理，设备告警，消息通知,数据转发，地理位置,数据可视化等。[在线文档](https://www.jetlinks.cn/#/)
-- [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - `Spring Boot` 的**入门学习教程**、**实战项目教程**。
-- [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - `Spring Boot` **教程**。
-- [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
-- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 深入学习并实战 `Spring Boot` 的项目。
-- [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
-- [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 一款基于代码生成器的**低代码开发平台**。[在线体验](http://boot3.jeecg.com/) [在线文档](https://www.jeecg.com/)
-- [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
-- [PlayEdu](https://github.com/PlayEdu/PlayEdu) - 一款适用于搭建内部培训平台的开源系统。
-- [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
-- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
-- [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
-- [paicoding](https://github.com/itwanger/paicoding) - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
-- [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
-- [open-sign-old](https://github.com/kaifangqian/kaifangqian-base) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
-- [admin3](https://github.com/cjbi/admin3) - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
-- [nginx-gui](https://github.com/onlyGuo/nginx-gui) - 一个基于 `SpringBoot` 实现的 `Nginx` 可视化管理项目。
-- [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
-- [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
-- [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
-- [smart-admin](https://github.com/1024-lab/smart-admin) - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
-- [maku-generator](https://gitee.com/makunet/maku-generator) - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
-- [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
-- [DWSurvey](https://github.com/wkeyuan/DWSurvey) - 一款简单、高效、成熟、稳定、专业的开源问卷系统。
-- [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
-- [spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。[在线体验](http://demo.spiderflow.org/)
-- [magic-api](https://github.com/ssssssss-team/magic-api) - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
-- [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
-- [tduck-platform](https://github.com/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/forks/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/license/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/last-commit/TDuckCloud/tduck-platform) - 填鸭表单问卷系统。[在线体验](https://demo.tduckapp.com/home) [在线文档](https://doc.tduckcloud.com/openSource/index.html)
-- [smart-sso](https://github.com/a466350665/smart-sso) - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
-- [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
-- [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
-- [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
-- [waynboot-mall](https://github.com/wayn111/waynboot-mall) - 一套全部开源的微商城项目，包含运营后台、`H5` 商城前台和服务端接口。[在线文档](https://apifox.com/apidoc/shared-f48b11f5-6137-4722-9c70-b9c5c3e5b09b)
-- [book_novels](https://gitee.com/lin_zhao_quan/book_novels) -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
-- [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file) - 一款功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	前后端分离项目
-
-- [zfile](https://github.com/zfile-dev/zfile) - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
-- [litemall](https://github.com/linlinjava/litemall) - 基于 `Spring Boot` 后端 + `Vue` 管理员前端 + 微信小程序用户前端 + `Vue` 用户移动端的**小商场系统**。[在线文档](https://linlinjava.gitbook.io/litemall)
-- [lilishop](https://github.com/lilishop/lilishop) - 商城系统，后端基于 `SpringBoot` 研发，前端使用  `Vue`、`uniapp` 开发， 前后端分离，支持分布式部署，支持 `Docker`，各个 `API` 独立。
-- [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
-- [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
-- [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
-- [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
-- [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
-- [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
-- [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
-- [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
-- [report](https://github.com/anji-plus/report) - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
-- [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
-- [Snowy](https://github.com/xiaonuobase/Snowy) - 一款国内首个**国密前后分离快速开发平台**，采用 `Vue3` + `Ant Design Vue3` + `Vite` + `SpringBoot` + `Mp` + `HuTool` + `SaToken`.[在线体验](https://snowy.xiaonuo.vip/index) [在线文档](https://xiaonuo.vip/doc?catalogueId=1574674492144766978&menuId=1574684190755540994)
-- [entfrm-boot](https://gitee.com/entfrm/entfrm-boot) ![](https://gitee.com/entfrm/entfrm-boot/badge/star.svg?theme=dark) ![](https://gitee.com/entfrm/entfrm-boot/badge/fork.svg?theme=dark) - 一个以模块化为核心的无代码开发平台。
-- [Guns](https://github.com/stylefeng/Guns) - 一个现代化的 `Java` 应用开发框架，基于主流技术 `SpringBoot2` + `Vue3`. [在线文档](https://www.javaguns.com/gunsDoc?categoryId=1504358893655011330&artId=1504360559456399362)
-- [music-website](https://github.com/Yin-Hongwei/music-website) - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
-- [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
-- [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
-- [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
-- [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
-- [linjiashop](https://github.com/microapp-store/linjiashop) - 一个基于 `SpringBoot` 和 `Vue` 的 `Web` 商城系统。[在线文档](http://linjiashop.enilu.cn/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	微服务项目
+## 微服务项目
 
 - [mall4cloud](https://github.com/gz-yami/mall4cloud) - 基于 `Spring Cloud`、`Nacos`、`Seata`、`Mysql`、`Redis`、`RocketMQ`、`canal`、`ElasticSearch`、`minio` 的微服务 `B2B2C` **电商商城系统**，采用主流的互联网技术架构、全新的 `UI` 设计、支持集群部署、服务注册和发现以及拥有完整的订单流程等，代码完全开源，没有任何二次封装，是一个非常适合二次开发的电商平台系统。[在线文档](https://gitee.com/gz-yami/mall4cloud/tree/master/doc)
 - [yudao-cloud](https://github.com/YunaiV/yudao-cloud) - [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 全新 `Cloud` 版本，优化重构所有功能。基于 `Spring Cloud Alibaba` + `MyBatis Plus` + `Vue` & `Element` 实现的**后台管理**系统 + 用户小程序，支持 `RBAC` 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。[在线体验](http://dashboard.yudao.iocoder.cn/login?redirect=%2Findex) [在线文档](https://cloud.iocoder.cn/quick-start/)
@@ -460,29 +499,55 @@
 - [r-nacos](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/create-center/r-nacos) - 一个用 `Rust` 实现的 `Nacos` 服务。[在线体验](https://www.bestreven.top/rnacos/manage/configs) [在线文档](https://r-nacos.github.io/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	高仿项目
+## `Go` 项目
 
-- [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
-- [yanhuo-springboot-vue](https://gitee.com/xzjsccz/yanhuo-springboot-vue) - 一个基于微服务架构的前后端分离仿小红书项目。[在线体验](http://175.178.249.190/dashboard)
-- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
-- [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
-- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
-- [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
-- [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
-- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
-- [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
-- [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
-- [vue-meituan](https://github.com/zwStar/vue-meituan) - `Vue` + `Node` + `MongoDB` 仿美团外卖点餐系统带支付功能。
-- [vue-store](https://github.com/hai-27/vue-store) - 基于 `Vue` + `Vue-Router` + `Vuex` + `Element-UI` + `Axios`，仿小米商城实现的**电商项目**。[在线体验](http://8.141.3.248/#/)
-- [pilipala](https://github.com/guozhigq/pilipala) - 使用 `Flutter` 开发的 `BiliBili` 第三方客户端。
-- [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
-- [12306](https://github.com/nageoffer/12306) - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
-- [instagram-mern](https://github.com/jigar-sable/instagram-mern) - 仿 `Instagram` 项目。
+- [Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
+- [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
+- [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
+- [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
+- [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
+- [moredoc](https://github.com/mnt-ltd/moredoc) - 基于 `Go` 开发的类似百度文库的开源文库系统。[在线体验](https://moredoc.mnt.ltd/)
+- [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
+- [navidrome](https://github.com/navidrome/navidrome) - 与 `Subsonic/Airsonic` 兼容的现代音乐播放器。[在线文档](https://www.navidrome.org/docs/installation/) [在线体验](https://demo.navidrome.org/)
+- [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 `Golang` + `Flutter` 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
+- [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
+- [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
+- [crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台，支持任何语言和框架。
+- [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 基于 `Go` + `Vue` 实现的 `openLDAP` 后台管理项目。[在线体验](http://demo-go-ldap-admin.eryajf.net/#/login?redirect=%2Fdashboard) [在线文档](http://ldapdoc.eryajf.net/)
+- [hugo](https://github.com/gohugoio/hugo) - 一个用 `Go` 语言构建的快速灵活的**静态网站生成器**，旨在提供速度和灵活性。
+- [DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) -  一个基于 `Go` 开发的能够高速采集海量互联网数据的开源搜索引擎。
+- [zincsearch](https://github.com/zincsearch/zincsearch) - 一个基于 `Go` 开发的轻量的全文索引搜索引擎。[在线文档](https://zincsearch-docs.zinc.dev/)
+- [GoFilm](https://github.com/ProudMuBai/GoFilm) - 一个基于 `Vue` 和 `Gin` 实现的在线观影网站。[在线体验](http://1.94.30.26:3600/index)
+- [pure-live-core](https://github.com/iyear/pure-live-core) - 一个想让直播回归纯粹的项目。
+- [fx](https://github.com/antonmedv/fx) - 终端 `JSON` 查看器和处理器。[在线文档](https://fx.wtf/)
+- [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
+- [superfile](https://github.com/yorukot/superfile) - 一个现代终端文件管理器，为命令行文件操作提供了一个直观且漂亮的界面。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	工作流 OA 项目
+## `Python` 项目
+
+- [stock](https://github.com/myhhub/stock) - **股票系统**。
+- [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `PHP` 项目
+
+- [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
+- [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
+- [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
+- [kodbox](https://github.com/kalcaddle/kodbox) -  `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
+- [zentaopms](https://github.com/easysoft/zentaopms) - 一款国产的开源项目管理软件。[在线体验](https://zentao.demo.qucheng.cc/index.php?m=my&f=index) [在线文档](https://www.zentao.net/book/zentaopms/38.html)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 工作流`OA`项目
 
 - [RuoYi-activiti](https://gitee.com/shenzhanwang/RuoYi-activiti) - 基于 `Activiti 6.0`，集流程设计、流程部署、流程执行、任务办理、流程监控于一体的开源工作流开发平台。
 - [agile-bpm-basic](https://gitee.com/agile-bpm/agile-bpm-basic) - 基于 `JDK17`、`Activiti7`、`Vue3`、`TS`、`Vite`、`ElementPlus` 实现的工作流、低代码、快速开发平台。[在线体验](http://demoa5.tongzhouyun.com/index) [在线文档](http://www.agilebpm.cn/)
@@ -497,10 +562,43 @@
 - [mldong](https://gitee.com/mldong/mldong) - 基于 SpringBoot + Vue3 实现的快速开发平台、工作流引擎。[在线体验](https://flow.mldong.com/dashboard/analysis) [在线文档](https://doc.mldong.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 支付项目
+## 微信项目
+
+- [WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 `Java SDK`，支持包括微**信支付，开放平台，小程序，企业微信，公众号**等的后端开发。
+- [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信公众号** `Java` 后端 `Demo`，支持多公众号。
+- [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
+- [wx-api](https://github.com/niefy/wx-api) - 微信公众号管理系统，包含公众号菜单管理、自动回复、素材管理、模板消息、粉丝管理等功能，前后端都开源免费。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 小程序项目
+
+- [WeHalo](https://github.com/savingrun/WeHalo) - 微信小程序版博客。
+- [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕 `WordPress` 小程序开源版。
+- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 `React/Vue/Nerv` 等框架来开发微信/京东/百度/支付宝/字节跳动/ `QQ` 小程序/`H5`/`React Native` 等应用。[在线文档](https://docs.taro.zone/docs/)
+- [Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 `Json` 方式绘制一张可以发到朋友圈的图片。[在线体验](https://painterjs.github.io/)
+- [wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 电影推荐微信小程序。
+- [WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序【专注时钟】。
+- [hioshop-miniprogram](https://github.com/iamdarcy/hioshop-miniprogram) - 微信小程序商城，开源免费商用，海风小店。
+- [pinche_xcx](https://github.com/vincenth520/pinche_xcx) - **同城拼车**微信小程序。
+- [weapp-library](https://github.com/imageslr/weapp-library) - **在线借书平台**微信小程序。[在线文档](https://imageslr.github.io/weapp-library/)
+- [QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 微信小程序，考试小程序，答题小程序，刷题小程序。
+- [yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) - 一款全面的**校园教务查询微信小程序**。
+- [ddrun](https://gitee.com/landalfyao/ddrun) - 一套**跑腿下单接单**系统。
+- [yshop-drink](https://github.com/guchengwuyue/yshop-drink) - 一个**在线点餐**小程序，支持多门店模式，`SaaS` 多租户模式。
+- [qdpz](https://gitee.com/kevin_chou/qdpz) - 一个常用小程序功能的集合，基于 `Vue` 实现，使用 `colorUi` 与 `uView`，完美支持微信小程序。
+- [linfeng-community](https://gitee.com/virus010101/linfeng-community) - 一个基于 `SpringBoot`、`MybatisPlus`、`Redis`、`Vue`、`Uniapp` 的前后端分离的**社交论坛问答发帖**/`BBS`，`SNS` 项目。[在线文档](https://www.kancloud.cn/linfengkj/linfeng_community/2754703)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 支付项目
 
 - [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
+
 - [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
 - [jeepay](https://github.com/jeequan/jeepay) - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 - [xpay](https://github.com/Exrick/xpay) - 个人免签收款支付系统。完全免费，资金直接到达本人账号，支持支付宝/微信/QQ/云闪付，无需备案，无需签约，无需挂机监控APP，无需插件，无需第三方支付 `SDK`，无需营业执照身份证，只需收款码，搞定支付流程，现已支持移动端支付。
@@ -510,23 +608,26 @@
 - [weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信支付** `Java` 后端 `Demo`。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### Api 网关项目
+## `Api` 网关项目
 
 - [apisix](https://github.com/apache/apisix) - `Apache` 下的云原生 `API` **网关**。[在线文档](https://apisix.apache.org/)
 - [kong](https://github.com/Kong/kong) - 云原生 `API` **网关**。[在线文档](https://konghq.com/)
 - [shenyu](https://github.com/apache/shenyu) - 异步的，高性能的，跨语言的，响应式的 `API` **网关**。[在线文档](https://shenyu.apache.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 中间件项目
+## 中间件项目
 
 - [dynamic-tp](https://github.com/dromara/dynamic-tp) - 轻量级**动态线程池**，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持 `Nacos`、`Apollo`，`Zookeeper`、`Consul`、`Etcd`，可通过 `SPI` 自定义实现）。[在线文档](https://dynamictp.cn/)
 - [hippo4j](https://github.com/opengoofy/hippo4j) - 异步线程池框架，支持线程池动态变更&监控&报警。[在线文档](https://hippo4j.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 数据操作项目
+## 数据操作项目
 
 - [dataease](https://github.com/dataease/dataease) - 开源的**数据可视化分析工具**，支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表。[在线体验](https://dataease.fit2cloud.com/#/login) 用户名：`demo` 密码：`dataease` [在线文档](https://dataease.io/docs/)
 - [DataX](https://github.com/alibaba/DataX) - 阿里云 `DataWorks` **数据集成**的开源版本，实现了包括 `MySQL`、`Oracle`、`OceanBase`、`SqlServer`、`Postgre`、`HDFS`、`Hive`、`ADS`、`HBase`、`TableStore(OTS)`、`MaxCompute(ODPS)`、`Hologres`、`DRDS ` 等各种异构数据源之间高效的数据同步功能。
@@ -558,86 +659,9 @@
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 博客项目
-
-- [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
-- [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于 `Django` 的博客系统。[在线体验](https://www.lylinux.net/)
-- [bolo-solo](https://github.com/adlered/bolo-solo) - 基于 `Java` 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。[在线体验](https://demo.stackoverflow.wiki/)
-- [NBlog](https://github.com/Naccl/NBlog) -  `Spring Boot` + `Vue` 前后端分离博客系统。[在线体验](https://naccl.top/home)
-- [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
-- [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
-- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `SpringBoot` + `Vue3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
-- [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
-- [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
-- [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
-- [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
-- [OneBlog](https://github.com/zhangyd-c/OneBlog) - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
-- [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 聊天项目
-
-- [him-netty](https://github.com/lmxdawn/him-netty) 基于 `SpringBoot` + `Netty` + `Protobuf` + `Vue` 开源的 `H5` **即时聊天系统**。
-- [subtlechat](https://github.com/JustCoding-Hai/subtlechat) - 基于前后端分离，采用 `SpringBoot` + `Vue` 框架开发的**网页版聊天室**。 使用了 `Spring Security` 安全框架进行密码的加密存储和登录登出等逻辑的处理，以 `WebSocket` + `Socket.js` + `Stomp.js` 实现消息的发送与接收、监听。搭建 `FastDFS` 文件服务器用于保存图片，使用 `EasyExcel` 导出数据，使用 `Vue.js` 结合 `Element UI` 进行显示弹窗和数据表格分页等功能，以及整个系统的界面进行 `UI` 设计，并且使用 `MyBatis` 结合数据库`MySQL` 进行开发。[在线体验](http://www.javahai.top/index.html) [在线文档](https://github.com/JustCoding-Hai/subtlechat/wiki)
-- [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
-- [tailchat](https://github.com/msgbyte/tailchat) - 一个基于 `React` + `Typescript` 的现代开源 `noIM` 应用程序。[在线体验](https://nightly.paw.msgbyte.com/) [在线文档](https://tailchat.msgbyte.com/zh-Hans/docs/intro)
-- [weweChat](https://github.com/trazyn/weweChat) - 基于 `React`、`MobX` 和 `Electron` 构建的非官方**微信客户端**。[在线体验](https://web.wechat.com/) 
-- [anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - 基于 `livekit` 和 `Next.js` 的匿名聊天室。[在线体验](https://chat.cwy666.eu.org/)
-- [meet](https://github.com/livekit-examples/meet) - 基于 `LiveKit Components`、`LiveKit Cloud` 和 `Next.js` 构建的**开源视频会议应用程序**。[在线体验](https://meet.livekit.io/)
-- [im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统。[在线文档](https://docs.wildfirechat.cn/)
-- [openvidu](https://github.com/OpenVidu/openvidu) - 轻松创建自定义的视频会议。[在线体验](https://openvidu.io/demos#0) 
-- [open-im-server](https://github.com/openimsdk/open-im-server) - 一个专门设计用于在应用程序中集成聊天、音视频通话、通知以及AI聊天机器人等通信功能的服务平台。[在线体验](https://www.openim.io/zh/commercial) [在线文档](https://docs.openim.io/zh-Hans/guides/introduction)
-- [WuKongIM](https://github.com/WuKongIM/WuKongIM) - 高性能通用实时通讯服务，支持即时通讯（聊天软件）(`IM`、`Chat`)、消息推送、消息中台、音视频信令、直播弹幕、客服系统、`AI` 通讯、即时社区等场景。[在线体验](http://imdemo.githubim.com/#/) [在线文档](https://githubim.com/guide/guide.html)
-- [box-im](https://gitee.com/bluexsx/box-im) - 一个仿微信的聊天工具。后端采用 `SpringBoot` + `Netty` 实现，`Web` 端使用 `Vue`，移动端使用 `Uniapp`，支持私聊、群聊、离线消息、发送图片、文件、语音、`emoji` 表情、视频聊天等功能。[在线体验](https://www.boxim.online/#/login) [在线文档](https://www.yuque.com/u1475064/mufu2a)
-- [has-chat](https://gitee.com/howcode/has-chat) - 一款前端基于 `Vue3`,后端基于 `Express.js` 的极简聊天应用。[在线体验](https://gitee.com/link?target=https%3A%2F%2Fhowcode.online%2Fhaschat)
-- [im-uniapp](https://gitee.com/lakaola/im-uniapp) - 聊天IM，精仿微信，支持单聊、群聊、朋友圈、摇一摇、附近的人、收藏、扫码、机器人、文字、图片、名片、实时音视频通话等功能。
-- [V-IM](https://gitee.com/alyouge/V-IM) - 基于 `JS` 的超轻量级聊天软件。[在线体验](http://101.200.151.183/#/)
-- [j-im](https://gitee.com/xchao/j-im) - 用 `Java` 语言开发的轻量、高性能、单机支持几十万至百万在线用户 IM.
-- [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一套专为移动端开发的原创 IM 通信层框架。
-- [chat-system](https://github.com/likaia/chat-system) - 一个在线聊天系统，最大程度的还原了 `Mac` 客户端 `QQ`. [在线体验](https://www.kaisir.cn/chat-system/index.html#/login)
-- [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue3` 和 `TypeScript` 构建的即时通讯系统。
-- [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
-- [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
-- [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
-- [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用。[在线体验](https://fiora.suisuijiang.com/) [在线文档](https://yinxin630.github.io/fiora/zh-Hans/docs/getting-start/)
-- [JiwuChat](https://github.com/KiWi233333/JiwuChat) - 一款基于 `Tauri2` 和 `Nuxt3` 构建的轻量多平台即时通讯聊天应用，具备多种实时消息、`AI` 群聊机器人。[在线体验](https://chat.jiwu.kiwi233.top/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 微信项目
-
-- [WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 `Java SDK`，支持包括微**信支付，开放平台，小程序，企业微信，公众号**等的后端开发。
-- [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信公众号** `Java` 后端 `Demo`，支持多公众号。
-- [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
-- [wx-api](https://github.com/niefy/wx-api) - 微信公众号管理系统，包含公众号菜单管理、自动回复、素材管理、模板消息、粉丝管理等功能，前后端都开源免费。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 小程序项目
-
-- [WeHalo](https://github.com/savingrun/WeHalo) - 微信小程序版博客。
-- [winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕 `WordPress` 小程序开源版。
-- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 `React/Vue/Nerv` 等框架来开发微信/京东/百度/支付宝/字节跳动/ `QQ` 小程序/`H5`/`React Native` 等应用。[在线文档](https://docs.taro.zone/docs/)
-- [Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 `Json` 方式绘制一张可以发到朋友圈的图片。[在线体验](https://painterjs.github.io/)
-- [wechat-weapp-movie](https://github.com/sesine/wechat-weapp-movie) - 电影推荐微信小程序。
-- [WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序【专注时钟】。
-- [hioshop-miniprogram](https://github.com/iamdarcy/hioshop-miniprogram) - 微信小程序商城，开源免费商用，海风小店。
-- [pinche_xcx](https://github.com/vincenth520/pinche_xcx) - **同城拼车**微信小程序。
-- [weapp-library](https://github.com/imageslr/weapp-library) - **在线借书平台**微信小程序。[在线文档](https://imageslr.github.io/weapp-library/)
-- [QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 微信小程序，考试小程序，答题小程序，刷题小程序。
-- [yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) - 一款全面的**校园教务查询微信小程序**。
-- [ddrun](https://gitee.com/landalfyao/ddrun) - 一套**跑腿下单接单**系统。
-- [yshop-drink](https://github.com/guchengwuyue/yshop-drink) - 一个**在线点餐**小程序，支持多门店模式，`SaaS` 多租户模式。
-- [qdpz](https://gitee.com/kevin_chou/qdpz) - 一个常用小程序功能的集合，基于 `Vue` 实现，使用 `colorUi` 与 `uView`，完美支持微信小程序。
-- [linfeng-community](https://gitee.com/virus010101/linfeng-community) - 一个基于 `SpringBoot`、`MybatisPlus`、`Redis`、`Vue`、`Uniapp` 的前后端分离的**社交论坛问答发帖**/`BBS`，`SNS` 项目。[在线文档](https://www.kancloud.cn/linfengkj/linfeng_community/2754703)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-## Web 项目
-
-### 运维监控
+## 测试运维监控项目
 
 - [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 - [hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
@@ -681,8 +705,9 @@
 - [cmdb](https://github.com/veops/cmdb) - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 网络项目
+## 网络项目
 
 - [SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
@@ -692,9 +717,9 @@
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [allinssl](https://github.com/allinssl/allinssl) - 一个集证书申请、管理、部署和监控于一体的 `SSL` 证书全生命周期管理工具。[在线文档](https://allinssl.com/)
 
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
-### 浏览器导航页
+## 导航页项目
 
 - [pintree](https://github.com/Pintree-io/pintree) - 通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
 - [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
@@ -702,9 +727,9 @@
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
 
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
-## AI 项目
+## `AI` 项目
 
 - [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。[在线体验](https://scribblediffusion.com/)
 - [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - 绘制一个模型并为其生成 `HTML`.
@@ -734,10 +759,10 @@
 - [deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 一个连接强大 `AI` 与个人世界的智能助手。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### ChatGPT 项目
-
+## `ChatGPT` 项目
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 - [ChatGemini](https://github.com/bclswl0827/ChatGemini) - 一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图。[在线体验](http://ibcl.us/ChatGemini/)
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui) - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
@@ -747,7 +772,279 @@
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入。[在线文档](https://docs.link-ai.tech/cow/quick-start)
 - [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统。
 
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 高仿项目
+
+- [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
+- [yanhuo-springboot-vue](https://gitee.com/xzjsccz/yanhuo-springboot-vue) - 一个基于微服务架构的前后端分离仿小红书项目。[在线体验](http://175.178.249.190/dashboard)
+- [vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 基于 `Vue2`、`Vue-CLI3` 的**高仿网易云** `Mac` 客户端播放器（`PC`） `Online Music Player`。[在线体验](https://v-music.vercel.app/)
+- [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
+- [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) - 基于 `Vue2.0` 高仿微信 `App` 的单页应用。
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 一个具有 45 个页面的大型模仿饿了么单页面应用。[在线体验](https://cangdu.org/elm/#/home)
+- [vue3-music](https://github.com/SmallRuralDog/vue3-music) -  `VUE3` + `TS` 开发的**音乐播放器**，界面模仿 `QQ` 音乐 `Mac` 客户端，支持黑夜模式。[在线体验](https://smallruraldog.github.io/vue3-music)
+- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 一个主要基于 `Vue3` + `TypeScript` + `Vite` 构建的高仿网易云 `pc` 端的音乐流媒体网站。[在线体验](https://cloud-music-eight-nu.vercel.app/#/discovery)
+- [douyin](https://github.com/zyronon/douyin) - 一个模仿抖音的移动端短视频项目，它基于 `Vue`、`Vite`实现。[在线体验](http://dy.ttentau.top/)
+- [instaclone](https://github.com/Sandermoen/instaclone) - 基于 `MongoDB`、`Express`、`React`、`Socket.io` 模仿 `Instagram` 的项目。
+- [vue-meituan](https://github.com/zwStar/vue-meituan) - `Vue` + `Node` + `MongoDB` 仿美团外卖点餐系统带支付功能。
+- [vue-store](https://github.com/hai-27/vue-store) - 基于 `Vue` + `Vue-Router` + `Vuex` + `Element-UI` + `Axios`，仿小米商城实现的**电商项目**。[在线体验](http://8.141.3.248/#/)
+- [pilipala](https://github.com/guozhigq/pilipala) - 使用 `Flutter` 开发的 `BiliBili` 第三方客户端。
+- [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
+- [12306](https://github.com/nageoffer/12306) - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
+- [instagram-mern](https://github.com/jigar-sable/instagram-mern) - 仿 `Instagram` 项目。
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 接口文档管理项目
+
+- [Torna](https://gitee.com/durcframework/torna) - **接口文档**解决方案，目标是让接口文档管理变得更加方便、快捷。`Torna` 采用团队协作的方式管理和维护接口文档，将不同形式的文档纳入进来统一维护。[在线文档](https://torna.cn/dev/)
+- [postcat](https://github.com/postcatlab/postcat) - 可扩展的 `API` 工具平台，集成基础的 `API` 管理和测试功能，并且可以通过插件简化 `API` 开发工作，更快更好地创建 `API`。[在线体验](https://postcat.com/) [在线文档](https://docs.postcat.com/)
+- [DOClever](https://github.com/DOClever/DOClever) - 接口管理平台。
+- [yapi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的**接口管理平台**。[在线体验](http://yapi.smart-xwork.cn/) [在线文档](https://hellosean1025.github.io/yapi)
+- [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
+- [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的**开源接口管理工具** `RAP`第二代。[在线体验](http://rap2.taobao.org/)
+- [insomnia](https://github.com/Kong/insomnia) - 一个开源的、跨平台的 `GraphQL`、`REST`、`WebSockets` 和 `gRPC` 的 `API` 客户端。
+- [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
+- [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
+- [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
+- [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
+- [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
+- [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
+- [yaade](https://github.com/EsperoTech/yaade) - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
+
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 知识管理项目
+
+- [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
+- [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
+- [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
+- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
+- [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
+- [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
+- [mkdocs](https://github.com/mkdocs/mkdocs) - 一个快速、简单和完全华丽的**静态网站生成器**，主要用于构建项目文档。文档源文件用 `Markdown` 编写，并通过一个 `YAML` 配置文件进行配置。[在线文档](https://www.mkdocs.org/)
+- [docz](https://github.com/doczjs/docz) - 通过 `MDX` 快速创建实时加载、`SEO` 友好、可生产的文档网站，并通过利用 `GatsbyJS` 和 `Gatsby` 主题阴影，在需要时定制其外观、感觉和行为。[在线文档](https://www.docz.site/docs/introduction)
+- [docusaurus](https://github.com/facebook/docusaurus) - 易于维护的**开源文档网站**。[在线文档](https://docusaurus.io/zh-CN/docs)
+- [MrDoc](https://github.com/zmister2016/MrDoc) - 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。[在线体验](http://mrdoc.zmister.com/)
+- [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
+- [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
+- [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
+- [openproject](https://github.com/opf/openproject) - 一款开源的项目管理工具。
+
+## **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+## 博客项目
+
+- [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
+- [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于 `Django` 的博客系统。[在线体验](https://www.lylinux.net/)
+- [bolo-solo](https://github.com/adlered/bolo-solo) - 基于 `Java` 的菠萝博客系统，简单易部署，精致主题，贴心服务，专为程序员设计。[在线体验](https://demo.stackoverflow.wiki/)
+- [NBlog](https://github.com/Naccl/NBlog) -  `Spring Boot` + `Vue` 前后端分离博客系统。[在线体验](https://naccl.top/home)
+- [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
+- [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
+- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `SpringBoot` + `Vue3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
+- [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
+- [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
+- [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
+- [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
+- [OneBlog](https://github.com/zhangyd-c/OneBlog) - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
+- [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 聊天项目
+
+- [him-netty](https://github.com/lmxdawn/him-netty) 基于 `SpringBoot` + `Netty` + `Protobuf` + `Vue` 开源的 `H5` **即时聊天系统**。
+- [subtlechat](https://github.com/JustCoding-Hai/subtlechat) - 基于前后端分离，采用 `SpringBoot` + `Vue` 框架开发的**网页版聊天室**。 使用了 `Spring Security` 安全框架进行密码的加密存储和登录登出等逻辑的处理，以 `WebSocket` + `Socket.js` + `Stomp.js` 实现消息的发送与接收、监听。搭建 `FastDFS` 文件服务器用于保存图片，使用 `EasyExcel` 导出数据，使用 `Vue.js` 结合 `Element UI` 进行显示弹窗和数据表格分页等功能，以及整个系统的界面进行 `UI` 设计，并且使用 `MyBatis` 结合数据库`MySQL` 进行开发。[在线体验](http://www.javahai.top/index.html) [在线文档](https://github.com/JustCoding-Hai/subtlechat/wiki)
+- [Chatroom](https://github.com/Kanarienvogels/Chatroom) - 基于 `Spring` + `Netty` + `Websocket` 实现的**互联网实时聊天系统** 。
+- [tailchat](https://github.com/msgbyte/tailchat) - 一个基于 `React` + `Typescript` 的现代开源 `noIM` 应用程序。[在线体验](https://nightly.paw.msgbyte.com/) [在线文档](https://tailchat.msgbyte.com/zh-Hans/docs/intro)
+- [weweChat](https://github.com/trazyn/weweChat) - 基于 `React`、`MobX` 和 `Electron` 构建的非官方**微信客户端**。[在线体验](https://web.wechat.com/) 
+- [anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - 基于 `livekit` 和 `Next.js` 的匿名聊天室。[在线体验](https://chat.cwy666.eu.org/)
+- [meet](https://github.com/livekit-examples/meet) - 基于 `LiveKit Components`、`LiveKit Cloud` 和 `Next.js` 构建的**开源视频会议应用程序**。[在线体验](https://meet.livekit.io/)
+- [im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统。[在线文档](https://docs.wildfirechat.cn/)
+- [openvidu](https://github.com/OpenVidu/openvidu) - 轻松创建自定义的视频会议。[在线体验](https://openvidu.io/demos#0) 
+- [open-im-server](https://github.com/openimsdk/open-im-server) - 一个专门设计用于在应用程序中集成聊天、音视频通话、通知以及AI聊天机器人等通信功能的服务平台。[在线体验](https://www.openim.io/zh/commercial) [在线文档](https://docs.openim.io/zh-Hans/guides/introduction)
+- [WuKongIM](https://github.com/WuKongIM/WuKongIM) - 高性能通用实时通讯服务，支持即时通讯（聊天软件）(`IM`、`Chat`)、消息推送、消息中台、音视频信令、直播弹幕、客服系统、`AI` 通讯、即时社区等场景。[在线体验](http://imdemo.githubim.com/#/) [在线文档](https://githubim.com/guide/guide.html)
+- [box-im](https://gitee.com/bluexsx/box-im) - 一个仿微信的聊天工具。后端采用 `SpringBoot` + `Netty` 实现，`Web` 端使用 `Vue`，移动端使用 `Uniapp`，支持私聊、群聊、离线消息、发送图片、文件、语音、`emoji` 表情、视频聊天等功能。[在线体验](https://www.boxim.online/#/login) [在线文档](https://www.yuque.com/u1475064/mufu2a)
+- [has-chat](https://gitee.com/howcode/has-chat) - 一款前端基于 `Vue3`,后端基于 `Express.js` 的极简聊天应用。[在线体验](https://gitee.com/link?target=https%3A%2F%2Fhowcode.online%2Fhaschat)
+- [im-uniapp](https://gitee.com/lakaola/im-uniapp) - 聊天IM，精仿微信，支持单聊、群聊、朋友圈、摇一摇、附近的人、收藏、扫码、机器人、文字、图片、名片、实时音视频通话等功能。
+- [V-IM](https://gitee.com/alyouge/V-IM) - 基于 `JS` 的超轻量级聊天软件。[在线体验](http://101.200.151.183/#/)
+- [j-im](https://gitee.com/xchao/j-im) - 用 `Java` 语言开发的轻量、高性能、单机支持几十万至百万在线用户 IM.
+- [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一套专为移动端开发的原创 IM 通信层框架。
+- [chat-system](https://github.com/likaia/chat-system) - 一个在线聊天系统，最大程度的还原了 `Mac` 客户端 `QQ`. [在线体验](https://www.kaisir.cn/chat-system/index.html#/login)
+- [HuLa-IM-Tauri](https://github.com/nongyehong/HuLa-IM-Tauri) - 一个基于`Tauri`、`Vite 5`、`Vue3` 和 `TypeScript` 构建的即时通讯系统。
+- [vue-weixin](https://github.com/bailichen/vue-weixin) - `Vue2` 全家桶仿**微信App**项目，支持多人在线聊天和机器人聊天。
+- [MallChat](https://github.com/zongzibinbin/MallChat) - 一个既能购物又能聊天的电商系统。[在线体验](https://mallchat.cn/)
+- [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
+- [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用。[在线体验](https://fiora.suisuijiang.com/) [在线文档](https://yinxin630.github.io/fiora/zh-Hans/docs/getting-start/)
+- [JiwuChat](https://github.com/KiWi233333/JiwuChat) - 一款基于 `Tauri2` 和 `Nuxt3` 构建的轻量多平台即时通讯聊天应用，具备多种实时消息、`AI` 群聊机器人。[在线体验](https://chat.jiwu.kiwi233.top/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `Markdown` 编辑器项目
+
+- [yn](https://github.com/purocean/yn) - 一款强大可扩展的 `Markdown` 编辑器，为生产力而生。[在线体验](https://demo.yank-note.com/#/) [下载地址](https://github.com/purocean/yn/releases)
+- [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
+- [notable](https://github.com/notable/notable) - 一款开源的高颜值、跨平台的 `Markdown` 编辑器。[下载地址](https://download.notable.app/)
+- [vnote](https://github.com/vnotex/vnote) - 专注于 `Markdown` 的基于 `Qt` 的开源免费的**笔记应用**，提供一个拥有完美编辑体验的舒适的**笔记平台**。[在线文档](https://tamlok.gitee.io/vnote/zh_cn/)
+- [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
+- [cherry-markdown](https://github.com/Tencent/cherry-markdown) - 一款 `JavaScript` `Markdown` **编辑器**，具有开箱即用、轻量简洁、易于扩展等特点，它可以运行在浏览器或服务端( `NodeJs`)。
+- [markdown2pdf](https://gitee.com/codeleilei/markdown2pdf) - 使用 `Markdown` 语法来构建 `Pdf` 简历。[在线体验](https://codeleilei.gitee.io/markdown2pdf/#/template)
+- [vditor](https://github.com/Vanessa219/vditor) - 一款浏览器端的 `Markdown` 编辑器，支持所见即所得（富文本）、即时渲染（类似 `Typora`）和分屏预览模式。[在线体验](https://ld246.com/guide/markdown) [在线文档](https://b3log.org/vditor/)
+- [dillinger](https://github.com/joemccann/dillinger) - 一个 `Markdown` 编辑器。[在线体验](https://dillinger.io/)
+- [md](https://github.com/doocs/md) - `WeChat Markdown Editor` | 一款高度简洁的微信 `Markdown` 编辑器：支持 `Markdown` 语法、色盘取色、多图上传、一键下载文档、自定义 `CSS` 样式、一键重置等特性。[在线体验](https://doocs.github.io/md/)
+- [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 基于 `Vue`、`Vditor` 所构建的在线 `Markdown` 编辑器，支持绘制流程图、甘特图、时序图、任务列表、`echarts` 图表、五线谱，以及 `PPT` 预览、视频音频解析、`HTML` 自动转换为 `Markdown` 等功能。[在线体验](https://markdown.lovejade.cn/?utm_source=github.com)
+- [joplin](https://github.com/laurent22/joplin) - 一个开源的记事本应用程序。[在线文档](https://joplinapp.org/cn/)
+- [mdx-editor](https://github.com/maqi1520/mdx-editor) - 一个好用的微信排版编辑器，更是一个跨平台 `Markdown` 笔记软件。[在线体验](https://editor.runjs.cool/create)
+- [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 一个轻量级的 `MarkDown` 文档协作工具。[在线体验](https://chencoding.top:8084/)
+- [markdoc](https://github.com/markdoc/markdoc) - 一个强大、灵活、基于 `Markdown` 的编辑器。[在线体验](https://markdoc.dev/sandbox?mode=preview)
+- [notes](https://github.com/nuttyartist/notes) - 基于 `C++` 实现的 `Markdown` 编辑器。
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) - 开源 `Web` 富文本编辑器，开箱即用，配置简单，支持 `JS`、`Vue`、`React`.[在线文档](https://www.wangeditor.com/)
+- [canvas-editor](https://github.com/Hufe921/canvas-editor) - 基于 `Canvas/SVG` 实现的富文本编辑器。[在线体验](https://hufe.club/canvas-editor) [在线文档](https://hufe.club/canvas-editor-docs/)
+- [blossom](https://github.com/blossom-editor/blossom) - 支持私有部署的云端存储双链笔记软件。[在线体验](https://www.wangyunf.com/blossom-demo/#/) [在线文档](https://www.wangyunf.com/blossom-doc/index.html)
+- [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 `Markdown` 编辑器，让排版变 Nice.[在线体验](https://legacy.mdnice.com/)
+- [editor.md](https://github.com/pandao/editor.md) - 一款开源的、可嵌入的 `Markdown` 在线编辑器（组件），基于 `CodeMirror`、`jQuery` 和 `Marked` 构建。[在线体验](http://editor.md.ipandao.com/)
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - 一个功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。[在线文档](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/quick-start.html)
+- [quill](https://github.com/slab/quill) - 一个现代的 `WYSIWYG` 编辑器，具有兼容性和可扩展性。[在线文档](https://quilljs.com/docs/quickstart)
+- [tinymce](https://github.com/tinymce/tinymce) - 富文本编辑 `JavaScript` 库。[在线文档](https://www.tiny.cloud/docs/tinymce/latest/)
+- [editor.js](https://github.com/codex-team/editor.js) - 块样式编辑器，采用的是独特的一套 `Json` 数据结构。[在线体验](https://editorjs.io/getting-started/)
+- [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
+- [batnoter](https://github.com/batnoter/batnoter) - 一个开源、基于 `Markdown`、自托管的笔记 `Web` 应用程序。
+- [hedgedoc](https://github.com/hedgedoc/hedgedoc) - 一个开源、基于网页、自托管的协作 `Markdown` 编辑器。[在线文档](https://docs.hedgedoc.org/setup/getting-started/)
+- [MiaoYan](https://github.com/tw93/MiaoYan) - 轻灵的 `Markdown` 笔记本伴你写出妙言。
+- [Markdown2Html](https://github.com/shenweiyan/Markdown2Html) - 一款 `Markdown` 转 `Html`，支持掘金、知乎和微信公众号的编辑器。[在线体验](https://md.weiyan.cc/)
+- [markdown-to-image](https://github.com/gcui-art/markdown-to-image) - `React` 组件用于将 `Markdown` 渲染为漂亮的社交媒体图片。[在线体验](https://readpo.com/zh/poster)
+- [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
+- [markitdown](https://github.com/microsoft/markitdown) - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
+- [markwhen](https://github.com/mark-when/markwhen) - 一款从 `Markdown` 文本创建美观的层级时间线的工具。[在线体验](https://markwhen.com/)
+- [editor](https://github.com/umodoc/editor) - 一个基于 `Vue3` 和 `Tiptap` 的适合于国人使用的本土化开源文档编辑器。[在线体验](https://demo.umodoc.com/editor?lang=zh-CN) [在线文档](https://editor.umodoc.com/cn/docs)
+- [flatnotes](https://github.com/dullage/flatnotes) - 一款自托管、无需数据库的在线 `Markdown` 笔记应用。[在线体验](https://demo.flatnotes.io/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## `Linux` 项目
+
+- [linux-command](https://github.com/jaywcjlove/linux-command) - `Linux` **命令大全**搜索工具，内容包含 `Linux` 命令手册、详解、学习、搜集。[在线体验](https://wangchujiang.com/linux-command/)
+- [autocomplete](https://github.com/withfig/autocomplete) - 为终端 & `shell` 实现类似于 `IDE` 一样的自动提示功能。
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 一文掌握所有命令行，70个 “冷门但有用”的命令行技巧。
+- [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
+- [next-terminal](https://github.com/dushixiang/next-terminal) - `Next Terminal` 是一个简单好用安全的开源交互审计系统，支持 `RDP`、`SSH`、`VNC`、`Telnet`、`Kubernetes` 协议。[在线体验](https://next.typesafe.cn/)
+- [linux-tutorial](https://github.com/dunwu/linux-tutorial) - `Linux` 教程，主要内容：`Linux` 命令、`Linux` 系统运维、软件运维、精选常用 `Shell` 脚本。[在线体验](https://dunwu.github.io/linux-tutorial/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 软件项目
+
+- [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
+- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
+- [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
+- [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
+- [TTime](https://github.com/InkTimeRecord/TTime) - 一款简洁高效的输入、截图、划词翻译软件。
+- [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
+- [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 技术的翻译器。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
+- [bruno](https://github.com/usebruno/bruno) - 用于探索和测试应用程序的开源集成开发环境（`postman`/`insomnia` 的轻量级替代品）。
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
+- [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
+- [lively](https://github.com/rocksdanister/lively) - 动画桌面壁纸软件。
+- [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
+- [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
+- [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
+- [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+- [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。[在线文档](https://copyq.readthedocs.io/en/latest/)
+- [vlc](https://github.com/videolan/vlc) - 一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
+- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
+- [heynote](https://github.com/heyman/heynote) - 方便开发人员专使用的便签软件。
+- [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
+- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 纯粹的 `Windows` 右键菜单管理程序。[在线文档](https://bluepointlilac.github.io/ContextMenuManager/)
+- [NotepadNext](https://github.com/dail8859/NotepadNext) - 跨平台的、重新实现的 `Notepad++`。
+- [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和 GIF.
+- [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
+- [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
+- [Thief](https://github.com/cteamx/Thief) - 一款基于 `Electron` 开发的跨平台多功能(`真正创新的`)摸鱼软件。
+- [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
+- [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
+- [trilium](https://github.com/zadam/trilium) - 一个层次化的笔记应用程序，专注于建立大型个人知识库。
+- [czkawka](https://github.com/qarmin/czkawka) - 一款简单、快速且免费的应用程序，用于从计算机中删除不必要的文件。
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。 
+- [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
+- [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
+- [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
+- [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
+- [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
+- [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
+- [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `macOS` 屏幕录制工具。
+- [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - 一个基于 `Electron` 的图表和白板桌面应用程序，它包装了核心的 `draw.io` 编辑器。
+- [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。
+- [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
+- [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
+- [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
+- ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) - `Telegram` 桌面端应用程序。
+- [EcoPaste](https://github.com/ayangweb/EcoPaste) - 适用于 `Windows`、`MacOS` 和 `Linux` 的开源**剪贴板管理工具**。
+- [gif123](https://github.com/aardio/gif123) - 极简 `GIF` **录屏工具**，可一键快速复制 `GIF` 图像并直接粘贴到其他程序。
+- [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
+- [PeaZip](https://github.com/peazip/PeaZip) - 一款免费且开源的文件压缩与解压工具。
+- [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
+- [massCode](https://github.com/massCodeIO/massCode) - 一个免费开源的跨平台代码片段管理工具。
+- [TV](https://github.com/Guovin/TV) - `IPTV` 电视直播源更新工具。
+- [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
+- [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
+- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
+- [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
+- [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
+- [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的工具。[在线文档](https://www.yuque.com/legado/wiki)
+- [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
+- [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
+- [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
+- [ShareX](https://github.com/ShareX/ShareX) - 一款基于 `C#` 开发的 免费开源 `Windows` **截图工具**。
+- [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。 
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 插件项目
+
+- [magic-copy](https://github.com/kevmo314/magic-copy) - 基于 `Meta` 的 `Segment Anything Model` 从图像中**抠图**并复制到剪贴板或者下载的**谷歌浏览器插件**。
+- [InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - `Firefox` 和 `Chrome` 扩展，为 `Instagram` 图片、视频创建一个下载按钮。
+- [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
+- [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用。
+- [wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。[在线体验](https://wai.shaiwang.life/)
+- [leek-fund](https://github.com/LeekHub/leek-fund) - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
+- [cat-catch](https://github.com/xifangczy/cat-catch) - 一个音乐/视频地址解析下载插件。
+- [github-chinese](https://github.com/maboloshi/github-chinese) - `GitHub` 中文化插件。
+- [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
+- [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
+- [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
+- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件。
+- [markdown-download](https://github.com/kscript/markdown-download) - 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN 的文章转为 `Markdown` 文档并下载的谷歌浏览器插件。
+- [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
+- [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
+- [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
+- [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
+- [Json-Assistant](https://github.com/MemoryZy/Json-Assistant) - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
+- [chapter_reader](https://gitee.com/wind_invade/chapter_reader) - `IDEA` 在线&本地小说阅读插件。
+- [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
 ## 工具项目
 
@@ -810,13 +1107,37 @@
 - [WeChatMsg](https://github.com/LC044/WeChatMsg) - 一款强大的微信聊天记录管理工具。
 - [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - `PDF` 转成 `Markdown` 工具。[在线体验](https://pdf2md.morethan.io/)
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - 使用浏览器的在线图片格式转化器。[在线体验](https://imagestool.com/webp2jpg-online/)
+- [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
 - [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
 - [pandoc](https://github.com/jgm/pandoc) - 通用文件转换器。[在线体验](https://pandoc.org/try/)
 
-⬆️ 回到顶部 
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	开发工具
+## 下载工具项目
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/license/yt-dlp/yt-dlp) ![](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/forks/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/license/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/last-commit/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
+- [cobalt](https://github.com/imputnet/cobalt) ![](https://img.shields.io/github/stars/imputnet/cobalt?style=social) ![](https://img.shields.io/github/forks/imputnet/cobalt?style=social) ![](https://img.shields.io/github/license/imputnet/cobalt) ![](https://img.shields.io/github/last-commit/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) ![](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/forks/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/license/ytdl-org/youtube-dl) ![](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
+- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/license/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/last-commit/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/stars/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/forks/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/license/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/last-commit/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [downkyi](https://github.com/leiurayer/downkyi) ![](https://img.shields.io/github/stars/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/forks/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/license/leiurayer/downkyi) ![](https://img.shields.io/github/last-commit/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
+- [BBDown](https://github.com/nilaoda/BBDown) ![](https://img.shields.io/github/stars/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/forks/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/license/nilaoda/BBDown) ![](https://img.shields.io/github/last-commit/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
+- [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
+- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
+- [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
+- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
+- [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
+- [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
+- [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
+- [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬，`B` 站直播录播工具。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
+
+## 开发工具项目
 
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
@@ -843,369 +1164,36 @@
 - [Nping](https://github.com/hanshuaikang/Nping) - 一个基于 `Rust` 开发的终端可视化 `Ping` 工具, 支持多地址并发 `Ping`, 可视化图表展示, 数据实时更新等特性。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 插件工具
+## 游戏项目
 
-- [EasyCode](https://github.com/makejavas/EasyCode) - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
-- [magic-copy](https://github.com/kevmo314/magic-copy) - 基于 `Meta` 的 `Segment Anything Model` 从图像中**抠图**并复制到剪贴板或者下载的**谷歌浏览器插件**。
-- [InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - `Firefox` 和 `Chrome` 扩展，为 `Instagram` 图片、视频创建一个下载按钮。
-- [uBlock](https://github.com/gorhill/uBlock) - `Chromium` 和 `Firefox `的广告拦截器。
-- [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展, 支持输入框翻译，鼠标悬停翻译，`PDF`、`Epub`, 字幕文件, `TXT` 文件翻译。[在线文档](https://immersivetranslate.com/docs/)
-- [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用。
-- [wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。[在线体验](https://wai.shaiwang.life/)
-- [leek-fund](https://github.com/LeekHub/leek-fund) - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
-- [cat-catch](https://github.com/xifangczy/cat-catch) - 一个音乐/视频地址解析下载插件。
-- [github-chinese](https://github.com/maboloshi/github-chinese) - `GitHub` 中文化插件。
-- [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
-- [web-clipper](https://github.com/webclipper/web-clipper) - 可以使用 `Web Clipper` 将 `Web` 上的任何内容保存到任何地方。
-- [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
-- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件。
-- [markdown-download](https://github.com/kscript/markdown-download) - 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN 的文章转为 `Markdown` 文档并下载的谷歌浏览器插件。
-- [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
-- [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
-- [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
-- [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
-- [Json-Assistant](https://github.com/MemoryZy/Json-Assistant) - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
-- [chapter_reader](https://gitee.com/wind_invade/chapter_reader) - `IDEA` 在线&本地小说阅读插件。
-- [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
+- [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
+- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
+- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-###	下载工具
+## 计算机考研项目
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/license/yt-dlp/yt-dlp) ![](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
-- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/forks/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/license/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/last-commit/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
-- [cobalt](https://github.com/imputnet/cobalt) ![](https://img.shields.io/github/stars/imputnet/cobalt?style=social) ![](https://img.shields.io/github/forks/imputnet/cobalt?style=social) ![](https://img.shields.io/github/license/imputnet/cobalt) ![](https://img.shields.io/github/last-commit/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) ![](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/forks/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/license/ytdl-org/youtube-dl) ![](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
-- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/license/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/last-commit/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
-- [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/stars/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/forks/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/license/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/last-commit/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
-- [downkyi](https://github.com/leiurayer/downkyi) ![](https://img.shields.io/github/stars/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/forks/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/license/leiurayer/downkyi) ![](https://img.shields.io/github/last-commit/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
-- [BBDown](https://github.com/nilaoda/BBDown) ![](https://img.shields.io/github/stars/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/forks/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/license/nilaoda/BBDown) ![](https://img.shields.io/github/last-commit/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
-- [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
-- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
-- [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
-- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
-- [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
-- [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
-- [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
-- [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬，`B` 站直播录播工具。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-## 学习项目
-
-###	编程教程
-
-- [javacore](https://github.com/dunwu/javacore) - `Java` 核心技术的经验总结。[在线文档](https://dunwu.github.io/javacore/)
-- [Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端（`Java` 、`Golang`）全栈**知识架构体系总结**。
-- [interviewGuide](https://github.com/NotFound9/interviewGuide) - 《后端技术总结》——包括 `Java` 基础、`JVM`、数据库、`MySQL`、`Redis`、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
-- [learning-note](https://github.com/rbmonster/learning-note) - `Java` **开发及面试**（个人面试、工作总结、资料收集）。[在线文档](https://rbmonster.github.io/learning-note/#/)
-- [threadandjuc](https://github.com/qiurunze123/threadandjuc) - 高并发**多线程**进阶。
-- [java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『`Java`八股文』面试套路，`Java` 进阶学习。
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - `Java` 工程师成神之路。[在线文档](https://hollischuang.gitee.io/tobetopjavaer/#/)
-- [JavaTutorial](https://github.com/h2pl/JavaTutorial) - 完整实用的 `Java` 工程师**学习指南**。
-- [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 互联网 `Java` 开发的学习历程技术汇总。
-- [JavaInterview](https://github.com/hello-java-maker/JavaInterview) - `Java` 面试 + `Java` 后端技术学习指南。
-- [JavaFamily](https://github.com/AobingJava/JavaFamily) - `Java` 面试 + `Java` 学习指南。
-- [six-finger](https://github.com/bin392328206/six-finger) - 从 `Java` 基础、`JavaWeb` 基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了 `Java` 必备的知识点。
-- [bestJavaer](https://github.com/crisxuan/bestJavaer) - 一个成为更好的 `Java` 程序员的系列教程。
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - `Python` 100天从新手到大师。
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 天 `Python` 编程学习挑战。
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7天用 `Go` 从零实现系列。[在线文档](https://geektutu.com/post/gee.html)
-- [blog](https://github.com/biaochenxuying/blog) - 大**前端技术**为主，读书笔记、随笔、理财为辅，做个终身学习者。
-- [EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础学习博客。[在线体验](https://blog.touchczy.top/#/)
-- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
-- [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
-- [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
-- [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
-- [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
-- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 图解系统设计。[在线体验](https://blog.bytebytego.com/)
-- [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱。
-- [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
-- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南。[在线体验](https://csdiy.wiki/)
-- [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - `IntelliJ IDEA` 简体中文专题教程。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	数据结构与算法
-
-- [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
-- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
-- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
-- [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
-- [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - 《算法新解》。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 编程书籍
-
-- [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》。
-- [JAVA](https://github.com/singgel/JAVA) - `Java` 相关**书籍合集**，《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》。
-- [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - 《重学 Java 设计模式》是一本互联网真实案例实践书籍，以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。[在线体验](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 可免费获得的编程书籍。[在线体验](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
-- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - 《TypeScript Deep Dive》 中文版。[在线体验](https://jkchao.github.io/typescript-book-chinese/#why)
-- ~~[JavaBooks](https://github.com/itwanger/JavaBooks) - `Java` 程序员必读书单（超1000本PDF，附下载地址）。~~
-- [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。[在线体验](https://es6.ruanyifeng.com/)、
-- [books](https://github.com/MichealWayne/books) - 前端/设计相关的书籍（电子书）。
-- [nginx-book](https://github.com/taobao/nginx-book) - 《Nginx开发从入门到精通》。[在线体验](https://tengine.taobao.org/book/index.html)
-- [theByteBook](https://github.com/isno/theByteBook) - 《深入架构原理与实践》。[在线体验](https://www.thebyte.com.cn/)
-- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。[在线体验](http://zh.d2l.ai/index.html)
-- [PPHC](https://github.com/johnlui/PPHC) - 《高并发的哲学原理》开源图书。[在线体验](https://pphc.lvwenhan.com/)
-- [concurrent](https://github.com/RedSpider1/concurrent) - 《深入浅出Java多线程》。[在线文档](https://redspider.gitbook.io/concurrent)
-- [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - 《Effective Java（第3版）》各章节的中英文学习。
-- [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
-- [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 框架源码分析
-
-- [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - `Java` 流行**框架源码分析**，学习以及总结。
-- [source-code-hunter](https://github.com/doocs/source-code-hunter) - `Spring` 全家桶，`Mybatis`、`Netty`、`Dubbo` 、 `Redis`、`Tomcat` 中间件等**源码分析**。[在线文档](https://doocs.github.io/source-code-hunter/#/)
-- [mini-spring](https://github.com/DerekYRC/mini-spring) - 简化版的 `Spring 框架`，能帮助你快速熟悉 `Spring` 源码和掌握 `Spring` 的核心原理。抽取了 `Spring` 的核心逻辑，代码极度简化，保留`Spring` 的核心功能，如 `IOC` 和 `AOP`、资源加载器、事件监听器、类型转换、容器扩展点、`Bean` 生命周期和作用域、应用上下文等核心功能。
-- [spring-analysis](https://github.com/seaswalker/spring-analysis) - `Spring` 源码阅读。
-- [spring-reading](https://github.com/xuchengsheng/spring-reading) - `Spring` 框架源码阅读。
-- [vue](https://github.com/ygs-code/vue) - `Vue` 源码逐行注释分析+40多m的 `Vue` 源码程序流程图思维导图。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	面试资料
-
-- [Java-Interview-Advanced](https://github.com/shishan100/Java-Interview-Advanced) - `Java` 进阶面试。
-- [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-- [advanced-java](https://github.com/doocs/advanced-java) - 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
-- [technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份 `Java` 程序员的技术指南，涵盖面试题、系统架构、职场锦囊、主流中间件等。[在线文档](https://offercome.cn/)
-- [FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview) - 大模型算法岗面试题（含答案）合集。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 程序员
-
-- [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
-- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
-- [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
-- [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员。[在线文档](https://www.dev-life.site/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	考公考研
-
-- [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南。
-- [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
 - [cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验、资源和 `OneNote` 笔记。
 - [aimto408](https://github.com/xiaolei565/aimto408) - 计算机考研408。
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课(408)思维导图和笔记。
 - [cskaoyan](https://github.com/csseky/cskaoyan) - 计算机考研和软件工程考研专业的各个学校**考研真题**。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 语言学习
+## 考公项目
 
-- [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
-- [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
-- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
-- [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 经典文学
-
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
-- [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南。
+- [developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 生活技能
-
-- [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-## 软件项目
-
-### 多平台
-
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
-- [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
-- [TTime](https://github.com/InkTimeRecord/TTime) - 一款简洁高效的输入、截图、划词翻译软件。
-- [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 技术的翻译器。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
-- [bruno](https://github.com/usebruno/bruno) - 用于探索和测试应用程序的开源集成开发环境（`postman`/`insomnia` 的轻量级替代品）。
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
-- [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
-- [lively](https://github.com/rocksdanister/lively) - 动画桌面壁纸软件。
-- [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
-- [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
-- [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
-- [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-- [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。[在线文档](https://copyq.readthedocs.io/en/latest/)
-- [vlc](https://github.com/videolan/vlc) - 一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
-- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
-- [heynote](https://github.com/heyman/heynote) - 方便开发人员专使用的便签软件。
-- [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
-- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 纯粹的 `Windows` 右键菜单管理程序。[在线文档](https://bluepointlilac.github.io/ContextMenuManager/)
-- [NotepadNext](https://github.com/dail8859/NotepadNext) - 跨平台的、重新实现的 `Notepad++`。
-- [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏工具，支持视频和 GIF.
-- [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
-- [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
-- [Thief](https://github.com/cteamx/Thief) - 一款基于 `Electron` 开发的跨平台多功能(`真正创新的`)摸鱼软件。
-- [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
-- [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
-- [trilium](https://github.com/zadam/trilium) - 一个层次化的笔记应用程序，专注于建立大型个人知识库。
-- [czkawka](https://github.com/qarmin/czkawka) - 一款简单、快速且免费的应用程序，用于从计算机中删除不必要的文件。
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。 
-- [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
-- [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
-- [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
-- [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
-- [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
-- [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
-- [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `macOS` 屏幕录制工具。
-- [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - 一个基于 `Electron` 的图表和白板桌面应用程序，它包装了核心的 `draw.io` 编辑器。
-- [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。
-- [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
-- [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
-- [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
-- ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
-- [tdesktop](https://github.com/telegramdesktop/tdesktop) - `Telegram` 桌面端应用程序。
-- [EcoPaste](https://github.com/ayangweb/EcoPaste) - 适用于 `Windows`、`MacOS` 和 `Linux` 的开源**剪贴板管理工具**。
-- [gif123](https://github.com/aardio/gif123) - 极简 `GIF` **录屏工具**，可一键快速复制 `GIF` 图像并直接粘贴到其他程序。
-- [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
-- [PeaZip](https://github.com/peazip/PeaZip) - 一款免费且开源的文件压缩与解压工具。
-- [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
-- [massCode](https://github.com/massCodeIO/massCode) - 一个免费开源的跨平台代码片段管理工具。
-- [TV](https://github.com/Guovin/TV) - `IPTV` 电视直播源更新工具。
-- [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
-- [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
-- [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
-- [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
-- [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
-- [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的工具。[在线文档](https://www.yuque.com/legado/wiki)
-- [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
-- [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
-- [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	Windows 端
-
-- [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
-- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
-- [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
-- [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
-- [ShareX](https://github.com/ShareX/ShareX) - 一款基于 `C#` 开发的 免费开源 `Windows` **截图工具**。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	安卓端
-
-- [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。 
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-###	IOS 端
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-## 文库项目
-
-### 接口文档管理
-
-- [Torna](https://gitee.com/durcframework/torna) - **接口文档**解决方案，目标是让接口文档管理变得更加方便、快捷。`Torna` 采用团队协作的方式管理和维护接口文档，将不同形式的文档纳入进来统一维护。[在线文档](https://torna.cn/dev/)
-- [postcat](https://github.com/postcatlab/postcat) - 可扩展的 `API` 工具平台，集成基础的 `API` 管理和测试功能，并且可以通过插件简化 `API` 开发工作，更快更好地创建 `API`。[在线体验](https://postcat.com/) [在线文档](https://docs.postcat.com/)
-- [DOClever](https://github.com/DOClever/DOClever) - 接口管理平台。
-- [yapi](https://github.com/YMFE/yapi) - 一个可本地部署的、打通前后端及QA的、可视化的**接口管理平台**。[在线体验](http://yapi.smart-xwork.cn/) [在线文档](https://hellosean1025.github.io/yapi)
-- [zyplayer-doc](https://gitee.com/zyplayer/zyplayer-doc) - 一款适合团队和个人使用的 `WIKI` **文档管理工具**，同时还包含数据库文档、`Api` 接口文档。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fdoc.zyplayer.com%2F)  账号：`zyplayer` 密码：`123456`
-- [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的**开源接口管理工具** `RAP`第二代。[在线体验](http://rap2.taobao.org/)
-- [insomnia](https://github.com/Kong/insomnia) - 一个开源的、跨平台的 `GraphQL`、`REST`、`WebSockets` 和 `gRPC` 的 `API` 客户端。
-- [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
-- [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
-- [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
-- [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
-- [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
-- [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
-- [yaade](https://github.com/EsperoTech/yaade) - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### 项目管理
-
-### 知识库管理
-
-- [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
-- [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
-- [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
-- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
-- [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
-- [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
-- [mkdocs](https://github.com/mkdocs/mkdocs) - 一个快速、简单和完全华丽的**静态网站生成器**，主要用于构建项目文档。文档源文件用 `Markdown` 编写，并通过一个 `YAML` 配置文件进行配置。[在线文档](https://www.mkdocs.org/)
-- [docz](https://github.com/doczjs/docz) - 通过 `MDX` 快速创建实时加载、`SEO` 友好、可生产的文档网站，并通过利用 `GatsbyJS` 和 `Gatsby` 主题阴影，在需要时定制其外观、感觉和行为。[在线文档](https://www.docz.site/docs/introduction)
-- [docusaurus](https://github.com/facebook/docusaurus) - 易于维护的**开源文档网站**。[在线文档](https://docusaurus.io/zh-CN/docs)
-- [MrDoc](https://github.com/zmister2016/MrDoc) - 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。[在线体验](http://mrdoc.zmister.com/)
-- [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
-- [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
-- [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
-- [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
-- [openproject](https://github.com/opf/openproject) - 一款开源的项目管理工具。
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-### Makdown 编辑器
-
-- [yn](https://github.com/purocean/yn) - 一款强大可扩展的 `Markdown` 编辑器，为生产力而生。[在线体验](https://demo.yank-note.com/#/) [下载地址](https://github.com/purocean/yn/releases)
-- [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
-- [notable](https://github.com/notable/notable) - 一款开源的高颜值、跨平台的 `Markdown` 编辑器。[下载地址](https://download.notable.app/)
-- [vnote](https://github.com/vnotex/vnote) - 专注于 `Markdown` 的基于 `Qt` 的开源免费的**笔记应用**，提供一个拥有完美编辑体验的舒适的**笔记平台**。[在线文档](https://tamlok.gitee.io/vnote/zh_cn/)
-- [online-markdown](https://github.com/barretlee/online-markdown) - 一个专门针对微信公众号格式的在线 `Markdown` 转换器。[在线体验](http://md.barretlee.com/)
-- [cherry-markdown](https://github.com/Tencent/cherry-markdown) - 一款 `JavaScript` `Markdown` **编辑器**，具有开箱即用、轻量简洁、易于扩展等特点，它可以运行在浏览器或服务端( `NodeJs`)。
-- [markdown2pdf](https://gitee.com/codeleilei/markdown2pdf) - 使用 `Markdown` 语法来构建 `Pdf` 简历。[在线体验](https://codeleilei.gitee.io/markdown2pdf/#/template)
-- [vditor](https://github.com/Vanessa219/vditor) - 一款浏览器端的 `Markdown` 编辑器，支持所见即所得（富文本）、即时渲染（类似 `Typora`）和分屏预览模式。[在线体验](https://ld246.com/guide/markdown) [在线文档](https://b3log.org/vditor/)
-- [dillinger](https://github.com/joemccann/dillinger) - 一个 `Markdown` 编辑器。[在线体验](https://dillinger.io/)
-- [md](https://github.com/doocs/md) - `WeChat Markdown Editor` | 一款高度简洁的微信 `Markdown` 编辑器：支持 `Markdown` 语法、色盘取色、多图上传、一键下载文档、自定义 `CSS` 样式、一键重置等特性。[在线体验](https://doocs.github.io/md/)
-- [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 基于 `Vue`、`Vditor` 所构建的在线 `Markdown` 编辑器，支持绘制流程图、甘特图、时序图、任务列表、`echarts` 图表、五线谱，以及 `PPT` 预览、视频音频解析、`HTML` 自动转换为 `Markdown` 等功能。[在线体验](https://markdown.lovejade.cn/?utm_source=github.com)
-- [joplin](https://github.com/laurent22/joplin) - 一个开源的记事本应用程序。[在线文档](https://joplinapp.org/cn/)
-- [mdx-editor](https://github.com/maqi1520/mdx-editor) - 一个好用的微信排版编辑器，更是一个跨平台 `Markdown` 笔记软件。[在线体验](https://editor.runjs.cool/create)
-- [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 一个轻量级的 `MarkDown` 文档协作工具。[在线体验](https://chencoding.top:8084/)
-- [markdoc](https://github.com/markdoc/markdoc) - 一个强大、灵活、基于 `Markdown` 的编辑器。[在线体验](https://markdoc.dev/sandbox?mode=preview)
-- [notes](https://github.com/nuttyartist/notes) - 基于 `C++` 实现的 `Markdown` 编辑器。
-- [wangEditor](https://github.com/wangeditor-team/wangEditor) - 开源 `Web` 富文本编辑器，开箱即用，配置简单，支持 `JS`、`Vue`、`React`.[在线文档](https://www.wangeditor.com/)
-- [canvas-editor](https://github.com/Hufe921/canvas-editor) - 基于 `Canvas/SVG` 实现的富文本编辑器。[在线体验](https://hufe.club/canvas-editor) [在线文档](https://hufe.club/canvas-editor-docs/)
-- [blossom](https://github.com/blossom-editor/blossom) - 支持私有部署的云端存储双链笔记软件。[在线体验](https://www.wangyunf.com/blossom-demo/#/) [在线文档](https://www.wangyunf.com/blossom-doc/index.html)
-- [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 `Markdown` 编辑器，让排版变 Nice.[在线体验](https://legacy.mdnice.com/)
-- [editor.md](https://github.com/pandao/editor.md) - 一款开源的、可嵌入的 `Markdown` 在线编辑器（组件），基于 `CodeMirror`、`jQuery` 和 `Marked` 构建。[在线体验](http://editor.md.ipandao.com/)
-- [ckeditor5](https://github.com/ckeditor/ckeditor5) - 一个功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。[在线文档](https://ckeditor.com/docs/ckeditor5/latest/getting-started/installation/quick-start.html)
-- [quill](https://github.com/slab/quill) - 一个现代的 `WYSIWYG` 编辑器，具有兼容性和可扩展性。[在线文档](https://quilljs.com/docs/quickstart)
-- [tinymce](https://github.com/tinymce/tinymce) - 富文本编辑 `JavaScript` 库。[在线文档](https://www.tiny.cloud/docs/tinymce/latest/)
-- [editor.js](https://github.com/codex-team/editor.js) - 块样式编辑器，采用的是独特的一套 `Json` 数据结构。[在线体验](https://editorjs.io/getting-started/)
-- [tiptap](https://github.com/ueberdosis/tiptap) - 面向 `Web` 的编辑器框架。[在线文档](https://tiptap.dev/introduction)
-- [batnoter](https://github.com/batnoter/batnoter) - 一个开源、基于 `Markdown`、自托管的笔记 `Web` 应用程序。
-- [hedgedoc](https://github.com/hedgedoc/hedgedoc) - 一个开源、基于网页、自托管的协作 `Markdown` 编辑器。[在线文档](https://docs.hedgedoc.org/setup/getting-started/)
-- [MiaoYan](https://github.com/tw93/MiaoYan) - 轻灵的 `Markdown` 笔记本伴你写出妙言。
-- [Markdown2Html](https://github.com/shenweiyan/Markdown2Html) - 一款 `Markdown` 转 `Html`，支持掘金、知乎和微信公众号的编辑器。[在线体验](https://md.weiyan.cc/)
-- [markdown-to-image](https://github.com/gcui-art/markdown-to-image) - `React` 组件用于将 `Markdown` 渲染为漂亮的社交媒体图片。[在线体验](https://readpo.com/zh/poster)
-- [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
-- [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
-- [markitdown](https://github.com/microsoft/markitdown) - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
-- [markwhen](https://github.com/mark-when/markwhen) - 一款从 `Markdown` 文本创建美观的层级时间线的工具。[在线体验](https://markwhen.com/)
-- [editor](https://github.com/umodoc/editor) - 一个基于 `Vue3` 和 `Tiptap` 的适合于国人使用的本土化开源文档编辑器。[在线体验](https://demo.umodoc.com/editor?lang=zh-CN) [在线文档](https://editor.umodoc.com/cn/docs)
-- [flatnotes](https://github.com/dullage/flatnotes) - 一款自托管、无需数据库的在线 `Markdown` 笔记应用。[在线体验](https://demo.flatnotes.io/)
-
-**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
-## 宝藏项目
-
-### 副业赚钱
+## 副业赚钱项目
 
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 整理记录程序员如何优雅的**挣零花钱**。
 - [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - `AI` 副业赚钱大集合。
@@ -1215,24 +1203,31 @@
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 摸鱼游戏
+## 程序员项目
 
-- [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
-- [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
-- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
+- [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南。
+- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
+- [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
+- [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员。[在线文档](https://www.dev-life.site/)
+- [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
-### 合集汇总
+## 合集项目
 
 - ~~[GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - 优秀**中文项目集合**，可以无语言障碍地、更高效地吸收优秀经验成果。~~
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 `GitHub` 上高质量、有趣的**开源项目**，并将他们进行归类。
 - [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个**包管理器**，**系统镜像**，以及常用软件的好用镜像。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 基于 `docsify` 实现的网站集合。
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
 - [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。
+- [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
+- [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
 - [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
@@ -1242,6 +1237,7 @@
 - [public-apis](https://github.com/public-apis/public-apis) - 免费的 `API` 接口集合。
 - [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - `ChatGPT` 集合项目。
 - [NetCodeTop](https://github.com/bianchenglequ/NetCodeTop) - 收集 `GitHub` 上有关. `Net`、`.NetCore` 有趣、有用、热门的开源项目。
+- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [free-api](https://github.com/fangzesheng/free-api) - 免费的接口服务集合。[在线体验](https://www.free-api.com/)
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - `Api` 接口集合。
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - `Java` 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等。
@@ -1256,18 +1252,24 @@
 - [OneFile](https://github.com/521xueweihan/OneFile) - 汇集了一个文件、运行简单、一看就懂的开源项目。
 - [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总。
 - [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
+- [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 - [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
+- [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)  - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
+- [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
 - [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 `Go` 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 程序员常用高效实用工具、软件资源精选，办公效率提升利器。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - 优秀的 `C++`（或 `C`）框架、项目、资源集合。
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 集成 `DeepSeek` 模型的开源项目或者软件合集。
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - `VS Code` 插件集合项目。
+- [FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview) - 大模型算法岗面试题（含答案）合集。
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 各种基于大语言模型（`LLM`）的 `APP` 合集。
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学 `PDF` 教材。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
 ## 打赏作者
 
@@ -1276,8 +1278,9 @@
 ![](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/pay.png)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+---
 
 ## 【持续更新中~】
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
-
+---
