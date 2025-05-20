@@ -150,7 +150,6 @@
 - [tianai-captcha](https://gitee.com/tianai/tianai-captcha) - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
 - [Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试。
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线文档](https://dozermapper.github.io/gitbook/)
-- [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
@@ -570,7 +569,6 @@
 - [WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 `Java SDK`，支持包括微**信支付，开放平台，小程序，企业微信，公众号**等的后端开发。
 - [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信公众号** `Java` 后端 `Demo`，支持多公众号。
 - [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
-- [weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信支付** `Java` 后端 `Demo`。
 - [wx-api](https://github.com/niefy/wx-api) - 微信公众号管理系统，包含公众号菜单管理、自动回复、素材管理、模板消息、粉丝管理等功能，前后端都开源免费。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -599,12 +597,15 @@
 
 ## 支付项目
 
+- [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
+
 - [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
 - [jeepay](https://github.com/jeequan/jeepay) - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 - [xpay](https://github.com/Exrick/xpay) - 个人免签收款支付系统。完全免费，资金直接到达本人账号，支持支付宝/微信/QQ/云闪付，无需备案，无需签约，无需挂机监控APP，无需插件，无需第三方支付 `SDK`，无需营业执照身份证，只需收款码，搞定支付流程，现已支持移动端支付。
 - [IJPay](https://github.com/Javen205/IJPay) - 让支付触手可及，封装了微信支付、`QQ` 支付、支付宝支付、京东支付、银联支付、`PayPal` 支付等常用的支付方式以及各种常用的接口。[在线文档](https://javen205.gitee.io/ijpay/)
 - [dax-pay](https://github.com/dromara/dax-pay) - 免费开源的支付网关，支持支付宝、微信、云闪付等通道。[在线体验](https://daxpay.demo.bootx.cn/#/dashboard/analysis)
 - [payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付、`V3` 支付 `Spring Boot Starter`.
+- [weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信支付** `Java` 后端 `Demo`。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 ---
