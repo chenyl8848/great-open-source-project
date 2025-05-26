@@ -837,6 +837,7 @@
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
+- [gogs](https://github.com/gogs/gogs) - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
