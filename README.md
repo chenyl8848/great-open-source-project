@@ -561,6 +561,7 @@
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
+- [cloudbeaver](https://github.com/dbeaver/cloudbeaver) - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1186,6 +1187,7 @@
 - [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
 - [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
 - [yaade](https://github.com/EsperoTech/yaade) - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
+- [APIAuto](https://github.com/TommyLemon/APIAuto) - 一款 `HTTP` 接口、机器学习零代码测试和一站式智能开发管理工具。[在线体验](http://apijson.cn/api/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
