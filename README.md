@@ -712,6 +712,7 @@
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 - [cmdb](https://github.com/veops/cmdb) - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
+- [netdata](https://github.com/netdata/netdata) - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1141,6 +1142,7 @@
 - [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的屏幕录制开源工具。
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) —— 一个用于管理各种远程连接协议（如 `RDP`、`SSH`、`VNC` 等）的开源工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
