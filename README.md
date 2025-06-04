@@ -43,6 +43,7 @@
     - [运维监控](#运维监控)
     - [网络项目](#网络项目)
     - [浏览器导航页](#浏览器导航页)
+    - [UI 框架](#ui-框架)
   - [AI 项目](#ai-项目)
     - [ChatGPT 项目](#chatgpt-项目)
     - [图像处理](#图像处理)
@@ -55,6 +56,7 @@
     - [转换工具](#转换工具)
     - [科学上网](#科学上网)
     - [Github 工具](#github-工具)
+    - [版本管理工具](#版本管理工具)
   - [学习项目](#学习项目)
     - [编程教程](#编程教程)
     - [数据结构与算法](#数据结构与算法)
@@ -276,6 +278,7 @@
 - [drawnix](https://github.com/plait-board/drawnix) - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
+- [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -333,7 +336,6 @@
 - [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 `Node.js` `API` `Service`。[在线文档](https://neteasecloudmusicapi-docs.4everland.app/#/)
 - [github-rank](https://github.com/jaywcjlove/github-rank) - `Github` 全球/中国用户排名，全球仓库 `Star` 最多排名，通过 `Github API v3` 来生成页面数据。[在线体验](https://wangchujiang.com/github-rank/)
-- [nvm-desktop](https://github.com/1111mp/nvm-desktop) - 一个可视化界面操作管理多个 `Node` 版本的桌面应用，支持 `Macos` 和 `Windows` 系统。
 - [cal.com](https://github.com/calcom/cal.com) -  基于 `Next.js` + `React` + `Tailwind CSS` 构建的现代化、开源的日程管理平台。[在线体验](https://app.cal.com/auth/login)
 - [static](https://github.com/staticfile/static) - 开放静态文件，为开源库提供稳定、快速的免费 `CDN` 服务。[在线体验](https://www.staticfile.net/)
 - [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
@@ -579,6 +581,8 @@
 - [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
 - [OneBlog](https://github.com/zhangyd-c/OneBlog) - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
 - [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
+- [hexo](https://github.com/hexojs/hexo) - 快速、简洁且高效的博客框架。[在线文档](https://hexo.io/zh-cn/)
+- [docsify/](https://github.com/docsifyjs/docsify/) - 一个神奇的文档网站生成器。[在线文档](https://docsify.js.org/#/zh-cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -737,6 +741,12 @@
 - [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### UI 框架
+
+- [ChatUI](https://github.com/alibaba/ChatUI) - 阿里巴巴团队开源的对话式 `UI` 设计语言与 `React` 组件库，专为构建智能对话界面而生。[在线文档](https://chatui.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -936,6 +946,18 @@
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 版本管理工具
+
+- [nvm-desktop](https://github.com/1111mp/nvm-desktop) - 一个可视化界面操作管理多个 `Node` 版本的桌面应用，支持 `Macos` 和 `Windows` 系统。
+- [vfox](https://github.com/version-fox/vfox) - 跨平台、可拓展的版本管理器。[在线文档](https://vfox.dev/zh-hans/)
+- [version-manager](https://github.com/gvcgo/version-manager) - 一个支持多款 `SDK` 的通用版本管理器。[在线文档](https://vdocs.vmr.dpdns.org/zh-cn/)
+- [volta](https://github.com/volta-cli/volta) - `JavaScript` 工具链管理器，旨在简化 `Node.js`、`Npm`、`Yarn` 等工具的安装和管理。[在线文档](https://docs.volta.sh/guide/getting-started)
+- [fnm](https://github.com/Schniz/fnm) - 一个用 `Rust` 编写的高效 `Node.js` 版本管理器。
+- [asdf](https://github.com/asdf-vm/asdf) - 多运行时版本管理器，使用一个工具管理所有运行时版本。[在线文档](https://asdf-vm.com/zh-hans/)
+- [n](https://github.com/tj/n) - `Node.js` 版本管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1333,6 +1355,7 @@
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 各种基于大语言模型（`LLM`）的 `APP` 合集。
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学 `PDF` 教材。
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi) - 一个提供开发中常用数据的一个稳定聚合 `Api` 接口源。[在线文档](https://www.mxnzp.com/doc/list)
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - 整理优秀的 `Node.js` 项目和资源。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
