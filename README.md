@@ -82,6 +82,7 @@
   - [宝藏项目](#宝藏项目)
     - [副业赚钱](#副业赚钱)
     - [摸鱼游戏](#摸鱼游戏)
+    - [沙雕项目](#沙雕项目)
     - [合集汇总](#合集汇总)
   - [打赏作者](#打赏作者)
   - [【持续更新中~】](#持续更新中)
@@ -160,6 +161,7 @@
 
 - [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
 - [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
+- [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - 采用 `PHP` 编写的 `Web` 记事本工具。[在线体验](https://notes.orga.cat/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -851,6 +853,7 @@
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
 - [gogs](https://github.com/gogs/gogs) - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
+- [MooTool](https://github.com/rememberber/MooTool) - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1061,6 +1064,8 @@
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。[在线文档](https://cook.aiurs.co/)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南。
 - [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员。[在线文档](https://www.dev-life.site/)
+- [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - 程序员找工作黑名单。
+- [996.ICU](https://github.com/996icu/996.ICU) - 工作 996，生病 ICU.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1173,6 +1178,7 @@
 - [Kap](https://github.com/wulkano/Kap) - 一款开源的 `MacOS` 屏幕录制工具。
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `MacOS` 屏幕录制工具。
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner) - 一款免费开源的 Mac 应用清理工具，能够彻底卸载应用并清理残留文件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1309,6 +1315,14 @@
 - [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 沙雕项目
+
+- [sorry](https://github.com/xtyxtyx/sorry) - 在线制作 `sorry 为所欲为` 的 Gif 工具。[在线体验](https://sorry.xuty.cc/)
+- [zzkia](https://github.com/dcalsky/zzkia) - 生成诺基亚短信截图的工具。
+- [genact](https://github.com/svenstaro/genact) - 一个无意义活动生成器，它可以模拟各种看似忙碌的计算机活动，让你看起来好像在做很多重要的工作，实际上什么也没发生。[在线体验](https://svenstaro.github.io/genact/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
