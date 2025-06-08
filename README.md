@@ -209,7 +209,7 @@
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于 `Vue3` + `Element UI Plus` 的**后台管理系统**解决方案。[在线体验](https://lin-xin.gitee.io/example/work/#/dashboard)
 - [vite-element-admin](https://github.com/mvpyb/vite-element-admin) - 免费开源的**中后台模版**，使用了 `Vue3`、`vite2` 等技术开发，开箱即用。[在线体验](https://simmon_page.gitee.io/vite-element-admin/dist/#/dashboard)
 - [scui](https://gitee.com/lolicode/scui) - 一款开箱即用、高可配、高性能、风格精致、代码优雅的基于 `Vue3` 和 `ElementPlus` 的 `WebUI` **前端框架**。 [在线体验](https://lolicode.gitee.io/scui-doc/demo/#/login) [在线文档](https://lolicode.gitee.io/scui-doc/)
-- [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
+- [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vm1kH_uag69otwNGwRlniw)</sup> - 基于 `Vue3.2`、`TypeScript`、`Vite3`、`Pinia`、`Element-Plus` 开源的一套**后台管理框架**。[在线体验](https://admin.spicyboy.cn/) [在线文档](https://docs.spicyboy.cn/)
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - `Vue3` + `Vite4` + `Element-Plus` + `TypeScript` 编写的一款后台管理系统。[在线体验](https://yiming_chang.gitee.io/vue-pure-admin/#/login)
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - `Vue` 后台管理。[在线体验](https://vue-admin-beautiful.com/shop-vite/)
 - [cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 一个很酷的后台权限管理框架，模块化、插件化、`CRUD` 极速开发。[在线体验](https://show.cool-admin.com/)
@@ -1148,6 +1148,7 @@
 - [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
+- [BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
