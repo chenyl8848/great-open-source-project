@@ -1,6 +1,6 @@
 # `Github` 、`Gitee` 优秀的开源项目
 
-> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[项目地址](https://github.com/chenyl8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
+> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[Github 地址](https://github.com/chenyl8848/great-open-source-project) [Gitee 地址](https://gitee.com/chenylin8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
 >
 > [<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTM3NjAzOQ==&action=getalbum&album_id=2783119709868212224#wechat_redirect) 表示在公众号发布过项目介绍信息。
 
@@ -218,6 +218,7 @@
 - [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 一个基于 `Vue3`、`Vite4`、`ant-design-vue4`、`Pinia`、`UnoCSS` 和 `Typescript` 的一整套企业级中后台前端/设计解决方案。[在线体验](https://antdv-pro.com/dashboard/analysis) [在线文档](https://docs.antdv-pro.com/)
 - [gi-demo](https://github.com/lin-97/gi-demo) - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
 - [basic](https://github.com/fantastic-admin/basic) - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
+- [art-design-pro](https://github.com/Daymychen/art-design-pro) - 一款专注于用户体验和快速开发的开源**后台管理**解决方案。[在线体验](https://www.lingchen.kim/art-design-pro/#/dashboard/console)
 - [paopao-ce](https://github.com/rocboss/paopao-ce) - 基于 `gin` + `zinc` + `vue` + `ts`  的清新文艺**微社区**。[在线体验](https://www.paopao.info/#/)
 - [yuindex](https://github.com/liyupi/yuindex) - 极客范儿的浏览器主页 ，`Vue3` + `Node.js` 全栈项目，自实现 `web` 终端 + **命令系统**。[在线体验](https://yuindex.com/)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 `Vue3.x` + `TypeScript` 的**在线演示文稿（幻灯片）应用**，还原了大部分 `Office PowerPoint` 常用功能，实现在线 `PPT` 的编辑、演示。支持导出 `PPT` 文件。[在线体验](https://pipipi-pikachu.github.io/PPTist/)
@@ -566,7 +567,7 @@
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
-- [cloudbeaver](https://github.com/dbeaver/cloudbeaver) - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
+- [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
