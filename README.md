@@ -412,6 +412,7 @@
 - [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
 - [waynboot-mall](https://github.com/wayn111/waynboot-mall) - 一套全部开源的微商城项目，包含运营后台、`H5` 商城前台和服务端接口。[在线文档](https://apifox.com/apidoc/shared-f48b11f5-6137-4722-9c70-b9c5c3e5b09b)
 - [book_novels](https://gitee.com/lin_zhao_quan/book_novels) -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
+- [xingyun](https://github.com/lframework/xingyun) - 基于 `SpringBoot` 框架的中小企业完全开源的 `ERP`. [在线体验](https://erp.lframework.com/#/dashboard/analysis) [在线文档](https://www.lframework.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -579,7 +580,7 @@
 - [NBlog](https://github.com/Naccl/NBlog) -  `Spring Boot` + `Vue` 前后端分离博客系统。[在线体验](https://naccl.top/home)
 - [symphony](https://github.com/88250/symphony) -  一款用 `Java` 实现的现代化**社区（论坛/问答/BBS/社交网络/博客）**系统平台。
 - [vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统。[在线体验](https://blog-demo.mereith.com/) [在线文档](https://vanblog.mereith.com/)
-- [WeBlog](https://github.com/weiwosuoai/WeBlog) - `SpringBoot` + `Vue3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
+- [WeBlog](https://github.com/weiwosuoai/WeBlog)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6SWIVHSnMC9BkWMfw7wCZg)</sup> - `SpringBoot` + `Vue3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 - [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
 - [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
@@ -732,7 +733,7 @@
 - [aaWAF](https://github.com/aaPanel/aaWAF) - 堡塔云 `WAF`, 宝塔免费的私有云网站应用防火墙，基于 `Docker/Nginx/Lua` 开发。[在线体验](https://btwaf-demo.bt.cn:8379/dashboard) [在线文档](https://www.kancloud.cn/kern123/cloudwaf/3217243)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
-- [MyIP](https://github.com/jason5ng32/MyIP) - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
+- [MyIP](https://github.com/jason5ng32/MyIP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TQR4-66DEOkZDzyAE6IPug)</sup> - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
 - [certimate](https://github.com/usual2970/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
 - [domain-admin](https://github.com/dromara/domain-admin) - 域名 `SSL` 证书监测平台、`SSL` 证书申请自动续签。[在线体验](https://mouday.github.io/domain-admin-web/) [在线文档](https://domain-admin.readthedocs.io/zh-cn/latest/index.html)
 - [allinssl](https://github.com/allinssl/allinssl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/UMQrASASY1yVM0MD5nDMzw)</sup> - 一个集证书申请、管理、部署和监控于一体的 `SSL` 证书全生命周期管理工具。[在线文档](https://allinssl.com/)
@@ -1356,7 +1357,7 @@
 - [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - `GitHub` 最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。[在线体验](https://helloqingfeng.github.io/front-end-index/index.html)
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 中国表情包大集合。[在线体验](https://v2fy.com/asset/0i/ChineseBQB/)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总。
-- [ins](https://github.com/zhaoolee/ins) - 开源**灵感**数据库，免费无广告。
+- [ins](https://github.com/zhaoolee/ins) - 开源灵感数据库，免费无广告。
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - `Vue` 相关开源项目库汇总。
 - [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 免费的 `ChatGPT` 镜像网站列表。
 - [hamulete](https://github.com/hoochanlon/hamulete) - 国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。[在线体验](https://hoochanlon.github.io/hamulete/)
