@@ -1300,6 +1300,7 @@
 - [flatnotes](https://github.com/dullage/flatnotes) - 一款自托管、无需数据库的在线 `Markdown` 笔记应用。[在线体验](https://demo.flatnotes.io/)
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
+- [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 一个开源、跨平台的本地**日记 `App`**，使用 `Blazor` 开发，支持 `Android`、`Windows`、`macOS`、`Web`、`Linux`. 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1329,6 +1330,7 @@
 - [sorry](https://github.com/xtyxtyx/sorry) - 在线制作 `sorry 为所欲为` 的 Gif 工具。[在线体验](https://sorry.xuty.cc/)
 - [zzkia](https://github.com/dcalsky/zzkia) - 生成诺基亚短信截图的工具。
 - [genact](https://github.com/svenstaro/genact) - 一个无意义活动生成器，它可以模拟各种看似忙碌的计算机活动，让你看起来好像在做很多重要的工作，实际上什么也没发生。[在线体验](https://svenstaro.github.io/genact/)
+- [DickHelper](https://github.com/zzzdajb/DickHelper) - 牛子小助手，一个简单、高效、易用的**打飞机记录工具**，帮助你科学管理✈️生活。[在线体验](https://dick.juwo.my/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
