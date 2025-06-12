@@ -1,6 +1,6 @@
 # `Github` 、`Gitee` 优秀的开源项目
 
-> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[Github 地址](https://github.com/chenyl8848/great-open-source-project) [Gitee 地址](https://gitee.com/chenylin8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
+> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[Github 地址](https://github.com/chenyl8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
 >
 > [<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTM3NjAzOQ==&action=getalbum&album_id=2783119709868212224#wechat_redirect) 表示在公众号发布过项目介绍信息。
 
@@ -731,6 +731,7 @@
 - [SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
 - [SamWaf](https://github.com/samwafgo/SamWaf) - 一款开源轻量级的网站**应用防火墙**。[在线文档](https://doc.samwaf.com/)
 - [aaWAF](https://github.com/aaPanel/aaWAF) - 堡塔云 `WAF`, 宝塔免费的私有云网站应用防火墙，基于 `Docker/Nginx/Lua` 开发。[在线体验](https://btwaf-demo.bt.cn:8379/dashboard) [在线文档](https://www.kancloud.cn/kern123/cloudwaf/3217243)
+- [uuWAF](https://github.com/Safe3/uuWAF) - 一款工业级免费、高性能、高扩展，支持 `AI` 和语义引擎的 `Web` 应用和 `API` 安全防护产品。[在线文档](https://waf.uusec.com/#/?id=main)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [MyIP](https://github.com/jason5ng32/MyIP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TQR4-66DEOkZDzyAE6IPug)</sup> - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
@@ -858,7 +859,7 @@
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
-- [MooTool](https://github.com/rememberber/MooTool) - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
+- [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
