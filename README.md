@@ -156,6 +156,7 @@
 - [server](https://github.com/screego/server) - 屏幕共享工具。[在线体验](https://app.screego.net/) [在线文档](https://screego.net/#/)
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储和分享文本的简单 `Web` 服务。[在线体验](https://logpaste.com/)
+- [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -280,7 +281,7 @@
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 - [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 - [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
-- [drawnix](https://github.com/plait-board/drawnix) - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
+- [drawnix](https://github.com/plait-board/drawnix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Tz_NbbxFdAIfrmMq_uv43g)</sup> - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
@@ -559,7 +560,7 @@
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 一款方便、快捷的数据库文档查询、导出工具。
 - [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
-- [drawdb](https://github.com/drawdb-io/drawdb) - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
+- [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 - [DataRoom](https://github.com/gcpaas/DataRoom) - 大屏设计器。[在线体验](http://gcpaas.gccloud.com/bigScreen/big-screen-list)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
@@ -721,7 +722,7 @@
 - [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
-- [cmdb](https://github.com/veops/cmdb) - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
+- [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 - [netdata](https://github.com/netdata/netdata) - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1143,7 +1144,7 @@
 - [EcoPaste](https://github.com/ayangweb/EcoPaste) - 适用于 `Windows`、`MacOS` 和 `Linux` 的开源**剪贴板管理工具**。
 - [PeaZip](https://github.com/peazip/PeaZip) - 一款免费且开源的文件压缩与解压工具。
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
-- [massCode](https://github.com/massCodeIO/massCode) - 一个免费开源的跨平台代码片段管理工具。
+- [massCode](https://github.com/massCodeIO/massCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zG7_nqVTQ2QGET6GcB_UQQ)</sup> - 一个免费开源的跨平台代码片段管理工具。
 - [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
@@ -1232,9 +1233,9 @@
 ### 项目管理
 
 - [plane](https://github.com/makeplane/plane) - 开源的 `JIRA`，线性和高度替代。`Plane` 帮助你以最简单的方式跟踪你的问题、史诗和产品路线图。[在线体验](https://app.plane.so/)
-- [dootask](https://github.com/kuaifan/dootask) - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
+- [dootask](https://github.com/kuaifan/dootask)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sjzhuYvnz9N79wJCrJIofg)</sup> - 一款轻量级的开源在线项目**任务管理工具**，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时 `IM`，文件管理等工具。[在线体验](https://www.dootask.com/manage/dashboard)
 - [zentaopms](https://github.com/easysoft/zentaopms) - 一款国产的开源项目管理软件。[在线体验](https://zentao.demo.qucheng.cc/index.php?m=my&f=index) [在线文档](https://www.zentao.net/book/zentaopms/38.html)
-- [openproject](https://github.com/opf/openproject) - 一款开源的项目管理工具。
+- [openproject](https://github.com/opf/openproject)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/X4GEbKZK5NNBVj-3lnqkhA)</sup> - 一款开源的项目管理工具。
 - [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
