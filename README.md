@@ -371,6 +371,7 @@
 - [qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - 一个主要用于人工智能**生成二维码**的工具包，能够生成基本的二维码，并与输出的二维码进行比较，找到错位的像素。[在线体验](https://qrcode.antfu.me/)
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - 一个为 `docsify.js` 设计的**简单主题系统**，具有丰富的自定义选项的多个主题，改进的桌面和移动体验，以及对传统浏览器的支持（ `IE11+` ）。[在线体验](https://jhildenbiddle.github.io/docsify-themeable)
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 `Web` 的 3D `CAD` 应用程序，用于在线设计和编辑模型。[在线体验](https://chili3d.com/)
+- [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -639,7 +640,7 @@
 - [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
 - [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file) - 一款 于 `SpringBoot` 实现、功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 基于 `Python` 实现的文件快递柜——匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
 - [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
 - [picoshare](https://github.com/mtlynch/picoshare) - 一款基于 `Go` 实现的极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [filegator](https://github.com/filegator/filegator) - 基于 `PHP` + `Vue` 实现的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
@@ -648,6 +649,7 @@
 - [tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - 用 `webrt` 在 `web` 端传输文件，支持传输超大文件。[在线体验](https://im.iamtsm.cn/file)
 - [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
 - [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 开源自托管的 Web 文件管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -773,6 +775,8 @@
 - [deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 一个连接强大 `AI` 与个人世界的智能助手。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具，支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
+- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
+- [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
