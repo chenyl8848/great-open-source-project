@@ -414,8 +414,8 @@
 - [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
 - [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
 - [waynboot-mall](https://github.com/wayn111/waynboot-mall) - 一套全部开源的微商城项目，包含运营后台、`H5` 商城前台和服务端接口。[在线文档](https://apifox.com/apidoc/shared-f48b11f5-6137-4722-9c70-b9c5c3e5b09b)
-- [book_novels](https://gitee.com/lin_zhao_quan/book_novels) -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
-- [xingyun](https://github.com/lframework/xingyun) - 基于 `SpringBoot` 框架的中小企业完全开源的 `ERP`. [在线体验](https://erp.lframework.com/#/dashboard/analysis) [在线文档](https://www.lframework.com/#/)
+- [book_novels](https://gitee.com/lin_zhao_quan/book_novels)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RM8ItTiGhLt4b37R1vvENA)</sup> -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
+- [xingyun](https://github.com/lframework/xingyun)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/fTVVCKMKu5hznbSCmUJAcw)</sup> - 基于 `SpringBoot` 框架的中小企业完全开源的 `ERP`. [在线体验](https://erp.lframework.com/#/dashboard/analysis) [在线文档](https://www.lframework.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -735,7 +735,7 @@
 - [SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
 - [SamWaf](https://github.com/samwafgo/SamWaf) - 一款开源轻量级的网站**应用防火墙**。[在线文档](https://doc.samwaf.com/)
 - [aaWAF](https://github.com/aaPanel/aaWAF) - 堡塔云 `WAF`, 宝塔免费的私有云网站应用防火墙，基于 `Docker/Nginx/Lua` 开发。[在线体验](https://btwaf-demo.bt.cn:8379/dashboard) [在线文档](https://www.kancloud.cn/kern123/cloudwaf/3217243)
-- [uuWAF](https://github.com/Safe3/uuWAF) - 一款工业级免费、高性能、高扩展，支持 `AI` 和语义引擎的 `Web` 应用和 `API` 安全防护产品。[在线文档](https://waf.uusec.com/#/?id=main)
+- [uuWAF](https://github.com/Safe3/uuWAF)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/b429Frl4-R2xQo99ch0O2A)</sup> - 一款工业级免费、高性能、高扩展，支持 `AI` 和语义引擎的 `Web` 应用和 `API` 安全防护产品。[在线文档](https://waf.uusec.com/#/?id=main)
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [MyIP](https://github.com/jason5ng32/MyIP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TQR4-66DEOkZDzyAE6IPug)</sup> - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
@@ -857,7 +857,7 @@
 - [elasticvue](https://github.com/cars10/elasticvue) - 一个免费且开源的 `Elasticsearch` 图形用户界面。
 - [code996](https://github.com/hellodigua/code996) - 一个可以统计 `Git` 项目的 `commit` 时间分布工具。[在线文档](https://hellodigua.github.io/code996/#/)
 - [xpipe](https://github.com/xpipe-io/xpipe) - 一款好用的终端工具。
-- [dasel](https://github.com/TomWright/dasel) - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
+- [dasel](https://github.com/TomWright/dasel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8LxgoBZJzTYFmJLAl30IPQ)</sup> - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
 - [git-who](https://github.com/sinclairtarget/git-who) - 一个命令行工具，用于解析 Git 代码库用户提交信息。
 - [Nping](https://github.com/hanshuaikang/Nping) - 一个基于 `Rust` 开发的终端可视化 `Ping` 工具, 支持多地址并发 `Ping`, 可视化图表展示, 数据实时更新等特性。
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
@@ -892,7 +892,7 @@
 - [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
-- [Json-Assistant](https://github.com/MemoryZy/Json-Assistant) - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
+- [Json-Assistant](https://github.com/MemoryZy/Json-Assistant)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZMYDB_y0Wq5wQZB2f9B3Dg)</sup> - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
 - [chapter_reader](https://gitee.com/wind_invade/chapter_reader) - `IDEA` 在线&本地小说阅读插件。
 - [leek-fund](https://github.com/LeekHub/leek-fund) - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
 
@@ -1157,7 +1157,7 @@
 - [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
-- [BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣。
+- [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
