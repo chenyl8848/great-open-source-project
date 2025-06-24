@@ -753,6 +753,7 @@
 - [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
+- [bmm](https://github.com/Y80/bmm) - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
