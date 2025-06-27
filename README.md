@@ -136,7 +136,7 @@
 ###	Go 项目
 
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
-- [Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1OHtXH_ddun333Ff2e03zw)</sup> - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
 - [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
 - [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
 - [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
@@ -219,7 +219,7 @@
 - [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - `RuoYi` `Vue3` 版本。[在线体验](https://vue.ruoyi.vip/login?redirect=%2Findex) [在线文档](https://doc.ruoyi.vip/)
 - [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 一个基于 `Vue3`、`Vite4`、`ant-design-vue4`、`Pinia`、`UnoCSS` 和 `Typescript` 的一整套企业级中后台前端/设计解决方案。[在线体验](https://antdv-pro.com/dashboard/analysis) [在线文档](https://docs.antdv-pro.com/)
 - [gi-demo](https://github.com/lin-97/gi-demo) - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
-- [basic](https://github.com/fantastic-admin/basic) - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
+- [basic](https://github.com/fantastic-admin/basic)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HwpcCFcXTHDRrP0yr9YNRQ)</sup> - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 - [art-design-pro](https://github.com/Daymychen/art-design-pro) - 一款专注于用户体验和快速开发的开源**后台管理**解决方案。[在线体验](https://www.lingchen.kim/art-design-pro/#/dashboard/console)
 - [paopao-ce](https://github.com/rocboss/paopao-ce) - 基于 `gin` + `zinc` + `vue` + `ts`  的清新文艺**微社区**。[在线体验](https://www.paopao.info/#/)
 - [yuindex](https://github.com/liyupi/yuindex) - 极客范儿的浏览器主页 ，`Vue3` + `Node.js` 全栈项目，自实现 `web` 终端 + **命令系统**。[在线体验](https://yuindex.com/)
@@ -372,6 +372,7 @@
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - 一个为 `docsify.js` 设计的**简单主题系统**，具有丰富的自定义选项的多个主题，改进的桌面和移动体验，以及对传统浏览器的支持（ `IE11+` ）。[在线体验](https://jhildenbiddle.github.io/docsify-themeable)
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 `Web` 的 3D `CAD` 应用程序，用于在线设计和编辑模型。[在线体验](https://chili3d.com/)
 - [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
+- [Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器。[在线体验](https://count.getloli.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -730,7 +731,7 @@
 - [dpanel](https://github.com/donknap/dpanel) - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
 - [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
+- [lazydocker](https://github.com/jesseduffield/lazydocker)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/S6qkTfJ8TFfHEVdgC9uzbA)</sup> - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 - [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 - [netdata](https://github.com/netdata/netdata) - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 
@@ -920,7 +921,7 @@
 - [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
 - [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
-- [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
+- [res-downloader](https://github.com/putyy/res-downloader)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8y4yClK1FDdMB37Dy9eMrQ)</sup> - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
 - [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬，`B` 站直播录播工具。
 - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
@@ -967,7 +968,7 @@
 - [github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - `Github` 年度代码统计生成视频工具。[在线体验](https://www.githubunwrapped.com/)
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
-- [gitstars](https://github.com/cfour-hi/gitstars) - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
+- [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
