@@ -128,7 +128,7 @@
 ### Python 项目
 
 - [stock](https://github.com/myhhub/stock) - **股票系统**。
-- [amazing-qr](https://github.com/x-hw/amazing-qr) - 二维码生成器（支持 `Gif` 动态图片二维码）。
+- [amazing-qr](https://github.com/x-hw/amazing-qr)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Dn0b4b9xiMTLYizgDgj9Sw)</sup> - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -438,7 +438,7 @@
 - [music-website](https://github.com/Yin-Hongwei/music-website) - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam) - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
 - [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
-- [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
+- [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vu4BhpnEyH6vzi-hzPSLRg)</sup> - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
 - [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
 - [linjiashop](https://github.com/microapp-store/linjiashop) - 一个基于 `SpringBoot` 和 `Vue` 的 `Web` 商城系统。[在线文档](http://linjiashop.enilu.cn/)
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
@@ -472,7 +472,7 @@
 - [mfish-nocode](https://github.com/mfish-qf/mfish-nocode) - 基于 `SpringBoot3` + `Spring Cloud Alibaba` 实现的摸鱼低代码平台。[在线体验](http://app.mfish.com.cn:11119/dashboard/workbench) [在线文档](https://www.mfish.com.cn/)
 - [springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的 `Spring Cloud` 教程。[在线文档](https://www.macrozheng.com/cloud/cloud_catalog.html)
 - [shortlink](https://github.com/nageoffer/shortlink) - `SaaS` 短链接系统，承载高并发和海量存储等场景难题。[在线体验](http://shortlink.nageoffer.com/home/space) [在线文档](https://nageoffer.com/shortlink/)
-- [r-nacos](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/create-center/r-nacos) - 一个用 `Rust` 实现的 `Nacos` 服务。[在线体验](https://www.bestreven.top/rnacos/manage/configs) [在线文档](https://r-nacos.github.io/docs/)
+- [r-nacos](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/create-center/r-nacos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jSm8q4BOZuerVWDNJM-lCw)</sup> - 一个用 `Rust` 实现的 `Nacos` 服务。[在线体验](https://www.bestreven.top/rnacos/manage/configs) [在线文档](https://r-nacos.github.io/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -562,7 +562,7 @@
 - [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
 - [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uO48_DGwm9AqzpsVfG9tqw)</sup> - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
 - [chartdb](https://github.com/chartdb/chartdb)- 一个功能强大的、基于网页的数据库图表编辑器。[在线体验](https://app.chartdb.io/diagrams/wzuzvobkucys)
 - [anyclient-web](https://github.com/hanbingzi/anyclient-web) - 一款开源、支持 `Web` 和客户端，能够连接各种类型数据服务的管理软件。
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - 一款实用的 `SQLite` 数据库桌面管理工具。
@@ -672,8 +672,8 @@
 - [weapp-library](https://github.com/imageslr/weapp-library) - **在线借书平台**微信小程序。[在线文档](https://imageslr.github.io/weapp-library/)
 - [QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 微信小程序，考试小程序，答题小程序，刷题小程序。
 - [yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) - 一款全面的**校园教务查询微信小程序**。
-- [ddrun](https://gitee.com/landalfyao/ddrun) - 一套**跑腿下单接单**系统。
-- [yshop-drink](https://github.com/guchengwuyue/yshop-drink) - 一个**在线点餐**小程序，支持多门店模式，`SaaS` 多租户模式。
+- [ddrun](https://gitee.com/landalfyao/ddrun)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1kjSjYh_rRiCX_i_pht0eQ)</sup> - 一套**跑腿下单接单**系统。
+- [yshop-drink](https://github.com/guchengwuyue/yshop-drink)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/JY-ZExWxhJlLlW8c1BhV5Q)</sup> - 一个**在线点餐**小程序，支持多门店模式，`SaaS` 多租户模式。
 - [qdpz](https://gitee.com/kevin_chou/qdpz) - 一个常用小程序功能的集合，基于 `Vue` 实现，使用 `colorUi` 与 `uView`，完美支持微信小程序。
 - [linfeng-community](https://gitee.com/virus010101/linfeng-community) - 一个基于 `SpringBoot`、`MybatisPlus`、`Redis`、`Vue`、`Uniapp` 的前后端分离的**社交论坛问答发帖**/`BBS`，`SNS` 项目。[在线文档](https://www.kancloud.cn/linfengkj/linfeng_community/2754703)
 
@@ -694,7 +694,7 @@
 ### 运维监控
 
 - [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
-- [hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
+- [hertzbeat](https://github.com/dromara/hertzbeat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/DBibF9sRHBtzvDMW57CPBw)</sup> - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 轻量级的**前端监控系统**，无埋点监控前端日志，实时分析前端健康状态。
 - [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
 - [Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
@@ -709,7 +709,6 @@
 - [matomo](https://github.com/matomo-org/matomo) - 一款功能强大的开源 `web` 分析工具，可以帮助跟踪和理解网站的访问者行为，以及优化网站业务。提供了丰富的报告和实时数据分析功能，并提供了一套完整的隐私保护措施，确保用户数据安全。[在线体验](https://demo.matomo.cloud/)
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 `Linux` **服务器运维管理面板**。[在线体验](https://demo.1panel.cn/) [在线文档](https://1panel.cn/docs/)
 - [dashdot](https://github.com/MauriceNino/dashdot) - 一个简单、现代的**服务器仪表板**，主要用于小型私人服务器。[在线体验](https://dash.mauz.dev/)
-- [dozzle](https://github.com/amir20/dozzle)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ngQ_KdtTSFf2dTwiuPdizg)</sup> - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
 - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - 一个针对高并发、低延迟应用设计的高性能 `Java` 性能监控和统计工具。
 - [qinglong](https://github.com/whyour/qinglong) - 支持 `Python3`、`JavaScript`、`Shell`、`Typescript` 的定时任务管理平台。[在线体验](http://demo.ninesix.cc:4433/login) [在线文档](https://qinglong.online/index)
 - [nightingale](https://github.com/ccfos/nightingale) - 告警管理专家，一体化的开源可观测平台。[在线文档](https://flashcat.cloud/docs/)
@@ -724,14 +723,11 @@
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - `Nginx` 可视化配置工具。 [在线文档](https://docs.digitalocean.com/products/)
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index)
 - [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
-- [nginx-ui](https://github.com/0xJacky/nginx-ui) - `Nginx` 网络管理界面。[在线体验](https://demo.nginxui.com)
+- [nginx-ui](https://github.com/0xJacky/nginx-ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Eg8TVY-l8Ag_LOkeSf-6ug)</sup> - `Nginx` 网络管理界面。[在线体验](https://demo.nginxui.com)
 - [easynode](https://github.com/chaos-zhu/easynode) - 一个 `Linux` 服务器 `Web SSH` 面板。
 - [bottom](https://github.com/ClementTsang/bottom) - 跨平台终端系统监控工具。
 - [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
-- [dpanel](https://github.com/donknap/dpanel) - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
-- [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
-- [lazydocker](https://github.com/jesseduffield/lazydocker)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/S6qkTfJ8TFfHEVdgC9uzbA)</sup> - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 - [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 - [netdata](https://github.com/netdata/netdata) - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 
@@ -869,13 +865,25 @@
 - [git-who](https://github.com/sinclairtarget/git-who) - 一个命令行工具，用于解析 Git 代码库用户提交信息。
 - [Nping](https://github.com/hanshuaikang/Nping) - 一个基于 `Rust` 开发的终端可视化 `Ping` 工具, 支持多地址并发 `Ping`, 可视化图表展示, 数据实时更新等特性。
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
-- [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
 - [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### Docker 工具
+
+- [dozzle](https://github.com/amir20/dozzle)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ngQ_KdtTSFf2dTwiuPdizg)</sup> - 一个开源的日志查看器，用于监视和查看 `Docker` 容器的实时日志。它提供一个简单而直观的 `Web` 界面，让用户可以方便地查看运行中的 `Docker` 容器的日志。[在线文档](https://dozzle.dev/guide/getting-started)
+- [dpanel](https://github.com/donknap/dpanel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/mHnPES5fDqRyqm24A-7CfA)</sup> - `Docker` 可视化面板系统。[在线体验](https://demo.dpanel.cc/dpanel/ui/home) [在线文档](https://doc.dpanel.cc/#/)
+- [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
+- [lazydocker](https://github.com/jesseduffield/lazydocker)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/S6qkTfJ8TFfHEVdgC9uzbA)</sup> - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
+- [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `Docker` 容器的网络界面**，强调模板化，提供一键部署。
+- [docker.ui](https://github.com/gohutool/docker.ui) - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
+
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
 
 ### 插件工具
 
