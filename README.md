@@ -137,7 +137,6 @@
 ###	Go 项目
 
 - [kplayer-go](https://github.com/bytelang/kplayer-go) - 一款用于在 `Linux` 环境下进行媒体资源推流的应用程序。[在线文档](https://docs.kplayer.net/v0.5.8/)
-- [Cloudreve](https://github.com/cloudreve/Cloudreve)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1OHtXH_ddun333Ff2e03zw)</sup> - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
 - [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
 - [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
 - [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
@@ -146,7 +145,6 @@
 - [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
 - [navidrome](https://github.com/navidrome/navidrome) - 与 `Subsonic/Airsonic` 兼容的现代音乐播放器。[在线文档](https://www.navidrome.org/docs/installation/) [在线体验](https://demo.navidrome.org/)
 - [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 `Golang` + `Flutter` 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
-- [alist](https://github.com/alist-org/alist) - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
 - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 基于 `Go` + `Vue` 实现的 `openLDAP` 后台管理项目。[在线体验](http://demo-go-ldap-admin.eryajf.net/#/login?redirect=%2Fdashboard) [在线文档](http://ldapdoc.eryajf.net/)
 - [hugo](https://github.com/gohugoio/hugo) - 一个用 `Go` 语言构建的快速灵活的**静态网站生成器**，旨在提供速度和灵活性。
 - [DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) -  一个基于 `Go` 开发的能够高速采集海量互联网数据的开源搜索引擎。
@@ -286,6 +284,7 @@
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
+- [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -443,6 +442,7 @@
 - [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
 - [linjiashop](https://github.com/microapp-store/linjiashop) - 一个基于 `SpringBoot` 和 `Vue` 的 `Web` 商城系统。[在线文档](http://linjiashop.enilu.cn/)
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
+- [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -634,20 +634,23 @@
 
 ### 文件管理项目
 
-- [zfile](https://github.com/zfile-dev/zfile) - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1OHtXH_ddun333Ff2e03zw)</sup> - 支持多家云存储的云盘系统。[在线体验](https://demo.cloudreve.org/login) [在线文档](https://docs.cloudreve.org/)
+- [alist](https://github.com/alist-org/alist)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bQOQKsYwJjqtDv_YeHJwDQ)</sup> - 一个支持多种存储的文件列表程序，使用 `Gin` 和 `Solidjs`。[在线体验](https://al.nn.ci/) [在线文档](https://alist.nn.ci/zh/)
+- [zfile](https://github.com/zfile-dev/zfile)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HO2CkpM_3ptmO4kXSiMgOQ)</sup> - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
 - [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
-- [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file) - 一款 于 `SpringBoot` 实现、功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
-- [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 基于 `Python` 实现的文件快递柜——匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
+- [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zpINB3Idzqf8Z9PaTowxZQ)</sup> - 一款 于 `SpringBoot` 实现、功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiGz10t61HOKVxIXAKwDwQ)</sup> - 基于 `Python` 实现的文件快递柜——匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nxRWVcP5jPJEs4H1xnkndg)</sup> - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
 - [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
-- [picoshare](https://github.com/mtlynch/picoshare) - 一款基于 `Go` 实现的极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
+- [picoshare](https://github.com/mtlynch/picoshare)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/R0myrX_2IDUO5bngQkRxpw)</sup> - 一款基于 `Go` 实现的极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [filegator](https://github.com/filegator/filegator) - 基于 `PHP` + `Vue` 实现的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
 - [kodbox](https://github.com/kalcaddle/kodbox) -  基于 `PHP` 实现的 `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
-- [dufs](https://github.com/sigoden/dufs) - 多功能的文件服务器工具。
+- [dufs](https://github.com/sigoden/dufs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jgulShxJVf-zu0Q-3R4tPw)</sup> - 多功能的文件服务器工具。
 - [tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - 用 `webrt` 在 `web` 端传输文件，支持传输超大文件。[在线体验](https://im.iamtsm.cn/file)
 - [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
 - [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 开源自托管的 Web 文件管理工具。
+- [OpenList](https://github.com/OpenListTeam/OpenList) - 一个支持多存储的文件列表程序，使用 `Gin` 和 `SolidJS`, 基于 `AList` 项目 `fork` 开发。[在线文档](https://docs.oplist.org/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -686,7 +689,7 @@
 - [DataRoom](https://github.com/gcpaas/DataRoom)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/q19bmar6wK3DFKoLRTzsOQ)</sup> - 大屏设计器。[在线体验](http://gcpaas.gccloud.com/bigScreen/big-screen-list)
 - [report](https://github.com/anji-plus/report)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yC-P1-qC1cIyD7U4MclgPQ)</sup> - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
-- [go-view](https://github.com/dromara/go-view) - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
+- [go-view](https://github.com/dromara/go-view)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vzo7pJfeO687PsWLgk1pXg)</sup> - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -782,6 +785,7 @@
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具，支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
+- [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
