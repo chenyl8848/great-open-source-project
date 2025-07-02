@@ -61,6 +61,7 @@
     - [科学上网](#科学上网)
     - [Github 工具](#github-工具)
     - [版本管理工具](#版本管理工具)
+    - [视频剪辑工具](#视频剪辑工具)
   - [学习项目](#学习项目)
     - [编程教程](#编程教程)
     - [数据结构与算法](#数据结构与算法)
@@ -994,6 +995,13 @@
 - [fnm](https://github.com/Schniz/fnm) - 一个用 `Rust` 编写的高效 `Node.js` 版本管理器。
 - [asdf](https://github.com/asdf-vm/asdf) - 多运行时版本管理器，使用一个工具管理所有运行时版本。[在线文档](https://asdf-vm.com/zh-hans/)
 - [n](https://github.com/tj/n) - `Node.js` 版本管理工具。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 视频剪辑工具
+
+- [react-video-editor](https://github.com/designcombo/react-video-editor) - 一款基于 `React` + `TypeScript` 实现的在线视频剪辑工具。[在线体验](https://designcombo.dev/edit)
+- [clip-js](https://github.com/mohyware/clip-js) - 一个由 `Next.js` 构建的在线视频编辑器。[在线体验](https://clipjs.vercel.app/projects)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
