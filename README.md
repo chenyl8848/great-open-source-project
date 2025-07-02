@@ -1000,8 +1000,9 @@
 
 ### 视频剪辑工具
 
+- [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
 - [react-video-editor](https://github.com/designcombo/react-video-editor) - 一款基于 `React` + `TypeScript` 实现的在线视频剪辑工具。[在线体验](https://designcombo.dev/edit)
-- [clip-js](https://github.com/mohyware/clip-js) - 一个由 `Next.js` 构建的在线视频编辑器。[在线体验](https://clipjs.vercel.app/projects)
+- [clip-js](https://github.com/mohyware/clip-js) - 一个由 `Next.js` 构建的在线视频剪辑器。[在线体验](https://clipjs.vercel.app/projects)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1155,7 +1156,6 @@
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
 - [TTime](https://github.com/InkTimeRecord/TTime) - 一款简洁高效的输入、截图、划词翻译软件。
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
-- [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
 - [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。[在线文档](https://copyq.readthedocs.io/en/latest/)
