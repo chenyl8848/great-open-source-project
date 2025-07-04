@@ -99,7 +99,7 @@
 - [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
 - [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 - [solon](https://github.com/noear/solon) - 一个高效的 `Java` 应用开发框架，有自己接口标准规范的开放生态，组合不同的生态插件应对不同需求，方便定制，快速开发。[在线文档](https://solon.noear.org/article/learn-start)
-- [tianai-captcha](https://gitee.com/tianai/tianai-captcha) - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
+- [tianai-captcha](https://gitee.com/tianai/tianai-captcha)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/DG1oLXQUKW59080W7k5JTQ)</sup> - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线文档](https://dozermapper.github.io/gitbook/)
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
@@ -218,7 +218,7 @@
 - [nova-admin](https://github.com/chansee97/nova-admin) - 一个简洁、干净的中后台管理模板。[在线体验](https://nova-admin-site.netlify.app/dashboard/workbench) [在线文档](https://nova-admin-docs.netlify.app/zh/)
 - [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - `RuoYi` `Vue3` 版本。[在线体验](https://vue.ruoyi.vip/login?redirect=%2Findex) [在线文档](https://doc.ruoyi.vip/)
 - [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 一个基于 `Vue3`、`Vite4`、`ant-design-vue4`、`Pinia`、`UnoCSS` 和 `Typescript` 的一整套企业级中后台前端/设计解决方案。[在线体验](https://antdv-pro.com/dashboard/analysis) [在线文档](https://docs.antdv-pro.com/)
-- [gi-demo](https://github.com/lin-97/gi-demo) - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
+- [gi-demo](https://github.com/lin-97/gi-demo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ausTR8xmWSRERLChuaHLcA)</sup> - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
 - [basic](https://github.com/fantastic-admin/basic)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HwpcCFcXTHDRrP0yr9YNRQ)</sup> - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 - [art-design-pro](https://github.com/Daymychen/art-design-pro) - 一款专注于用户体验和快速开发的开源**后台管理**解决方案。[在线体验](https://www.lingchen.kim/art-design-pro/#/dashboard/console)
 - [paopao-ce](https://github.com/rocboss/paopao-ce) - 基于 `gin` + `zinc` + `vue` + `ts`  的清新文艺**微社区**。[在线体验](https://www.paopao.info/#/)
@@ -276,8 +276,8 @@
 - [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
 - [aspoem](https://github.com/meetqy/aspoem) - 现代化诗词学习网站，一个更加注重 `UI` 和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
-- [umami](https://github.com/umami-software/umami) - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
-- [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
+- [umami](https://github.com/umami-software/umami)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XDXD6q1WyTkzBSsE3Q_diw)</sup> - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiSA-8X_I-dGEqvbMC_lEw)</sup> - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 - [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 - [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
@@ -349,7 +349,7 @@
 - [fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 一款基于 `fabricjs` 的创意图片编辑器。
 - [sweetalert](https://github.com/t4t5/sweetalert) - 一个美观的 `JavaScript` 的 `alert` 的替代品。[在线文档](https://sweetalert.js.org/)
 - [ioredis](https://github.com/redis/ioredis) - 一个用于 `Node.js` 的 `Redis` 客户端，具有强大、性能优化和功能齐全的特点。
-- [puter](https://github.com/HeyPuter/puter) - 基于 `Web` 的桌面操作系统，运行于浏览器中，具有丰富的功能、速度极快且可高度扩展。[在线体验](https://puter.com/)
+- [puter](https://github.com/HeyPuter/puter)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/N-AaFtmoDO37y-XogcRU2w)</sup> - 基于 `Web` 的桌面操作系统，运行于浏览器中，具有丰富的功能、速度极快且可高度扩展。[在线体验](https://puter.com/)
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 `Windows` / `macOS` / `Linux`. [在线体验](https://music.qier222.com/)
 - [lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化。[在线体验](http://zhangwenli.com/lipstick/)
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
@@ -494,7 +494,7 @@
 - [vue-store](https://github.com/hai-27/vue-store) - 基于 `Vue` + `Vue-Router` + `Vuex` + `Element-UI` + `Axios`，仿小米商城实现的**电商项目**。[在线体验](http://8.141.3.248/#/)
 - [pilipala](https://github.com/guozhigq/pilipala) - 使用 `Flutter` 开发的 `BiliBili` 第三方客户端。
 - [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
-- [12306](https://github.com/nageoffer/12306) - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
+- [12306](https://github.com/nageoffer/12306)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4YGAlDgfW5L9tQEYy6JSxQ)</sup> - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
 - [instagram-mern](https://github.com/jigar-sable/instagram-mern) - 仿 `Instagram` 项目。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -585,7 +585,7 @@
 - [WeBlog](https://github.com/weiwosuoai/WeBlog)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6SWIVHSnMC9BkWMfw7wCZg)</sup> - `SpringBoot` + `Vue3.2` + `Vite` 前后端分离博客。[在线体验](http://118.31.41.16/#/)
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - `Vue3` + `TypeScript` + `Vite2` + `Vuex4` + `Vue-Router4` + `Element-UI-Plus` 支持 `markdown` 渲染的**博客前台展示**。
 - [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
-- [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog) - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
+- [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Hqkh8fkYyGOrjBzJ7wtCRw)</sup> - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
 - [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
 - [OneBlog](https://github.com/zhangyd-c/OneBlog) - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
 - [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
@@ -642,7 +642,7 @@
 - [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zpINB3Idzqf8Z9PaTowxZQ)</sup> - 一款 于 `SpringBoot` 实现、功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiGz10t61HOKVxIXAKwDwQ)</sup> - 基于 `Python` 实现的文件快递柜——匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nxRWVcP5jPJEs4H1xnkndg)</sup> - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
-- [go-file](https://github.com/songquanpeng/go-file) - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
+- [go-file](https://github.com/songquanpeng/go-file)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IsBR5nHfREowcYA7GMqjQw)</sup> - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
 - [picoshare](https://github.com/mtlynch/picoshare)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/R0myrX_2IDUO5bngQkRxpw)</sup> - 一款基于 `Go` 实现的极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [filegator](https://github.com/filegator/filegator) - 基于 `PHP` + `Vue` 实现的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
 - [kodbox](https://github.com/kalcaddle/kodbox) -  基于 `PHP` 实现的 `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
@@ -814,7 +814,7 @@
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - 一款基于 `Gradio` 的图像生成软件。
 - [video2x](https://github.com/k4yt3x/video2x) - 视频、`Gif` 和图像无损放大工具。
 - [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 开源 `AI` 图像放大与增强工具。[在线体验](https://clarityai.co/dashboard)
-- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的AI证件照制作算法。[在线体验](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
+- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 一个轻量级的 `AI` 证件照制作算法。[在线体验](https://huggingface.co/spaces/TheEeeeLin/HivisionIDPhotos)
 - [MagicMirror](https://github.com/idootop/MagicMirror) - 一键 `AI` 换脸、发型、穿搭，发现更美的自己。
 - ~~[lama-cleaner](https://github.com/Sanster/lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)~~
 - [IOPaint](https://github.com/Sanster/IOPaint) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://huggingface.co/spaces/Sanster/iopaint-lama) [在线文档](https://www.iopaint.com/)
@@ -848,7 +848,7 @@
 
 ###	开发工具
 
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j9iDDyjILfmOSeCfk0cGlg)</sup> - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
@@ -940,6 +940,8 @@
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬，`B` 站直播录播工具。
 - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
+- [BiliTools](https://github.com/btjawa/BiliTools) - 平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源。
+- [parse-video](https://github.com/wujunwei928/parse-video) - 基于 Golang 实现的短视频去水印工具，视频目前支持 20 个平台，图集目前支持 4 个平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1033,6 +1035,7 @@
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
+- [happy-llm](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。[在线体验](https://datawhalechina.github.io/happy-llm/#/)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -1260,7 +1263,7 @@
 - [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
 - [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
 - [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
-- [yaade](https://github.com/EsperoTech/yaade) - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
+- [yaade](https://github.com/EsperoTech/yaade)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/H3jynpkAyKH-U8KQR1TxAQ)</sup> - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
 - [APIAuto](https://github.com/TommyLemon/APIAuto) - 一款 `HTTP` 接口、机器学习零代码测试和一站式智能开发管理工具。[在线体验](http://apijson.cn/api/)
 - [apidash](https://github.com/foss42/apidash) - 一个基于 `Flutter` 打造的开源跨平台 API 客户端工具。
 
@@ -1332,7 +1335,7 @@
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
-- [markitdown](https://github.com/microsoft/markitdown) - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
+- [markitdown](https://github.com/microsoft/markitdown)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/kzaCY4MxSvqU8UMkxDqW6w)</sup> - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
 - [markwhen](https://github.com/mark-when/markwhen) - 一款从 `Markdown` 文本创建美观的层级时间线的工具。[在线体验](https://markwhen.com/)
 - [editor](https://github.com/umodoc/editor) - 一个基于 `Vue3` 和 `Tiptap` 的适合于国人使用的本土化开源文档编辑器。[在线体验](https://demo.umodoc.com/editor?lang=zh-CN) [在线文档](https://editor.umodoc.com/cn/docs)
 - [flatnotes](https://github.com/dullage/flatnotes) - 一款自托管、无需数据库的在线 `Markdown` 笔记应用。[在线体验](https://demo.flatnotes.io/)
