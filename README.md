@@ -257,6 +257,7 @@
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [VutronMusic](https://github.com/stark81/VutronMusic) - 一个基于 `Vue` 实现的高颜值的第三方网易云播放器。
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个基于 `Vue` + `Electron` 实现的第三方音乐播放器。
+- [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin) - 一款基于 `Vue3`、`TypeScript`、`Vite6`、`Pinia`、`Arco.Design` 开源的后台管理框架。[在线体验](http://101.126.93.137/#/home) [在线文档](http://101.126.93.137:81/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1035,6 +1036,7 @@
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
 - [happy-llm](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。[在线体验](https://datawhalechina.github.io/happy-llm/#/)
+- [self-llm](https://github.com/datawhalechina/self-llm) - 一个围绕开源大模型、针对国内初学者、基于 `Linux` 平台的中国宝宝专属大模型教程。
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -1419,6 +1421,7 @@
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学 `PDF` 教材。
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi) - 一个提供开发中常用数据的一个稳定聚合 `Api` 接口源。[在线文档](https://www.mxnzp.com/doc/list)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - 整理优秀的 `Node.js` 项目和资源。
+- [awesome](https://github.com/sindresorhus/awesome) - 各种有趣主题的开源项目合集。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
