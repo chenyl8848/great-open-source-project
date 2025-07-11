@@ -293,7 +293,6 @@
 
 - [50projects50days](https://github.com/bradtraversy/50projects50days) -  50+ 个基于 `HTML/CSS` 、`JavaScript` 实现的**小网页项目**。
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 构建企业应用程序的 `JavaScript` 数据表。支持 `React` / `Angular` / `Vue` / `Plain JavaScript`。[在线体验](https://www.ag-grid.com/example/) [在线文档](https://www.ag-grid.com/vue-data-grid/)
-- [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [mind-map](https://github.com/wanglin2/mind-map) - 一个简单&强大的 `Web` 思维导图。[在线体验](https://wanglin2.github.io/mind-map/) [在线文档](https://wanglin2.github.io/mind-map/#/doc/zh/)
 - [LogicFlow](https://github.com/didi/LogicFlow) - 一款流程图编辑框架，提供了一系列流程图交互、编辑所必需的功能和灵活的节点自定义、插件等拓展机制。[在线文档](https://site.logic-flow.cn/docs/#/zh/)
 - [Luckysheet](https://github.com/dream-num/Luckysheet) - 一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。[在线体验](https://dream-num.github.io/LuckysheetDemo/)
@@ -337,7 +336,6 @@
 - [webstudio](https://github.com/webstudio-is/webstudio) - 一个开源的可视化开发平台。[在线体验](https://webstudio.is/)
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)。[在线体验](https://wangchujiang.com/reference/)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 一款功能强大，专业可靠的 `H5` 可视化页面配置解决方案。[在线体验](http://h5.dooring.cn/h5_plus) [在线文档](http://h5.dooring.cn/doc)
-- [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 轻量级的 `Node.js` 私有 `registry` 代理。[在线文档](https://verdaccio.org/docs/what-is-verdaccio)
 - [gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经、楚辞唐诗、宋词等给小朋友起名字。[在线体验](http://xiaosang.net/gushi_namer/)
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 `Node.js` `API` `Service`。[在线文档](https://neteasecloudmusicapi-docs.4everland.app/#/)
@@ -401,7 +399,7 @@
 - [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
 - [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
 - [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
-- [smart-admin](https://github.com/1024-lab/smart-admin) - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
+- [smart-admin](https://github.com/1024-lab/smart-admin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TLz4FWyx8uuRd89nbZpjIg)</sup>  - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
 - [maku-generator](https://gitee.com/makunet/maku-generator) - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
 - [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
 - [DWSurvey](https://github.com/wkeyuan/DWSurvey) - 一款简单、高效、成熟、稳定、专业的开源问卷系统。
@@ -427,7 +425,7 @@
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [crmeb_java](https://github.com/crmeb/crmeb_java) - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 - [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
-- [novel](https://github.com/201206030/novel) - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
+- [novel](https://github.com/201206030/novel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/UCrFNTbzJFdmtVvagm-q9w)</sup> - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
 - [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
 - [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
 - [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
@@ -590,6 +588,8 @@
 - [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
 - [hexo](https://github.com/hexojs/hexo) - 快速、简洁且高效的博客框架。[在线文档](https://hexo.io/zh-cn/)
 - [docsify](https://github.com/docsifyjs/docsify/) - 一个神奇的文档网站生成器。[在线文档](https://docsify.js.org/#/zh-cn/)
+- [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
+- [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -733,7 +733,8 @@
 - [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
 - [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
-- [netdata](https://github.com/netdata/netdata) - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
+- [netdata](https://github.com/netdata/netdata)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aZXj4WANdl5suMtmDYmUnA)</sup> - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
+- [coolmonitor](https://github.com/star7th/coolmonitor) - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -915,7 +916,7 @@
 - [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
 - [Json-Assistant](https://github.com/MemoryZy/Json-Assistant)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZMYDB_y0Wq5wQZB2f9B3Dg)</sup> - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
 - [chapter_reader](https://gitee.com/wind_invade/chapter_reader) - `IDEA` 在线&本地小说阅读插件。
-- [leek-fund](https://github.com/LeekHub/leek-fund) - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
+- [leek-fund](https://github.com/LeekHub/leek-fund)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/10fl0qnSNGLeyOgqWj_QJQ)</sup>  - 一个支持查看股票 & 基金实时数据 `VSCode` 插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1128,7 +1129,7 @@
 
 ### 语言学习
 
-- [qwerty-learner](https://github.com/RealKai42/qwerty-learner/) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
+- [qwerty-learner](https://github.com/RealKai42/qwerty-learner/)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AczABDXAwwpaEX5qVjzV_w)</sup> - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。[在线体验](https://qwerty.kaiyi.cool/)
 - [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
@@ -1159,7 +1160,7 @@
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
 - [TTime](https://github.com/InkTimeRecord/TTime) - 一款简洁高效的输入、截图、划词翻译软件。
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dvRtbeXY0o0Hx6Jq3Vq1fQ)</sup> - 一款开源桌面 `YouTube` 播放器， 基于 `Electron`，支持 `Windows`、`Mac` 和 `Linux`.
 - [geometrize](https://github.com/Tw1ddle/geometrize) - 一款桌面应用程序，可将图像几何化为几何基元。
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一款开源的笔记工具。
 - [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。[在线文档](https://copyq.readthedocs.io/en/latest/)
@@ -1174,7 +1175,7 @@
 - [trilium](https://github.com/zadam/trilium) - 一个层次化的笔记应用程序，专注于建立大型个人知识库。
 - [czkawka](https://github.com/qarmin/czkawka) - 一款简单、快速且免费的应用程序，用于从计算机中删除不必要的文件。
 - [rubick](https://github.com/rubickCenter/rubick) - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
-- [Loaf](https://github.com/DinoChan/Loaf) - 一个摸鱼软件。
+- [Loaf](https://github.com/DinoChan/Loaf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/xAQ-dsDvKSijxufkGl-N_Q)</sup> - 一个摸鱼软件。
 - [flameshot](https://github.com/flameshot-org/flameshot) - 强大而简单易用的截图软件。
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - 一个基于 `Electron` 的图表和白板桌面应用程序，它包装了核心的 `draw.io` 编辑器。
 - [iptvnator](https://github.com/4gray/iptvnator) - 一款视频播放器应用程序，提供对 `IPTV` 播放列表（`m3u`、`m3u8`）播放的支持。
@@ -1343,7 +1344,7 @@
 - [flatnotes](https://github.com/dullage/flatnotes) - 一款自托管、无需数据库的在线 `Markdown` 笔记应用。[在线体验](https://demo.flatnotes.io/)
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
-- [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 一个开源、跨平台的本地**日记 `App`**，使用 `Blazor` 开发，支持 `Android`、`Windows`、`macOS`、`Web`、`Linux`. 
+- [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 一个开源、跨平台的本地**日记** `APP`，使用 `Blazor` 开发，支持 `Android`、`Windows`、`macOS`、`Web`、`Linux`. 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
