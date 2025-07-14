@@ -9,10 +9,16 @@
 
 <img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" />
 
+## 推荐
+
+- [📚个人博客网站](https://chencoding.top/)
+- [📸证件照生成器](https://chencoding.top:8082/)
+
 ## 目录
 
 - [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
   - [【关注公众号，浏览开源项目文章~】](#关注公众号浏览开源项目文章)
+  - [推荐](#推荐)
   - [目录](#目录)
   - [编程语言](#编程语言)
     - [Java 项目](#java-项目)
