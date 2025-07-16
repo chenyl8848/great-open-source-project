@@ -1200,6 +1200,7 @@
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
 - [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 一个可以让你看各种主流直播平台的看直播工具。
+- [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款免费的办公套件，集文本、电子表格、演示文稿、PDF 编辑器和图表查看器于一体。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
