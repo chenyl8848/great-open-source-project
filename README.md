@@ -48,6 +48,7 @@
     - [微信项目](#微信项目)
     - [小程序项目](#小程序项目)
     - [报表大屏设计器项目](#报表大屏设计器项目)
+    - [考试问卷项目](#考试问卷项目)
   - [Web 项目](#web-项目)
     - [运维监控](#运维监控)
     - [网络项目](#网络项目)
@@ -113,7 +114,7 @@
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
-- [JustAuth](https://github.com/justauth/JustAuth) - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
+- [JustAuth](https://github.com/justauth/JustAuth)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/B_PlrnfqopcPRCh1mOz3FA)</sup> - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
 - [jarboot](https://github.com/majianzheng/jarboot) - 一个 `Java` 进程启停、管理、诊断的平台，可以管理、守护、监控及诊断本地和远程的 `Java` 进程。[在线文档](https://www.yuque.com/jarboot/usage)
 - [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。[在线文档](https://x-file-storage.xuyanwu.cn/#/)
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
@@ -243,7 +244,6 @@
 - [pictode](https://github.com/JessYan0913/pictode) - 一个基于 `Vue3`、`TypeScript`、`Konva`、`HeadlessUI` 和 `Tailwind CSS` 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
-- [xiaoju-survey](https://github.com/didi/xiaoju-survey) - 一套轻量、安全的**问卷系统基座**，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
 - [teriteri-client](https://github.com/xunlu129/teriteri-client) - 一个基于 `Vue3` 搭建的视频网站平台客户端。
 - [varlet-app-template](https://github.com/varletjs/varlet-app-template) - 一个开箱即用的轻量化移动端 Web 模板，基于 `Vue3`、 `Varlet`、 `Vite`、`Typescript` 开发。[在线体验](https://varlet-app-template.vercel.app/)
 - [typing-word](https://github.com/zyronon/typing-word) - 可在网页上使用的背单词软件。[在线体验](https://typing-word.ttentau.top/#/practice)
@@ -370,7 +370,7 @@
 - [melody](https://github.com/foamzou/melody) - 音乐管理工具。
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html)
 - [WebGAL](https://github.com/OpenWebGAL/WebGAL) - 全新的网页端视觉小说引擎。[在线体验](https://demo.openwebgal.com/) [在线文档](https://docs.openwebgal.com/)
-- [json-server](https://github.com/typicode/json-server) - 在 30 秒内创建一个 `REST API` 服务。
+- [json-server](https://github.com/typicode/json-server)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uo9vine8ylE-yxHKfLCjuQ)</sup> - 在 30 秒内创建一个 `REST API` 服务。
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
 - [qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - 一个主要用于人工智能**生成二维码**的工具包，能够生成基本的二维码，并与输出的二维码进行比较，找到错位的像素。[在线体验](https://qrcode.antfu.me/)
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - 一个为 `docsify.js` 设计的**简单主题系统**，具有丰富的自定义选项的多个主题，改进的桌面和移动体验，以及对传统浏览器的支持（ `IE11+` ）。[在线体验](https://jhildenbiddle.github.io/docsify-themeable)
@@ -393,9 +393,9 @@
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
 - [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 一款基于代码生成器的**低代码开发平台**。[在线体验](http://boot3.jeecg.com/) [在线文档](https://www.jeecg.com/)
 - [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
-- [PlayEdu](https://github.com/PlayEdu/PlayEdu) - 一款适用于搭建内部培训平台的开源系统。
+- [PlayEdu](https://github.com/PlayEdu/PlayEdu)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_afoHjOxnBJfAdznOMhDOA)</sup> - 一款适用于搭建内部培训平台的开源系统。
 - [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
-- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
+- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/xeWIrJF2gp3Sa74rSvLKNQ)</sup> - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
 - [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
 - [open-sign-old](https://github.com/kaifangqian/kaifangqian-base) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
@@ -407,11 +407,9 @@
 - [smart-admin](https://github.com/1024-lab/smart-admin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TLz4FWyx8uuRd89nbZpjIg)</sup>  - 基于 `SpringBoot` + `Sa-Token` + `Mybatis-Plus` 和 `Vue3` + `Vite5` + `Ant Design Vue 4.x` 中后台解决方案。[在线体验](https://preview.smartadmin.vip/#/home) [在线文档](https://smartadmin.vip/views/v3/base/About.html)
 - [maku-generator](https://gitee.com/makunet/maku-generator) - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
 - [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
-- [DWSurvey](https://github.com/wkeyuan/DWSurvey) - 一款简单、高效、成熟、稳定、专业的开源问卷系统。
 - [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
 - [magic-api](https://github.com/ssssssss-team/magic-api) - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
 - [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
-- [tduck-platform](https://github.com/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/forks/TDuckCloud/tduck-platform?style=social) ![](https://img.shields.io/github/license/TDuckCloud/tduck-platform) ![](https://img.shields.io/github/last-commit/TDuckCloud/tduck-platform) - 填鸭表单问卷系统。[在线体验](https://demo.tduckapp.com/home) [在线文档](https://doc.tduckcloud.com/openSource/index.html)
 - [smart-sso](https://github.com/a466350665/smart-sso)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dw5dHUVsRy-0NU54IFBjcw)</sup> - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
 - [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
 - [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
@@ -427,19 +425,16 @@
 - [litemall](https://github.com/linlinjava/litemall) - 基于 `Spring Boot` 后端 + `Vue` 管理员前端 + 微信小程序用户前端 + `Vue` 用户移动端的**小商场系统**。[在线文档](https://linlinjava.gitbook.io/litemall)
 - [lilishop](https://github.com/lilishop/lilishop) - 商城系统，后端基于 `SpringBoot` 研发，前端使用  `Vue`、`uniapp` 开发， 前后端分离，支持分布式部署，支持 `Docker`，各个 `API` 独立。
 - [Jeebase](https://github.com/wmz1930/Jeebase) - 前后端分离的开源开发框架，基于 `SpringBoot` + `Vue`（`vue-element-admin`/`Ant Design Pro Vue`）开发。
-- [SurveyKing](https://github.com/javahuang/SurveyKing) - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
 - [crmeb_java](https://github.com/crmeb/crmeb_java)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0B-5LR3GnWvqYEvMT9gb2w)</sup> - 开源商城系统 `Java` 版，基于 `Java` + `Vue` + `Uni-app` 开发，在微信公众号、小程序、`H5` 移动端都能使用。[在线体验](https://admin.java.crmeb.net/)
 - [xzs](https://github.com/mindskip/xzs) - 一款 `Java` + `Vue` 的前后端分离的考试系统。[在线体验](https://www.mindskip.net/xzs.html) [在线文档](https://www.mindskip.net:888/)
 - [novel](https://github.com/201206030/novel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/UCrFNTbzJFdmtVvagm-q9w)</sup> - 一套基于时下最新 `Java` 技术栈 `SpringBoot3` + `Vue3` 开发的前后端分离学习型小说项目。[在线体验](https://novel.xxyopen.com/) [在线文档](https://docs.xxyopen.com/)
 - [xmall](https://github.com/Exrick/xmall) - 基于 `SOA` 架构的分布式电商购物商城，前后端分离。[在线体验](http://xmall.exrick.cn/#/home)
 - [Tbed](https://github.com/Hello-hao/Tbed) - 一个由 `Java` 语言编写 `SpringBoot` 框架开发的开源图像托管程序。[在线体验](https://pic.hellohao.cn/)
 - [yimioa](https://gitee.com/bestfeng/yimioa) - 一个基于 `SpringBoot` + `Vue3` 框架的 `OA` 办公系统。
-- [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `Spring Boot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
 - [Snowy](https://github.com/xiaonuobase/Snowy) - 一款国内首个**国密前后分离快速开发平台**，采用 `Vue3` + `Ant Design Vue3` + `Vite` + `SpringBoot` + `Mp` + `HuTool` + `SaToken`.[在线体验](https://snowy.xiaonuo.vip/index) [在线文档](https://xiaonuo.vip/doc?catalogueId=1574674492144766978&menuId=1574684190755540994)
 - [entfrm-boot](https://gitee.com/entfrm/entfrm-boot) ![](https://gitee.com/entfrm/entfrm-boot/badge/star.svg?theme=dark) ![](https://gitee.com/entfrm/entfrm-boot/badge/fork.svg?theme=dark) - 一个以模块化为核心的无代码开发平台。
 - [Guns](https://github.com/stylefeng/Guns) - 一个现代化的 `Java` 应用开发框架，基于主流技术 `SpringBoot2` + `Vue3`. [在线文档](https://www.javaguns.com/gunsDoc?categoryId=1504358893655011330&artId=1504360559456399362)
 - [music-website](https://github.com/Yin-Hongwei/music-website)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LtBoao3BHsfbJSjYroWYMA)</sup> - 一个基于 `Vue` + `SpringBoot` + `MyBatis` 实现的音乐网站。
-- [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RWmFcJ3yAxOU7PcxVx3b6Q)</sup> - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
 - [siam-server](https://github.com/siam1026/siam-server) - 一款 `Java` **餐饮点餐系统**，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。[在线文档](https://www.yuque.com/yuqueyonghuwukmla/dczoan)
 - [wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vu4BhpnEyH6vzi-hzPSLRg)</sup> - 一款基于 `Java` 开发的微信数据分析工具。[在线文档](https://wx.xxccss.com/)
 - [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
@@ -523,7 +518,7 @@
 - [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
 - [jeepay](https://github.com/jeequan/jeepay) - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 - [xpay](https://github.com/Exrick/xpay) - 个人免签收款支付系统。完全免费，资金直接到达本人账号，支持支付宝/微信/QQ/云闪付，无需备案，无需签约，无需挂机监控APP，无需插件，无需第三方支付 `SDK`，无需营业执照身份证，只需收款码，搞定支付流程，现已支持移动端支付。
-- [IJPay](https://github.com/Javen205/IJPay) - 让支付触手可及，封装了微信支付、`QQ` 支付、支付宝支付、京东支付、银联支付、`PayPal` 支付等常用的支付方式以及各种常用的接口。[在线文档](https://javen205.gitee.io/ijpay/)
+- [IJPay](https://github.com/Javen205/IJPay)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oyLoRXMt7Sd2l93EE3Nmbw)</sup> - 让支付触手可及，封装了微信支付、`QQ` 支付、支付宝支付、京东支付、银联支付、`PayPal` 支付等常用的支付方式以及各种常用的接口。[在线文档](https://javen205.gitee.io/ijpay/)
 - [dax-pay](https://github.com/dromara/dax-pay) - 免费开源的支付网关，支持支付宝、微信、云闪付等通道。[在线体验](https://daxpay.demo.bootx.cn/#/dashboard/analysis)
 - [payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付、`V3` 支付 `Spring Boot Starter`.
 - [weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信支付** `Java` 后端 `Demo`。
@@ -696,6 +691,17 @@
 - [report](https://github.com/anji-plus/report)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yC-P1-qC1cIyD7U4MclgPQ)</sup> - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 - [go-view](https://github.com/dromara/go-view)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vzo7pJfeO687PsWLgk1pXg)</sup> - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 考试问卷项目
+
+- [sg-exam](https://github.com/wells2333/sg-exam) - 基于 `SpringBoot` 搭建的新一代**教学管理平台**，提供权限管理、考试、问卷、练习等功能。[在线体验](https://yunmianshi.com.cn/#/home)
+- [spring-boot-online-exam](https://github.com/lsgwr/spring-boot-online-exam)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RWmFcJ3yAxOU7PcxVx3b6Q)</sup> - 一个基于 `Spring Boot` + `Vue` 的在线考试系统。
+- [xiaoju-survey](https://github.com/didi/xiaoju-survey)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MC6jfIPFWKhJfmbNONEQ_A)</sup> - 一套轻量、安全的**问卷系统基座**，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
+- [DWSurvey](https://github.com/wkeyuan/DWSurvey) - 一款简单、高效、成熟、稳定、专业的开源问卷系统。
+- [SurveyKing](https://github.com/javahuang/SurveyKing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/iQUZRFEf1JlBL_YEQXcq2Q)</sup> - 调查问卷系统和考试系统。[在线体验](https://wj.surveyking.cn/s/start)
+- [tduck-platform](https://github.com/TDuckCloud/tduck-platform)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RpxNX7Y3EV6jz5SjFK-jRg)</sup> - 填鸭表单问卷系统。[在线体验](https://demo.tduckapp.com/home) [在线文档](https://doc.tduckcloud.com/openSource/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1047,8 +1053,8 @@
 - [self-llm](https://github.com/datawhalechina/self-llm) - 一个围绕开源大模型、针对国内初学者、基于 `Linux` 平台的中国宝宝专属大模型教程。
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
-- [CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
+- [CS-Base](https://github.com/xiaolincoder/CS-Base)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Phft-YJbMGui5AjBftd6LA)</sup> - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0M5qeoKsfSPf5ARlfXXvYA)</sup> - 开发者技术学习路线。[在线体验](https://roadmap.sh/)
 - [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 图解系统设计。[在线体验](https://blog.bytebytego.com/)
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱。
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
@@ -1059,7 +1065,7 @@
 
 ###	数据结构与算法
 
-- [hello-algo](https://github.com/krahets/hello-algo) - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
+- [hello-algo](https://github.com/krahets/hello-algo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6BRx9KazJeRrxOETWmKUcQ)</sup> - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
 - [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
@@ -1199,7 +1205,7 @@
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
 - [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
-- [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 一个可以让你看各种主流直播平台的看直播工具。
+- [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7lo487E5dHPl7IIaQc-F7A)</sup> - 一个可以让你看各种主流直播平台的看直播工具。
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款免费的办公套件，集文本、电子表格、演示文稿、PDF 编辑器和图表查看器于一体。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
