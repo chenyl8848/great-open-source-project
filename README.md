@@ -110,23 +110,23 @@
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线文档](https://dozermapper.github.io/gitbook/)
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
-- [PowerJob](https://github.com/PowerJob/PowerJob) - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
+- [PowerJob](https://github.com/PowerJob/PowerJob)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/lX4ddYR-lJ8A4rrGIomqzw)</sup> - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
 - [JustAuth](https://github.com/justauth/JustAuth)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/B_PlrnfqopcPRCh1mOz3FA)</sup> - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
 - [jarboot](https://github.com/majianzheng/jarboot) - 一个 `Java` 进程启停、管理、诊断的平台，可以管理、守护、监控及诊断本地和远程的 `Java` 进程。[在线文档](https://www.yuque.com/jarboot/usage)
-- [x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到各个 `OSS` 平台中。[在线文档](https://x-file-storage.xuyanwu.cn/#/)
+- [x-file-storage](https://github.com/dromara/x-file-storage)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9XbxPW2FaunaNrNdeo7JHw)</sup> - 一行代码将文件存储到各个 `OSS` 平台中。[在线文档](https://x-file-storage.xuyanwu.cn/#/)
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
-- [smart-doc](https://github.com/TongchengOpenSource/smart-doc) - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
+- [smart-doc](https://github.com/TongchengOpenSource/smart-doc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MXeeIVAWIcn7kG-a7T-waA)</sup> - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
-- [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器。
+- [screw](https://github.com/pingfangushi/screw)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tkHIkDV4HTSYxoKlI_TbaQ)</sup> - 简洁好用的数据库表结构文档生成器。
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
 - [ofdrw](https://github.com/ofdrw/ofdrw) - 开源的 `OFD` 处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能。
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 设计模式 `Java` 版。
 - [gushici](https://github.com/xenv/gushici) ![](https://img.shields.io/github/stars/xenv/gushici?style=social) ![](https://img.shields.io/github/forks/xenv/gushici?style=social) ![](https://img.shields.io/github/license/xenv/gushici) ![](https://img.shields.io/github/last-commit/xenv/gushici) - 采用 `Vert.x` + `Redis` 全异步开发的一个可以随机返回一句古诗词名句的接口。[在线文档](https://www.jinrishici.com/)
-- [xJavaFxTool](https://github.com/864381832/xJavaFxTool) - 基于 `JavaFx` 搭建的实用小工具集合。
+- [xJavaFxTool](https://github.com/864381832/xJavaFxTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/x0jbP-rLDMQjEI_1gjkf1w)</sup> - 基于 `JavaFx` 搭建的实用小工具集合。
 - [neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 一个基于 `Netty` 的、开源的 `Java` **内网穿透**项目。
 - [SMS4J](https://github.com/dromara/SMS4J) - 短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 `SDK` 的繁琐流程。[在线文档](https://sms4j.com/)
 - [mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 开箱即用的 `SpringBoot` 操作日志组件。
@@ -240,7 +240,6 @@
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
 - [newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - `Vue3` 全家桶 + `Vant` 搭建大型单页面商城项目。[在线体验](http://47.99.134.126:5008/#/home)
 - [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu) - `Nuxt3` + `Vue3` 实战在线教育 `SSR` 网站。
-- [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
 - [pictode](https://github.com/JessYan0913/pictode) - 一个基于 `Vue3`、`TypeScript`、`Konva`、`HeadlessUI` 和 `Tailwind CSS` 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
@@ -557,7 +556,7 @@
 - [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
-- [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 一款方便、快捷的数据库文档查询、导出工具。
+- [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/so3zGjbz8FLHhOHVCcVQVw)</sup> - 一款方便、快捷的数据库文档查询、导出工具。
 - [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
 - [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
@@ -691,6 +690,7 @@
 - [report](https://github.com/anji-plus/report)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yC-P1-qC1cIyD7U4MclgPQ)</sup> - 一个完全开源，拖拽编辑的可视化设计工具。[在线体验](https://ajreport.beliefteam.cn/index.html#/login) [在线文档](https://ajreport.beliefteam.cn/report-doc/)
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 - [go-view](https://github.com/dromara/go-view)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vzo7pJfeO687PsWLgk1pXg)</sup> - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
+- [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -886,6 +886,7 @@
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
+- [nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
 - [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 
