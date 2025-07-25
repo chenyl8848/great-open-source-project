@@ -249,8 +249,8 @@
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
-- [vue-flow](https://github.com/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/forks/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/license/bcakmakoglu/vue-flow) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
-- [undraw-ui](https://github.com/readpage/undraw-ui) ![](https://img.shields.io/github/stars/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/forks/readpage/undraw-ui?style=social) ![](https://img.shields.io/github/license/readpage/undraw-ui) ![](https://img.shields.io/github/last-commit/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
+- [undraw-ui](https://github.com/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
 - [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [tools-web](https://github.com/naroat/tools-web) - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
@@ -376,6 +376,7 @@
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 `Web` 的 3D `CAD` 应用程序，用于在线设计和编辑模型。[在线体验](https://chili3d.com/)
 - [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
 - [Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器。[在线体验](https://count.getloli.com/)
+- [ConvertX](https://github.com/C4illin/ConvertX) - 支持 1000 多种格式的自托管在线文件转换器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -713,7 +714,7 @@
 - [hertzbeat](https://github.com/dromara/hertzbeat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/DBibF9sRHBtzvDMW57CPBw)</sup> - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 轻量级的**前端监控系统**，无埋点监控前端日志，实时分析前端健康状态。
 - [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
-- [Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
+- [Jpom](https://github.com/dromara/Jpom)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Pr8LhKN1ESE4fAgmZGT_yA)</sup> - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
 - [rainbond](https://github.com/goodrain/rainbond) - **云原生应用管理平台**，使用简单，不需要懂容器、`Kubernetes` 和底层复杂技术，支持管理多个 `Kubernetes` 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。[在线文档](https://www.rainbond.com/docs/)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 简易美观的**监控工具**。[在线体验](https://demo.uptime.kuma.pet:27000/)
 - [oshi](https://github.com/oshi/oshi) - 基于 `JNA`（本地）的免费的操作系统和硬件信息库，专为 `Java` 设计。它可以跨平台的获取系统信息以及硬件信息，如操作系统版本、进程、内存和 `CPU` 使用情况、磁盘和分区、设备、传感器等。[在线文档](https://www.oshi.ooo/)
@@ -786,7 +787,7 @@
 ## AI 项目
 
 - [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - 绘制一个模型并为其生成 `HTML`.
-- [WantWords](https://github.com/thunlp/WantWords) - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
+- [WantWords](https://github.com/thunlp/WantWords)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9Q_WWL9xkq9udq9FlRJ7XA)</sup> - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
 - [search_with_lepton](https://github.com/leptonai/search_with_lepton) - 使用 `Lepton AI` 构建基于对话的快速搜索。[在线体验](https://search.lepton.run/)
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [openui](https://github.com/wandb/openui) - 网页构建工具。[在线体验](https://openui.fly.dev/ai/new)
@@ -804,7 +805,7 @@
 
 ### ChatGPT 项目
 
-- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QwkhGloNZZt4bUmm6ylUjA)</sup> - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 - [ChatGemini](https://github.com/bclswl0827/ChatGemini) - 一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图。[在线体验](http://ibcl.us/ChatGemini/)
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui) - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
@@ -840,7 +841,7 @@
 - [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - 一款可以自动创建带有配乐及字幕的短视频工具！
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频。
 - [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
-- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/forks/netease-youdao/EmotiVoice?style=social) ![](https://img.shields.io/github/license/netease-youdao/EmotiVoice) ![](https://img.shields.io/github/last-commit/netease-youdao/EmotiVoice) - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
+- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)- 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -866,7 +867,7 @@
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
 - [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
-- [DevToys](https://github.com/veler/DevToys) - 一款离线的 Windows 应用程序，用于开发者的工具集合。
+- [DevToys](https://github.com/veler/DevToys)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bisZN2GiyLCBsp63vUMruA)</sup> - 一款离线的 Windows 应用程序，用于开发者的工具集合。
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - `Git` 分支管理工具。
 - [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
 - [Gource](https://github.com/acaudwell/Gource) - 一个用于**可视化软件版本控制历史的工具**。它能够生成令人印象深刻的演示视频，展示代码库的演化过程。
@@ -899,7 +900,7 @@
 - [dockge](https://github.com/louislam/dockge) - 一个精美、易于使用、自托管的 `Docker` 管理工具。
 - [lazydocker](https://github.com/jesseduffield/lazydocker)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/S6qkTfJ8TFfHEVdgC9uzbA)</sup> - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `Docker` 容器的网络界面**，强调模板化，提供一键部署。
-- [docker.ui](https://github.com/gohutool/docker.ui) - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
+- [docker.ui](https://github.com/gohutool/docker.ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XTw4iK7klrwLunoGiYzu9w)</sup> - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -936,14 +937,14 @@
 
 ###	下载工具
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/forks/yt-dlp/yt-dlp?style=social) ![](https://img.shields.io/github/license/yt-dlp/yt-dlp) ![](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/forks/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/license/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/last-commit/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
 - [cobalt](https://github.com/imputnet/cobalt) ![](https://img.shields.io/github/stars/imputnet/cobalt?style=social) ![](https://img.shields.io/github/forks/imputnet/cobalt?style=social) ![](https://img.shields.io/github/license/imputnet/cobalt) ![](https://img.shields.io/github/last-commit/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) ![](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/forks/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/license/ytdl-org/youtube-dl) ![](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
 - [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/license/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/last-commit/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/stars/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/forks/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/license/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/last-commit/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [downkyi](https://github.com/leiurayer/downkyi) ![](https://img.shields.io/github/stars/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/forks/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/license/leiurayer/downkyi) ![](https://img.shields.io/github/last-commit/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
-- [BBDown](https://github.com/nilaoda/BBDown) ![](https://img.shields.io/github/stars/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/forks/nilaoda/BBDown?style=social) ![](https://img.shields.io/github/license/nilaoda/BBDown) ![](https://img.shields.io/github/last-commit/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
+- [BBDown](https://github.com/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
 - [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
 - [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
@@ -1214,7 +1215,7 @@
 ###	Windows 端
 
 - [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 的生肉翻译软件。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
-- [ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间**背单词**的软件。
+- [ToastFish](https://github.com/Uahh/ToastFish)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AdGX88mhFkk4MXsn97xIfg)</sup> - 一个利用摸鱼时间**背单词**的软件。
 - [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yKZvXwrFCqEwioF3_hL6Ag)</sup> - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
 - [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
@@ -1426,7 +1427,7 @@
 - [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总。
 - [RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记。
 - [geektime-books](https://github.com/it-ebooks-0/geektime-books) - 极客时间电子书。
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=social) ![](https://img.shields.io/github/license/awesome-selfhosted/awesome-selfhosted) ![](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted) - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 自托管软件应用合集。[在线体验](https://awesome-selfhosted.net/)
 - [awesome-ops](https://github.com/eryajf/awesome-ops) - 记录每一个与运维相关的优秀项目。
 - [awesome-go](https://github.com/avelino/awesome-go) - 优秀的 `Go` 框架、库和软件的精选合集。[在线体验](https://awesome-go.com/)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 程序员常用高效实用工具、软件资源精选，办公效率提升利器。
