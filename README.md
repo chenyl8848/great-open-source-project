@@ -125,7 +125,7 @@
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
 - [ofdrw](https://github.com/ofdrw/ofdrw) - 开源的 `OFD` 处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能。
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 设计模式 `Java` 版。
-- [gushici](https://github.com/xenv/gushici) ![](https://img.shields.io/github/stars/xenv/gushici?style=social) ![](https://img.shields.io/github/forks/xenv/gushici?style=social) ![](https://img.shields.io/github/license/xenv/gushici) ![](https://img.shields.io/github/last-commit/xenv/gushici) - 采用 `Vert.x` + `Redis` 全异步开发的一个可以随机返回一句古诗词名句的接口。[在线文档](https://www.jinrishici.com/)
+- [gushici](https://github.com/xenv/gushici) - 采用 `Vert.x` + `Redis` 全异步开发的一个可以随机返回一句古诗词名句的接口。[在线文档](https://www.jinrishici.com/)
 - [xJavaFxTool](https://github.com/864381832/xJavaFxTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/x0jbP-rLDMQjEI_1gjkf1w)</sup> - 基于 `JavaFx` 搭建的实用小工具集合。
 - [neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 一个基于 `Netty` 的、开源的 `Java` **内网穿透**项目。
 - [SMS4J](https://github.com/dromara/SMS4J) - 短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信 `SDK` 的繁琐流程。[在线文档](https://sms4j.com/)
@@ -323,7 +323,7 @@
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - 基于 `JavaScript` 快速构建 `Web Excel`.[在线文档](https://hondrytravis.com/x-spreadsheet-doc/)
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - 一款开箱即用的类似 `Excel` 和 `Google Sheets` 的 `JavaScript` 表格组件。[在线体验](https://ruilisi.github.io/fortune-sheet-demo/?path=/story/features--basic)
 - [univer](https://github.com/dream-num/univer) - 一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。[在线体验](https://univer.ai/playground)
-- [js-screen-shot](https://github.com/likaia/js-screen-shot) ![](https://img.shields.io/github/stars/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/forks/likaia/js-screen-shot?style=social) ![](https://img.shields.io/github/license/likaia/js-screen-shot) ![](https://img.shields.io/github/last-commit/likaia/js-screen-shot) - `web` 端自定义截图插件。[在线文档](https://www.kaisir.cn/js-screen-shot/)
+- [js-screen-shot](https://github.com/likaia/js-screen-shot) - `web` 端自定义截图插件。[在线文档](https://www.kaisir.cn/js-screen-shot/)
 - [drawio](https://github.com/jgraph/drawio) - 一个用于通用图表的 `JavaScript` 客户端编辑器。[在线体验](https://app.diagrams.net/?src=about)
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 功能齐全的 `JavaScript` 日历管理框架。[在线体验](https://ui.toast.com/tui-calendar)
 - [mermaid](https://github.com/mermaid-js/mermaid) - 一个基于 `Javascript` 的图表绘制工具，通过解析类 `Markdown` 的文本语法来实现图表的创建和动态修改。[在线体验](https://mermaid.live/) [在线文档](https://mermaid.js.org/)
@@ -358,8 +358,8 @@
 - [ejyy](https://github.com/chowa/ejyy) - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
 - [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
 - [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
-- [nocodb](https://github.com/nocodb/nocodb) ![](https://img.shields.io/github/stars/nocodb/nocodb?style=social) ![](https://img.shields.io/github/forks/nocodb/nocodb?style=social) ![](https://img.shields.io/github/license/nocodb/nocodb) ![](https://img.shields.io/github/last-commit/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
-- [talk](https://github.com/vasanthv/talk) ![](https://img.shields.io/github/stars/vasanthv/talk?style=social) ![](https://img.shields.io/github/forks/vasanthv/talk?style=social) ![](https://img.shields.io/github/license/vasanthv/talk) ![](https://img.shields.io/github/last-commit/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
+- [nocodb](https://github.com/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
+- [talk](https://github.com/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
 - [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
 - [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
 - [cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库。[在线文档](https://theajack.github.io/cnchar/)
@@ -505,7 +505,7 @@
 - [ferry](https://github.com/lanyulei/ferry) - 集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统。[在线体验](http://fdevops.com:8001/#/dashboard)
 - [RuoYi-Flowable-Plus](https://github.com/KonBAI-Q/RuoYi-Flowable-Plus) - 基于 `RuoYi-Vue-Plus` 进行二次开发扩展 `Flowable` 工作流功能，支持在线表单设计和丰富的工作流程设计能力。[在线体验](http://159.75.158.189/)
 - [cxygzl](https://gitee.com/junyue/cxygzl) - 基于 `Flowable` 的开箱即用的低代码开源专业工作流引擎。[在线文档](https://www.cxygzl.com/guide/)
-- [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong.gitee.io/flowlong-designer/)
+- [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong-desginer.pages.dev/) [在线文档](https://flowlong.aizuda.com/)
 - [oa_system](https://gitee.com/aaluoxiang/oa_system) - 一个 `OA` 办公自动化系统。[在线体验](http://101.43.32.218:8088/index)
 - [JFinalOA](https://gitee.com/glorylion/JFinalOA) - 基于 `JFinal` 框架开发的企业办公系统。[在线体验](http://admin.dianshixinxi.com:90/index)
 - [mldong](https://gitee.com/mldong/mldong) - 基于 `SpringBoot` + `Vue3` 实现的快速开发平台、工作流引擎。[在线体验](https://flow.mldong.com/dashboard/analysis) [在线文档](https://doc.mldong.com/)
@@ -679,7 +679,7 @@
 - [yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) - 一款全面的**校园教务查询微信小程序**。
 - [ddrun](https://gitee.com/landalfyao/ddrun)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1kjSjYh_rRiCX_i_pht0eQ)</sup> - 一套**跑腿下单接单**系统。
 - [yshop-drink](https://github.com/guchengwuyue/yshop-drink)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/JY-ZExWxhJlLlW8c1BhV5Q)</sup> - 一个**在线点餐**小程序，支持多门店模式，`SaaS` 多租户模式。
-- [qdpz](https://gitee.com/kevin_chou/qdpz) - 一个常用小程序功能的集合，基于 `Vue` 实现，使用 `colorUi` 与 `uView`，完美支持微信小程序。
+- ~~[qdpz](https://gitee.com/kevin_chou/qdpz) - 一个常用小程序功能的集合，基于 `Vue` 实现，使用 `colorUi` 与 `uView`，完美支持微信小程序。~~
 - [linfeng-community](https://gitee.com/virus010101/linfeng-community) - 一个基于 `SpringBoot`、`MybatisPlus`、`Redis`、`Vue`、`Uniapp` 的前后端分离的**社交论坛问答发帖**/`BBS`，`SNS` 项目。[在线文档](https://www.kancloud.cn/linfengkj/linfeng_community/2754703)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -886,10 +886,11 @@
 - [Nping](https://github.com/hanshuaikang/Nping) - 一个基于 `Rust` 开发的终端可视化 `Ping` 工具, 支持多地址并发 `Ping`, 可视化图表展示, 数据实时更新等特性。
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快、更好的 `SSH/Telnet/Serial/Shell/Sftp` 客户端，适用于 `DevOps`.
-- [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端(`linux`, `mac`, `win`)。
+- [electerm](https://github.com/electerm/electerm) - 开源终端 `/ssh/telnet/serialport/sftp` 客户端（`linux`, `mac`, `win`）。
 - [nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
 - [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
+- [tldr](https://github.com/tldr-pages/tldr) - 命令速查手册工具。[在线体验](https://tldr.inbrowser.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -938,17 +939,17 @@
 ###	下载工具
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 功能丰富的命令行音频/视频下载器。
-- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/forks/Tyrrrz/YoutubeDownloader?style=social) ![](https://img.shields.io/github/license/Tyrrrz/YoutubeDownloader) ![](https://img.shields.io/github/last-commit/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
-- [cobalt](https://github.com/imputnet/cobalt) ![](https://img.shields.io/github/stars/imputnet/cobalt?style=social) ![](https://img.shields.io/github/forks/imputnet/cobalt?style=social) ![](https://img.shields.io/github/license/imputnet/cobalt) ![](https://img.shields.io/github/last-commit/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) ![](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/forks/ytdl-org/youtube-dl?style=social) ![](https://img.shields.io/github/license/ytdl-org/youtube-dl) ![](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
-- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social) ![](https://img.shields.io/github/license/johnserf-seed/tiktokdownload) ![](https://img.shields.io/github/last-commit/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
-- [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/stars/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/forks/Johnserf-Seed/TikTokWeb?style=social) ![](https://img.shields.io/github/license/Johnserf-Seed/TikTokWeb) ![](https://img.shields.io/github/last-commit/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
-- [downkyi](https://github.com/leiurayer/downkyi) ![](https://img.shields.io/github/stars/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/forks/leiurayer/downkyi?style=social) ![](https://img.shields.io/github/license/leiurayer/downkyi) ![](https://img.shields.io/github/last-commit/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - `Youtube` **视频下载工具**。
+- [cobalt](https://github.com/imputnet/cobalt) - 一个免费、无广告且易于使用的媒体下载工具。[在线体验](https://cobalt.tools/)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
+- [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
+- [downkyi](https://github.com/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
 - [BBDown](https://github.com/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
-- [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/forks/qiye45/wechatVideoDownload?style=social) ![](https://img.shields.io/github/license/qiye45/wechatVideoDownload) ![](https://img.shields.io/github/last-commit/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
-- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/forks/nilaoda/N_m3u8DL-CLI?style=social) ![](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI) ![](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
-- [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/stars/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/TikTokDownloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/TikTokDownloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
-- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=social) ![](https://img.shields.io/github/license/JoeanAmier/XHS-Downloader) ![](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
+- [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
+- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
+- [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音主页/视频/图集/收藏/直播/原声/合集/~~评论~~/~~账号~~/~~搜索~~/热榜数据采集工具。
+- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书图文/视频作品数据采集工具。
 - [mediago](https://github.com/caorushizi/mediago) - `m3u8` 视频在线提取、流媒体下载、视频下载、`m3u8` 视频下载、B站视频下载工具。[在线文档](https://downloader.caorushizi.cn/guides.html?form=github)
 - [res-downloader](https://github.com/putyy/res-downloader)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8y4yClK1FDdMB37Dy9eMrQ)</sup> - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
 - [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
