@@ -293,6 +293,7 @@
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
+- [MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -332,6 +333,7 @@
 - [china-ex](https://github.com/itorr/china-ex) - 「中国制霸生成器」中国三十四省份制霸标记工具。[在线体验](https://lab.magiconch.com/china-ex/)
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 一个提供高级 `API` 控制 `Chrome` 或 `Firefox` 浏览器的 `JavaScript` 库。
 - [plyr](https://github.com/sampotts/plyr) - 一款简单、轻量、可访问且可定制的 `HTML5`、`YouTube` 和 `Vimeo` 媒体播放器，支持现代浏览器。
+- [snapdom](https://github.com/zumerlab/snapdom) - 将网页元素变成图片（截图）的工具库。[在线体验](https://zumerlab.github.io/snapdom/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -417,7 +419,7 @@
 - [smart-sso](https://github.com/a466350665/smart-sso)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dw5dHUVsRy-0NU54IFBjcw)</sup> - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
 - [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
 - [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
-- [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent) - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
+- [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/iEvyw6fMOTTDHxmsSy25mw)</sup> - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
 - [waynboot-mall](https://github.com/wayn111/waynboot-mall) - 一套全部开源的微商城项目，包含运营后台、`H5` 商城前台和服务端接口。[在线文档](https://apifox.com/apidoc/shared-f48b11f5-6137-4722-9c70-b9c5c3e5b09b)
 - [book_novels](https://gitee.com/lin_zhao_quan/book_novels)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RM8ItTiGhLt4b37R1vvENA)</sup> -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
 - [xingyun](https://github.com/lframework/xingyun)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/fTVVCKMKu5hznbSCmUJAcw)</sup> - 基于 `SpringBoot` 框架的中小企业完全开源的 `ERP`. [在线体验](https://erp.lframework.com/#/dashboard/analysis) [在线文档](https://www.lframework.com/#/)
@@ -745,7 +747,7 @@
 - [phoenix](https://gitee.com/monitoring-platform/phoenix) - 一个灵活可配置的开源监控平台，主要用于监控应用程序、服务器、`Docker`、数据库、网络、`TCP` 端口和 `HTTP` 接口。[在线体验](https://124.222.235.43:8443/phoenix-ui/index)
 - [flutter_server_box](https://github.com/lollipopkit/flutter_server_box)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/J2m_VA-snfMJ5B603rc7lg)</sup> - 使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具。
 - [nginx-ui](https://github.com/0xJacky/nginx-ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Eg8TVY-l8Ag_LOkeSf-6ug)</sup> - `Nginx` 网络管理界面。[在线体验](https://demo.nginxui.com)
-- [easynode](https://github.com/chaos-zhu/easynode) - 一个 `Linux` 服务器 `Web SSH` 面板。
+- [easynode](https://github.com/chaos-zhu/easynode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IH_K3kW1Wc-NKPCM4eSDRA)</sup> - 一个 `Linux` 服务器 `Web SSH` 面板。
 - [bottom](https://github.com/ClementTsang/bottom) - 跨平台终端系统监控工具。
 - [sampler](https://github.com/sqshq/sampler) - 一款基于 `Shell` 命令的可视化监控工具。[在线文档](https://sampler.dev/)
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
@@ -930,7 +932,7 @@
 - [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
 - [EasyCode](https://github.com/makejavas/EasyCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/53RjNHsgEfAHyJl8Jap9bA)</sup> - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 - [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
-- [leeks](https://github.com/huage2580/leeks) - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
+- [leeks](https://github.com/huage2580/leeks)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Bx1UKVPYL5-SqwKahVShKw)</sup> - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
 - [Json-Assistant](https://github.com/MemoryZy/Json-Assistant)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZMYDB_y0Wq5wQZB2f9B3Dg)</sup> - 基于 `IntelliJ IDEs` 的 `JSON` 工具插件，让 `JSON` 处理变得更轻松。
@@ -1059,6 +1061,7 @@
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
 - [happy-llm](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。[在线体验](https://datawhalechina.github.io/happy-llm/#/)
 - [self-llm](https://github.com/datawhalechina/self-llm) - 一个围绕开源大模型、针对国内初学者、基于 `Linux` 平台的中国宝宝专属大模型教程。
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - 面向初学者的 `Model Context Protocol (MCP)` 课程。
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [CS-Base](https://github.com/xiaolincoder/CS-Base)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Phft-YJbMGui5AjBftd6LA)</sup> - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -1446,6 +1449,7 @@
 - [RollToolsApi](https://github.com/MZCretin/RollToolsApi) - 一个提供开发中常用数据的一个稳定聚合 `Api` 接口源。[在线文档](https://www.mxnzp.com/doc/list)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - 整理优秀的 `Node.js` 项目和资源。
 - [awesome](https://github.com/sindresorhus/awesome) - 各种有趣主题的开源项目合集。
+- [60s](https://github.com/vikiboss/60s) - 高质量、开源、可靠、全球 `CDN` 加速的 开放 `API` 集合。[在线文档](https://docs.60s-api.viki.moe/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
