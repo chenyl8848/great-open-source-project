@@ -254,7 +254,7 @@
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
 - [pic-smaller](https://github.com/joye61/pic-smaller) - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
 - [Cap](https://github.com/CapSoftware/Cap) - 一款简单易用的分享和录制屏幕视频工具。[在线体验](https://cap.so/)
-- [dber](https://github.com/findyourmagic/dber) - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
+- [dber](https://github.com/findyourmagic/dber)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oBvVQCAdXNVsI9SKxHjXmw)</sup> - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
 - [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
 - [aspoem](https://github.com/meetqy/aspoem)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uaoT_HiLkaD-VNrcc4Kung)</sup> - 现代化诗词学习网站，一个更加注重 `UI` 和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
@@ -911,10 +911,10 @@
 
 ### 远程连接工具
 
-- [xpipe](https://github.com/xpipe-io/xpipe) - 一款好用的终端工具。
+- [xpipe](https://github.com/xpipe-io/xpipe)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HxYkhTJCV9ZhhTDRh1Knig)</sup> - 一款好用的终端工具。
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个跨平台的 `SSH/Sftp/Shell/Telnet/Tmux/Serial` 客户端，适用于 `DevOps`.
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/sshtelnetserialportsftp` 客户端（`linux`, `mac`, `win`）。[在线体验](https://electerm-demo.html5beta.com/)
-- [nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
+- [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QHwD__VbXlnn9NNRLhI6zw)</sup> - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [easynode](https://github.com/chaos-zhu/easynode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IH_K3kW1Wc-NKPCM4eSDRA)</sup> - 一个 `Linux` 服务器 `Web SSH` 面板。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1135,6 +1135,7 @@
 - [CS-Books](https://github.com/forthespada/CS-Books) - 超过1000本的计算机经典书籍。
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍。
 - [expert_readed_books](https://github.com/0voice/expert_readed_books) - 推荐工程师合适读本，计算机科学、软件技术、创业、思想类、数学类、人物传记书籍等。
+- [RustBook](https://github.com/QMHTMY/RustBook) - 《数据结构与算法（Rust 语言描述）》。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
