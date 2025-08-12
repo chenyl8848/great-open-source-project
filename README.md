@@ -797,7 +797,7 @@
 ### 浏览器导航页
 
 - [pintree](https://github.com/Pintree-io/pintree)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bJhqCs19Wh14P_lfyjCrHg)</sup> - 通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
-- [sun-panel](https://github.com/hslr-s/sun-panel) - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
+- [sun-panel](https://github.com/hslr-s/sun-panel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/CTwtJpoPOzKOpWJaoQwc2g)</sup> - 一个服务器、`NAS` 导航面板、`Homepage`、浏览器首页。[在线体验](http://sunpaneldemo.enianteam.com/#/) [在线文档](https://doc.sun-panel.top/zh_cn/introduce/project.html)
 - [web_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态 `Html` 页面，一键部署安装。[在线体验](https://geeeeeeeek.github.io/web_tool/)
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
@@ -820,8 +820,8 @@
 - [openui](https://github.com/wandb/openui) - 网页构建工具。[在线体验](https://openui.fly.dev/ai/new)
 - [MinerU](https://github.com/opendatalab/MinerU) - 一站式开源高质量数据提取工具，支持 `PDF`/网页/多格式电子书提取。[在线文档](https://opendatalab.com/docs/datasets/?channel=datasets)
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
-- [cherry-studio](https://github.com/CherryHQ/cherry-studio) - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
-- [deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 一个连接强大 `AI` 与个人世界的智能助手。
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jDC6O6DOT3MMME930B7fIg)</sup> - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
+- [deepchat](https://github.com/ThinkInAIXYZ/deepchat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/KQo0av9iilCDa6bo6RGkBw)</sup> - 一个连接强大 `AI` 与个人世界的智能助手。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具，支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
@@ -845,7 +845,7 @@
 
 ### 图像处理
 
-- [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - `AI` 绘图程序，将草图变成精美的图片。[在线体验](https://scribblediffusion.com/)
+- [scribble-diffusion](https://github.com/replicate/scribble-diffusion)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/r38n7Yv1077GnBeygj7bag)</sup> - `AI` 绘图程序，将草图变成精美的图片。[在线体验](https://scribblediffusion.com/)
 - [upscayl](https://github.com/upscayl/upscayl) - 适用于 `Linux`、`MacOS` 和 `Windows` 的免费开源 `AI` 图像放大器。
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一款图像压缩 `Web` 应用程序，可通过多种格式减小图像大小。[在线体验](https://squoosh.app/)
 - [waifu2x](https://github.com/nagadomi/waifu2x) - 一款放大图片工具。[在线体验](https://waifu2x.udp.jp/)
@@ -951,6 +951,7 @@
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
+- [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
