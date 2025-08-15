@@ -92,10 +92,10 @@
     - [安卓端](#安卓端)
     - [IOS 端](#ios-端)
   - [文库项目](#文库项目)
-    - [接口文档管理](#接口文档管理)
+    - [API 接口管理](#api-接口管理)
     - [项目管理](#项目管理)
     - [知识库管理](#知识库管理)
-    - [文档编辑器](#文档编辑器)
+    - [Markdown 编辑器](#markdown-编辑器)
   - [宝藏项目](#宝藏项目)
     - [副业赚钱](#副业赚钱)
     - [摸鱼游戏](#摸鱼游戏)
@@ -267,7 +267,8 @@
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
-- [MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup> - 一个开箱即用的、跨平台的影视聚合播放站。
+- ~~[MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup>~~ - 一个开箱即用的、跨平台的影视聚合播放站。
+- [LibreTV](https://github.com/LibreSpark/LibreTV) - 一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -354,7 +355,7 @@
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 `Web` 的 3D `CAD` 应用程序，用于在线设计和编辑模型。[在线体验](https://chili3d.com/)
 - [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
 - [Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器。[在线体验](https://count.getloli.com/)
-- [ConvertX](https://github.com/C4illin/ConvertX) - 支持 1000 多种格式的自托管在线文件转换器。
+- [ConvertX](https://github.com/C4illin/ConvertX)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ooCLxespqAhVghm7NTY69A)</sup> - 支持 1000 多种格式的自托管在线文件转换器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1307,7 +1308,7 @@
 
 ## 文库项目
 
-### 接口文档管理
+### API 接口管理
 
 - [Torna](https://gitee.com/durcframework/torna) - **接口文档**解决方案，目标是让接口文档管理变得更加方便、快捷。`Torna` 采用团队协作的方式管理和维护接口文档，将不同形式的文档纳入进来统一维护。[在线文档](https://torna.cn/dev/)
 - [postcat](https://github.com/postcatlab/postcat) - 可扩展的 `API` 工具平台，集成基础的 `API` 管理和测试功能，并且可以通过插件简化 `API` 开发工作，更快更好地创建 `API`。[在线体验](https://postcat.com/) [在线文档](https://docs.postcat.com/)
@@ -1326,6 +1327,7 @@
 - [yaade](https://github.com/EsperoTech/yaade)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/H3jynpkAyKH-U8KQR1TxAQ)</sup> - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
 - [APIAuto](https://github.com/TommyLemon/APIAuto) - 一款 `HTTP` 接口、机器学习零代码测试和一站式智能开发管理工具。[在线体验](http://apijson.cn/api/)
 - [apidash](https://github.com/foss42/apidash) - 一个基于 `Flutter` 打造的开源跨平台 API 客户端工具。
+- [WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版 `API` 调试神器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1359,7 +1361,7 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
-### 文档编辑器
+### Markdown 编辑器
 
 - [yn](https://github.com/purocean/yn) - 一款强大可扩展的 `Markdown` 编辑器，为生产力而生。[在线体验](https://demo.yank-note.com/#/) [下载地址](https://github.com/purocean/yn/releases)
 - [markmap](https://github.com/markmap/markmap) - 将 `Markdown` 转为可视化的**思维导图**。[在线体验](https://markmap.js.org/repl) [在线文档](https://markmap.js.org/docs/markmap)
