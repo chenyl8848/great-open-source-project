@@ -145,7 +145,7 @@
 - [amazing-qr](https://github.com/x-hw/amazing-qr)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Dn0b4b9xiMTLYizgDgj9Sw)</sup> - 二维码生成器（支持 `Gif` 动态图片二维码）。
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [talebook](https://github.com/talebook/talebook)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SKsDmqupgKKnOr9jTB6zjg)</sup> - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
-- [mediacms](https://github.com/mediacms-io/mediacms) -  一个基于 `Django` 和 `React` 构建的视频内容管理平台，可快速搭建中小型视频网站。[在线体验](https://demo.mediacms.io/)
+- [mediacms](https://github.com/mediacms-io/mediacms)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1_Pw-Sg7XGk0CiF1mcNOw)</sup> -  一个基于 `Django` 和 `React` 构建的视频内容管理平台，可快速搭建中小型视频网站。[在线体验](https://demo.mediacms.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1486,6 +1486,7 @@
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - 整理优秀的 `Node.js` 项目和资源。
 - [awesome](https://github.com/sindresorhus/awesome) - 各种有趣主题的开源项目合集。
 - [60s](https://github.com/vikiboss/60s) - 高质量、开源、可靠、全球 `CDN` 加速的 开放 `API` 集合。[在线文档](https://docs.60s-api.viki.moe/)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 各种类别非常好用的 Mac 应用程序、软件以及工具。[在线体验](https://wangchujiang.com/awesome-mac/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
