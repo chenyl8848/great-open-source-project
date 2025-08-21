@@ -267,7 +267,7 @@
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
-- ~~[MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup>~~ - 一个开箱即用的、跨平台的影视聚合播放站。
+- ~~[MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup> - 一个开箱即用的、跨平台的影视聚合播放站~~。
 - [LibreTV](https://github.com/LibreSpark/LibreTV) - 一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -649,6 +649,7 @@
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 基于 `React` 实现的插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
 - [music-website](https://github.com/Yin-Hongwei/music-website)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LtBoao3BHsfbJSjYroWYMA)</sup> - 一个基于 `Vue3` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
+- [SPlayer](https://github.com/imsyy/SPlayer) - 一个简约的音乐播放器，支持逐字歌词、下载歌曲、展示评论区、音乐云盘及歌单管理、音乐频谱、移动端基础适配。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1407,6 +1408,7 @@
 - [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 一个开源、跨平台的本地**日记** `APP`，使用 `Blazor` 开发，支持 `Android`、`Windows`、`macOS`、`Web`、`Linux`. 
 - [note-gen](https://github.com/codexu/note-gen) - 一款跨平台的 `Markdown` `AI` 笔记软件。[在线文档](https://notegen.top/zh/)
 - [milkup](https://github.com/Auto-Plugin/milkup) - 一个现代化的桌面端 `Markdown` 编辑器。
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 一款专门在 `macOS` 上使用的 `Markdown` 编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
