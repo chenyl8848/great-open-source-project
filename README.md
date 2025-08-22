@@ -681,6 +681,9 @@
 - [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 开源自托管的 Web 文件管理工具。
 - [OpenList](https://github.com/OpenListTeam/OpenList) - 一个支持多存储的文件列表程序，使用 `Gin` 和 `SolidJS`, 基于 `AList` 项目 `fork` 开发。[在线文档](https://docs.oplist.org/zh/)
+- [PicList](https://github.com/Kuingsmile/PicList) - 一款高效的云存储和图床平台管理工具，基于 `PicGo` 深度二次开发，提供完整的图床功能和全面的云存储管理能力。[在线文档](https://piclist.cn/)
+- [Pichoro](https://github.com/Kuingsmile/Pichoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具。[在线文档](https://pichoro.horosama.com/#/)
+- [OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - 跨平台的 `OpenList` 桌面应用程序，集成云存储功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1406,7 +1409,7 @@
 - [lint-md](https://github.com/lint-md/lint-md) - 检查中文 `Markdown` 编写格式规范的命令行工具。
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - 一个现代的实时协作文档编辑器。
 - [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 一个开源、跨平台的本地**日记** `APP`，使用 `Blazor` 开发，支持 `Android`、`Windows`、`macOS`、`Web`、`Linux`. 
-- [note-gen](https://github.com/codexu/note-gen) - 一款跨平台的 `Markdown` `AI` 笔记软件。[在线文档](https://notegen.top/zh/)
+- [note-gen](https://github.com/codexu/note-gen)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/GjIMwe4cKGJW6tB5QRpXlA)</sup> - 一款跨平台的 `Markdown` `AI` 笔记软件。[在线文档](https://notegen.top/zh/)
 - [milkup](https://github.com/Auto-Plugin/milkup) - 一个现代化的桌面端 `Markdown` 编辑器。
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 一款专门在 `macOS` 上使用的 `Markdown` 编辑器。
 
