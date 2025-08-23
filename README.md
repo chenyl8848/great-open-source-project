@@ -171,6 +171,7 @@
 - [photoprism](https://github.com/photoprism/photoprism) - 去中心化网络的人工智能照片应用程序。[在线文档](https://docs.photoprism.app/) [在线体验](https://try.photoprism.app/)
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储和分享文本的简单 `Web` 服务。[在线体验](https://logpaste.com/)
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
+- [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -269,6 +270,7 @@
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
 - ~~[MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup> - 一个开箱即用的、跨平台的影视聚合播放站~~。
 - [LibreTV](https://github.com/LibreSpark/LibreTV) - 一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。
+- [priospace](https://github.com/AnoyRC/priospace) - 一个漂亮、现代的高效能应用，将任务管理与番茄钟功能、习惯追踪和实时协作相结合。[在线体验](https://prio.space/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -518,7 +520,7 @@
 - [flowlong](https://github.com/aizuda/flowlong) - 工作流引擎、`Json` 格式实例模型、仿飞书钉钉审批流程设计器。[在线体验](https://flowlong-desginer.pages.dev/) [在线文档](https://flowlong.aizuda.com/)
 - [oa_system](https://gitee.com/aaluoxiang/oa_system) - 一个 `OA` 办公自动化系统。[在线体验](http://101.43.32.218:8088/index)
 - [JFinalOA](https://gitee.com/glorylion/JFinalOA) - 基于 `JFinal` 框架开发的企业办公系统。[在线体验](http://admin.dianshixinxi.com:90/index)
-- [mldong](https://gitee.com/mldong/mldong) - 基于 `SpringBoot` + `Vue3` 实现的快速开发平台、工作流引擎。[在线体验](https://flow.mldong.com/dashboard/analysis) [在线文档](https://doc.mldong.com/)
+- [mldong](https://gitee.com/mldong/mldong)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eZcKgW0klPQzeKBCFyifTA)</sup> - 基于 `SpringBoot` + `Vue3` 实现的快速开发平台、工作流引擎。[在线体验](https://flow.mldong.com/dashboard/analysis) [在线文档](https://doc.mldong.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -578,6 +580,7 @@
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
+- [SQLBot](https://github.com/dataease/SQLBot) - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -832,6 +835,7 @@
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
+- [airi](https://github.com/moeru-ai/airi) - AI 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
