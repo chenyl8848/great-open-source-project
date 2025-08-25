@@ -358,6 +358,7 @@
 - [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
 - [Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器。[在线体验](https://count.getloli.com/)
 - [ConvertX](https://github.com/C4illin/ConvertX)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ooCLxespqAhVghm7NTY69A)</sup> - 支持 1000 多种格式的自托管在线文件转换器。
+- [mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - 一个类 `Mixamo` 的开源 `Web` 应用，支持导入 `3D` 模型（`GLB/GLTF` 格式），自动分配骨架并导出动画，更灵活且可扩展。[在线体验](https://app.mesh2motion.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1100,6 +1101,7 @@
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - `JavaScript` 教程。[在线体验](https://wangdoc.com/javascript/)
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程。[在线体验](https://ts.xcatliu.com/)
 - [fks](https://github.com/JacksonTian/fks) - 前端技能汇总。
+- [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 面向初学者的 `AI Agent` 课程。
 - [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 `LLM` 入门教程。[在线体验](https://datawhalechina.github.io/llm-cookbook/#/)
 - [happy-llm](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。[在线体验](https://datawhalechina.github.io/happy-llm/#/)
 - [self-llm](https://github.com/datawhalechina/self-llm) - 一个围绕开源大模型、针对国内初学者、基于 `Linux` 平台的中国宝宝专属大模型教程。
@@ -1121,6 +1123,7 @@
 - [hello-algo](https://github.com/krahets/hello-algo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6BRx9KazJeRrxOETWmKUcQ)</sup> - 一本动画图解、能运行、可提问的**数据结构与算法入门书**，支持 `Java`, `C++`, `Python`, `Go`, `JS`, `TS`, `C#`, `Swift`, `Zig` 等语言。[在线文档](https://www.hello-algo.com/)
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 可视化算法的交互式在线平台。[在线体验](https://algorithm-visualizer.org/)
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，多语言实现。[在线体验](https://sort.hust.cc/)
+- [Java](https://github.com/TheAlgorithms/Java) - 用 `Java` 实现算法和数据结构。
 - [Python](https://github.com/TheAlgorithms/Python) - 用 `Python` 实现所有算法。[在线体验](https://thealgorithms.github.io/Python/)
 - [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - 《算法新解》。
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 用 `JavaScript` 实现算法和数据结构。
