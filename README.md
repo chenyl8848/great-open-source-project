@@ -270,6 +270,7 @@
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
 - ~~[MoonTV](https://github.com/LunaTechLab/MoonTV)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HbsKx5PjJMl87h-5QJ1Uow)</sup> - 一个开箱即用的、跨平台的影视聚合播放站~~。
 - [LibreTV](https://github.com/LibreSpark/LibreTV) - 一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。
+- [LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（`Android`、`Windows`、`Linux`、`MacOS` 等），直装免部署。
 - [priospace](https://github.com/AnoyRC/priospace) - 一个漂亮、现代的高效能应用，将任务管理与番茄钟功能、习惯追踪和实时协作相结合。[在线体验](https://prio.space/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -753,7 +754,7 @@
 - [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
 - [Jpom](https://github.com/dromara/Jpom)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Pr8LhKN1ESE4fAgmZGT_yA)</sup> - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。[在线文档](https://jpom.top/)
 - [rainbond](https://github.com/goodrain/rainbond) - **云原生应用管理平台**，使用简单，不需要懂容器、`Kubernetes` 和底层复杂技术，支持管理多个 `Kubernetes` 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。[在线文档](https://www.rainbond.com/docs/)
-- [uptime-kuma](https://github.com/louislam/uptime-kuma) - 简易美观的**监控工具**。[在线体验](https://demo.uptime.kuma.pet:27000/)
+- [uptime-kuma](https://github.com/louislam/uptime-kuma)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZJt50x51eFYIw6lv2T4VmQ)</sup> - 简易美观的**监控工具**。[在线体验](https://demo.uptime.kuma.pet:27000/)
 - [oshi](https://github.com/oshi/oshi) - 基于 `JNA`（本地）的免费的操作系统和硬件信息库，专为 `Java` 设计。它可以跨平台的获取系统信息以及硬件信息，如操作系统版本、进程、内存和 `CPU` 使用情况、磁盘和分区、设备、传感器等。[在线文档](https://www.oshi.ooo/)
 - [Ward](https://github.com/Rudolf-Barbu/Ward) - 一款简单、极简主义的服务器监控工具。`SpringBoot` 项目，集成 `OSHI` 的使用。
 - [spug](https://github.com/openspug/spug) - 面向中小型企业设计的轻量级无 `Agent` 的**自动化运维平台**，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。[在线体验](https://demo.spug.cc/) [在线文档](https://spug.cc/docs/about-spug/) 
@@ -950,6 +951,7 @@
 - [git-who](https://github.com/sinclairtarget/git-who) - 一个命令行工具，用于解析 `Git` 代码库用户提交信息。
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
+- [lazygit](https://github.com/jesseduffield/lazygit) - 一款简单的 `Git` 命令终端 `UI` 工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
