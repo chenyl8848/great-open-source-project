@@ -264,7 +264,6 @@
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 - [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 - [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
-- [drawnix](https://github.com/plait-board/drawnix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Tz_NbbxFdAIfrmMq_uv43g)</sup> - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
@@ -358,7 +357,6 @@
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 `Web` 的 3D `CAD` 应用程序，用于在线设计和编辑模型。[在线体验](https://chili3d.com/)
 - [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
 - [Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器。[在线体验](https://count.getloli.com/)
-- [ConvertX](https://github.com/C4illin/ConvertX)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ooCLxespqAhVghm7NTY69A)</sup> - 支持 1000 多种格式的自托管在线文件转换器。
 - [mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - 一个类 `Mixamo` 的开源 `Web` 应用，支持导入 `3D` 模型（`GLB/GLTF` 格式），自动分配骨架并导出动画，更灵活且可扩展。[在线体验](https://app.mesh2motion.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -411,6 +409,7 @@
 - [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
 - [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
+- [ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -606,6 +605,7 @@
 - [docsify](https://github.com/docsifyjs/docsify/) - 一个神奇的文档网站生成器。[在线文档](https://docsify.js.org/#/zh-cn/)
 - [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
+- [OpenIsle](https://github.com/nagisa77/OpenIsle) - 一个使用 `SpringBoot` 和 `Vue3` 构建的全栈开源社区平台。[在线体验](https://www.open-isle.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -748,7 +748,6 @@
 
 ### 运维监控
 
-- [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 - [hertzbeat](https://github.com/dromara/hertzbeat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/DBibF9sRHBtzvDMW57CPBw)</sup> - 易用友好的**实时监控告警系统**，无需 `Agent`，强大自定义监控能力。[在线体验](https://console.tancloud.cn/passport/login)
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - 轻量级的**前端监控系统**，无埋点监控前端日志，实时分析前端健康状态。
 - [KnowStreaming](https://github.com/didi/KnowStreaming) - 一套云原生的 `Kafka` 管控平台，脱胎于众多互联网内部多年的 `Kafka` 运营实践经验，专注于 `Kafka` 运维管控、监控告警、资源治理、多活容灾等核心场景。[在线文档](https://doc.knowstreaming.com/product/1-brief-introduction)
@@ -987,7 +986,7 @@
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
 - [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
 - [EasyCode](https://github.com/makejavas/EasyCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/53RjNHsgEfAHyJl8Jap9bA)</sup> - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
-- [JarEditor](https://github.com/Liubsyy/JarEditor) - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
+- [JarEditor](https://github.com/Liubsyy/JarEditor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/gYAmWdA0F7SWfSkIAsPiqg)</sup> - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
 - [leeks](https://github.com/huage2580/leeks)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Bx1UKVPYL5-SqwKahVShKw)</sup> - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
 - [easy_javadoc](https://github.com/starcwang/easy_javadoc) - `IntelliJ IDEA` 插件，自动生成 `javadoc` 文档注释。
 - [ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 支持拼音输入法自动补全的 `JetBrains` 插件。
@@ -1019,6 +1018,7 @@
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
 - [BiliTools](https://github.com/btjawa/BiliTools) - 平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源。
 - [parse-video](https://github.com/wujunwei928/parse-video) - 基于 Golang 实现的短视频去水印工具，视频目前支持 20 个平台，图集目前支持 4 个平台。
+- [StreamCap](https://github.com/ihmily/StreamCap) - 一个基 `于FFmpeg` 和 `StreamGet` 的**多平台直播流录制客户端**，覆盖 40+ 国内外主流直播平台，支持批量录制、循环监控、定时监控和自动转码等功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1030,6 +1030,7 @@
 - [paint-board](https://github.com/LHRUN/paint-board) - 一款支持多端操作的趣味艺术画板。[在线体验](https://songlh.top/paint-board/)
 - [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/35pbLn3GrNES3sXvVrpzig)</sup> - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
 - [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
+- [drawnix](https://github.com/plait-board/drawnix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Tz_NbbxFdAIfrmMq_uv43g)</sup> - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1042,6 +1043,8 @@
 - [carbon](https://github.com/carbon-app/carbon) - 代码转图片工具。[在线体验](https://carbon.now.sh/)
 - [squish](https://github.com/addyosmani/squish) - 一款基于浏览器的现代图像压缩工具，利用 `WebAssembly` 实现高性能图像优化。[在线体验](https://squish.addy.ie/)
 - [reubah](https://github.com/dendianugerah/reubah) - 一个通用的文件转换器和图像处理器。
+- [ConvertX](https://github.com/C4illin/ConvertX)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ooCLxespqAhVghm7NTY69A)</sup> - 支持 1000 多种格式的自托管在线文件转换器。
+- [FileConverter](https://github.com/Tichau/FileConverter) - 一款专为 Windows 打造的开源右键菜单全能文件转换工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1340,7 +1343,7 @@
 - [yaade](https://github.com/EsperoTech/yaade)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/H3jynpkAyKH-U8KQR1TxAQ)</sup> - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
 - [APIAuto](https://github.com/TommyLemon/APIAuto) - 一款 `HTTP` 接口、机器学习零代码测试和一站式智能开发管理工具。[在线体验](http://apijson.cn/api/)
 - [apidash](https://github.com/foss42/apidash) - 一个基于 `Flutter` 打造的开源跨平台 API 客户端工具。
-- [WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版 `API` 调试神器。
+- [WebCurl](https://github.com/o8oo8o/WebCurl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/5ZJ1qrIWp0YKT9xvxWSIMw)</sup> - 极简网页版 `API` 调试神器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1352,6 +1355,7 @@
 - [openproject](https://github.com/opf/openproject)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/X4GEbKZK5NNBVj-3lnqkhA)</sup> - 一款开源的项目管理工具。
 - [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
+- [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1501,6 +1505,7 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 各种有趣主题的开源项目合集。
 - [60s](https://github.com/vikiboss/60s) - 高质量、开源、可靠、全球 `CDN` 加速的 开放 `API` 集合。[在线文档](https://docs.60s-api.viki.moe/)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 各种类别非常好用的 Mac 应用程序、软件以及工具。[在线体验](https://wangchujiang.com/awesome-mac/index.html)
+- [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 电子书下载宝库，一个汇聚了各类电子书下载链接的地方。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
