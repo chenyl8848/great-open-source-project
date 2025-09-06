@@ -109,14 +109,14 @@
 ### Java 项目
 
 - [quarkus](https://github.com/quarkusio/quarkus) - 一个为 `GraalVM` 和 `HotSpot` 定制的 `Kubernetes` 原生 `Java` 框架。[在线文档](https://cn.quarkus.io/get-started/)
-- [Sa-Token](https://github.com/dromara/Sa-Token) - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
+- [Sa-Token](https://github.com/dromara/Sa-Token)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yDDa385GUFgPQYTUqfp_ug)</sup> - 史上功能最全的 `Java` 权限认证框架！目前已集成——登录认证、权限认证、分布式 `Session` 会话、微服务网关鉴权、单点登录、`OAuth2.0`、踢人下线、`Redis` 集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式 `token` 生成、自动续签、同端互斥登录、会话治理、密码加密、`jwt` 集成、`Spring` 集成、`WebFlux` 集成。[在线文档](https://sa-token.cc/doc.html#/)
 - [solon](https://github.com/noear/solon) - 一个高效的 `Java` 应用开发框架，有自己接口标准规范的开放生态，组合不同的生态插件应对不同需求，方便定制，快速开发。[在线文档](https://solon.noear.org/article/learn-start)
 - [tianai-captcha](https://gitee.com/tianai/tianai-captcha)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/DG1oLXQUKW59080W7k5JTQ)</sup> - `Java` 界的开源行为验证码（滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码）。[在线体验](https://gitee.com/link?target=http%3A%2F%2Fcaptcha.tianai.cloud)
 - [dozer](https://github.com/DozerMapper/dozer) - 一个 `Java` `Bean` 到 `Java` `Bean` 映射器，可递归地将数据从一个对象复制到另一个对象。[在线文档](https://dozermapper.github.io/gitbook/)
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
 - [PowerJob](https://github.com/PowerJob/PowerJob)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/lX4ddYR-lJ8A4rrGIomqzw)</sup> - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
-- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - 实现对 `PDF` 的各种操作。
+- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/drxolRcIBRsNRNxnb1QMdA)</sup> - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
 - [JustAuth](https://github.com/justauth/JustAuth)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/B_PlrnfqopcPRCh1mOz3FA)</sup> - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
@@ -962,7 +962,7 @@
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
-- [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
+- [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4qfQC-aXEbs4HzBdqeLslA)</sup> - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1355,7 +1355,7 @@
 - [openproject](https://github.com/opf/openproject)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/X4GEbKZK5NNBVj-3lnqkhA)</sup> - 一款开源的项目管理工具。
 - [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
-- [metersphere](https://github.com/metersphere/metersphere) - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
+- [metersphere](https://github.com/metersphere/metersphere)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6oUjqv9tDemoXX71c_jVZA)</sup> - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
