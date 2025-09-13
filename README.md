@@ -409,7 +409,7 @@
 - [web-flash](https://github.com/enilu/web-flash) - 基于 `Spring Boot` 和 `Vue.js` 的 `Web` 系统，包含了基于 `Element` 搭建的后台管理系统和基于 `Vux` 搭建的手机端 `H5` 站点。[在线体验](http://flashadmin.enilu.cn/) [在线文档](http://webflash.enilu.cn/)
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
 - [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
-- [ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
+- [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3z0NBdFPG-SwEWjprQMVqw)</sup> - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -654,7 +654,7 @@
 - [MusicFree](https://github.com/maotoumao/MusicFree) - 基于 `React` 实现的插件化、定制化、无广告的免费音乐播放器。[在线文档](https://musicfree.upup.fun/)
 - [music-website](https://github.com/Yin-Hongwei/music-website)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LtBoao3BHsfbJSjYroWYMA)</sup> - 一个基于 `Vue3` + `SpringBoot` + `MyBatis` 实现的音乐网站。
 - [spotube](https://github.com/KRTirtho/spotube) - 一个开源跨多系统的**音乐播放器**客户端。
-- [SPlayer](https://github.com/imsyy/SPlayer) - 一个简约的音乐播放器，支持逐字歌词、下载歌曲、展示评论区、音乐云盘及歌单管理、音乐频谱、移动端基础适配。
+- [SPlayer](https://github.com/imsyy/SPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/L7ByCbt0PuCxXjALwk-V_Q)</sup> - 一个简约的音乐播放器，支持逐字歌词、下载歌曲、展示评论区、音乐云盘及歌单管理、音乐频谱、移动端基础适配。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
