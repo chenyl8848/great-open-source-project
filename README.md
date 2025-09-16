@@ -311,6 +311,7 @@
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 一个提供高级 `API` 控制 `Chrome` 或 `Firefox` 浏览器的 `JavaScript` 库。
 - [plyr](https://github.com/sampotts/plyr) - 一款简单、轻量、可访问且可定制的 `HTML5`、`YouTube` 和 `Vimeo` 媒体播放器，支持现代浏览器。
 - [snapdom](https://github.com/zumerlab/snapdom) - 将网页元素变成图片（截图）的工具库。[在线体验](https://zumerlab.github.io/snapdom/)
+- [signature_pad](https://github.com/szimek/signature_pad) - 一个用于绘制平滑签名的 `JavaScript` 库。[在线体验](https://szimek.github.io/signature_pad/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -358,6 +359,8 @@
 - [Abracadabra](https://github.com/SheepChef/Abracadabra) - 一个安全高效的文本加密工具，对任意给定数据进行加密处理成古文。[在线体验](https://abra.halu.ca/)
 - [Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器。[在线体验](https://count.getloli.com/)
 - [mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - 一个类 `Mixamo` 的开源 `Web` 应用，支持导入 `3D` 模型（`GLB/GLTF` 格式），自动分配骨架并导出动画，更灵活且可扩展。[在线体验](https://app.mesh2motion.org/)
+- [vue-color](https://github.com/linx4200/vue-color) - 一个专为现代网络开发而设计的高效且可自定义的**颜色选择器**的集合。[在线体验](https://linx4200.github.io/vue-color/)
+- [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换工具，转换中文字符为拼音，可以用于汉字注音、排序、检索。[在线体验](https://pinyin.js.org/example/index.html) [在线文档](https://pinyin.js.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -386,7 +389,7 @@
 - [maku-generator](https://gitee.com/makunet/maku-generator)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nBM_oNemhDrcxfCDbh0u9A)</sup> - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
 - [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
 - [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
-- [magic-api](https://github.com/ssssssss-team/magic-api) - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
+- [magic-api](https://github.com/ssssssss-team/magic-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0t8GMDWTyteu2Ta4tkEW4A)</sup> - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
 - [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
 - [smart-sso](https://github.com/a466350665/smart-sso)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dw5dHUVsRy-0NU54IFBjcw)</sup> - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
 - [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
@@ -599,7 +602,7 @@
 - [Echo](https://github.com/Veal98/Echo) - 基于 `SpringBoot` + `MyBatis` + `MySQL` + `Redis` + `Kafka` + `Elasticsearch` + `Spring Security` 前后端不分离的开源**社区系统**。
 - [shiyi-blog](https://gitee.com/quequnlong/shiyi-blog)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Hqkh8fkYyGOrjBzJ7wtCRw)</sup> - 一款 `Vue` + `SpringBoot` 前后端分离的**博客系统**。[在线体验](https://www.shiyit.com/)
 - [bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于 `SpringBoot` + `Vue` 框架实现前后端分离。[在线体验](https://bbs.nanshengbbs.top/)
-- [OneBlog](https://github.com/zhangyd-c/OneBlog) - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
+- [OneBlog](https://github.com/zhangyd-c/OneBlog)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LgYrlTXixOHe_H9IA7FkXQ)</sup> - 一个简洁美观、功能强大并且自适应的 `Java` 博客。[在线文档](https://docs.zhyd.me/)
 - [solo](https://github.com/88250/solo) - 一款专为程序员设计小而美的开源**博客系统**。
 - [hexo](https://github.com/hexojs/hexo) - 快速、简洁且高效的博客框架。[在线文档](https://hexo.io/zh-cn/)
 - [docsify](https://github.com/docsifyjs/docsify/) - 一个神奇的文档网站生成器。[在线文档](https://docsify.js.org/#/zh-cn/)
@@ -1438,6 +1441,7 @@
 - [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具。
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
+- [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 1000 个中国独立开发者项目汇总。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
