@@ -941,6 +941,7 @@
 - [lazydocker](https://github.com/jesseduffield/lazydocker)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/S6qkTfJ8TFfHEVdgC9uzbA)</sup> - 基于 `Go` 实现的 `Docker` 和 `Docker-Compose` 的简单终端 `UI` 工具。
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `Docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [docker.ui](https://github.com/gohutool/docker.ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XTw4iK7klrwLunoGiYzu9w)</sup> - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
+- [DweebUI](https://github.com/lllllllillllllillll/DweebUI) - 一个用于管理容器的 WebUI.
 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1271,6 +1272,7 @@
 - [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7lo487E5dHPl7IIaQc-F7A)</sup> - 一个可以让你看各种主流直播平台的看直播工具。
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款免费的办公套件，集文本、电子表格、演示文稿、PDF 编辑器和图表查看器于一体。
+- [pear-rec](https://github.com/027xiguapi/pear-rec) - 一款开源、免费和功能强大的截屏、录屏和录音软件，适用于多个平台和各种使用场景。[在线体验](https://pear-rec-xiguapi.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
