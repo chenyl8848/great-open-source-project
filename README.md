@@ -70,6 +70,7 @@
     - [插件工具](#插件工具)
     - [下载工具](#下载工具)
     - [作图工具](#作图工具)
+    - [阅读工具](#阅读工具)
     - [转换工具](#转换工具)
     - [科学上网](#科学上网)
     - [版本管理工具](#版本管理工具)
@@ -260,7 +261,6 @@
 - [aspoem](https://github.com/meetqy/aspoem)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uaoT_HiLkaD-VNrcc4Kung)</sup> - 现代化诗词学习网站，一个更加注重 `UI` 和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
 - [LiveTerm](https://github.com/Cveinnt/LiveTerm) - 在几分钟内构建终端风格的网站。[在线体验](https://liveterm.vercel.app/)
 - [umami](https://github.com/umami-software/umami)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XDXD6q1WyTkzBSsE3Q_diw)</sup> - 一个开源的网站统计工具，可以用来分析网站的访问数据。[在线体验](https://eu.umami.is/share/LGazGOecbDtaIwDr/umami.is)
-- [koodo-reader](https://github.com/koodo-reader/koodo-reader)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiSA-8X_I-dGEqvbMC_lEw)</sup> - 一个跨平台的电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 - [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 - [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
@@ -344,12 +344,11 @@
 - [nocodb](https://github.com/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
 - [talk](https://github.com/vasanthv/talk) - 无需下载、注册的网络群组视频通话。[在线体验](https://vasanthv.github.io/talk/)
 - [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
-- [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
 - [cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库。[在线文档](https://theajack.github.io/cnchar/)
 - [webvm](https://github.com/leaningtech/webvm) - 一个运行在浏览器中的 `Linux` 虚拟机。[在线体验](https://webvm.io/)
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [v86](https://github.com/copy/v86) - 一个基于 `Web` 的 `x86` 模拟器，它通过将机器代码即时编译为 `WebAssembly` 来实现出色的性能。[在线体验](https://copy.sh/v86/)
-- [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html)
+- [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
 - [WebGAL](https://github.com/OpenWebGAL/WebGAL) - 全新的网页端视觉小说引擎。[在线体验](https://demo.openwebgal.com/) [在线文档](https://docs.openwebgal.com/)
 - [json-server](https://github.com/typicode/json-server)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uo9vine8ylE-yxHKfLCjuQ)</sup> - 在 30 秒内创建一个 `REST API` 服务。
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
@@ -387,7 +386,6 @@
 - [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
 - [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
 - [maku-generator](https://gitee.com/makunet/maku-generator)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nBM_oNemhDrcxfCDbh0u9A)</sup> - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
-- [reader](https://github.com/hectorqin/reader) - 一款图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
 - [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
 - [magic-api](https://github.com/ssssssss-team/magic-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0t8GMDWTyteu2Ta4tkEW4A)</sup> - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
 - [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
@@ -903,8 +901,8 @@
 
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j9iDDyjILfmOSeCfk0cGlg)</sup> - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MEr6ODb1mqNxHqp4o7AwtA)</sup> - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
-- [RedisInsight](https://github.com/RedisInsight/RedisInsight) - 最好用的 `Redis` 可视化工具。
-- [PrettyZoo](https://github.com/vran-dev/PrettyZoo) - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
+- [RedisInsight](https://github.com/RedisInsight/RedisInsight)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SzXcIzE8RaPzE1HkyB3Q2Q)</sup> - 最好用的 `Redis` 可视化工具。
+- [PrettyZoo](https://github.com/vran-dev/PrettyZoo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0hQCUyCJruRbImGz4zy8xA)</sup> - 一个基于 `Apache Curator` 和 `JavaFX` 实现的 `Zookeeper` 图形化管理客户端。
 - [jadx](https://github.com/skylot/jadx) - 一款功能强大的 `Java` 反编译工具。
 - [DevToys](https://github.com/veler/DevToys)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bisZN2GiyLCBsp63vUMruA)</sup> - 一款离线的 Windows 应用程序，用于开发者的工具集合。
 - [proxypin](https://github.com/wanghongenpin/proxypin) - 开源免费抓包工具，支持 `Windows`、`Mac`、`Android`、`IOS`、`Linux` 全平台系统。
@@ -912,9 +910,9 @@
 - [any-rule](https://github.com/any86/any-rule) - 常用正则大全, 支持 `web` / `vscode` / `idea` / `Alfred Workflow` 多平台。[在线体验](https://any-rule.vercel.app/)
 - [frp](https://github.com/fatedier/frp) - 一个快速反向代理，可以将 `NAT` 或防火墙后面的本地服务器暴露在互联网上。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
-- [cloc](https://github.com/AlDanial/cloc) - 统计项目代码行数的工具。
+- [cloc](https://github.com/AlDanial/cloc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Jyd9WZFpqf_DC8lbz2KZdg)</sup> - 统计项目代码行数的工具。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
-- [elasticvue](https://github.com/cars10/elasticvue) - 一个免费且开源的 `Elasticsearch` 图形用户界面。
+- [elasticvue](https://github.com/cars10/elasticvue)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_FgPCdGyjUb5-FM6B4Ww5Q)</sup> - 一个免费且开源的 `Elasticsearch` 图形用户界面。
 - [dasel](https://github.com/TomWright/dasel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8LxgoBZJzTYFmJLAl30IPQ)</sup> - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
 - [Nping](https://github.com/hanshuaikang/Nping) - 一个基于 `Rust` 开发的终端可视化 `Ping` 工具, 支持多地址并发 `Ping`, 可视化图表展示, 数据实时更新等特性。
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
@@ -989,6 +987,7 @@
 - [octotree](https://github.com/ovity/octotree) - 浏览器插件，可以按照树状图的方式展示 `Github` 项目的结构，以及提供了快速搜索、变更预览等功能。
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
 - [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
+- [previewHub](https://github.com/naihe138/previewHub) - 一个在 `GitHub` 页面上直接预览所有 `.md` 文件中的图片，无需跳转到单独的图片页面的浏览器插件。
 - [EasyCode](https://github.com/makejavas/EasyCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/53RjNHsgEfAHyJl8Jap9bA)</sup> - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 - [JarEditor](https://github.com/Liubsyy/JarEditor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/gYAmWdA0F7SWfSkIAsPiqg)</sup> - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
 - [leeks](https://github.com/huage2580/leeks)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Bx1UKVPYL5-SqwKahVShKw)</sup> - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
@@ -1022,7 +1021,7 @@
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
 - [BiliTools](https://github.com/btjawa/BiliTools) - 平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源。
 - [parse-video](https://github.com/wujunwei928/parse-video) - 基于 Golang 实现的短视频去水印工具，视频目前支持 20 个平台，图集目前支持 4 个平台。
-- [StreamCap](https://github.com/ihmily/StreamCap) - 一个基 `于FFmpeg` 和 `StreamGet` 的**多平台直播流录制客户端**，覆盖 40+ 国内外主流直播平台，支持批量录制、循环监控、定时监控和自动转码等功能。
+- [StreamCap](https://github.com/ihmily/StreamCap)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6FNKdBTQ69diOcX_ApQ7Tg)</sup> - 一个基 `于FFmpeg` 和 `StreamGet` 的**多平台直播流录制客户端**，覆盖 40+ 国内外主流直播平台，支持批量录制、循环监控、定时监控和自动转码等功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1035,6 +1034,21 @@
 - [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/35pbLn3GrNES3sXvVrpzig)</sup> - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
 - [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
 - [drawnix](https://github.com/plait-board/drawnix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Tz_NbbxFdAIfrmMq_uv43g)</sup> - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 阅读工具
+
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiSA-8X_I-dGEqvbMC_lEw)</sup> - 一个基于 `React` 实现的跨平台电子书阅读器。[在线体验](https://reader.960960.xyz/#/manager/home) [在线文档](https://troyeguo.notion.site/Koodo-Reader-0c9c7ccdc5104a54825dfc72f1c84bea)
+- [omnivore](https://github.com/omnivore-app/omnivore) - 一个完整的开源“稍后阅读”解决方案，适合喜欢阅读的人。[在线体验](https://omnivore.app/home)
+- [reader](https://github.com/hectorqin/reader) - 一款基于 `Kotlin` + `Vue` 实现的图书阅读工具。[在线文档](https://github.com/hectorqin/reader/blob/master/doc.md)
+- [sioyek](https://github.com/ahrm/sioyek) - 一个专注于技术书籍和研究论文的 `PDF` 阅读器。[在线文档](https://sioyek-documentation.readthedocs.io/en/latest/)
+- [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
+- [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
+- [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的 `Android` 工具。[在线文档](https://www.yuque.com/legado/wiki)
+- ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
+- [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
+- [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1225,6 +1239,7 @@
 ### 生活技能
 
 - [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
+- [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1232,7 +1247,6 @@
 
 ### 多平台
 
-- [sioyek](https://github.com/ahrm/sioyek) - 一个专注于技术书籍和研究论文的 `PDF` 阅读器。[在线文档](https://sioyek-documentation.readthedocs.io/en/latest/)
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - `QtScrcpy` 可以通过 `USB` /网络连接 `Android` 设备，并进行显示和控制。无需 `root` 权限。同时支持 `GNU/Linux`，`Windows` 和 `MacOS` 三大主流桌面平台。
 - [scrcpy](https://github.com/Genymobile/scrcpy) - 支持通过 `USB` /网络在 `Linux`，`Windows` 和 `MacOS` 投影操作 `Android` 设备。
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作，模拟点击和键入。
@@ -1249,7 +1263,6 @@
 - [notepad--](https://github.com/cxasm/notepad--) - 一个支持 `windows`/`linux`/`mac` 的**文本编辑器**，目标是做中国人自己的编辑器，来自中国。
 - [Thief](https://github.com/cteamx/Thief) - 一款基于 `Electron` 开发的跨平台多功能(`真正创新的`)摸鱼软件。
 - [zed](https://github.com/zed-industries/zed) - 高性能多人代码编辑器。
-- [uncle-novel](https://github.com/uncle-novel/uncle-novel) - 一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载 `mobi`、`epub`、`txt` 格式文本小说。[在线文档](https://uncle-novel.github.io/uncle-novel-official-site/)
 - [trilium](https://github.com/zadam/trilium) - 一个层次化的笔记应用程序，专注于建立大型个人知识库。
 - [czkawka](https://github.com/qarmin/czkawka) - 一款简单、快速且免费的应用程序，用于从计算机中删除不必要的文件。
 - [rubick](https://github.com/rubickCenter/rubick)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a8rlc1ssZwdZSf8UTlyOGQ)</sup> - 基于 `Electron` 的开源工具箱，自由集成丰富插件。[在线文档](https://rubickcenter.github.io/docs/)
@@ -1266,7 +1279,6 @@
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
-- [anx-reader](https://github.com/Anxcye/anx-reader) - 使用 `Flutter` 编写的电子书阅读器，支持多种格式。
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
 - [saber](https://github.com/saber-notes/saber) - 一款专为手写而设计的笔记应用。
 - [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
@@ -1314,12 +1326,8 @@
 
 - [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。 
-- ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
-- [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
-- [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
-- [legado](https://github.com/gedoor/legado) - 一款可以自定义来源阅读网络内容的工具。[在线文档](https://www.yuque.com/legado/wiki)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1342,7 +1350,6 @@
 - [ApiManager](https://github.com/EhsanTang/ApiManager) - 一个由 `Angular.js` + `Bootstrap` + `SpringMVC` + `MyBatis` 搭建的免费开源的 `API` 接口管理系统、`BUG` 管理系统、文档管理系统（应用接口管理系统）。[在线体验](https://crap.cn/home.do)
 - [showdoc](https://github.com/star7th/showdoc) - 一个非常适合IT团队的在线 `API` 文档、技术文档工具。[在线体验](https://www.showdoc.com.cn/demo/10344910536452840) [在线文档](https://www.showdoc.com.cn/help/1385767280275683)
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker) - `Restful Api` 测试工具。
-- [mindoc](https://github.com/mindoc-org/mindoc) - `Go` 实现的基于 `beego` 框架的接口在线文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://mindoc.com.cn/docs/mindochelp)
 - [xxl-api](https://github.com/xuxueli/xxl-api) - `API` 管理平台。
 - [moyu](https://github.com/trueleaf/moyu) - 基于 `Vue` 和 `Electron` 的在线协同 `Api` 接口管理工具。[在线体验](https://online.jobtool.cn/#/v1/apidoc/doc-list)
 - [yaade](https://github.com/EsperoTech/yaade)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/H3jynpkAyKH-U8KQR1TxAQ)</sup> - 一个开源、自托管、协作的 `API` 接口管理平台。[在线文档](https://docs.yaade.io/)
@@ -1376,10 +1383,11 @@
 - [docz](https://github.com/doczjs/docz) - 通过 `MDX` 快速创建实时加载、`SEO` 友好、可生产的文档网站，并通过利用 `GatsbyJS` 和 `Gatsby` 主题阴影，在需要时定制其外观、感觉和行为。[在线文档](https://www.docz.site/docs/introduction)
 - [docusaurus](https://github.com/facebook/docusaurus) - 易于维护的**开源文档网站**。[在线文档](https://docusaurus.io/zh-CN/docs)
 - [MrDoc](https://github.com/zmister2016/MrDoc) - 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。[在线体验](http://mrdoc.zmister.com/)
-- [mm-wiki](https://github.com/phachon/mm-wiki) - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
+- [mm-wiki](https://github.com/phachon/mm-wiki)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jOBSJJq2C59pUvOnq-RsmQ)</sup> - 轻量级的**企业知识分享与团队协同软件**，可用于快速构建企业 `Wiki` 和团队知识分享平台。[在线体验](http://wiki.cifaz.com/author/index)
 - [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
 - [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
+- [mindoc](https://github.com/mindoc-org/mindoc) - 一款针对 IT 团队开发、基于 `Go` 实现、简单好用的文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://www.iminho.me/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
