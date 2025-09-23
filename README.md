@@ -147,6 +147,7 @@
 - [httpie](https://github.com/httpie/httpie) - 一款现代、友好的 `HTTP` 客户端命令行工具。支持 `Json`、自定义颜色、会话、下载，插件等。[在线体验](https://httpie.io/cli/run) [在线文档](https://httpie.io/docs/cli)
 - [talebook](https://github.com/talebook/talebook)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SKsDmqupgKKnOr9jTB6zjg)</sup> - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
 - [mediacms](https://github.com/mediacms-io/mediacms)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1_Pw-Sg7XGk0CiF1mcNOw)</sup> -  一个基于 `Django` 和 `React` 构建的视频内容管理平台，可快速搭建中小型视频网站。[在线体验](https://demo.mediacms.io/)
+- [kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 基于 `Vue3` + `Flask` 构建的全新卡密发卡系统，适合虚拟商品、知识付费等。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -181,6 +182,12 @@
 - [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
 - [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
 - [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - 采用 `PHP` 编写的 `Web` 记事本工具。[在线体验](https://notes.orga.cat/)
+- [acg-faka](https://github.com/lizhipay/acg-faka) - 二次元发卡系统。[在线体验](http://162.14.111.118:91/) [在线文档](https://faka.wiki/#/)
+- [education-online](https://github.com/WanyueKJ/education-online) - 集知识付费、直播授课、教育功能为一体的在线教育平台系统。[在线体验](https://edudemo.sdwanyue.com/) [在线文档](https://www.kancloud.cn/wanyuekaiyuan11/wanyue_education/2788919)
+- [course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud) - 开源网校、知识付费、在线教育系统。[在线体验](https://ctc.koogua.com/) [在线文档](https://www.koogua.com/page/wiki)
+- [meedu](https://github.com/Qsnh/meedu) - 一款基于 `PHP7.4` + `Laravel8` + `MySQL` + `Redis` 开发的开源网校（知识付费）解决方案。[在线文档](https://docs.meedu.vip/doc/g9jK0KXmFe)
+- [mcy-shop](https://github.com/lizhipay/mcy-shop) - 基于 `PHP` 实现的一款的个人创业型商城系统，支持虚拟商品，实体商品，任意支付方式。[在线体验](http://42.51.0.159:4399/) [在线文档](https://wiki.mcy.im/#/)
+- [card-system](https://github.com/Tai7sy/card-system) - 高效安全的在线卡密商城系统。[在线文档](https://github.com/Tai7sy/card-system/wiki/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
