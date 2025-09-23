@@ -242,6 +242,7 @@
 - [tts-vue](https://github.com/LokerL/tts-vue) - 基于 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建的**微软语音合成工具**。[在线文档](https://tts-doc.loker.vip/home.html)
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
+- [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -375,7 +376,7 @@
 - [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 深入学习并实战 `Spring Boot` 的项目。
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - `Spring` 全家桶学习项目。
 - [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 一款基于代码生成器的**低代码开发平台**。[在线体验](http://boot3.jeecg.com/) [在线文档](https://www.jeecg.com/)
-- [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
+- [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MpD9nONfIsWYBVzUpD2JNA)</sup> - 一个轻量级的 `Java` 快速开发平台，能快速开发项目并交付【接私活利器】。
 - [PlayEdu](https://github.com/PlayEdu/PlayEdu)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_afoHjOxnBJfAdznOMhDOA)</sup> - 一款适用于搭建内部培训平台的开源系统。
 - [vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台。[在线体验](http://admin.vlife.cc/login) [在线文档](http://vlife.cc/guide)
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/xeWIrJF2gp3Sa74rSvLKNQ)</sup> - 对 `Mybatis-Plus-Generator` 进行封装，通过 `Web UI` 快速生成兼容 `Spring Boot`，`Mybatis-Plus` 框架的各类业务代码。
@@ -583,6 +584,7 @@
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 - [SQLBot](https://github.com/dataease/SQLBot) - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
+- [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1239,7 +1241,7 @@
 ### 生活技能
 
 - [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
-- [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
+- [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RSpQIq0oDq1VJ_g_3rsquw)</sup> - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1520,6 +1522,7 @@
 - [60s](https://github.com/vikiboss/60s) - 高质量、开源、可靠、全球 `CDN` 加速的 开放 `API` 集合。[在线文档](https://docs.60s-api.viki.moe/)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 各种类别非常好用的 Mac 应用程序、软件以及工具。[在线体验](https://wangchujiang.com/awesome-mac/index.html)
 - [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 电子书下载宝库，一个汇聚了各类电子书下载链接的地方。
+- [tvbox18](https://github.com/qirenzhidao/tvbox18) - TV 宝盒接口。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
