@@ -157,7 +157,7 @@
 - [vhs](https://github.com/charmbracelet/vhs) - 一个 `Go` 语言实现的终端视频录制工具。
 - [lux](https://github.com/iawia002/lux) - 用 `Go` 编写的快速简单的视频下载库和 `CLI` 工具。
 - [Artalk](https://github.com/ArtalkJS/Artalk) - 自托管评论系统。[在线文档](https://artalk.js.org/guide/intro.html)
-- [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
+- [DocHub](https://github.com/TruthHun/DocHub)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yEHeXuQI_tVh-GzffBX-WA)</sup> - 参考百度文库，使用 `Beego`（`Go`）开发的开源文库系统。[在线体验](https://www.wenkuzhijia.cn/)
 - [moredoc](https://github.com/mnt-ltd/moredoc) - 基于 `Go` 开发的类似百度文库的开源文库系统。[在线体验](https://moredoc.mnt.ltd/)
 - [incubator-answer](https://github.com/apache/incubator-answer) - 一款适合任何团队的问答平台软件。[在线文档](https://answer.apache.org/zh-CN/docs/)
 - [gopeed](https://github.com/GopeedLab/gopeed) - 一款由 `Golang` + `Flutter` 开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。
@@ -699,6 +699,8 @@
 - [PicList](https://github.com/Kuingsmile/PicList) - 一款高效的云存储和图床平台管理工具，基于 `PicGo` 深度二次开发，提供完整的图床功能和全面的云存储管理能力。[在线文档](https://piclist.cn/)
 - [Pichoro](https://github.com/Kuingsmile/Pichoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具。[在线文档](https://pichoro.horosama.com/#/)
 - [OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - 跨平台的 `OpenList` 桌面应用程序，集成云存储功能。
+- [filestash](https://github.com/mickael-kerjean/filestash) - 类似 `Dropbox` 的文件管理器，可让您在任何地方管理数据。[在线体验](http://demo.filestash.app/) [在线文档](https://www.filestash.app/docs/)
+- [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1071,7 +1073,7 @@
 - [squish](https://github.com/addyosmani/squish) - 一款基于浏览器的现代图像压缩工具，利用 `WebAssembly` 实现高性能图像优化。[在线体验](https://squish.addy.ie/)
 - [reubah](https://github.com/dendianugerah/reubah) - 一个通用的文件转换器和图像处理器。
 - [ConvertX](https://github.com/C4illin/ConvertX)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ooCLxespqAhVghm7NTY69A)</sup> - 支持 1000 多种格式的自托管在线文件转换器。
-- [FileConverter](https://github.com/Tichau/FileConverter) - 一款专为 Windows 打造的开源右键菜单全能文件转换工具。
+- [FileConverter](https://github.com/Tichau/FileConverter)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/GL6b3V-CKHYd5jlNgwvnOg)</sup> - 一款专为 Windows 打造的开源右键菜单全能文件转换工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1104,6 +1106,7 @@
 - [shotcut](https://github.com/mltframework/shotcut) - 跨平台 、开源的视频剪辑软件。
 - [react-video-editor](https://github.com/designcombo/react-video-editor) - 一款基于 `React` + `TypeScript` 实现的在线视频剪辑工具。[在线体验](https://designcombo.dev/edit)
 - [clip-js](https://github.com/mohyware/clip-js) - 一个由 `Next.js` 构建的在线视频剪辑器。[在线体验](https://clipjs.vercel.app/projects)
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) - CapCut 开源替代品。[在线体验](https://opencut.app/projects)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
