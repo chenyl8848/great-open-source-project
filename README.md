@@ -922,6 +922,7 @@
 - [frp](https://github.com/fatedier/frp) - 一个快速反向代理，可以将 `NAT` 或防火墙后面的本地服务器暴露在互联网上。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [cloc](https://github.com/AlDanial/cloc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Jyd9WZFpqf_DC8lbz2KZdg)</sup> - 统计项目代码行数的工具。
+- [fuck-u-code](https://github.com/Done-0/fuck-u-code) - 一款专门揭露屎山代码的质量分析工具，用犀利又搞笑的方式告诉你：你的代码到底有多烂。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
 - [elasticvue](https://github.com/cars10/elasticvue)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_FgPCdGyjUb5-FM6B4Ww5Q)</sup> - 一个免费且开源的 `Elasticsearch` 图形用户界面。
 - [dasel](https://github.com/TomWright/dasel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8LxgoBZJzTYFmJLAl30IPQ)</sup> - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
@@ -939,6 +940,7 @@
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/sshtelnetserialportsftp` 客户端（`linux`, `mac`, `win`）。[在线体验](https://electerm-demo.html5beta.com/)
 - [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QHwD__VbXlnn9NNRLhI6zw)</sup> - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [easynode](https://github.com/chaos-zhu/easynode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IH_K3kW1Wc-NKPCM4eSDRA)</sup> - 一个 `Linux` 服务器 `Web SSH` 面板。
+- [Termix](https://github.com/LukeGus/Termix) - 一个基于 `Web` 的服务器管理平台，具有 `SSH` 终端、隧道和文件编辑功能。[在线文档](https://docs.termix.site/install)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1238,6 +1240,7 @@
 - [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
+- [TypeWords](https://github.com/zyronon/TypeWords) - 开源英语单词与文章练习工具。[在线体验](https://2study.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1400,6 +1403,7 @@
 - [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
 - [mindoc](https://github.com/mindoc-org/mindoc) - 一款针对 IT 团队开发、基于 `Go` 实现、简单好用的文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://www.iminho.me/)
+- [docs](https://github.com/suitenumerique/docs) - 一个基于 `Django` 和 `React` 构建可扩展的协作笔记、`Wiki` 和文档平台。[在线体验](https://impress-preprod.beta.numerique.gouv.fr/docs/6ee5aac4-4fb9-457d-95bf-bb56c2467713/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
