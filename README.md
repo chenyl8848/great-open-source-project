@@ -796,6 +796,7 @@
 - [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 - [netdata](https://github.com/netdata/netdata)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aZXj4WANdl5suMtmDYmUnA)</sup> - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 - [coolmonitor](https://github.com/star7th/coolmonitor) - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
+- [komari](https://github.com/komari-monitor/komari) - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -846,9 +847,11 @@
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具，支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
+- [Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化 `Prompt` 管理工作流程。
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [airi](https://github.com/moeru-ai/airi) - AI 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
+- [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1020,7 +1023,8 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 一个从 `YouTube` 和其他视频网站**下载视频**的工具。
 - [tiktokdownload](https://github.com/johnserf-seed/tiktokdownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
 - [TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频。
-- [downkyi](https://github.com/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具。
+- ~~[downkyi](https://github.com/leiurayer/downkyi) - 哔哩哔哩网站视频下载工具~~。
+- [downkyicore](https://github.com/yaobiao131/downkyicore) - 基于哔哩下载姬 `Windows` 版和 `AvaloniaUI` 制作的跨平台版本(支持 `Windows`、`linux`、`macOS`)。
 - [BBDown](https://github.com/nilaoda/BBDown) -  一款命令行式哔哩哔哩下载器。
 - [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载。
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 开源的命令行 `m3u8/HLS/dash` 下载器。
@@ -1255,6 +1259,8 @@
 
 - [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
 - [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RSpQIq0oDq1VJ_g_3rsquw)</sup> - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
+- [what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一个基于 `AI` 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。[在线体验](https://eat.lz-t.top/)
+- [get_jobs](https://github.com/loks666/get_jobs) - `AI` 找工作助手，全平台自动投简历脚本，Boss、前程无忧、猎聘、拉勾、智联招聘。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1264,6 +1270,7 @@
 
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - `QtScrcpy` 可以通过 `USB` /网络连接 `Android` 设备，并进行显示和控制。无需 `root` 权限。同时支持 `GNU/Linux`，`Windows` 和 `MacOS` 三大主流桌面平台。
 - [scrcpy](https://github.com/Genymobile/scrcpy) - 支持通过 `USB` /网络在 `Linux`，`Windows` 和 `MacOS` 投影操作 `Android` 设备。
+- [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 `Scrcpy` 显示和控制 `Android` 设备，由 `Electron` 驱动。[在线文档](https://viarotel.eu.org/zhHans/)
 - [KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作，模拟点击和键入。
 - [keyviz](https://github.com/mulaRahul/keyviz) - 一个免费的开源工具，可以实时可视化键盘和鼠标操作。
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - `OCR` 图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。
