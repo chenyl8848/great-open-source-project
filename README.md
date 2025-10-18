@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/chenyl8848-great-open-source-project-badge.png)](https://mseep.ai/app/chenyl8848-great-open-source-project)
+
 # `Github` 、`Gitee` 优秀的开源项目
 
 > 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[Github 地址](https://github.com/chenyl8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
