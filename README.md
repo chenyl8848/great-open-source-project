@@ -216,7 +216,7 @@
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
 - [Mall-Vue](https://github.com/PowerDos/Mall-Vue) - 一个基于 `Vue` + `Vuex` + `iView` 做的一个电商网站前端项目。[在线体验](https://powerdos.github.io/Mall-Vue/index.html#/)
 - [folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存。
-- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
+- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1hNykvtUxQPypb9-l6Irw)</sup> - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -861,6 +861,7 @@
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [airi](https://github.com/moeru-ai/airi) - AI 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
 - [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
+- [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -979,6 +980,7 @@
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
 - [lazygit](https://github.com/jesseduffield/lazygit) - 一款简单的 `Git` 命令终端 `UI` 工具。
+- [Gitnuro](https://github.com/JetpackDuba/Gitnuro) - 多平台 `Git` 客户端工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1423,7 +1425,7 @@
 - [BookStack](https://github.com/BookStackApp/BookStack) - 基于 `PHP` 和 `Laravel` 的 `Wiki` 平台。[在线体验](https://demo.bookstackapp.com/)
 - [outline](https://github.com/outline/outline) - 一款基于 `React` 和 `Node.js` 开发的开源文档和团队知识库管理工具。[在线文档](https://docs.getoutline.com/s/guide)
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
-- [mindoc](https://github.com/mindoc-org/mindoc) - 一款针对 IT 团队开发、基于 `Go` 实现、简单好用的文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://www.iminho.me/)
+- [mindoc](https://github.com/mindoc-org/mindoc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XEoyuopUQQ1EC7AEIjZ0tw)</sup> - 一款针对 IT 团队开发、基于 `Go` 实现、简单好用的文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://www.iminho.me/)
 - [docs](https://github.com/suitenumerique/docs) - 一个基于 `Django` 和 `React` 构建可扩展的协作笔记、`Wiki` 和文档平台。[在线体验](https://impress-preprod.beta.numerique.gouv.fr/docs/6ee5aac4-4fb9-457d-95bf-bb56c2467713/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
