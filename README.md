@@ -511,6 +511,7 @@
 
 ###	高仿项目
 
+- [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100 多个热门网站的开源克隆，如 Airbnb、Amazon、Instagram、Netflix、Tiktok、Spotify、Whatsapp、Youtube 等。[在线体验](https://gourav.io/clone-wars)
 - [flash-waimai](https://github.com/microapp-store/flash-waimai) - 基于 `SpringBoot` + `Vue` 前后端分离仿照饿了么的**外卖平台**，包括手机端，后台管理。[在线体验](http://waimai-mobile.microapp.store/#/home) [在线文档](https://microapp.gitee.io/flash-waimai/)
 - [yanhuo-springboot-vue](https://gitee.com/xzjsccz/yanhuo-springboot-vue) - 一个基于微服务架构的前后端分离仿小红书项目。[在线体验](http://175.178.249.190/dashboard)
 - [nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - 一个基于 `Nuxt` 的服务器端渲染的高仿掘金项目。
@@ -600,7 +601,7 @@
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 - [SQLBot](https://github.com/dataease/SQLBot) - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
-- [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
+- [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1350,6 +1351,7 @@
 - [iptv-api](https://github.com/Guovin/iptv-api) - `IPTV` 电视直播源更新工具。
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 一个专为 `Windows` 系统设计的开源应用启动器和文件搜索工具。[在线文档](https://www.flowlauncher.com/docs/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
