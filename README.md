@@ -955,7 +955,8 @@
 - [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QHwD__VbXlnn9NNRLhI6zw)</sup> - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [easynode](https://github.com/chaos-zhu/easynode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IH_K3kW1Wc-NKPCM4eSDRA)</sup> - 一个 `Linux` 服务器 `Web SSH` 面板。
 - [Termix](https://github.com/LukeGus/Termix) - 一个基于 `Web` 的服务器管理平台，具有 `SSH` 终端、隧道和文件编辑功能。[在线文档](https://docs.termix.site/install)
-- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) —— 一个用于管理各种远程连接协议（如 `RDP`、`SSH`、`VNC` 等）的开源工具。[在线文档](https://mremoteng.readthedocs.io/en/latest/)
+- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - 一个用于管理各种远程连接协议（如 `RDP`、`SSH`、`VNC` 等）的开源工具。[在线文档](https://mremoteng.readthedocs.io/en/latest/)
+- [termora](https://github.com/TermoraDev/termora) - 一款跨平台终端模拟器和 `SSH` 客户端，支持 `Windows`、`macOS`、`Linux`. [在线文档](https://www.termora.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1396,6 +1397,7 @@
 - [APIAuto](https://github.com/TommyLemon/APIAuto) - 一款 `HTTP` 接口、机器学习零代码测试和一站式智能开发管理工具。[在线体验](http://apijson.cn/api/)
 - [apidash](https://github.com/foss42/apidash) - 一个基于 `Flutter` 打造的开源跨平台 API 客户端工具。
 - [WebCurl](https://github.com/o8oo8o/WebCurl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/5ZJ1qrIWp0YKT9xvxWSIMw)</sup> - 极简网页版 `API` 调试神器。
+- [yaak](https://github.com/mountain-loop/yaak) - 一个使用 `Tauri`、`Rust` 和 `React` 构建，快速、隐私优先的 `REST`、`GraphQL`、`SSE`、`WebSocket` 和 `gRPC` `API` 客户端。[在线文档](https://feedback.yaak.app/help)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
