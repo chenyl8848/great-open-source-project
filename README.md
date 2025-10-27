@@ -150,6 +150,7 @@
 - [talebook](https://github.com/talebook/talebook)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SKsDmqupgKKnOr9jTB6zjg)</sup> - 一个简单的在线版个人书库。[在线体验](https://demo.talebook.org/)
 - [mediacms](https://github.com/mediacms-io/mediacms)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1_Pw-Sg7XGk0CiF1mcNOw)</sup> -  一个基于 `Django` 和 `React` 构建的视频内容管理平台，可快速搭建中小型视频网站。[在线体验](https://demo.mediacms.io/)
 - [kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 基于 `Vue3` + `Flask` 构建的全新卡密发卡系统，适合虚拟商品、知识付费等。
+- [blind_watermark](https://github.com/guofei9987/blind_watermark) - 基于频域的数字盲水印。[在线文档](https://blindwatermark.github.io/blind_watermark/#/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -625,7 +626,7 @@
 - [docsify](https://github.com/docsifyjs/docsify/) - 一个神奇的文档网站生成器。[在线文档](https://docsify.js.org/#/zh-cn/)
 - [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
-- [OpenIsle](https://github.com/nagisa77/OpenIsle) - 一个使用 `SpringBoot` 和 `Vue3` 构建的全栈开源社区平台。[在线体验](https://www.open-isle.com/)
+- [OpenIsle](https://github.com/nagisa77/OpenIsle)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9YW_a_pfzdLXpHGuGEFabg)</sup> - 一个使用 `SpringBoot` 和 `Vue3` 构建的全栈开源社区平台。[在线体验](https://www.open-isle.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -906,6 +907,7 @@
 - [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)- 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
+- [Handy](https://github.com/cjpais/Handy) - 一个免费、开源、可扩展的语音转文本应用程序，可完全离线运行。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1116,7 +1118,8 @@
 - [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。 
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。
+- [v2rayN](https://github.com/2dust/v2rayN) - 适用于 `Windows`、`Linux` 和 `macOS` 的代理软件客户端。[在线文档](https://v2rayn.2dust.link/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1398,6 +1401,7 @@
 - [apidash](https://github.com/foss42/apidash) - 一个基于 `Flutter` 打造的开源跨平台 API 客户端工具。
 - [WebCurl](https://github.com/o8oo8o/WebCurl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/5ZJ1qrIWp0YKT9xvxWSIMw)</sup> - 极简网页版 `API` 调试神器。
 - [yaak](https://github.com/mountain-loop/yaak) - 一个使用 `Tauri`、`Rust` 和 `React` 构建，快速、隐私优先的 `REST`、`GraphQL`、`SSE`、`WebSocket` 和 `gRPC` `API` 客户端。[在线文档](https://feedback.yaak.app/help)
+- [firecamp](https://github.com/firecamp-dev/firecamp) - 一个 `API` 开发平台，可帮助开发者轻松设计、开发、测试和记录 `API`. [在线体验](https://firecamp.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
