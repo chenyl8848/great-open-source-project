@@ -44,7 +44,7 @@
     - [Api 网关项目](#api-网关项目)
     - [中间件项目](#中间件项目)
     - [数据操作项目](#数据操作项目)
-    - [博客项目](#博客项目)
+    - [博客社区项目](#博客社区项目)
     - [聊天项目](#聊天项目)
     - [音乐播放器项目](#音乐播放器项目)
     - [爬虫项目](#爬虫项目)
@@ -62,6 +62,7 @@
     - [ChatGPT 项目](#chatgpt-项目)
     - [图像处理](#图像处理)
     - [音频处理](#音频处理)
+    - [应用平台](#应用平台)
   - [工具项目](#工具项目)
     - [开发工具](#开发工具)
     - [远程连接工具](#远程连接工具)
@@ -254,7 +255,6 @@
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
-- [billd-desk](https://github.com/galaxy-s10/billd-desk) - 一款基于 `Vue3` + `WebRTC` + `Nodejs` + `Electron` + `Flutter` 搭建的远程桌面控制工具（Win、Mac、安卓）。[在线体验](https://desk.hsslive.cn/#/remote)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -400,11 +400,10 @@
 - [mybatis-plus-code-generator](https://github.com/fengwenyi/mybatis-plus-code-generator) - `MyBatis-Plus` 代码生成器。
 - [open-sign-old](https://github.com/kaifangqian/kaifangqian-base) - 开放签电子签章系统。[在线体验](https://demo.kaifangqian.com/)
 - [nginx-gui](https://github.com/onlyGuo/nginx-gui) - 一个基于 `SpringBoot` 实现的 `Nginx` 可视化管理项目。
-- [eiam](https://gitee.com/topiam/eiam) - 基于 `SpringBoot3` 的开源 `IAM/IDaaS` 身份管理平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能。[在线文档](https://eiam.topiam.cn/)
 - [JApiDocs](https://github.com/YeDaxia/JApiDocs) - 无需额外注解的 `SpringBoot API` 文档生成工具。[在线文档](https://japidocs.agilestudio.cn/#/zh-cn/)
 - [jianmu](https://gitee.com/jianmu-dev/jianmu) - 一个面向 `DevOps` 领域的极易扩展的开源无代码(图形化)/低代码( `GitOps` )工具。[在线体验](https://ci.jianmu.dev/)
 - [maku-generator](https://gitee.com/makunet/maku-generator)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nBM_oNemhDrcxfCDbh0u9A)</sup> - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
-- [eiam](https://github.com/topiam/eiam) - 数字身份管控平台。[在线体验](https://eiam-console.topiam.cn/)
+- [eiam](https://github.com/topiam/eiam) - 一款开源的身份管理与访问控制系统，广泛应用于政府、企业内部、教育机构等身份认证场景。[在线体验](https://demo.topiam.cn/login) [在线文档](https://topiam.cn/docs/overview/introduction/)
 - [magic-api](https://github.com/ssssssss-team/magic-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0t8GMDWTyteu2Ta4tkEW4A)</sup> - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
 - [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
 - [smart-sso](https://github.com/a466350665/smart-sso)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dw5dHUVsRy-0NU54IFBjcw)</sup> - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
@@ -592,6 +591,7 @@
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/so3zGjbz8FLHhOHVCcVQVw)</sup> - 一款方便、快捷的数据库文档查询、导出工具。
 - [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
+- [datalinkx](https://github.com/spitfireuptown/datalinkx) - 异构数据源之间的数据同步系统，支持海量数据的增量或全量同步，同时支持 `HTTP`、`Oracle`、`MySQL`、`ES` 等数据源之间的数据流转。
 - [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uO48_DGwm9AqzpsVfG9tqw)</sup> - 适用于 `MySQL`、`Postgres`、`SQLite`、`SQL Server` 等的现代且易于使用的 `SQL` 客户端。
@@ -606,7 +606,7 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
-### 博客项目
+### 博客社区项目
 
 - [paicoding](https://github.com/itwanger/paicoding)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/CGp88UgHA08S3zIZUHjbQA)</sup> - 一个基于 `Spring Boot`、`MyBatis-Plus`、`MySQL`、`Redis`、`ElasticSearch`、`MongoDB`、`Docker`、`RabbitMQ` 等技术栈实现的**社区系统**。[在线体验](https://paicoding.com/)
 - [halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。[在线体验](https://demo.halo.run) [在线文档](https://docs.halo.run/)
@@ -627,6 +627,7 @@
 - [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [OpenIsle](https://github.com/nagisa77/OpenIsle)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9YW_a_pfzdLXpHGuGEFabg)</sup> - 一个使用 `SpringBoot` 和 `Vue3` 构建的全栈开源社区平台。[在线体验](https://www.open-isle.com/)
+- [bbs-go](https://github.com/mlogclub/bbs-go) - 基于 `Golang` 的开源社区系统。[在线体验](https://bbs.bbs-go.com/) [在线文档](https://bbs-go.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -721,6 +722,7 @@
 - [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信公众号** `Java` 后端 `Demo`，支持多公众号。
 - [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
 - [wx-api](https://github.com/niefy/wx-api) - 微信公众号管理系统，包含公众号菜单管理、自动回复、素材管理、模板消息、粉丝管理等功能，前后端都开源免费。
+- [wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于 `Docker` 的微信/QQ `Linux` 客户端，使用 `Selkies WebRTC` 技术提供浏览器访问支持。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -864,6 +866,8 @@
 - [airi](https://github.com/moeru-ai/airi) - AI 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
 - [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
 - [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
+- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -908,6 +912,14 @@
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)- 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 - [Handy](https://github.com/cjpais/Handy) - 一个免费、开源、可扩展的语音转文本应用程序，可完全离线运行。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 应用平台
+
+- [chat-master](https://github.com/panday94/chat-master) - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
+- [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
+- [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -959,6 +971,10 @@
 - [Termix](https://github.com/LukeGus/Termix) - 一个基于 `Web` 的服务器管理平台，具有 `SSH` 终端、隧道和文件编辑功能。[在线文档](https://docs.termix.site/install)
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - 一个用于管理各种远程连接协议（如 `RDP`、`SSH`、`VNC` 等）的开源工具。[在线文档](https://mremoteng.readthedocs.io/en/latest/)
 - [termora](https://github.com/TermoraDev/termora) - 一款跨平台终端模拟器和 `SSH` 客户端，支持 `Windows`、`macOS`、`Linux`. [在线文档](https://www.termora.app/)
+- [shell360](https://github.com/nashaofu/shell360) - 一款跨平台的 `SSH` & `SFTP` 客户端，支持 `Windows`、`macOS`、`Linux`、`Android` 和 `iOS`.
+- [billd-desk](https://github.com/galaxy-s10/billd-desk) - 一款基于 `Vue3` + `WebRTC` + `Nodejs` + `Electron` + `Flutter` 搭建的远程桌面控制工具（Win、Mac、安卓）。[在线体验](https://desk.hsslive.cn/#/remote)
+- [tigervnc](https://github.com/TigerVNC/tigervnc) - 一款高性能、跨平台的 `VNC` 客户端和服务器，基于 `RealVNC 4` 和 `X.org` 代码库开发，专门用于远程访问和控制计算机。
+- [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -984,7 +1000,7 @@
 - [gitea](https://github.com/go-gitea/gitea) - 一个极易安装，运行非常快速，安装和使用体验良好的自建 `Git` 服务。[在线体验](https://try.gitea.io/) [在线文档](https://docs.gitea.com/zh-cn/)
 - [gogs](https://github.com/gogs/gogs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wPsiPPyO-KIXQqW5SKO3Ug)</sup> - 一款极易搭建的自助 `Git` 服务。[在线体验](https://try.gogs.io/)  [在线文档](https://gogs.io/)
 - [lazygit](https://github.com/jesseduffield/lazygit) - 一款简单的 `Git` 命令终端 `UI` 工具。
-- [Gitnuro](https://github.com/JetpackDuba/Gitnuro) - 多平台 `Git` 客户端工具。
+- [Gitnuro](https://github.com/JetpackDuba/Gitnuro)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3joGskipV5Cwak0hKsqywA)</sup> - 多平台 `Git` 客户端工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1326,7 +1342,6 @@
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 无损剪切，一款视频/音频剪切工具。
 - [massCode](https://github.com/massCodeIO/massCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zG7_nqVTQ2QGET6GcB_UQQ)</sup> - 一个免费开源的跨平台代码片段管理工具。
 - [desktop](https://github.com/desktop/desktop) - 一个基于 `Electron` + `TypeScript` + `React` 开源的 `GitHub` 应用程序。
-- [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [eSearch](https://github.com/xushengfeng/eSearch) - 一款支持截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏、滚动截屏软件。[在线文档](https://esearch.vercel.app/)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译软件。[在线文档](https://pot-app.com/)
 - [moodiary](https://github.com/ZhuJHua/moodiary) - 一款基于 `Flutter` 构建的开源跨平台日记应用。 
@@ -1485,6 +1500,7 @@
 - [note-gen](https://github.com/codexu/note-gen)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/GjIMwe4cKGJW6tB5QRpXlA)</sup> - 一款跨平台的 `Markdown` `AI` 笔记软件。[在线文档](https://notegen.top/zh/)
 - [milkup](https://github.com/Auto-Plugin/milkup) - 一个现代化的桌面端 `Markdown` 编辑器。
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 一款专门在 `macOS` 上使用的 `Markdown` 编辑器。
+- [AiEditor](https://github.com/aieditor-team/AiEditor) - `AI` 驱动的开源富文本编辑器，开箱即用、支持所有前端框架、支持 Markdown 书写模式。[在线体验](http://doc.aieditor.com.cn/) [在线文档](https://aieditor.com.cn/docs/zh/what-is-ai-editor.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
