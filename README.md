@@ -78,6 +78,7 @@
     - [科学上网](#科学上网)
     - [版本管理](#版本管理)
     - [视频剪辑](#视频剪辑)
+    - [油猴脚本](#油猴脚本)
   - [学习项目](#学习项目)
     - [编程教程](#编程教程)
     - [数据结构与算法](#数据结构与算法)
@@ -378,6 +379,7 @@
 - [mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - 一个类 `Mixamo` 的开源 `Web` 应用，支持导入 `3D` 模型（`GLB/GLTF` 格式），自动分配骨架并导出动画，更灵活且可扩展。[在线体验](https://app.mesh2motion.org/)
 - [vue-color](https://github.com/linx4200/vue-color) - 一个专为现代网络开发而设计的高效且可自定义的**颜色选择器**的集合。[在线体验](https://linx4200.github.io/vue-color/)
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换工具，转换中文字符为拼音，可以用于汉字注音、排序、检索。[在线体验](https://pinyin.js.org/example/index.html) [在线文档](https://pinyin.js.org/)
+- [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1111,6 +1113,7 @@
 - [reubah](https://github.com/dendianugerah/reubah) - 一个通用的文件转换器和图像处理器。
 - [ConvertX](https://github.com/C4illin/ConvertX)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ooCLxespqAhVghm7NTY69A)</sup> - 支持 1000 多种格式的自托管在线文件转换器。
 - [FileConverter](https://github.com/Tichau/FileConverter)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/GL6b3V-CKHYd5jlNgwvnOg)</sup> - 一款专为 Windows 打造的开源右键菜单全能文件转换工具。
+- [mammoth.js](https://github.com/mwilliamson/mammoth.js) - 一个用于将 `Word` 文档（.docx）内容转换为 `HTML` 的 `JavaScript` 库。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1160,6 +1163,12 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
+### 油猴脚本
+
+- [LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 `JavaScript` 的网盘文件下载地址获取工具。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
 ## 学习项目
 
 ###	编程教程
@@ -1200,6 +1209,7 @@
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南。[在线体验](https://csdiy.wiki/)
 - [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - `IntelliJ IDEA` 简体中文专题教程。
+- [rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 `Rust` 快速教程，从零开始写一个管理 `Todos` 的命令行程序。[在线体验](https://inksha.github.io/rust-tutorial/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1378,6 +1388,7 @@
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) - 一款免费开源的 Mac 应用清理工具，能够彻底卸载应用并清理残留文件。
+- [AirBattery](https://github.com/lihaoyun6/AirBattery) - 一款专为 `macOS` 设计的电量监控工具，能在 `Mac` 菜单栏实时显示 `iPhone`、`iPad`、`AirPods` 和 `Apple Watch` 等设备的电池电量。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
