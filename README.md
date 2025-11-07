@@ -715,6 +715,7 @@
 - [OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - 跨平台的 `OpenList` 桌面应用程序，集成云存储功能。
 - [filestash](https://github.com/mickael-kerjean/filestash) - 类似 `Dropbox` 的文件管理器，可让您在任何地方管理数据。[在线体验](http://demo.filestash.app/) [在线文档](https://www.filestash.app/docs/)
 - [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
+- [tank](https://github.com/eyebluecn/tank) - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -811,7 +812,7 @@
 - [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 - [netdata](https://github.com/netdata/netdata)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aZXj4WANdl5suMtmDYmUnA)</sup> - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 - [coolmonitor](https://github.com/star7th/coolmonitor) - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
-- [komari](https://github.com/komari-monitor/komari) - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
+- [komari](https://github.com/komari-monitor/komari)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y9bM3HL8-EqtaeGxiIpusA)</sup> - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -922,6 +923,8 @@
 - [chat-master](https://github.com/panday94/chat-master) - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
 - [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
+- [CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
+- [MaxKB](https://github.com/1Panel-dev/MaxKB) - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -952,7 +955,7 @@
 - [frp](https://github.com/fatedier/frp) - 一个快速反向代理，可以将 `NAT` 或防火墙后面的本地服务器暴露在互联网上。
 - [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - 一款开源、美观的 `Web JSON` 浏览器，可以快速浏览、搜索和导航 `JSON` 文件。[在线体验](https://jsonhero.io/)
 - [cloc](https://github.com/AlDanial/cloc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Jyd9WZFpqf_DC8lbz2KZdg)</sup> - 统计项目代码行数的工具。
-- [fuck-u-code](https://github.com/Done-0/fuck-u-code) - 一款专门揭露屎山代码的质量分析工具，用犀利又搞笑的方式告诉你：你的代码到底有多烂。
+- [fuck-u-code](https://github.com/Done-0/fuck-u-code)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0lDOdpVjBlJMcNrGze-lsw)</sup> - 一款专门揭露屎山代码的质量分析工具，用犀利又搞笑的方式告诉你：你的代码到底有多烂。
 - [kafka-ui](https://github.com/provectus/kafka-ui) - 开源的 `Kafka` 管理平台。
 - [elasticvue](https://github.com/cars10/elasticvue)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_FgPCdGyjUb5-FM6B4Ww5Q)</sup> - 一个免费且开源的 `Elasticsearch` 图形用户界面。
 - [dasel](https://github.com/TomWright/dasel)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8LxgoBZJzTYFmJLAl30IPQ)</sup> - 一款可以对 `JSON`、`YAML`、`CSV` 等文件进行增删改查、转换等操作的工具。[在线文档](https://daseldocs.tomwright.me/)
@@ -1359,6 +1362,7 @@
 - [BongoCat](https://github.com/ayangweb/BongoCat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j_-E9heQOhexcW4WUEJLRw)</sup> - 跨平台桌宠 BongoCat，为桌面增添乐趣。
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7lo487E5dHPl7IIaQc-F7A)</sup> - 一个可以让你看各种主流直播平台的看直播工具。
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款免费的办公套件，集文本、电子表格、演示文稿、PDF 编辑器和图表查看器于一体。
+- [linkandroid](https://github.com/modstart-lib/linkandroid) - 一个全能手机连接助手，方便快捷的连接 `Android` 和电脑，连接手机后可投屏、`GIF/MP4`录屏、截屏、文件管理、手机操作等功能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1595,6 +1599,7 @@
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 各种类别非常好用的 Mac 应用程序、软件以及工具。[在线体验](https://wangchujiang.com/awesome-mac/index.html)
 - [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 电子书下载宝库，一个汇聚了各类电子书下载链接的地方。
 - [tvbox18](https://github.com/qirenzhidao/tvbox18) - TV 宝盒接口。
+- [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 中文 `DOS` 游戏合集，目前共有 1898 款游戏。[在线体验](https://dos.lol/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
