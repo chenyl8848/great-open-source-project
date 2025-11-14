@@ -915,12 +915,13 @@
 - [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)- 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 - [Handy](https://github.com/cjpais/Handy) - 一个免费、开源、可扩展的语音转文本应用程序，可完全离线运行。
+- [MeloTTS](https://github.com/myshell-ai/MeloTTS) - 高质量多语言文本转语音工具，支持英语、西班牙语、法语、中文、日语和韩语。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ### 应用平台
 
-- [chat-master](https://github.com/panday94/chat-master) - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
+- [chat-master](https://github.com/panday94/chat-master)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/V3Od95sub0q9mQ-gliEMsQ)</sup> - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
 - [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
@@ -1169,6 +1170,7 @@
 ### 油猴脚本
 
 - [LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 `JavaScript` 的网盘文件下载地址获取工具。
+- [scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫，一个可以执行用户脚本的浏览器扩展。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1385,6 +1387,7 @@
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 一个专为 `Windows` 系统设计的开源应用启动器和文件搜索工具。[在线文档](https://www.flowlauncher.com/docs/#/)
+- [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - `Windows` 内存清理器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1430,7 +1433,7 @@
 - [APIAuto](https://github.com/TommyLemon/APIAuto) - 一款 `HTTP` 接口、机器学习零代码测试和一站式智能开发管理工具。[在线体验](http://apijson.cn/api/)
 - [apidash](https://github.com/foss42/apidash) - 一个基于 `Flutter` 打造的开源跨平台 API 客户端工具。
 - [WebCurl](https://github.com/o8oo8o/WebCurl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/5ZJ1qrIWp0YKT9xvxWSIMw)</sup> - 极简网页版 `API` 调试神器。
-- [yaak](https://github.com/mountain-loop/yaak) - 一个使用 `Tauri`、`Rust` 和 `React` 构建，快速、隐私优先的 `REST`、`GraphQL`、`SSE`、`WebSocket` 和 `gRPC` `API` 客户端。[在线文档](https://feedback.yaak.app/help)
+- [yaak](https://github.com/mountain-loop/yaak)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zLlw8tOfEVON5T9vFKTihQ)</sup> - 一个使用 `Tauri`、`Rust` 和 `React` 构建，快速、隐私优先的 `REST`、`GraphQL`、`SSE`、`WebSocket` 和 `gRPC` `API` 客户端。[在线文档](https://feedback.yaak.app/help)
 - [firecamp](https://github.com/firecamp-dev/firecamp) - 一个 `API` 开发平台，可帮助开发者轻松设计、开发、测试和记录 `API`. [在线体验](https://firecamp.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
