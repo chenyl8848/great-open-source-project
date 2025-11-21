@@ -179,6 +179,7 @@
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储和分享文本的简单 `Web` 服务。[在线体验](https://logpaste.com/)
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
+- [godoos](https://github.com/phpk/godoos) - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -243,7 +244,7 @@
 - [typing-word](https://github.com/zyronon/typing-word) - 可在网页上使用的背单词软件。[在线体验](https://typing-word.ttentau.top/#/practice)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
-- [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
+- [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2A1pjtVQLjoUyoMfcRahdw)</sup> - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
 - [undraw-ui](https://github.com/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
 - [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
@@ -255,7 +256,7 @@
 - [tts-vue](https://github.com/LokerL/tts-vue) - 基于 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建的**微软语音合成工具**。[在线文档](https://tts-doc.loker.vip/home.html)
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
-- [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
+- [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tdswQtyBBjPPO23J-TDAzw)</sup> - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -268,7 +269,7 @@
 - ~~[movie-web](https://github.com/movie-web/movie-web) - 一个在线可轻松观看电影和节目的应用程序。[在线体验](https://movie-web.app/)~~
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 开箱即用的中台前端/设计解决方案。[在线体验](https://preview.pro.ant.design/dashboard/analysis) [在线文档](https://pro.ant.design/zh-CN/docs/overview)
 - [tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - 免费、开源的落地页模板，适用于快速制作公司主页。[在线体验](https://simple.cruip.com/)
-- [pic-smaller](https://github.com/joye61/pic-smaller) - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
+- [pic-smaller](https://github.com/joye61/pic-smaller)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cnLsiokiNGZSZyTtXm7zew)</sup> - 在线图片压缩工具。[在线体验](https://txx.cssrefs.com/)
 - [dber](https://github.com/findyourmagic/dber)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oBvVQCAdXNVsI9SKxHjXmw)</sup> - 基于实体连接图的数据库设计工具。[在线体验](https://dber.tech/)
 - [social-app](https://github.com/bluesky-social/social-app) - 适用于 `Web`、`iOS` 和 `Android` 的 `Bluesky Social` 应用程序。[在线体验](https://bsky.app/)
 - [aspoem](https://github.com/meetqy/aspoem)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uaoT_HiLkaD-VNrcc4Kung)</sup> - 现代化诗词学习网站，一个更加注重 `UI` 和阅读体验的诗词网站。[在线体验](https://aspoem.com/zh-Hans)
@@ -430,6 +431,7 @@
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
 - [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
 - [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3z0NBdFPG-SwEWjprQMVqw)</sup> - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
+- [renren-security](https://gitee.com/renrenio/renren-security) - 一个基于 `SpringBoot3.x` + `Vue3` 实现、轻量级的、前后端分离的 `Java` 快速开发平台，能快速开发项目并交付。[在线体验](https://demo.open.renren.io/renren-security)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -550,7 +552,7 @@
 
 - [pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能**支付** `Java` 开发工具包。
 - [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 开源的互联网**支付系统**，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。
-- [jeepay](https://github.com/jeequan/jeepay) - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+- [jeepay](https://github.com/jeequan/jeepay)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/mMaQFNlYppY91yjGRR6Bfg)</sup> - `Jeepay` 是一套适合互联网企业使用的**开源支付系统**，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 - [xpay](https://github.com/Exrick/xpay) - 个人免签收款支付系统。完全免费，资金直接到达本人账号，支持支付宝/微信/QQ/云闪付，无需备案，无需签约，无需挂机监控APP，无需插件，无需第三方支付 `SDK`，无需营业执照身份证，只需收款码，搞定支付流程，现已支持移动端支付。
 - [IJPay](https://github.com/Javen205/IJPay)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oyLoRXMt7Sd2l93EE3Nmbw)</sup> - 让支付触手可及，封装了微信支付、`QQ` 支付、支付宝支付、京东支付、银联支付、`PayPal` 支付等常用的支付方式以及各种常用的接口。[在线文档](https://javen205.gitee.io/ijpay/)
 - [dax-pay](https://github.com/dromara/dax-pay) - 免费开源的支付网关，支持支付宝、微信、云闪付等通道。[在线体验](https://daxpay.demo.bootx.cn/#/dashboard/analysis)
@@ -1041,6 +1043,7 @@
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - 优化 `bilibili` 网站界面的浏览器插件。
 - [LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 书签整理插件。
 - [previewHub](https://github.com/naihe138/previewHub) - 一个在 `GitHub` 页面上直接预览所有 `.md` 文件中的图片，无需跳转到单独的图片页面的浏览器插件。
+- [buster](https://github.com/dessant/buster) - 人类版验证码破解插件。
 - [EasyCode](https://github.com/makejavas/EasyCode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/53RjNHsgEfAHyJl8Jap9bA)</sup> - 基于 `IntelliJ IDEA` 开发的代码生成插件，支持自定义任意模板（`Java`，`Html`，`Js`，`Xml`）。
 - [JarEditor](https://github.com/Liubsyy/JarEditor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/gYAmWdA0F7SWfSkIAsPiqg)</sup> - 一个可直接修改 `Jar` 包内文件的 `IDEA` 插件，无需解压。
 - [leeks](https://github.com/huage2580/leeks)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Bx1UKVPYL5-SqwKahVShKw)</sup> - `IDEA` 插件，支持查看基金、股票（A股，港股，美股）。
