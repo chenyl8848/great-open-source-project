@@ -180,6 +180,7 @@
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
 - [godoos](https://github.com/phpk/godoos) - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
+- [Ech0](https://github.com/lin-snow/Ech0) - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -257,6 +258,7 @@
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tdswQtyBBjPPO23J-TDAzw)</sup> - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
+- [chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - 丝滑的照片展示和管理应用，支持多种图片格式和大尺寸图片渲染。[在线体验](https://lens.bh8.ga/) [在线文档](https://chronoframe.bh8.ga/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -381,6 +383,7 @@
 - [vue-color](https://github.com/linx4200/vue-color) - 一个专为现代网络开发而设计的高效且可自定义的**颜色选择器**的集合。[在线体验](https://linx4200.github.io/vue-color/)
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换工具，转换中文字符为拼音，可以用于汉字注音、排序、检索。[在线体验](https://pinyin.js.org/example/index.html) [在线文档](https://pinyin.js.org/)
 - [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
+- [document](https://github.com/ranuts/document) - 基于 `OnlyOffice` 的本地网页文档编辑器，直接在浏览器中编辑文档，无需服务器端处理，保护隐私安全。[在线体验](https://ranuts.github.io/document/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -631,7 +634,7 @@
 - [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 `Node.js` 和 `MongoDB` 开发的社区系统。[在线体验](https://cnodejs.org/)
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [OpenIsle](https://github.com/nagisa77/OpenIsle)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9YW_a_pfzdLXpHGuGEFabg)</sup> - 一个使用 `SpringBoot` 和 `Vue3` 构建的全栈开源社区平台。[在线体验](https://www.open-isle.com/)
-- [bbs-go](https://github.com/mlogclub/bbs-go) - 基于 `Golang` 的开源社区系统。[在线体验](https://bbs.bbs-go.com/) [在线文档](https://bbs-go.com/)
+- [bbs-go](https://github.com/mlogclub/bbs-go)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/krrJRSVD6vk072thOjh8zg)</sup> - 基于 `Golang` 的开源社区系统。[在线体验](https://bbs.bbs-go.com/) [在线文档](https://bbs-go.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1307,6 +1310,7 @@
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
 - [TypeWords](https://github.com/zyronon/TypeWords) - 开源英语单词与文章练习工具。[在线体验](https://2study.top/)
+- [NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照。[在线体验](https://nce.ichochy.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1564,7 +1568,7 @@
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 基于 `docsify` 实现的网站集合。
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
 - [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。[在线体验](https://hellogithub.com/)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
 - [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 攻防知识仓库。
