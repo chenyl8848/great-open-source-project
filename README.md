@@ -179,7 +179,7 @@
 - [logpaste](https://github.com/mtlynch/logpaste) - 用于存储和分享文本的简单 `Web` 服务。[在线体验](https://logpaste.com/)
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
-- [godoos](https://github.com/phpk/godoos) - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
+- [godoos](https://github.com/phpk/godoos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/faGNhoNXXI5nrzo9FReRFA)</sup> - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
 - [Ech0](https://github.com/lin-snow/Ech0) - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -195,6 +195,7 @@
 - [meedu](https://github.com/Qsnh/meedu) - 一款基于 `PHP7.4` + `Laravel8` + `MySQL` + `Redis` 开发的开源网校（知识付费）解决方案。[在线文档](https://docs.meedu.vip/doc/g9jK0KXmFe)
 - [mcy-shop](https://github.com/lizhipay/mcy-shop) - 基于 `PHP` 实现的一款的个人创业型商城系统，支持虚拟商品，实体商品，任意支付方式。[在线体验](http://42.51.0.159:4399/) [在线文档](https://wiki.mcy.im/#/)
 - [card-system](https://github.com/Tai7sy/card-system) - 高效安全的在线卡密商城系统。[在线文档](https://github.com/Tai7sy/card-system/wiki/)
+- [Wallos](https://github.com/ellite/Wallos) - 开源的个人订阅管理平台。[在线体验](https://demo.wallosapp.com)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -259,6 +260,7 @@
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tdswQtyBBjPPO23J-TDAzw)</sup> - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
 - [chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - 丝滑的照片展示和管理应用，支持多种图片格式和大尺寸图片渲染。[在线体验](https://lens.bh8.ga/) [在线文档](https://chronoframe.bh8.ga/zh/)
+- [log-lottery](https://github.com/LOG1997/log-lottery) - 一个可配置可定制化的**抽奖应用**，炫酷 3D 球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。[在线体验](https://to2026.xyz/log-lottery/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -664,7 +666,7 @@
 - [aq-chat-server](https://gitee.com/howcode/aq-chat-server) - 一个接入 `AI` 的极速、便捷的匿名在线即时聊天(`IM`).[在线体验](https://www.aqchat.run/) [在线文档](https://docs.aqchat.run/)
 - [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用。[在线体验](https://fiora.suisuijiang.com/) [在线文档](https://yinxin630.github.io/fiora/zh-Hans/docs/getting-start/)
 - [JiwuChat](https://github.com/KiWi233333/JiwuChat) - 一款基于 `Tauri2` 和 `Nuxt3` 构建的轻量多平台即时通讯聊天应用，具备多种实时消息、`AI` 群聊机器人。[在线体验](https://chat.jiwu.kiwi233.top/)
-- [TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) - 高颜值 IM 即时通讯，聊天。[在线体验](https://web.botgate.cn/) [在线文档](https://tsdaodao.com/)
+- [TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tHITZCgL8jRl0ZuyNdQbUA)</sup> - 高颜值 IM 即时通讯，聊天。[在线体验](https://web.botgate.cn/) [在线文档](https://tsdaodao.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -720,7 +722,7 @@
 - [OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) - 跨平台的 `OpenList` 桌面应用程序，集成云存储功能。
 - [filestash](https://github.com/mickael-kerjean/filestash) - 类似 `Dropbox` 的文件管理器，可让您在任何地方管理数据。[在线体验](http://demo.filestash.app/) [在线文档](https://www.filestash.app/docs/)
 - [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
-- [tank](https://github.com/eyebluecn/tank) - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
+- [tank](https://github.com/eyebluecn/tank)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a-0lVNyNPZCV1Vwmb8P1pw)</sup> - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -876,6 +878,7 @@
 - [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - 一个集成了 AI 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -986,6 +989,7 @@
 - [billd-desk](https://github.com/galaxy-s10/billd-desk) - 一款基于 `Vue3` + `WebRTC` + `Nodejs` + `Electron` + `Flutter` 搭建的远程桌面控制工具（Win、Mac、安卓）。[在线体验](https://desk.hsslive.cn/#/remote)
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - 一款高性能、跨平台的 `VNC` 客户端和服务器，基于 `RealVNC 4` 和 `X.org` 代码库开发，专门用于远程访问和控制计算机。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
+- [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -998,7 +1002,7 @@
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `Docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [docker.ui](https://github.com/gohutool/docker.ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XTw4iK7klrwLunoGiYzu9w)</sup> - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
 - [DweebUI](https://github.com/lllllllillllllillll/DweebUI) - 一个用于管理容器的 WebUI.
-
+- [kite](https://github.com/zxh326/kite) - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1526,6 +1530,7 @@
 - [milkup](https://github.com/Auto-Plugin/milkup) - 一个现代化的桌面端 `Markdown` 编辑器。
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 一款专门在 `macOS` 上使用的 `Markdown` 编辑器。
 - [AiEditor](https://github.com/aieditor-team/AiEditor) - `AI` 驱动的开源富文本编辑器，开箱即用、支持所有前端框架、支持 Markdown 书写模式。[在线体验](http://doc.aieditor.com.cn/) [在线文档](https://aieditor.com.cn/docs/zh/what-is-ai-editor.html)
+- [bangle-io](https://github.com/bangle-io/bangle-io) - 一个现代化的基于网页的笔记平台。[在线体验](https://app.bangle.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
