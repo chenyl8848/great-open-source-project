@@ -69,6 +69,7 @@
     - [Docker 工具](#docker-工具)
     - [Git 工具](#git-工具)
     - [Github 工具](#github-工具)
+    - [PDF 工具](#pdf-工具)
     - [插件工具](#插件工具)
     - [下载工具](#下载工具)
     - [作图工具](#作图工具)
@@ -96,6 +97,7 @@
     - [MacOS 端](#macos-端)
     - [安卓端](#安卓端)
     - [IOS 端](#ios-端)
+    - [键盘启动器](#键盘启动器)
   - [文库项目](#文库项目)
     - [API 接口管理](#api-接口管理)
     - [项目管理](#项目管理)
@@ -121,7 +123,6 @@
 - [cachecloud](https://github.com/sohutv/cachecloud) - `Redis` 私有云平台 ：支持 `Redis` 多种架构(`Standalone`、`Sentinel`、`Cluster`)高效管理、有效降低大规模 `Redis` 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。
 - [jetcache](https://github.com/alibaba/jetcache) - 一个 `Java` 缓存框架。
 - [PowerJob](https://github.com/PowerJob/PowerJob)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/lX4ddYR-lJ8A4rrGIomqzw)</sup> - 分布式调度与计算框架。[在线体验](http://try.powerjob.tech/#/oms/home) [在线文档](https://www.yuque.com/powerjob/guidence/intro)
-- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/drxolRcIBRsNRNxnb1QMdA)</sup> - 实现对 `PDF` 的各种操作。
 - [DesignPattern](https://github.com/youlookwhat/DesignPattern) - `Java` 23 种**设计模式**全归纳。
 - [jvm](https://github.com/doocs/jvm) - `JVM` 底层原理最全知识总结。[在线文档](https://doocs.github.io/jvm/)
 - [JustAuth](https://github.com/justauth/JustAuth)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/B_PlrnfqopcPRCh1mOz3FA)</sup> - 小而全而美的第三方登录开源组件。[在线文档](https://www.justauth.cn/)
@@ -223,6 +224,7 @@
 - [Mall-Vue](https://github.com/PowerDos/Mall-Vue) - 一个基于 `Vue` + `Vuex` + `iView` 做的一个电商网站前端项目。[在线体验](https://powerdos.github.io/Mall-Vue/index.html#/)
 - [folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存。
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1hNykvtUxQPypb9-l6Irw)</sup> - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
+- [twikoo](https://github.com/twikoojs/twikoo) —— 一个简洁、安全、免费的静态网站评论系统。[在线文档](https://twikoo.js.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -249,7 +251,6 @@
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2A1pjtVQLjoUyoMfcRahdw)</sup> - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
 - [undraw-ui](https://github.com/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
-- [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
 - [it-tools](https://github.com/CorentinTh/it-tools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6gFogO0o7zgFNrXPB2OggA)</sup> - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [tools-web](https://github.com/naroat/tools-web)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dVHHZ8kXXWSPP5LPO337GQ)</sup> - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
 - [logoly](https://github.com/bestony/logoly)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/gpyI8EVdhp0nS6HMzyUY7g)</sup> - 一个 `Pornhub` 风格的 `Logo` 生成器。[在线体验](https://www.logoly.pro/)
@@ -259,7 +260,7 @@
 - [liubai](https://github.com/yenche123/liubai) - 一个集笔记、日程、待办清单和任务管理于一体的工具。[在线体验](https://my.liubai.cc/) [在线文档](https://docs.liubai.cc/)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tdswQtyBBjPPO23J-TDAzw)</sup> - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
-- [chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - 丝滑的照片展示和管理应用，支持多种图片格式和大尺寸图片渲染。[在线体验](https://lens.bh8.ga/) [在线文档](https://chronoframe.bh8.ga/zh/)
+- [chronoframe](https://github.com/HoshinoSuzumi/chronoframe)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZCBZZG47kfKzP7Ut-lmtDQ)</sup> - 丝滑的照片展示和管理应用，支持多种图片格式和大尺寸图片渲染。[在线体验](https://lens.bh8.ga/) [在线文档](https://chronoframe.bh8.ga/zh/)
 - [log-lottery](https://github.com/LOG1997/log-lottery) - 一个可配置可定制化的**抽奖应用**，炫酷 3D 球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。[在线体验](https://to2026.xyz/log-lottery/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -372,7 +373,6 @@
 - [webvm](https://github.com/leaningtech/webvm) - 一个运行在浏览器中的 `Linux` 虚拟机。[在线体验](https://webvm.io/)
 - [nettu-meet](https://github.com/fmeringdal/nettu-meet) - 面向导师的开源视频会议系统。
 - [v86](https://github.com/copy/v86) - 一个基于 `Web` 的 `x86` 模拟器，它通过将机器代码即时编译为 `WebAssembly` 来实现出色的性能。[在线体验](https://copy.sh/v86/)
-- [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
 - [WebGAL](https://github.com/OpenWebGAL/WebGAL) - 全新的网页端视觉小说引擎。[在线体验](https://demo.openwebgal.com/) [在线文档](https://docs.openwebgal.com/)
 - [json-server](https://github.com/typicode/json-server)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/uo9vine8ylE-yxHKfLCjuQ)</sup> - 在 30 秒内创建一个 `REST API` 服务。
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - 艺术二维码生成器。[在线体验](https://qrbtf.com/)
@@ -384,7 +384,6 @@
 - [mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - 一个类 `Mixamo` 的开源 `Web` 应用，支持导入 `3D` 模型（`GLB/GLTF` 格式），自动分配骨架并导出动画，更灵活且可扩展。[在线体验](https://app.mesh2motion.org/)
 - [vue-color](https://github.com/linx4200/vue-color) - 一个专为现代网络开发而设计的高效且可自定义的**颜色选择器**的集合。[在线体验](https://linx4200.github.io/vue-color/)
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换工具，转换中文字符为拼音，可以用于汉字注音、排序、检索。[在线体验](https://pinyin.js.org/example/index.html) [在线文档](https://pinyin.js.org/)
-- [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
 - [document](https://github.com/ranuts/document) - 基于 `OnlyOffice` 的本地网页文档编辑器，直接在浏览器中编辑文档，无需服务器端处理，保护隐私安全。[在线体验](https://ranuts.github.io/document/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -878,7 +877,8 @@
 - [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
-- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - 一个集成了 AI 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
+- [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -932,7 +932,7 @@
 - [chat-master](https://github.com/panday94/chat-master)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/V3Od95sub0q9mQ-gliEMsQ)</sup> - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
 - [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
-- [CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
+- [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1028,6 +1028,17 @@
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4qfQC-aXEbs4HzBdqeLslA)</sup> - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### PDF 工具
+
+- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/drxolRcIBRsNRNxnb1QMdA)</sup> - 实现对 `PDF` 的各种操作。
+- [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
+- [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
+- [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
+- [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
+- [bentopdf](https://github.com/alam00000/bentopdf) —— 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1376,6 +1387,7 @@
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7lo487E5dHPl7IIaQc-F7A)</sup> - 一个可以让你看各种主流直播平台的看直播工具。
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款免费的办公套件，集文本、电子表格、演示文稿、PDF 编辑器和图表查看器于一体。
 - [linkandroid](https://github.com/modstart-lib/linkandroid) - 一个全能手机连接助手，方便快捷的连接 `Android` 和电脑，连接手机后可投屏、`GIF/MP4`录屏、截屏、文件管理、手机操作等功能。
+- [alt-sendme](https://github.com/tonyantony300/alt-sendme) - 一款采用 `Rust` 和 `Tauri` 构建的开源 `P2P` 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1386,18 +1398,15 @@
 - [Tai](https://github.com/Planshit/Tai) - 在 `Windows` 上统计软件使用时长和网站浏览时长。
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yKZvXwrFCqEwioF3_hL6Ag)</sup> - 可以让你在 `Windows` 操作系统的任务栏养一只小猫。
 - [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 优化器。
-- [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
 - [ShareX](https://github.com/ShareX/ShareX) - 一款基于 `C#` 开发的 免费开源 `Windows` **截图工具**。
 - [FreeControl](https://github.com/pdone/FreeControl) - 在 `PC` 上控制 `Android` 设备的工具。
 - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - `Windows` 系统搜索工具。
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 纯粹的 `Windows` 右键菜单管理程序。[在线文档](https://bluepointlilac.github.io/ContextMenuManager/)
 - [lively](https://github.com/rocksdanister/lively) - 动画桌面壁纸软件。
 - [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-- [PDF-Guru](https://github.com/kevin2li/PDF-Guru) - 一个通用型 `PDF` 文件处理工具，包含 `PDF` 合并、拆分、旋转、水印、加密、转换等20多项常用功能。
 - [iptv-api](https://github.com/Guovin/iptv-api) - `IPTV` 电视直播源更新工具。
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 一个专为 `Windows` 系统设计的开源应用启动器和文件搜索工具。[在线文档](https://www.flowlauncher.com/docs/#/)
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - `Windows` 内存清理器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1420,6 +1429,14 @@
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ###	IOS 端
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 键盘启动器
+
+- [Wox](https://github.com/Wox-launcher/Wox) - `WoX` 是一个简单的 `Windows` 启动程序。这是 `Alfred` 和 `Launchy` 的替代品。
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Ltb1Z6lS9IP8auPheD0-wQ)</sup> - 一个专为 `Windows` 系统设计的开源应用启动器和文件搜索工具。[在线文档](https://www.flowlauncher.com/docs/#/)
+- [ueli](https://github.com/oliverschwendener/ueli) - 一款跨平台按键启动器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
