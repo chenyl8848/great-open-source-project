@@ -435,7 +435,7 @@
 - [campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署。[在线文档](https://oddfar.github.io/campus-doc/campus-imaotai/)
 - [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
 - [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3z0NBdFPG-SwEWjprQMVqw)</sup> - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
-- [renren-security](https://gitee.com/renrenio/renren-security) - 一个基于 `SpringBoot3.x` + `Vue3` 实现、轻量级的、前后端分离的 `Java` 快速开发平台，能快速开发项目并交付。[在线体验](https://demo.open.renren.io/renren-security)
+- [renren-security](https://gitee.com/renrenio/renren-security)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XtD_NcCP3vNt1S7G-fytyQ)</sup> - 一个基于 `SpringBoot3.x` + `Vue3` 实现、轻量级的、前后端分离的 `Java` 快速开发平台，能快速开发项目并交付。[在线体验](https://demo.open.renren.io/renren-security)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -877,7 +877,7 @@
 - [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
-- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tjgu1vlWHDuObs4saHmUmA)</sup> - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1226,6 +1226,7 @@
 - [happy-llm](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。[在线体验](https://datawhalechina.github.io/happy-llm/#/)
 - [self-llm](https://github.com/datawhalechina/self-llm) - 一个围绕开源大模型、针对国内初学者、基于 `Linux` 平台的中国宝宝专属大模型教程。
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - 面向初学者的 `Model Context Protocol (MCP)` 课程。
+- [hello-agents](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。[在线体验](https://datawhalechina.github.io/hello-agents/#/README.md)
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [CS-Base](https://github.com/xiaolincoder/CS-Base)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Phft-YJbMGui5AjBftd6LA)</sup> - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -1408,6 +1409,7 @@
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - `Windows` 内存清理器。
+- [LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 `CPU`、`GPU`、内存、磁盘、网络等系统性能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
