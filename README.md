@@ -154,6 +154,7 @@
 - [mediacms](https://github.com/mediacms-io/mediacms)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1_Pw-Sg7XGk0CiF1mcNOw)</sup> -  一个基于 `Django` 和 `React` 构建的视频内容管理平台，可快速搭建中小型视频网站。[在线体验](https://demo.mediacms.io/)
 - [kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 基于 `Vue3` + `Flask` 构建的全新卡密发卡系统，适合虚拟商品、知识付费等。
 - [blind_watermark](https://github.com/guofei9987/blind_watermark) - 基于频域的数字盲水印。[在线文档](https://blindwatermark.github.io/blind_watermark/#/zh/)
+- [rendercv](https://github.com/rendercv/rendercv) - 一款 `YAML` 转 `PDF`、面向学者和工程师的简历生成器。[在线文档](https://docs.rendercv.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -181,7 +182,7 @@
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
 - [godoos](https://github.com/phpk/godoos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/faGNhoNXXI5nrzo9FReRFA)</sup> - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
-- [Ech0](https://github.com/lin-snow/Ech0) - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
+- [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -261,7 +262,7 @@
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 `Vue3` + `Express` 的网盘资源搜索与转存工具。
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tdswQtyBBjPPO23J-TDAzw)</sup> - 一款免费易用且打造的全功能**媒体播放器**。[在线文档](https://zy.catni.cn/)
 - [chronoframe](https://github.com/HoshinoSuzumi/chronoframe)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZCBZZG47kfKzP7Ut-lmtDQ)</sup> - 丝滑的照片展示和管理应用，支持多种图片格式和大尺寸图片渲染。[在线体验](https://lens.bh8.ga/) [在线文档](https://chronoframe.bh8.ga/zh/)
-- [log-lottery](https://github.com/LOG1997/log-lottery) - 一个可配置可定制化的**抽奖应用**，炫酷 3D 球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。[在线体验](https://to2026.xyz/log-lottery/home)
+- [log-lottery](https://github.com/LOG1997/log-lottery)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IV7jfWpB9PxN6fKduXYOeQ)</sup> - 一个可配置可定制化的**抽奖应用**，炫酷 3D 球体，可用于年会抽奖等活动，支持奖品、人员、界面、图片音乐配置。[在线体验](https://to2026.xyz/log-lottery/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1389,6 +1390,7 @@
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款免费的办公套件，集文本、电子表格、演示文稿、PDF 编辑器和图表查看器于一体。
 - [linkandroid](https://github.com/modstart-lib/linkandroid) - 一个全能手机连接助手，方便快捷的连接 `Android` 和电脑，连接手机后可投屏、`GIF/MP4`录屏、截屏、文件管理、手机操作等功能。
 - [alt-sendme](https://github.com/tonyantony300/alt-sendme) - 一款采用 `Rust` 和 `Tauri` 构建的开源 `P2P` 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。
+- [SteamTools](https://github.com/BeyondDimension/SteamTools) - 一个开源跨平台的多功能 Steam 工具箱。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1571,7 +1573,8 @@
 
 - [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
-- [moyu](https://github.com/wanghao221/moyu) - 100个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
+- [moyu](https://github.com/wanghao221/moyu) - 100 个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
+- [CubeCity](https://github.com/hexianWeb/CubeCity) - 一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 `Three.js` 和 `Vue3` 构建。[在线体验](https://cube-city.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
