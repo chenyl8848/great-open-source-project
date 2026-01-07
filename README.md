@@ -268,7 +268,7 @@
 
 ###	React 项目
 
-- [flat](https://github.com/netless-io/flat) - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
+- [flat](https://github.com/netless-io/flat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3Dnb2qCi7QSbkkcwOSgNGQ)</sup> - 个人老师可直接使用的**在线授课软件**，开箱即用前后端完全开源，快速搭建简约美观的在线教室。[在线体验](https://flat-web.whiteboard.agora.io/)
 - [tide](https://gitee.com/oschina/tide) - 开箱即用、扩展性强、支持 `Markdown` 语法、基础功能完善的 `React` 富文本编辑器。
 - [molecule](https://github.com/DTStack/molecule) - 一个轻量的 `Web` `IDE` `UI` 框架。[在线体验](https://dtstack.github.io/molecule-examples/#/)
 - [illa-builder](https://github.com/illacloud/illa-builder) - 一个强大的开源低代码平台。
@@ -599,7 +599,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - 一款强大的 `SQL` 注入工具。
 - [slashbase](https://github.com/slashbaseide/slashbase) - 支持 `MySQL`、`PostgreSQL`&`MongoDB` 的数据库管理 `IDE`.[在线体验](https://demo.slashbase.com/)
 - [SmartSqlT](https://github.com/TeslaFly01/SmartSqlT)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/so3zGjbz8FLHhOHVCcVQVw)</sup> - 一款方便、快捷的数据库文档查询、导出工具。
-- [dbsyncer](https://github.com/86dbs/dbsyncer) - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
+- [dbsyncer](https://github.com/86dbs/dbsyncer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wfjcDTmSkoQsvS20GDEnZg)</sup> - 一款开源的数据同步中间件。[在线文档](https://gitee.com/ghi/dbsyncer/wikis/%E4%BB%8B%E7%BB%8D)
 - [datalinkx](https://github.com/spitfireuptown/datalinkx) - 异构数据源之间的数据同步系统，支持海量数据的增量或全量同步，同时支持 `HTTP`、`Oracle`、`MySQL`、`ES` 等数据源之间的数据流转。
 - [drawdb](https://github.com/drawdb-io/drawdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dHP6FG-me7qW8njWPAL4wA)</sup> - 免费、简单且直观的在线数据库设计工具和 `SQL` 生成器。[在线体验](https://drawdb.vercel.app/)
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库管理器。[在线体验](https://demo.dbgate.org/)
@@ -723,6 +723,7 @@
 - [filestash](https://github.com/mickael-kerjean/filestash) - 类似 `Dropbox` 的文件管理器，可让您在任何地方管理数据。[在线体验](http://demo.filestash.app/) [在线文档](https://www.filestash.app/docs/)
 - [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
 - [tank](https://github.com/eyebluecn/tank)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a-0lVNyNPZCV1Vwmb8P1pw)</sup> - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
+- [twake-drive](https://github.com/linagora/twake-drive) - 开源网盘工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -732,7 +733,8 @@
 - [weixin-java-mp-demo](https://github.com/binarywang/weixin-java-mp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信公众号** `Java` 后端 `Demo`，支持多公众号。
 - [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
 - [wx-api](https://github.com/niefy/wx-api) - 微信公众号管理系统，包含公众号菜单管理、自动回复、素材管理、模板消息、粉丝管理等功能，前后端都开源免费。
-- [wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于 `Docker` 的微信/QQ `Linux` 客户端，使用 `Selkies WebRTC` 技术提供浏览器访问支持。
+- [wechat-selkies](https://github.com/nickrunning/wechat-selkies)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3fU2ibdLJHPDaTHCK_G-CA)</sup> - 基于 `Docker` 的微信/QQ `Linux` 客户端，使用 `Selkies WebRTC` 技术提供浏览器访问支持。
+- [wxdh](https://github.com/zixiwangluo/wxdh) - 微信对话聊天生成器。[在线体验](https://zixiwangluo.github.io/wxdh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -934,7 +936,7 @@
 - [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
-- [MaxKB](https://github.com/1Panel-dev/MaxKB) - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
+- [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -987,6 +989,7 @@
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - 一个用于管理各种远程连接协议（如 `RDP`、`SSH`、`VNC` 等）的开源工具。[在线文档](https://mremoteng.readthedocs.io/en/latest/)
 - [termora](https://github.com/TermoraDev/termora) - 一款跨平台终端模拟器和 `SSH` 客户端，支持 `Windows`、`macOS`、`Linux`. [在线文档](https://www.termora.app/)
 - [shell360](https://github.com/nashaofu/shell360) - 一款跨平台的 `SSH` & `SFTP` 客户端，支持 `Windows`、`macOS`、`Linux`、`Android` 和 `iOS`.
+- [aaPanel](https://github.com/aaPanel/aaPanel) - 一个简单但功能强大的主机控制面板，通过基于 `Web` 的 `GUI`（图形用户界面）管理服务器。[在线体验](https://demo.aapanel.com/fdgi87jbn/) [在线文档](https://www.aapanel.com/docs/)
 - [billd-desk](https://github.com/galaxy-s10/billd-desk) - 一款基于 `Vue3` + `WebRTC` + `Nodejs` + `Electron` + `Flutter` 搭建的远程桌面控制工具（Win、Mac、安卓）。[在线体验](https://desk.hsslive.cn/#/remote)
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - 一款高性能、跨平台的 `VNC` 客户端和服务器，基于 `RealVNC 4` 和 `X.org` 代码库开发，专门用于远程访问和控制计算机。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
@@ -1328,6 +1331,7 @@
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
 - [TypeWords](https://github.com/zyronon/TypeWords) - 开源英语单词与文章练习工具。[在线体验](https://2study.top/)
 - [NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照。[在线体验](https://nce.ichochy.com/)
+- [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1411,7 +1415,7 @@
 - [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 一款快速检测微信单向好友的工具软件。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - `Windows` 内存清理器。
-- [LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 `CPU`、`GPU`、内存、磁盘、网络等系统性能。
+- [LiteMonitor](https://github.com/Diorser/LiteMonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1-Z-fBZCYjfmoP32DGYqVA)</sup> - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 `CPU`、`GPU`、内存、磁盘、网络等系统性能。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
