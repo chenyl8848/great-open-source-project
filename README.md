@@ -297,7 +297,7 @@
 
 ### HTML 项目
 
-- [gift-book](https://github.com/jingguanzhang/gift-book) - 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。[在线体验](https://gift-book.static.domains/)
+- [gift-book](https://github.com/jingguanzhang/gift-book)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PY1X2tgRPu3BEimMCkpF3Q)</sup> - 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。[在线体验](https://gift-book.static.domains/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -589,7 +589,7 @@
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
-- [Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
+- [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
 - [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
@@ -882,6 +882,8 @@
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tjgu1vlWHDuObs4saHmUmA)</sup> - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
+- [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
+- [91Writing](https://github.com/ponysb/91Writing) - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -975,6 +977,7 @@
 - [shellcheck](https://github.com/koalaman/shellcheck) - 静态 `Shell` 脚本分析工具。[在线体验](https://www.shellcheck.net/#)
 - [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 - [tldr](https://github.com/tldr-pages/tldr) - 命令速查手册工具。[在线体验](https://tldr.inbrowser.app/)
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - 一个将多种 API 文档集合于一体的工具网站，支持离线使用、模糊搜索和键盘操作，提升开发者查阅效率。[在线体验](https://devdocs.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1042,7 +1045,7 @@
 - [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
 - [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
-- [bentopdf](https://github.com/alam00000/bentopdf) —— 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
+- [bentopdf](https://github.com/alam00000/bentopdf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wyyQBOQzXJj3naWP8c3HEQ)</sup> —— 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1101,6 +1104,7 @@
 - [BiliTools](https://github.com/btjawa/BiliTools) - 平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源。
 - [parse-video](https://github.com/wujunwei928/parse-video) - 基于 Golang 实现的短视频去水印工具，视频目前支持 20 个平台，图集目前支持 4 个平台。
 - [StreamCap](https://github.com/ihmily/StreamCap)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6FNKdBTQ69diOcX_ApQ7Tg)</sup> - 一个基 `于FFmpeg` 和 `StreamGet` 的**多平台直播流录制客户端**，覆盖 40+ 国内外主流直播平台，支持批量录制、循环监控、定时监控和自动转码等功能。
+- [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的微信公众号文章批量下载工具。[在线体验](https://down.mptext.top/dashboard/account)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
