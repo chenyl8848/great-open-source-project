@@ -246,7 +246,6 @@
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 - [teriteri-client](https://github.com/xunlu129/teriteri-client) - 一个基于 `Vue3` 搭建的视频网站平台客户端。
 - [varlet-app-template](https://github.com/varletjs/varlet-app-template) - 一个开箱即用的轻量化移动端 Web 模板，基于 `Vue3`、 `Varlet`、 `Vite`、`Typescript` 开发。[在线体验](https://varlet-app-template.vercel.app/)
-- [typing-word](https://github.com/zyronon/typing-word) - 可在网页上使用的背单词软件。[在线体验](https://typing-word.ttentau.top/#/practice)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2A1pjtVQLjoUyoMfcRahdw)</sup> - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
@@ -292,12 +291,13 @@
 - [LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（`Android`、`Windows`、`Linux`、`MacOS` 等），直装免部署。
 - [priospace](https://github.com/AnoyRC/priospace) - 一个漂亮、现代的高效能应用，将任务管理与番茄钟功能、习惯追踪和实时协作相结合。[在线体验](https://prio.space/)
 - [evershop](https://github.com/evershopcommerce/evershop) - 一个现代化的、以 `TypeScript` 为先的**电商平台**，采用 `GraphQL` 和 `React` 构建。[在线体验](https://demo.evershop.io/) [在线文档](https://evershop.io/docs/development/getting-started/introduction)
+- [WindowPet](https://github.com/SeakMengs/WindowPet) - 一款使用 `Tauri` 和 `React` 构建的宠物叠加应用程序，可让您在屏幕上拥有可爱的宠物、动漫人物等伙伴。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ### HTML 项目
 
-- [gift-book](https://github.com/jingguanzhang/gift-book)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PY1X2tgRPu3BEimMCkpF3Q)</sup> - 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。[在线体验](https://gift-book.static.domains/)
+- [gift-book](https://github.com/jingguanzhang/gift-book)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PY1X2tgRPu3BEimMCkpF3Q)</sup> - 一款开源免费，完全离线、数据 AES 加密的现代化电子礼簿系统。[在线体验](https://jingguanzhang.github.io/gift-book/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -473,7 +473,7 @@
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 免费开源的**中后台模版**，基于`Vue3`, `Vite2`,`TypeScript` 等主流技术开发，开箱即用的**中后台前端**解决方案。[在线体验](https://vben.vvbin.cn/#/login?redirect=/dashboard)
 - [vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin) - 基于 `Vue3` + `ElementPlus` + `Typescript` + `Vite` 搭建的**后台管理模板**；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等。[在线体验](https://geekqiaqia.github.io/vue3.0-template-admin/#/login?redirect=/home)
 - [vue3-element-plus-admin](https://github.com/gmingchen/vue3-element-plus-admin) - 基于 `Vue3` + `Element-Plus` + `Java` 的多企业后台权限管理系统，提供了完善的权限体系，可以用于**网站管理后台**、`SAAS`、`CMS`、`CRM`、`OA`、`ERP`等，企业和个人都可以免费使用。[在线体验](http://admin.gumingchen.icu/) [在线文档](http://admin.gumingchen.icu/doc/)
-- [soybean-admin](https://github.com/honghuangdc/soybean-admin) - 基于`Vue3`、`Vite3`、`TypeScript`、`NaiveUI` 和 `UnoCSS` 的清新优雅的**中后台模版**。[在线体验](https://soybean.pro/#/login?redirect=/dashboard/analysis) [在线文档](https://docs.soybean.pro/)
+- [soybean-admin](https://github.com/honghuangdc/soybean-admin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XlanEoxdWkpeDk91tjvEyw)</sup> - 基于`Vue3`、`Vite3`、`TypeScript`、`NaiveUI` 和 `UnoCSS` 的清新优雅的**中后台模版**。[在线体验](https://soybean.pro/#/login?redirect=/dashboard/analysis) [在线文档](https://docs.soybean.pro/)
 - [cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 一个很酷的**后台权限管理框架**，模块化、插件化、CRUD极速开发，永久开源免费，基于`midway.js 3.0`、`typeorm`、`mysql`、`jwt`、`element-ui`、`vuex`、`vue-router`、`vue` 等构建。[在线体验](https://show.cool-admin.com/)  账户：`admin`，密码：`123456` [在线文档](https://cool-js.com/)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于`Vite` + `Vue3` + `Gin` 搭建的开发基础平台（支持 `Ts` , `Js` 混用），集成 `Jwt` 鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。[在线体验](https://demo.gin-vue-admin.com/#/login?redirect=%23/) [在线文档](https://www.gin-vue-admin.com/)
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于 `Vue3` + `Element UI Plus` 的**后台管理系统**解决方案。[在线体验](https://lin-xin.gitee.io/example/work/#/dashboard)
@@ -589,7 +589,7 @@
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用**数据库工具**和 `SQL` 客户端。
 - [milvus](https://github.com/milvus-io/milvus) - 一个云原生的矢量数据库，为下一代人工智能应用提供存储空间。[在线文档](https://milvus.io/docs)
 - [minio](https://github.com/minio/minio) - 一个高性能的**对象存储**，它与 `Amazon S3` 云存储服务的 `API` 兼容。[在线文档](https://min.io/docs/minio/kubernetes/upstream/)
-- [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
+- [Chat2DB](https://github.com/CodePhiliaX/Chat2DB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6dH4qVOiGZVl2ETJ_TBvjw)</sup> - 智能的通用**数据库工具**和 `SQL` 客户端。[在线文档](https://chat2db.opensource.alibaba.com/docs/)
 - [Yearning](https://github.com/cookieY/Yearning) - 开箱即用的 `MySQL`、 `SQL` 审核工具。[在线文档](http://next.yearning.io/)
 - [otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)。[在线文档](https://github.com/alibaba/otter/wiki)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - 一个基于 `SpringBoot` 的快速集成多数据源的启动器。[在线文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)
@@ -834,10 +834,9 @@
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [MyIP](https://github.com/jason5ng32/MyIP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TQR4-66DEOkZDzyAE6IPug)</sup> - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
-- [certimate](https://github.com/usual2970/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
+- [certimate](https://github.com/certimate-go/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
 - [domain-admin](https://github.com/dromara/domain-admin) - 域名 `SSL` 证书监测平台、`SSL` 证书申请自动续签。[在线体验](https://mouday.github.io/domain-admin-web/) [在线文档](https://domain-admin.readthedocs.io/zh-cn/latest/index.html)
 - [allinssl](https://github.com/allinssl/allinssl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/UMQrASASY1yVM0MD5nDMzw)</sup> - 一个集证书申请、管理、部署和监控于一体的 `SSL` 证书全生命周期管理工具。[在线文档](https://allinssl.com/)
-
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -978,6 +977,7 @@
 - [MooTool](https://github.com/rememberber/MooTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aABaRjt_0goXCQX-EiDwXg)</sup> - 开发者常备桌面小工具。[在线文档](https://mootool.luoboduner.com/)
 - [tldr](https://github.com/tldr-pages/tldr) - 命令速查手册工具。[在线体验](https://tldr.inbrowser.app/)
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - 一个将多种 API 文档集合于一体的工具网站，支持离线使用、模糊搜索和键盘操作，提升开发者查阅效率。[在线体验](https://devdocs.io/)
+- [nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1105,6 +1105,7 @@
 - [parse-video](https://github.com/wujunwei928/parse-video) - 基于 Golang 实现的短视频去水印工具，视频目前支持 20 个平台，图集目前支持 4 个平台。
 - [StreamCap](https://github.com/ihmily/StreamCap)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6FNKdBTQ69diOcX_ApQ7Tg)</sup> - 一个基 `于FFmpeg` 和 `StreamGet` 的**多平台直播流录制客户端**，覆盖 40+ 国内外主流直播平台，支持批量录制、循环监控、定时监控和自动转码等功能。
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的微信公众号文章批量下载工具。[在线体验](https://down.mptext.top/dashboard/account)
+- [videodl](https://github.com/CharlesPikachu/videodl) - 轻量级视频下载器。[在线文档](https://videofetch.readthedocs.io/zh/latest/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1333,7 +1334,7 @@
 - [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
-- [TypeWords](https://github.com/zyronon/TypeWords) - 开源英语单词与文章练习工具。[在线体验](https://2study.top/)
+- [TypeWords](https://github.com/zyronon/TypeWords) - 开源英语单词与文章练习工具。[在线体验](https://typewords.cc/)
 - [NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照。[在线体验](https://nce.ichochy.com/)
 - [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
 
