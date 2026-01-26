@@ -183,6 +183,7 @@
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
 - [godoos](https://github.com/phpk/godoos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/faGNhoNXXI5nrzo9FReRFA)</sup> - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
 - [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
+- [vikunja](https://github.com/go-vikunja/vikunja) - 一个用 `Go` 语言编写的开源待办事项应用程序，旨在帮助个人和团队更好地组织生活和工作。[在线体验](https://try.vikunja.io/) [在线文档](https://vikunja.io/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -793,7 +794,7 @@
 - [uptime-kuma](https://github.com/louislam/uptime-kuma)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ZJt50x51eFYIw6lv2T4VmQ)</sup> - 简易美观的**监控工具**。[在线体验](https://demo.uptime.kuma.pet:27000/)
 - [oshi](https://github.com/oshi/oshi) - 基于 `JNA`（本地）的免费的操作系统和硬件信息库，专为 `Java` 设计。它可以跨平台的获取系统信息以及硬件信息，如操作系统版本、进程、内存和 `CPU` 使用情况、磁盘和分区、设备、传感器等。[在线文档](https://www.oshi.ooo/)
 - [Ward](https://github.com/Rudolf-Barbu/Ward) - 一款简单、极简主义的服务器监控工具。`SpringBoot` 项目，集成 `OSHI` 的使用。
-- [spug](https://github.com/openspug/spug) - 面向中小型企业设计的轻量级无 `Agent` 的**自动化运维平台**，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。[在线体验](https://demo.spug.cc/) [在线文档](https://spug.cc/docs/about-spug/) 
+- [spug](https://github.com/openspug/spug)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/x-__P4hQ6K03fSPER9UtNA)</sup> - 面向中小型企业设计的轻量级无 `Agent` 的**自动化运维平台**，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。[在线体验](https://demo.spug.cc/) [在线文档](https://spug.cc/docs/about-spug/) 
 - [skywalking](https://github.com/apache/skywalking) - APM, 应用性能监控系统。[在线体验](http://demo.skywalking.apache.org/) [在线文档](https://skywalking.apache.org/docs/)
 - [pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM，（应用性能管理）工具，用于大规模分布式系统。[在线体验](http://125.209.240.10:10123/main) [在线文档](https://pinpoint-apm.gitbook.io/pinpoint/)
 - [serverless](https://github.com/serverless/serverless) - 无服务器框架，基于 `AWS Lambda`、`Azure Functions`、`Google CloudFunctions` 等无服务器架构构建网络、移动和物联网应用。[在线文档](https://cn.serverless.com/framework/docs)
@@ -834,7 +835,7 @@
 - [web-check](https://github.com/Lissy93/web-check) - 用于分析任何网站的一体化网站 `OSINT` 工具。[在线体验](https://web-check.as93.net/)
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。[在线文档](https://ehang-io.github.io/nps/#/)
 - [MyIP](https://github.com/jason5ng32/MyIP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TQR4-66DEOkZDzyAE6IPug)</sup> - `IP` 工具箱。[在线体验](https://ipcheck.ing/#/)
-- [certimate](https://github.com/certimate-go/certimate) - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
+- [certimate](https://github.com/certimate-go/certimate)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Yq7ITxrQPVMbwhUmxEUlkw)</sup> - 开源的 `SSL` **证书管理工具**，可以帮助你自动申请、部署 `SSL` 证书，并在证书即将过期时自动续期。[在线文档](https://docs.certimate.me/)
 - [domain-admin](https://github.com/dromara/domain-admin) - 域名 `SSL` 证书监测平台、`SSL` 证书申请自动续签。[在线体验](https://mouday.github.io/domain-admin-web/) [在线文档](https://domain-admin.readthedocs.io/zh-cn/latest/index.html)
 - [allinssl](https://github.com/allinssl/allinssl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/UMQrASASY1yVM0MD5nDMzw)</sup> - 一个集证书申请、管理、部署和监控于一体的 `SSL` 证书全生命周期管理工具。[在线文档](https://allinssl.com/)
 
@@ -882,7 +883,7 @@
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tjgu1vlWHDuObs4saHmUmA)</sup> - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 - [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
-- [91Writing](https://github.com/ponysb/91Writing) - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
+- [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1106,6 +1107,7 @@
 - [StreamCap](https://github.com/ihmily/StreamCap)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6FNKdBTQ69diOcX_ApQ7Tg)</sup> - 一个基 `于FFmpeg` 和 `StreamGet` 的**多平台直播流录制客户端**，覆盖 40+ 国内外主流直播平台，支持批量录制、循环监控、定时监控和自动转码等功能。
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的微信公众号文章批量下载工具。[在线体验](https://down.mptext.top/dashboard/account)
 - [videodl](https://github.com/CharlesPikachu/videodl) - 轻量级视频下载器。[在线文档](https://videofetch.readthedocs.io/zh/latest/)
+- [VidBee](https://github.com/nexmoe/VidBee) - 一款现代化的开源视频下载器，支持从全球 1000 多个网站下载视频和音频。[在线文档](https://docs.vidbee.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
