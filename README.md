@@ -49,6 +49,7 @@
     - [音乐播放器项目](#音乐播放器项目)
     - [爬虫项目](#爬虫项目)
     - [文件管理项目](#文件管理项目)
+    - [文件传输项目](#文件传输项目)
     - [微信项目](#微信项目)
     - [小程序项目](#小程序项目)
     - [报表大屏设计器项目](#报表大屏设计器项目)
@@ -59,6 +60,7 @@
     - [浏览器导航页](#浏览器导航页)
     - [UI 框架](#ui-框架)
   - [AI 项目](#ai-项目)
+    - [网关项目](#网关项目)
     - [ChatGPT 项目](#chatgpt-项目)
     - [图像处理](#图像处理)
     - [音频处理](#音频处理)
@@ -102,6 +104,7 @@
     - [API 接口管理](#api-接口管理)
     - [项目管理](#项目管理)
     - [知识库管理](#知识库管理)
+    - [个人笔记项目](#个人笔记项目)
     - [Markdown 编辑器](#markdown-编辑器)
   - [宝藏项目](#宝藏项目)
     - [副业赚钱](#副业赚钱)
@@ -182,7 +185,6 @@
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
 - [godoos](https://github.com/phpk/godoos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/faGNhoNXXI5nrzo9FReRFA)</sup> - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
-- [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 - [vikunja](https://github.com/go-vikunja/vikunja) - 一个用 `Go` 语言编写的开源待办事项应用程序，旨在帮助个人和团队更好地组织生活和工作。[在线体验](https://try.vikunja.io/) [在线文档](https://vikunja.io/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -292,7 +294,7 @@
 - [LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（`Android`、`Windows`、`Linux`、`MacOS` 等），直装免部署。
 - [priospace](https://github.com/AnoyRC/priospace) - 一个漂亮、现代的高效能应用，将任务管理与番茄钟功能、习惯追踪和实时协作相结合。[在线体验](https://prio.space/)
 - [evershop](https://github.com/evershopcommerce/evershop) - 一个现代化的、以 `TypeScript` 为先的**电商平台**，采用 `GraphQL` 和 `React` 构建。[在线体验](https://demo.evershop.io/) [在线文档](https://evershop.io/docs/development/getting-started/introduction)
-- [WindowPet](https://github.com/SeakMengs/WindowPet) - 一款使用 `Tauri` 和 `React` 构建的宠物叠加应用程序，可让您在屏幕上拥有可爱的宠物、动漫人物等伙伴。
+- [WindowPet](https://github.com/SeakMengs/WindowPet)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0wKkur8zkRexxKYhCMSYRQ)</sup> - 一款使用 `Tauri` 和 `React` 构建的宠物叠加应用程序，可让您在屏幕上拥有可爱的宠物、动漫人物等伙伴。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -706,16 +708,10 @@
 - [zfile](https://github.com/zfile-dev/zfile)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HO2CkpM_3ptmO4kXSiMgOQ)</sup> - 基于 `Java` 的**在线网盘程序**，支持对接 `S3`、`OneDrive`、`SharePoint`、又拍云、本地存储、`FTP`、`SFTP` 等存储源，支持在线浏览图片、播放音视频，文本文件、`Office`、`obj（3d）`等文件类型。[在线体验](https://demo.zfile.vip/) [在线文档](https://docs.zfile.vip)
 - [kkFileView](https://github.com/kekingcn/kkFileView) - 基于 `Spring Boot` 的**文件在线体验**项目。[在线体验](https://file.kkview.cn/) [在线文档](https://kkfileview.keking.cn/zh-cn/index.html)
 - [qiwen-file](https://gitee.com/qiwen-cloud/qiwen-file)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zpINB3Idzqf8Z9PaTowxZQ)</sup> - 一款 于 `SpringBoot` 实现、功能齐全的文件管理系统。[在线文档](https://pan.qiwenshare.com/docs/)
-- [FileCodeBox](https://github.com/vastsa/FileCodeBox)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiGz10t61HOKVxIXAKwDwQ)</sup> - 基于 `Python` 实现的文件快递柜——匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nxRWVcP5jPJEs4H1xnkndg)</sup> - 使用 `Go` + `Vue` 编写的工具，用于在浏览器中对服务器上的文件进行管理。[在线体验](https://demo.filebrowser.org/login?redirect=%2Ffiles%2F) [在线文档](https://filebrowser.org/)
-- [go-file](https://github.com/songquanpeng/go-file)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IsBR5nHfREowcYA7GMqjQw)</sup> - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
-- [picoshare](https://github.com/mtlynch/picoshare)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/R0myrX_2IDUO5bngQkRxpw)</sup> - 一款基于 `Go` 实现的极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
 - [filegator](https://github.com/filegator/filegator) - 基于 `PHP` + `Vue` 实现的多用户文件管理器。[在线体验](https://demo.filegator.io/#/)
 - [kodbox](https://github.com/kalcaddle/kodbox) -  基于 `PHP` 实现的 `Web` 文件管理器。[在线体验](https://demo.kodcloud.com/)
 - [dufs](https://github.com/sigoden/dufs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jgulShxJVf-zu0Q-3R4tPw)</sup> - 多功能的文件服务器工具。
-- [tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - 用 `webrt` 在 `web` 端传输文件，支持传输超大文件。[在线体验](https://im.iamtsm.cn/file)
-- [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
-- [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 开源自托管的 Web 文件管理工具。
 - [OpenList](https://github.com/OpenListTeam/OpenList) - 一个支持多存储的文件列表程序，使用 `Gin` 和 `SolidJS`, 基于 `AList` 项目 `fork` 开发。[在线文档](https://docs.oplist.org/zh/)
 - [PicList](https://github.com/Kuingsmile/PicList) - 一款高效的云存储和图床平台管理工具，基于 `PicGo` 深度二次开发，提供完整的图床功能和全面的云存储管理能力。[在线文档](https://piclist.cn/)
@@ -725,6 +721,18 @@
 - [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
 - [tank](https://github.com/eyebluecn/tank)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a-0lVNyNPZCV1Vwmb8P1pw)</sup> - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
 - [twake-drive](https://github.com/linagora/twake-drive) - 开源网盘工具。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 文件传输项目
+
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jiGz10t61HOKVxIXAKwDwQ)</sup> - 基于 `Python` 实现的文件快递柜——匿名口令分享文本，文件，像拿快递一样取文件。[在线体验](https://share.lanol.cn/#/)
+- [go-file](https://github.com/songquanpeng/go-file)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IsBR5nHfREowcYA7GMqjQw)</sup> - 基于 `Go` 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面。[在线体验](https://go-file.onrender.com)
+- [picoshare](https://github.com/mtlynch/picoshare)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/R0myrX_2IDUO5bngQkRxpw)</sup> - 一款基于 `Go` 实现的极简的在线开源文件分享工具。[在线体验](https://demo.pico.rocks/)
+- [tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - 用 `webrt` 在 `web` 端传输文件，支持传输超大文件。[在线体验](https://im.iamtsm.cn/file)
+- [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
+- [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
+- [file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - `Go` + `React` 开发的端到端 `WebRTC` 的文件/文字传输、桌面共享工具，安全，隐私，数据不经过服务器。[在线体验](https://transfer.52python.cn/?type=webrtc&mode=send)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -863,7 +871,6 @@
 - [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - 绘制一个模型并为其生成 `HTML`.
 - [WantWords](https://github.com/thunlp/WantWords)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9Q_WWL9xkq9udq9FlRJ7XA)</sup> - 支持中文及跨语言查询的开源在线反向词典。[在线体验](https://wantwords.net/)
 - [search_with_lepton](https://github.com/leptonai/search_with_lepton) - 使用 `Lepton AI` 构建基于对话的快速搜索。[在线体验](https://search.lepton.run/)
-- [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [openui](https://github.com/wandb/openui) - 网页构建工具。[在线体验](https://openui.fly.dev/ai/new)
 - [MinerU](https://github.com/opendatalab/MinerU) - 一站式开源高质量数据提取工具，支持 `PDF`/网页/多格式电子书提取。[在线文档](https://opendatalab.com/docs/datasets/?channel=datasets)
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
@@ -875,15 +882,20 @@
 - [Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化 `Prompt` 管理工作流程。
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
-- [airi](https://github.com/moeru-ai/airi) - AI 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
+- [airi](https://github.com/moeru-ai/airi) - `AI` 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
 - [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
-- [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
-- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
-- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tjgu1vlWHDuObs4saHmUmA)</sup> - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
-- [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 网关项目
+
+- [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
+- [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
+- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
+- [new-api](https://github.com/QuantumNous/new-api) - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -916,6 +928,8 @@
 - [MagicMirror](https://github.com/idootop/MagicMirror) - 一键 `AI` 换脸、发型、穿搭，发现更美的自己。
 - ~~[lama-cleaner](https://github.com/Sanster/lama-cleaner) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://cleanup.pictures/)~~
 - [IOPaint](https://github.com/Sanster/IOPaint) - 一个基于人工智能模型驱动免费的、开源的图片工具，可以用它从图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换你图片上的任何东西。[在线体验](https://huggingface.co/spaces/Sanster/iopaint-lama) [在线文档](https://www.iopaint.com/)
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tjgu1vlWHDuObs4saHmUmA)</sup> - 一个集成了 `AI` 功能的 `Next.js` 网页应用，与 `draw.io` 图表无缝结合。[在线体验](https://next-ai-drawio.jiang.jp/)
+- [aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 `AI` 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。[在线体验](https://aimangastudio.liduos.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1047,6 +1061,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
 - [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
 - [bentopdf](https://github.com/alam00000/bentopdf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wyyQBOQzXJj3naWP8c3HEQ)</sup> —— 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
+- [pdfcraft](https://github.com/PDFCraftTool/pdfcraft) - 一款基于 `Next.js` 和 `WebAssembly` 构建的开源 `PDF` 工具箱。[在线体验](https://pdfcraft.devtoolcafe.com/zh/tools/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1402,6 +1417,7 @@
 - [linkandroid](https://github.com/modstart-lib/linkandroid) - 一个全能手机连接助手，方便快捷的连接 `Android` 和电脑，连接手机后可投屏、`GIF/MP4`录屏、截屏、文件管理、手机操作等功能。
 - [alt-sendme](https://github.com/tonyantony300/alt-sendme) - 一款采用 `Rust` 和 `Tauri` 构建的开源 `P2P` 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) - 一个开源跨平台的多功能 Steam 工具箱。
+- [keyStats](https://github.com/debugtheworldbot/keyStats) - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1498,7 +1514,6 @@
 - [think](https://github.com/fantasticit/think) - 一款开源**知识管理工具**。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。基于 `MySQL` 存储 + `next.js` 前端页面 + `nest.js` 服务端 + `tiptap` 编辑器及文档协作。[在线体验](https://think.codingit.cn/) [在线文档](https://think.codingit.cn/share/wiki/WoiR8N5uj4i7)
 - [wiki](https://github.com/requarks/wiki) - 一款基于 `Node.js` 的开源**知识管理工具**。[在线体验](https://docs.requarks.io/demo)
 - [logseq](https://github.com/logseq/logseq) - 一个隐私至上的知**识管理和协作的开源平台**。[在线体验](https://trello.com/b/8txSM12G/logseq-roadmap)
-- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [siyuan](https://github.com/siyuan-note/siyuan) - 一款本地优先的个人**知识管理系统**， 支持细粒度块级引用和 `Markdown` 所见即所得。
 - [BoostNote-App](https://github.com/BoostIO/BoostNote-App) - 一个文件驱动的`项目管理工具`，可以最大限度地提高远程 `DevOps` 团队的速度。[在线体验](https://boostnote.io/)
 - [mkdocs](https://github.com/mkdocs/mkdocs) - 一个快速、简单和完全华丽的**静态网站生成器**，主要用于构建项目文档。文档源文件用 `Markdown` 编写，并通过一个 `YAML` 配置文件进行配置。[在线文档](https://www.mkdocs.org/)
@@ -1511,6 +1526,14 @@
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - 一个集规划、分类和创建于一体的下一代知识库。[在线体验](https://app.affine.pro/)
 - [mindoc](https://github.com/mindoc-org/mindoc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XEoyuopUQQ1EC7AEIjZ0tw)</sup> - 一款针对 IT 团队开发、基于 `Go` 实现、简单好用的文档管理系统。[在线体验](https://mindoc.com.cn/) [在线文档](https://www.iminho.me/)
 - [docs](https://github.com/suitenumerique/docs) - 一个基于 `Django` 和 `React` 构建可扩展的协作笔记、`Wiki` 和文档平台。[在线体验](https://impress-preprod.beta.numerique.gouv.fr/docs/6ee5aac4-4fb9-457d-95bf-bb56c2467713/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 个人笔记项目
+
+- [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
+- [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
+- [Rote](https://github.com/Rabithua/Rote) - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
