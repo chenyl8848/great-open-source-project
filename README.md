@@ -64,6 +64,7 @@
     - [ChatGPT 项目](#chatgpt-项目)
     - [图像处理](#图像处理)
     - [音频处理](#音频处理)
+    - [影视工具](#影视工具)
     - [应用平台](#应用平台)
   - [工具项目](#工具项目)
     - [开发工具](#开发工具)
@@ -186,7 +187,8 @@
 - [BillionMail](https://github.com/aaPanel/BillionMail) - 一个未来的开源邮件服务器和电子邮件营销平台。[在线体验](https://demo.billionmail.com/overview) [在线文档](https://www.billionmail.com/zh_CN/)
 - [pansou](https://github.com/fish2018/pansou) - 一款高性能的网盘资源搜索 `API` 服务，支持 TG 频道和插件搜索。[在线体验](https://so.252035.xyz/)
 - [godoos](https://github.com/phpk/godoos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/faGNhoNXXI5nrzo9FReRFA)</sup> - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
-- [vikunja](https://github.com/go-vikunja/vikunja) - 一个用 `Go` 语言编写的开源待办事项应用程序，旨在帮助个人和团队更好地组织生活和工作。[在线体验](https://try.vikunja.io/) [在线文档](https://vikunja.io/docs/)
+- [vikunja](https://github.com/go-vikunja/vikunja)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RVnIJYxKChxbIa6s-FNGeA)</sup> - 一个用 `Go` 语言编写的开源待办事项应用程序，旨在帮助个人和团队更好地组织生活和工作。[在线体验](https://try.vikunja.io/) [在线文档](https://vikunja.io/docs/)
+- [rememory](https://github.com/eljojo/rememory) - 对文件进行加密，并将密钥分配给您信任的人。[在线文档](https://eljojo.github.io/rememory/) [在线体验](https://eljojo.github.io/rememory/maker.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -343,6 +345,7 @@
 - [plyr](https://github.com/sampotts/plyr) - 一款简单、轻量、可访问且可定制的 `HTML5`、`YouTube` 和 `Vimeo` 媒体播放器，支持现代浏览器。
 - [snapdom](https://github.com/zumerlab/snapdom) - 将网页元素变成图片（截图）的工具库。[在线体验](https://zumerlab.github.io/snapdom/)
 - [signature_pad](https://github.com/szimek/signature_pad) - 一个用于绘制平滑签名的 `JavaScript` 库。[在线体验](https://szimek.github.io/signature_pad/)
+- [hanzi-writer](https://github.com/chanind/hanzi-writer) - 一款用于展示汉字笔画顺序和交互式书写练习的 `JavaScript` 库，支持简/繁体字、调节播放速度、循环方式、实时检查笔画正确性等功能。[在线体验](https://hanziwriter.org/demo.html) [在线文档](https://hanziwriter.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -390,6 +393,7 @@
 - [vue-color](https://github.com/linx4200/vue-color) - 一个专为现代网络开发而设计的高效且可自定义的**颜色选择器**的集合。[在线体验](https://linx4200.github.io/vue-color/)
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换工具，转换中文字符为拼音，可以用于汉字注音、排序、检索。[在线体验](https://pinyin.js.org/example/index.html) [在线文档](https://pinyin.js.org/)
 - [document](https://github.com/ranuts/document) - 基于 `OnlyOffice` 的本地网页文档编辑器，直接在浏览器中编辑文档，无需服务器端处理，保护隐私安全。[在线体验](https://ranuts.github.io/document/)
+- [cloud-mail](https://github.com/maillab/cloud-mail) - 基于 Cloudflare 的简约响应式邮箱服务，支持邮件发送、附件收发。[在线体验](https://skymail.ink/login) [在线文档](https://doc.skymail.ink/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -722,6 +726,7 @@
 - [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
 - [tank](https://github.com/eyebluecn/tank)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a-0lVNyNPZCV1Vwmb8P1pw)</sup> - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
 - [twake-drive](https://github.com/linagora/twake-drive) - 开源网盘工具。
+- [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare 的开源文件托管解决方案。[在线体验](https://cfbed.1314883.xyz/) [在线文档](https://cfbed.sanyue.de/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -947,6 +952,12 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
+### 影视工具
+
+- [moyin-creator](https://github.com/MemeCalculate/moyin-creator) - `AI` 影视生产级工具，支持 `Seedance2.0`，剧本到成片全流程批量化。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
 ### 应用平台
 
 - [chat-master](https://github.com/panday94/chat-master)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/V3Od95sub0q9mQ-gliEMsQ)</sup> - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
@@ -994,6 +1005,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - 命令速查手册工具。[在线体验](https://tldr.inbrowser.app/)
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - 一个将多种 API 文档集合于一体的工具网站，支持离线使用、模糊搜索和键盘操作，提升开发者查阅效率。[在线体验](https://devdocs.io/)
 - [nginxpulse](https://github.com/likaia/nginxpulse)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2iLN3tQ51_iLThFpD1peNA)</sup> - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
+- [zoonavigator](https://github.com/elkozmon/zoonavigator) - 基于 Web 的 ZooKeeper 用户界面。[在线文档](https://zoonavigator.elkozmon.com/en/latest/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1026,6 +1038,7 @@
 - [docker.ui](https://github.com/gohutool/docker.ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XTw4iK7klrwLunoGiYzu9w)</sup> - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
 - [DweebUI](https://github.com/lllllllillllllillll/DweebUI) - 一个用于管理容器的 WebUI.
 - [kite](https://github.com/zxh326/kite) - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
+- [app2docker](https://github.com/numen06/app2docker) - 一键将应用打包成 `Docker` 镜像的可视化平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1051,6 +1064,7 @@
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4qfQC-aXEbs4HzBdqeLslA)</sup> - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
+- [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - 基于 `GitHub` 贡献生成太空射击动图。[在线体验](https://gh-space-shooter.kiyo-n-zane.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1454,6 +1468,7 @@
 - [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。 
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
+- [XMSLEEP](https://github.com/Tosencen/XMSLEEP) - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
