@@ -445,6 +445,7 @@
 - [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
 - [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3z0NBdFPG-SwEWjprQMVqw)</sup> - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
 - [renren-security](https://gitee.com/renrenio/renren-security)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XtD_NcCP3vNt1S7G-fytyQ)</sup> - 一个基于 `SpringBoot3.x` + `Vue3` 实现、轻量级的、前后端分离的 `Java` 快速开发平台，能快速开发项目并交付。[在线体验](https://demo.open.renren.io/renren-security)
+- [password-xl](https://github.com/peng0105/password-xl) - 一款开源的**密码管理工具**。[在线体验](https://password-xl.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -618,7 +619,7 @@
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - 基于 `Python` 实现的在线 `SQLite` 数据库操作工具。
 - [sqlpage](https://github.com/sqlpage/sqlpage) - 一款基于 `SQL` 的网页应用构建器。[在线体验](https://sql-page.com/)
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
-- [SQLBot](https://github.com/dataease/SQLBot) - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
+- [SQLBot](https://github.com/dataease/SQLBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_Lwad5TlLcW8JCgMPvmPrg)</sup> - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
 - [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -726,7 +727,8 @@
 - [copyparty](https://github.com/9001/copyparty) - 一个便携式文件服务器，具有加速可恢复上传、重复数据删除、`WebDAV`、`FTP`、`TFTP`、零配置、媒体索引器、缩略图++等功能。[在线体验](https://a.ocv.me/pub/demo/) 
 - [tank](https://github.com/eyebluecn/tank)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a-0lVNyNPZCV1Vwmb8P1pw)</sup> - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
 - [twake-drive](https://github.com/linagora/twake-drive) - 开源网盘工具。
-- [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare 的开源文件托管解决方案。[在线体验](https://cfbed.1314883.xyz/) [在线文档](https://cfbed.sanyue.de/)
+- [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PuiS509X7EHxSx2O_ts5vw)</sup>  - 基于 CloudFlare 的开源文件托管解决方案。[在线体验](https://cfbed.1314883.xyz/) [在线文档](https://cfbed.sanyue.de/)
+- [free-fs](https://github.com/dromara/free-fs) - 基于 `Spring Boot 3.5` + `MyBatis Flex` + `MySQL` + `Redis` 的企业级网盘系统。[在线文档](https://free-fs.top/zh/docs/quick-start)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -835,7 +837,7 @@
 - [beszel](https://github.com/henrygd/beszel) - 轻量易用的服务器监控。[在线文档](https://beszel.dev/zh/)
 - [cmdb](https://github.com/veops/cmdb)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hFnCwGpfZ80fesrA69tW_Q)</sup> - 一个简洁、轻量且高度可定制的运维配置管理数据库（`CMDB`）。[在线体验](https://cmdb.veops.cn/) [在线文档](https://veops.cn/docs/)
 - [netdata](https://github.com/netdata/netdata)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aZXj4WANdl5suMtmDYmUnA)</sup> - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
-- [coolmonitor](https://github.com/star7th/coolmonitor) - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
+- [coolmonitor](https://github.com/star7th/coolmonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/O1hPmxgjHXFlimMyomD7-g)</sup> - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
 - [komari](https://github.com/komari-monitor/komari)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y9bM3HL8-EqtaeGxiIpusA)</sup> - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -901,7 +903,7 @@
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
-- [new-api](https://github.com/QuantumNous/new-api) - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
+- [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1037,7 +1039,7 @@
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - 一个用于**管理 `Docker` 容器的网络界面**，强调模板化，提供一键部署。
 - [docker.ui](https://github.com/gohutool/docker.ui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XTw4iK7klrwLunoGiYzu9w)</sup> - 一个 Docker 容器和 Docker Swarm 集群的可视化管理工具。
 - [DweebUI](https://github.com/lllllllillllllillll/DweebUI) - 一个用于管理容器的 WebUI.
-- [kite](https://github.com/zxh326/kite) - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
+- [kite](https://github.com/zxh326/kite)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sWi7E5ifHGBSIIktCh8kHQ)</sup> - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
 - [app2docker](https://github.com/numen06/app2docker) - 一键将应用打包成 `Docker` 镜像的可视化平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1468,7 +1470,7 @@
 - [LibreTube](https://github.com/libre-tube/LibreTube) - 开源的**油管** `Android` 客户端。
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。 
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
-- [XMSLEEP](https://github.com/Tosencen/XMSLEEP) - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
+- [XMSLEEP](https://github.com/Tosencen/XMSLEEP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cID25pd1BA4fywo1bhYoAw)</sup> - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
