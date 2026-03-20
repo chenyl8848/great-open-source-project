@@ -373,7 +373,7 @@
 - [CADmium](https://github.com/CADmium-Co/CADmium) - 在浏览器中运行的 `CAD` 程序。[在线体验](https://cadmium-co.github.io/CADmium/)
 - [ejyy](https://github.com/chowa/ejyy)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2nj286Jtuzp-xXvbf9-puQ)</sup> - 一整套基于 `AGPL` 开源协议开源的**智慧物业**解决方案。
 - [Pake](https://github.com/tw93/Pake) - 利用 `Rust` 轻松构建轻量级多端桌面应用。
-- [CyberChef](https://github.com/gchq/CyberChef) - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
+- [CyberChef](https://github.com/gchq/CyberChef)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cQHeoNBvOnVEHvK9XFNnqg)</sup> - 网络瑞士军刀 - 用于加密、编码、压缩和数据分析的网络工具。[在线体验](https://gchq.github.io/CyberChef/)
 - [nocodb](https://github.com/nocodb/nocodb) - 将 `MySQL`、`PostgreSQL`、`SQL Server`、`SQLite` 或 `MariaDB` 转换为智能电子表格。[在线文档](https://docs.nocodb.com/)
 - [talk](https://github.com/vasanthv/talk) - 无需下载、注册的网络群组视频通话。
 - [huasenjio-compose](https://github.com/huasenjio/huasenjio-compose) - 基于 `Vue.js` + `Node.js` + `Docker` 开发的多功能门户平台。[在线体验](http://n.huasenjio.top/#/home)
@@ -445,7 +445,7 @@
 - [BookLore](https://github.com/adityachandelgit/BookLore) - 一款基于 `SpringBoot` + `Angular` 开发、开源自托管的电子书管理 `Web` 应用，支持 `PDF` 和 `ePub` 电子书格式。
 - [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3z0NBdFPG-SwEWjprQMVqw)</sup> - 一款采用 `Go` + `Vue` 构建、免费、轻量、可自托管的**个人记账应用**。[在线文档](https://ezbookkeeping.mayswind.net/)
 - [renren-security](https://gitee.com/renrenio/renren-security)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XtD_NcCP3vNt1S7G-fytyQ)</sup> - 一个基于 `SpringBoot3.x` + `Vue3` 实现、轻量级的、前后端分离的 `Java` 快速开发平台，能快速开发项目并交付。[在线体验](https://demo.open.renren.io/renren-security)
-- [password-xl](https://github.com/peng0105/password-xl) - 一款开源的**密码管理工具**。[在线体验](https://password-xl.cn/)
+- [password-xl](https://github.com/peng0105/password-xl)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/BwagmvBxAqA2JXtkRvCIRw)</sup> - 一款开源的**密码管理工具**。[在线体验](https://password-xl.cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -903,7 +903,9 @@
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
+- [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
+- [sub2api](https://github.com/Wei-Shaw/sub2api) - 一个 `AI` `API` 网关平台，用于分发和管理 `AI` 产品订阅的 `API` 配额。[在线体验](https://demo.sub2api.org/login)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -912,7 +914,6 @@
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QwkhGloNZZt4bUmm6ylUjA)</sup> - 一个开源的 `ChatGPT` 总结扩展，适用于 `YouTube`、`Google`、`Twitter` 和任何网页。
 - [ChatGemini](https://github.com/bclswl0827/ChatGemini) - 一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图。[在线体验](http://ibcl.us/ChatGemini/)
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Fos4RKNRoWhXVOyHdoX8AA)</sup> - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
-- [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [polyglot](https://github.com/liou666/polyglot) - 跨平台 `AI` 语言练习应用。[在线体验](https://polyglotai.xyz/)
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入。[在线文档](https://docs.link-ai.tech/cow/quick-start)
@@ -1200,7 +1201,7 @@
 
 ### 科学上网
 
-- [new-pac](https://github.com/Alvin9999/new-pac) - 免费科学上网、`VPN`、一键翻墙浏览器，`vps` 一键搭建翻墙服务器脚本/教程。
+- ~~[new-pac](https://github.com/Alvin9999/new-pac) - 免费科学上网、`VPN`、一键翻墙浏览器，`vps` 一键搭建翻墙服务器脚本/教程。~~
 - ~~[clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。~~
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
 - [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
@@ -1384,7 +1385,7 @@
 
 ### 生活技能
 
-- [cook](https://github.com/YunYouJun/cook) - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
+- [cook](https://github.com/YunYouJun/cook)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/BJIFTDlZv8H4PDSOri3BsA)</sup> - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
 - [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RSpQIq0oDq1VJ_g_3rsquw)</sup> - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
 - [what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一个基于 `AI` 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。[在线体验](https://eat.lz-t.top/)
 - [get_jobs](https://github.com/loks666/get_jobs) - `AI` 找工作助手，全平台自动投简历脚本，Boss、前程无忧、猎聘、拉勾、智联招聘。
