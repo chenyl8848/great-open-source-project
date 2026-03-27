@@ -902,7 +902,7 @@
 
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
-- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
+- [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/WlMRoTdw625PCJxd-dwJLA)</sup> - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - 一个 `AI` `API` 网关平台，用于分发和管理 `AI` 产品订阅的 `API` 配额。[在线体验](https://demo.sub2api.org/login)
@@ -948,7 +948,7 @@
 - [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - 一款可以自动创建带有配乐及字幕的短视频工具！
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/xvhM1K82yb3NftgaK-ISZA)</sup> - 利用大模型，一键生成短视频。
 - [buzz](https://github.com/chidiwilliams/buzz) - 基于大模型的音频转文字工具。
-- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)- 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
+- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/oozvftryqBESwyEttlj83w)</sup> - 一个支持多语音和提示控制的开源 `TTS` 引擎。[在线体验](https://replicate.com/bramhooimeijer/emotivoice)
 - [clone-voice](https://github.com/jianchang512/clone-voice) - 一个带 `Web` 界面的**声音克隆工具**，使用你的音色或任意声音来录制音频。[在线体验](https://tts.pyvideotrans.com/) [在线文档](https://pyvideotrans.com/)
 - [Handy](https://github.com/cjpais/Handy) - 一个免费、开源、可扩展的语音转文本应用程序，可完全离线运行。
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS) - 高质量多语言文本转语音工具，支持英语、西班牙语、法语、中文、日语和韩语。
@@ -1028,6 +1028,7 @@
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - 一款高性能、跨平台的 `VNC` 客户端和服务器，基于 `RealVNC 4` 和 `X.org` 代码库开发，专门用于远程访问和控制计算机。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
+- [GMSSH](https://github.com/GMSSH/GMSSH) - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1169,6 +1170,7 @@
 - ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
+- [readest](https://github.com/readest/readest) - 一款免费开源的 `EPUB` 和 `PDF` 电子书阅读器，专为深度沉浸式阅读而打造。[在线体验](https://web.readest.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1370,7 +1372,7 @@
 - [earthworm](https://github.com/cuixueshe/earthworm) - 通过连词构句的方式让你更好的学习英语。[在线体验](https://earthworm.cuixueshe.com/main/1)
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - 离谱的英语学习指南/英语学习教程。[在线文档](https://byoungd.github.io/English-level-up-tips/#/)
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语。[在线文档](https://1000h.org/)
-- [TypeWords](https://github.com/zyronon/TypeWords) - 开源英语单词与文章练习工具。[在线体验](https://typewords.cc/)
+- [TypeWords](https://github.com/zyronon/TypeWords)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/b5WVPrFyiyoFfNC5mX3-lw)</sup> - 开源英语单词与文章练习工具。[在线体验](https://typewords.cc/)
 - [NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照。[在线体验](https://nce.ichochy.com/)
 - [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
 
@@ -1455,6 +1457,7 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、`CPU` 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - `Windows` 内存清理器。
 - [LiteMonitor](https://github.com/Diorser/LiteMonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1-Z-fBZCYjfmoP32DGYqVA)</sup> - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 `CPU`、`GPU`、内存、磁盘、网络等系统性能。
+- [Inkeys](https://github.com/Alan-CRL/Inkeys) - 全能型屏幕批注工具。[在线文档](https://www.inkeys.top/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1532,6 +1535,7 @@
 - [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
 - [metersphere](https://github.com/metersphere/metersphere)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6oUjqv9tDemoXX71c_jVZA)</sup> - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
+- [super-productivity](https://github.com/super-productivity/super-productivity) - 一款用 `TypeScript` 开发的高级 `TODO` 应用，支持与 `Jira`、`GitHub`、`GitLab` 等第三方平台集成，提供 `Windows`、`Linux`、`macOS`、`iOS`、`Android` 和 `Web` 端。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
