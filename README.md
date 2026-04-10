@@ -498,7 +498,7 @@
 - [gi-demo](https://github.com/lin-97/gi-demo)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/ausTR8xmWSRERLChuaHLcA)</sup> - 一个基于 `Vue3`、`Vite`、`TypeScript`、`Arco Design Vue`、`Pinia`、`VueUse` 等的免费中后台模版。[在线体验](https://lin-97.github.io/gi-demo/)
 - [basic](https://github.com/fantastic-admin/basic)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HwpcCFcXTHDRrP0yr9YNRQ)</sup> - 一款开箱即用的 `Vue` 中后台管理系统框架。[在线体验](https://fantastic-admin.hurui.me/basic-example/#/) [在线文档](https://fantastic-admin.hurui.me/)
 - [buildadmin](https://github.com/build-admin/buildadmin) - 一个基于 `Vue3.x` + `ThinkPHP8` + `TypeScript` + `Vite` + `Pinia` + `Element Plus` 等流行技术栈的后台管理系统。[在线体验](https://demo.buildadmin.com/#/admin/dashboard) [在线文档](https://doc.buildadmin.com/)
-- [art-design-pro](https://github.com/Daymychen/art-design-pro) - 一款专注于用户体验和快速开发的开源**后台管理**解决方案。[在线体验](https://www.lingchen.kim/art-design-pro/#/dashboard/console)
+- [art-design-pro](https://github.com/Daymychen/art-design-pro)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j9FnOedR-cPI6LhUm7QzRw)</sup> - 一款专注于用户体验和快速开发的开源**后台管理**解决方案。[在线体验](https://www.lingchen.kim/art-design-pro/#/dashboard/console)
 - [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
 - [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin) - 一款基于 `Vue3`、`TypeScript`、`Vite6`、`Pinia`、`Arco.Design` 开源的后台管理框架。[在线体验](http://101.126.93.137/#/home) [在线文档](http://101.126.93.137:81/)
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
@@ -1028,7 +1028,7 @@
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - 一款高性能、跨平台的 `VNC` 客户端和服务器，基于 `RealVNC 4` 和 `X.org` 代码库开发，专门用于远程访问和控制计算机。
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
-- [GMSSH](https://github.com/GMSSH/GMSSH) - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
+- [GMSSH](https://github.com/GMSSH/GMSSH)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7nkiyuaZE86NZQHBDsYK4Q)</sup> - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1170,7 +1170,7 @@
 - ~~[tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - 免费、开源的 `Android` 漫画阅读器。~~
 - [MyComic](https://gitee.com/luqichuang/MyComic) - 安卓在线漫画阅读器。
 - [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
-- [readest](https://github.com/readest/readest) - 一款免费开源的 `EPUB` 和 `PDF` 电子书阅读器，专为深度沉浸式阅读而打造。[在线体验](https://web.readest.com/)
+- [readest](https://github.com/readest/readest)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0YZsp4ecv7sekswsgSIlsQ)</sup> - 一款免费开源的 `EPUB` 和 `PDF` 电子书阅读器，专为深度沉浸式阅读而打造。[在线体验](https://web.readest.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1497,6 +1497,7 @@
 - [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 的 `Windows` 生肉翻译软件。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
 - [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
 - [Easydict](https://github.com/tisfeng/Easydict) - 一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。
+- [STranslate](https://github.com/STranslate/STranslate) - `WPF/WPF` 开发的一款即用即走的**翻译**、OCR 工具。[在线文档](https://stranslate.zggsong.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1535,7 +1536,7 @@
 - [focalboard](https://github.com/mattermost/focalboard) - 一个开源的项目管理工具。
 - [planka](https://github.com/plankanban/planka) - 一款看板式的项目管理工具。[在线体验](https://plankanban.github.io/planka/#/) [在线文档](https://docs.planka.cloud/)
 - [metersphere](https://github.com/metersphere/metersphere)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6oUjqv9tDemoXX71c_jVZA)</sup> - 一站式开源**持续测试平台**, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter`、`Selenium` 等主流开源标准。[在线体验](https://www.metersphere.com/signup) [在线文档](https://metersphere.io/docs/v2.x/)
-- [super-productivity](https://github.com/super-productivity/super-productivity) - 一款用 `TypeScript` 开发的高级 `TODO` 应用，支持与 `Jira`、`GitHub`、`GitLab` 等第三方平台集成，提供 `Windows`、`Linux`、`macOS`、`iOS`、`Android` 和 `Web` 端。
+- [super-productivity](https://github.com/super-productivity/super-productivity)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/WDQk-jdLU4iaWSbZ6MjQGg)</sup> - 一款用 `TypeScript` 开发的高级 `TODO` 应用，支持与 `Jira`、`GitHub`、`GitLab` 等第三方平台集成，提供 `Windows`、`Linux`、`macOS`、`iOS`、`Android` 和 `Web` 端。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1564,6 +1565,7 @@
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 - [Rote](https://github.com/Rabithua/Rote) - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
+- [blinko](https://github.com/blinkospace/blinko) - 开源的 `AI` 驱动卡片笔记。[在线体验](https://demo.blinko.space/) [在线文档](https://docs.blinko.space/zh/introduction)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
