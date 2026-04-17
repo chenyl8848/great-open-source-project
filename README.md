@@ -621,6 +621,7 @@
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 - [SQLBot](https://github.com/dataease/SQLBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_Lwad5TlLcW8JCgMPvmPrg)</sup> - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
 - [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
+- [GoNavi](https://github.com/Syngnat/GoNavi) - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -751,6 +752,7 @@
 - [weixin-java-miniapp-demo](https://github.com/binarywang/weixin-java-miniapp-demo) - 基于 `Spring Boot` 和 `WxJava` 实现的**微信小程序** `Java` 后端 `Demo`。
 - [wx-api](https://github.com/niefy/wx-api) - 微信公众号管理系统，包含公众号菜单管理、自动回复、素材管理、模板消息、粉丝管理等功能，前后端都开源免费。
 - [wechat-selkies](https://github.com/nickrunning/wechat-selkies)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/3fU2ibdLJHPDaTHCK_G-CA)</sup> - 基于 `Docker` 的微信/QQ `Linux` 客户端，使用 `Selkies WebRTC` 技术提供浏览器访问支持。
+- [WeChatMsg](https://github.com/LC044/WeChatMsg) - 一款强大的微信聊天记录管理工具。
 - [wxdh](https://github.com/zixiwangluo/wxdh) - 微信对话聊天生成器。[在线体验](https://zixiwangluo.github.io/wxdh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -839,6 +841,7 @@
 - [netdata](https://github.com/netdata/netdata)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/aZXj4WANdl5suMtmDYmUnA)</sup> - 一个开源的实时基础设施监控工具，可以对整个基础设施进行监控、检测并预警。
 - [coolmonitor](https://github.com/star7th/coolmonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/O1hPmxgjHXFlimMyomD7-g)</sup> - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
 - [komari](https://github.com/komari-monitor/komari)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y9bM3HL8-EqtaeGxiIpusA)</sup> - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
+- [kula](https://github.com/c0m4r/kula) - 一款轻量独立的 Linux 服务器监控工具。[在线体验](https://demo.kula.ovh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -980,7 +983,6 @@
 - [quiver](https://github.com/varkor/quiver) - 一个现代的网络交换图编辑器。[在线体验](https://q.uiver.app/)
 - [inshellisense](https://github.com/microsoft/inshellisense) - 为 `Shell` 提供 `IDE` 风格的自动完成功能。
 - [cheat.sh](https://github.com/chubin/cheat.sh) - 一个优雅的研发搜索工具。[在线体验](https://cheat.sh/)
-- [WeChatMsg](https://github.com/LC044/WeChatMsg) - 一款强大的微信聊天记录管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1064,6 +1066,7 @@
 - [github1s](https://github.com/conwnet/github1s) - 在 `github` 地址后面加上 `1s` 实现通过 `VS Code` 阅读 `giuthub` 代码，并可以同步使用 `VS Code` 快捷键。如原项目地址：https://github.com/chenyl8848/springboot-demo 加上 `1s` https://github1s.com/chenyl8848/springboot-demo
 - [github-profile-generator](https://github.com/wuyasong/github-profile-generator) - `GitHub` 个人主页生成器。[在线体验](https://githubprofile.com/zh)
 - [github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - `Github` 年度代码统计生成视频工具。[在线体验](https://www.githubunwrapped.com/)
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [star-history](https://github.com/star-history/star-history) - 一个可以查看 `GitHub` 项目历史 `star` 数的项目。
 - [github](https://github.com/phodal/github) - `GitHub` 漫游指南。[在线文档](https://github.phodal.com/#/)
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
@@ -1497,7 +1500,7 @@
 - [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 一款基于 `OCR` 的 `Windows` 生肉翻译软件。[在线文档](https://dango-docs.ap-sh.starivercs.cn/#/)
 - [RTranslator](https://github.com/niedev/RTranslator) - 一款开源、免费、离线的 `Android` 实时翻译应用程序。
 - [Easydict](https://github.com/tisfeng/Easydict) - 一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。
-- [STranslate](https://github.com/STranslate/STranslate) - `WPF/WPF` 开发的一款即用即走的**翻译**、OCR 工具。[在线文档](https://stranslate.zggsong.com/)
+- [STranslate](https://github.com/STranslate/STranslate)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/zbOfQ2qav5igtUZtPT6CeA)</sup> - `WPF/WPF` 开发的一款即用即走的**翻译**、OCR 工具。[在线文档](https://stranslate.zggsong.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1565,7 +1568,7 @@
 - [memos](https://github.com/usememos/memos) - 一个具有知识管理和社交网络的开源、自我托管的备忘录中心。[在线体验](https://demo.usememos.com/explore)
 - [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 - [Rote](https://github.com/Rabithua/Rote) - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
-- [blinko](https://github.com/blinkospace/blinko) - 开源的 `AI` 驱动卡片笔记。[在线体验](https://demo.blinko.space/) [在线文档](https://docs.blinko.space/zh/introduction)
+- [blinko](https://github.com/blinkospace/blinko)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wrvxsP3a5jH9_j8qlicHEw)</sup> - 开源的 `AI` 驱动卡片笔记。[在线体验](https://demo.blinko.space/) [在线文档](https://docs.blinko.space/zh/introduction)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1603,7 +1606,6 @@
 - [Markdown2Html](https://github.com/shenweiyan/Markdown2Html) - 一款 `Markdown` 转 `Html`，支持掘金、知乎和微信公众号的编辑器。[在线体验](https://md.weiyan.cc/)
 - [markdown-to-image](https://github.com/gcui-art/markdown-to-image) - `React` 组件用于将 `Markdown` 渲染为漂亮的社交媒体图片。[在线体验](https://readpo.com/zh/poster)
 - [marktext](https://github.com/marktext/marktext) - 一个基于 `Vue` + `Electron` 的简单而优雅的开源 `markdown` 编辑器。
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - `GitHub` 主页介绍 `README `生成器。[在线体验](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [stackedit](https://github.com/benweet/stackedit) - 在线浏览器 `Markdown` 编辑器。[在线体验](https://stackedit.io/app#)
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - `Markdown` 徽章。[在线体验](https://ileriayo.github.io/markdown-badges/)
 - [markitdown](https://github.com/microsoft/markitdown)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/kzaCY4MxSvqU8UMkxDqW6w)</sup> - 将文件和 `Office` 文档转换为 `Markdown` 的 `Python` 工具。
