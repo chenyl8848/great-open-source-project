@@ -621,7 +621,7 @@
 - [cloudbeaver](https://github.com/dbeaver/cloudbeaver)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/p5LOyyPG90NwenfkPurp0A)</sup> - 一款 Web 数据库管理工具。[在线体验](https://demo.cloudbeaver.io/#/)
 - [SQLBot](https://github.com/dataease/SQLBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_Lwad5TlLcW8JCgMPvmPrg)</sup> - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
 - [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
-- [GoNavi](https://github.com/Syngnat/GoNavi) - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
+- [GoNavi](https://github.com/Syngnat/GoNavi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0APiAe7od1Ub8-olhY_bSw)</sup> - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -729,7 +729,7 @@
 - [tank](https://github.com/eyebluecn/tank)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/a-0lVNyNPZCV1Vwmb8P1pw)</sup> - 蓝眼云盘。[在线体验](https://tanker.eyeblue.cn/) [在线文档](https://tank-doc.eyeblue.cn/)
 - [twake-drive](https://github.com/linagora/twake-drive) - 开源网盘工具。
 - [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PuiS509X7EHxSx2O_ts5vw)</sup>  - 基于 CloudFlare 的开源文件托管解决方案。[在线体验](https://cfbed.1314883.xyz/) [在线文档](https://cfbed.sanyue.de/)
-- [free-fs](https://github.com/dromara/free-fs) - 基于 `Spring Boot 3.5` + `MyBatis Flex` + `MySQL` + `Redis` 的企业级网盘系统。[在线文档](https://free-fs.top/zh/docs/quick-start)
+- [free-fs](https://github.com/dromara/free-fs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/vQMOTv0fFLICCF3RN0K_pw)</sup> - 基于 `Spring Boot 3.5` + `MyBatis Flex` + `MySQL` + `Redis` 的企业级网盘系统。[在线文档](https://free-fs.top/zh/docs/quick-start)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -847,7 +847,7 @@
 
 ### 网络项目
 
-- [SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
+- [SafeLine](https://github.com/chaitin/SafeLine)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bwmogiypPsk55LHnHAlcrA)</sup> - 一款足够简单、足够好用、足够强的免费 `WAF`。[在线体验](https://demo.waf-ce.chaitin.cn:9443/dashboard)
 - [SamWaf](https://github.com/samwafgo/SamWaf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pYgTmLujCu6k1B0JsE-fvA)</sup> - 一款开源轻量级的网站**应用防火墙**。[在线文档](https://doc.samwaf.com/)
 - [aaWAF](https://github.com/aaPanel/aaWAF) - 堡塔云 `WAF`, 宝塔免费的私有云网站应用防火墙，基于 `Docker/Nginx/Lua` 开发。[在线体验](https://btwaf-demo.bt.cn:8379/dashboard) [在线文档](https://www.kancloud.cn/kern123/cloudwaf/3217243)
 - [uuWAF](https://github.com/Safe3/uuWAF)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/b429Frl4-R2xQo99ch0O2A)</sup> - 一款工业级免费、高性能、高扩展，支持 `AI` 和语义引擎的 `Web` 应用和 `API` 安全防护产品。[在线文档](https://waf.uusec.com/#/?id=main)
@@ -1031,6 +1031,7 @@
 - [rustdesk](https://github.com/rustdesk/rustdesk) - 远程支持和远程桌面软件，开箱即用，无需任何配置。
 - [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
 - [GMSSH](https://github.com/GMSSH/GMSSH)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7nkiyuaZE86NZQHBDsYK4Q)</sup> - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
+- [lazyssh](https://github.com/Adembc/lazyssh) - 一个基于终端的交互式 SSH 管理器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1440,6 +1441,7 @@
 - [alt-sendme](https://github.com/tonyantony300/alt-sendme) - 一款采用 `Rust` 和 `Tauri` 构建的开源 `P2P` 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) - 一个开源跨平台的多功能 Steam 工具箱。
 - [keyStats](https://github.com/debugtheworldbot/keyStats) - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
+- [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
