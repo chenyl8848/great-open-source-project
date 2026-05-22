@@ -784,7 +784,7 @@
 - [JimuReport](https://github.com/jeecgboot/JimuReport) - 「低代码可视化报表」类似 `excel` 操作风格，在线拖拽完成报表设计。[在线体验](http://jimureport.com/login) [在线文档](https://help.jeecg.com/)
 - [go-view](https://github.com/dromara/go-view)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Vzo7pJfeO687PsWLgk1pXg)</sup> - 一个低代码数据可视化开发平台。[在线体验](https://vue.mtruning.club/#/project/items) [在线文档](https://www.mtruning.club/guide/start/)
 - [openDataV](https://github.com/AnsGoo/openDataV) - 一个纯前端的拖拽式、可视化、低代码数据可视化开发平台。[在线体验](https://datav.byteportrait.com/#/)
-- [datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
+- [datagear](https://github.com/datageartech/datagear)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/TmzlILLdcOP_4Ir6dYxOiA)</sup> - 数据可视化分析平台，自由制作任何您想要的数据看板。[在线文档](http://www.datagear.tech/documentation)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -842,6 +842,7 @@
 - [coolmonitor](https://github.com/star7th/coolmonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/O1hPmxgjHXFlimMyomD7-g)</sup> - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。
 - [komari](https://github.com/komari-monitor/komari)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y9bM3HL8-EqtaeGxiIpusA)</sup> - 一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。[在线体验](https://ss.akz.moe/) [在线文档](https://komari-document.pages.dev/)
 - [kula](https://github.com/c0m4r/kula) - 一款轻量独立的 Linux 服务器监控工具。[在线体验](https://demo.kula.ovh/)
+- [tianji](https://github.com/msgbyte/tianji) - 一款开源的轻量级监控与洞察工具。[在线文档](https://tianji.dev/zh-Hans/docs/intro)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -875,6 +876,7 @@
 
 - [ChatUI](https://github.com/alibaba/ChatUI) - 阿里巴巴团队开源的对话式 `UI` 设计语言与 `React` 组件库，专为构建智能对话界面而生。[在线文档](https://chatui.io/)
 - [x](https://github.com/ant-design/x) - 基于 `Ant Design` 设计体系的 `React UI` 库、专为 `AI` 驱动界面设计，开箱即用的智能对话组件、无缝集成 `API`服务，快速搭建智能应用界面。[在线文档](https://x.ant.design/components/introduce-cn)
+- [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - 基于 `React` + `TypeScript` 实现、`Animal` 风格的 `UI` 组件库。[在线文档](https://guokaigdg.github.io/animal-island-ui/#/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -910,6 +912,9 @@
 - [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - 一个 `AI` `API` 网关平台，用于分发和管理 `AI` 产品订阅的 `API` 配额。[在线体验](https://demo.sub2api.org/login)
+- [metapi](https://github.com/cita-777/metapi) - 中转站的中转站，将分散的 `AI` 中转站聚合为一个统一网关。[在线体验](https://metapi-t9od.onrender.com/) [在线文档](https://metapi.cita777.me/)
+- [all-api-hub](https://github.com/qixing-jk/all-api-hub) - 开源浏览器插件，统一管理第三方 `AI` 聚合中转站与自建 `New API`. [在线文档](https://all-api-hub.qixing1217.top/)
+- [cc-switch](https://github.com/farion1231/cc-switch) - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1075,7 +1080,7 @@
 - [gitstars](https://github.com/cfour-hi/gitstars)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/hzBvMa3RQ6X_ZVz39jeXrg)</sup> - `Github` `Stars` 存储库管理器，开发者必备的存储库管理工具。[在线体验](https://gitstars.cfour.top/)
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4qfQC-aXEbs4HzBdqeLslA)</sup> - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
 - [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - 基于 `GitHub` 贡献生成太空射击动图。[在线体验](https://gh-space-shooter.kiyo-n-zane.com/)
-- [codeflow](https://github.com/braedonsaunders/codeflow) - 将任何 `GitHub` 代码库或本地代码库转换为交互式架构图。[在线体验](https://codeflow-five.vercel.app/)
+- [codeflow](https://github.com/braedonsaunders/codeflow)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Wrcuetcf-MnzA0XJEsbZow)</sup> - 将任何 `GitHub` 代码库或本地代码库转换为交互式架构图。[在线体验](https://codeflow-five.vercel.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1281,6 +1286,8 @@
 - [self-llm](https://github.com/datawhalechina/self-llm) - 一个围绕开源大模型、针对国内初学者、基于 `Linux` 平台的中国宝宝专属大模型教程。
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - 面向初学者的 `Model Context Protocol (MCP)` 课程。
 - [hello-agents](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。[在线体验](https://datawhalechina.github.io/hello-agents/#/README.md)
+- [claude-howto](https://github.com/luongnv89/claude-howto) - 从输入 `Claude` 开始，到编排 `Agents`、`Hooks`、`Skills` 和 `MCP Servers`，全程配有可视化教程、可直接复制粘贴的模板，以及循序渐进的学习路径。[在线体验](https://luongnv.com/claude-howto/)
+- [AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - `Claude Code` + `OpenClaw` + `Codex` 中文教程。
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 交互式 `Git` 可视化和教程。[在线体验](https://learngitbranching.js.org/?locale=zh_CN)
 - [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - `DevOps` 学习路线和资源。
 - [CS-Base](https://github.com/xiaolincoder/CS-Base)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Phft-YJbMGui5AjBftd6LA)</sup> - 图解计算机网络、操作系统、计算机组成、数据库。[在线体验](https://xiaolincoding.com/)
@@ -1712,8 +1719,9 @@
 - [60s](https://github.com/vikiboss/60s) - 高质量、开源、可靠、全球 `CDN` 加速的 开放 `API` 集合。[在线文档](https://docs.60s-api.viki.moe/)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 各种类别非常好用的 Mac 应用程序、软件以及工具。[在线体验](https://wangchujiang.com/awesome-mac/index.html)
 - [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 电子书下载宝库，一个汇聚了各类电子书下载链接的地方。
-- [tvbox18](https://github.com/qirenzhidao/tvbox18) - TV 宝盒接口。
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 中文 `DOS` 游戏合集，目前共有 1898 款游戏。[在线体验](https://dos.lol/)
+- [tvbox18](https://github.com/qirenzhidao/tvbox18) - TV 宝盒接口。
+- [collect-txt](https://github.com/kimwang1978/collect-txt) - 直播视频源。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
