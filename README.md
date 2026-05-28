@@ -621,6 +621,8 @@
 - [SQLBot](https://github.com/dataease/SQLBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/_Lwad5TlLcW8JCgMPvmPrg)</sup> - 一款基于大模型和 `RAG` 的智能问数系统。[在线文档](https://dataease.cn/sqlbot/v1/)
 - [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
 - [GoNavi](https://github.com/Syngnat/GoNavi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0APiAe7od1Ub8-olhY_bSw)</sup> - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
+- [databasus](https://github.com/databasus/databasus) - 一款免费、开源且可自行托管的数据库备份工具。
+- [dbx](https://github.com/t8y2/dbx) - 轻量级跨平台数据库客户端。[在线文档](https://dbxio.com/cn/docs/what-is-dbx)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -646,6 +648,7 @@
 - [NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 `NextJS` + `Notion API` 实现的，部署在 `Vercel` 上的静态博客系统。[在线体验](https://preview.tangly1024.com/)
 - [OpenIsle](https://github.com/nagisa77/OpenIsle)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9YW_a_pfzdLXpHGuGEFabg)</sup> - 一个使用 `SpringBoot` 和 `Vue3` 构建的全栈开源社区平台。[在线体验](https://www.open-isle.com/)
 - [bbs-go](https://github.com/mlogclub/bbs-go)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/krrJRSVD6vk072thOjh8zg)</sup> - 基于 `Golang` 的开源社区系统。[在线体验](https://bbs.bbs-go.com/) [在线文档](https://bbs-go.com/)
+- [docmd](https://github.com/docmd-io/docmd) - 开箱即用的 `Markdown` 文档网站生成工具。[在线体验](https://live.docmd.io/) [在线文档](https://docs.docmd.io/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -914,7 +917,8 @@
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - 一个 `AI` `API` 网关平台，用于分发和管理 `AI` 产品订阅的 `API` 配额。[在线体验](https://demo.sub2api.org/login)
 - [metapi](https://github.com/cita-777/metapi) - 中转站的中转站，将分散的 `AI` 中转站聚合为一个统一网关。[在线体验](https://metapi-t9od.onrender.com/) [在线文档](https://metapi.cita777.me/)
 - [all-api-hub](https://github.com/qixing-jk/all-api-hub) - 开源浏览器插件，统一管理第三方 `AI` 聚合中转站与自建 `New API`. [在线文档](https://all-api-hub.qixing1217.top/)
-- [cc-switch](https://github.com/farion1231/cc-switch) - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
+- [cc-switch](https://github.com/farion1231/cc-switch)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SSRCkEFEA8uRtuccqQzxxQ)</sup>  - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
+- [codeburn](https://github.com/getagentseal/codeburn) - 一款用于追踪 `AI` 编程助手 `Token` 用量的工具。[在线文档](https://codeburn.app/docs)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1053,6 +1057,7 @@
 - [DweebUI](https://github.com/lllllllillllllillll/DweebUI) - 一个用于管理容器的 WebUI.
 - [kite](https://github.com/zxh326/kite)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sWi7E5ifHGBSIIktCh8kHQ)</sup> - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
 - [app2docker](https://github.com/numen06/app2docker) - 一键将应用打包成 `Docker` 镜像的可视化平台。
+- [dockhand](https://github.com/Finsys/dockhand) - 一款现代化、高效的 `Docker` 管理应用程序。[在线文档](https://dockhand.pro/manual/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1452,7 +1457,7 @@
 - [alt-sendme](https://github.com/tonyantony300/alt-sendme) - 一款采用 `Rust` 和 `Tauri` 构建的开源 `P2P` 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) - 一个开源跨平台的多功能 Steam 工具箱。
 - [keyStats](https://github.com/debugtheworldbot/keyStats)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0OBruaGVfmIwQM4PHPXQkw)</sup> - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
-- [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。
+- [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NRPeRCJoNQwWBloLxynFtw)</sup>
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1659,6 +1664,7 @@
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
 - [moyu](https://github.com/wanghao221/moyu) - 100 个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [CubeCity](https://github.com/hexianWeb/CubeCity) - 一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 `Three.js` 和 `Vue3` 构建。[在线体验](https://cube-city.vercel.app/)
+- [gittype](https://github.com/unhappychoice/gittype) - 一款能够将你写的代码或 `GitHub` 项目转换成打字挑战的工具，支持 `Rust`、`TypeScript`、`Python` 等编程语言。 
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
