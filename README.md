@@ -297,6 +297,7 @@
 - [priospace](https://github.com/AnoyRC/priospace) - 一个漂亮、现代的高效能应用，将任务管理与番茄钟功能、习惯追踪和实时协作相结合。[在线体验](https://prio.space/)
 - [evershop](https://github.com/evershopcommerce/evershop) - 一个现代化的、以 `TypeScript` 为先的**电商平台**，采用 `GraphQL` 和 `React` 构建。[在线体验](https://demo.evershop.io/) [在线文档](https://evershop.io/docs/development/getting-started/introduction)
 - [WindowPet](https://github.com/SeakMengs/WindowPet)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0wKkur8zkRexxKYhCMSYRQ)</sup> - 一款使用 `Tauri` 和 `React` 构建的宠物叠加应用程序，可让您在屏幕上拥有可爱的宠物、动漫人物等伙伴。
+- [FreeTool](https://github.com/zstar1003/FreeTool) - 一个纯前端的多功能在线工具站，提供实用的日常工具。[在线体验](https://xdxsb.top/FreeTool/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -904,6 +905,7 @@
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
+- [llmfit](https://github.com/AlexsJones/llmfit) - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1641,6 +1643,8 @@
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 一款专门在 `macOS` 上使用的 `Markdown` 编辑器。
 - [AiEditor](https://github.com/aieditor-team/AiEditor) - `AI` 驱动的开源富文本编辑器，开箱即用、支持所有前端框架、支持 Markdown 书写模式。[在线体验](http://doc.aieditor.com.cn/) [在线文档](https://aieditor.com.cn/docs/zh/what-is-ai-editor.html)
 - [bangle-io](https://github.com/bangle-io/bangle-io) - 一个现代化的基于网页的笔记平台。[在线体验](https://app.bangle.io/)
+- [files.md](https://github.com/zakirullin/files.md) - 一款简单的 `.md` 文档工具。[在线体验](https://app.files.md/)
+- [FreeEditor](https://github.com/zstar1003/FreeEditor) - 一个免费的双栏型 `Markdown` 编辑器。[在线体验](https://xdxsb.top/FreeEditor/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
