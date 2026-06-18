@@ -66,6 +66,7 @@
     - [音频处理](#音频处理)
     - [影视工具](#影视工具)
     - [应用平台](#应用平台)
+    - [Skill](#skill)
   - [工具项目](#工具项目)
     - [开发工具](#开发工具)
     - [远程连接工具](#远程连接工具)
@@ -297,7 +298,8 @@
 - [priospace](https://github.com/AnoyRC/priospace) - 一个漂亮、现代的高效能应用，将任务管理与番茄钟功能、习惯追踪和实时协作相结合。[在线体验](https://prio.space/)
 - [evershop](https://github.com/evershopcommerce/evershop) - 一个现代化的、以 `TypeScript` 为先的**电商平台**，采用 `GraphQL` 和 `React` 构建。[在线体验](https://demo.evershop.io/) [在线文档](https://evershop.io/docs/development/getting-started/introduction)
 - [WindowPet](https://github.com/SeakMengs/WindowPet)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0wKkur8zkRexxKYhCMSYRQ)</sup> - 一款使用 `Tauri` 和 `React` 构建的宠物叠加应用程序，可让您在屏幕上拥有可爱的宠物、动漫人物等伙伴。
-- [FreeTool](https://github.com/zstar1003/FreeTool) - 一个纯前端的多功能在线工具站，提供实用的日常工具。[在线体验](https://xdxsb.top/FreeTool/)
+- [FreeTool](https://github.com/zstar1003/FreeTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eDWUWRWJta4US61LeSZdbw)</sup> - 一个纯前端的多功能在线工具站，提供实用的日常工具。[在线体验](https://xdxsb.top/FreeTool/)
+- [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) - 紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据。[在线体验](https://wdyziweidoushu666.com)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -623,7 +625,7 @@
 - [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/bs5ffALI7KvPe9qfbaQsGA)</sup> - 一款操作 MySQL 和 MariaDB 的 Web 界面工具。[在线体验](https://demo.phpmyadmin.net/master-config/public/) [在线文档](https://docs.phpmyadmin.net/en/latest/index.html)
 - [GoNavi](https://github.com/Syngnat/GoNavi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0APiAe7od1Ub8-olhY_bSw)</sup> - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
 - [databasus](https://github.com/databasus/databasus) - 一款免费、开源且可自行托管的数据库备份工具。
-- [dbx](https://github.com/t8y2/dbx) - 轻量级跨平台数据库客户端。[在线文档](https://dbxio.com/cn/docs/what-is-dbx)
+- [dbx](https://github.com/t8y2/dbx)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HpI-miUDzLyIO0lVL1xg3g)</sup> - 轻量级跨平台数据库客户端。[在线文档](https://dbxio.com/cn/docs/what-is-dbx)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -745,6 +747,7 @@
 - [pairdrop](https://github.com/schlagmichdoch/pairdrop) - 在浏览器中实现本地文件传输共享。[在线体验](https://pairdrop.net/)
 - [localsend](https://github.com/localsend/localsend) - 文件共享开源工具。
 - [file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - `Go` + `React` 开发的端到端 `WebRTC` 的文件/文字传输、桌面共享工具，安全，隐私，数据不经过服务器。[在线体验](https://transfer.52python.cn/?type=webrtc&mode=send)
+- [plain-app](https://github.com/plainhub/plain-app)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pXQ2RSGh76iQ1xhh8f0pDQ)</sup> - 一款开源安卓应用，可让您通过网页浏览器安全地管理手机，通过简洁易用的界面，访问文件、媒体、联系人、短信、通话记录等。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -905,7 +908,7 @@
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
-- [llmfit](https://github.com/AlexsJones/llmfit) - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
+- [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -987,6 +990,12 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
+### Skill
+
+- [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill, 张雪峰的认知操作系统，高考志愿、考研、职业规划的实战思维框架。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
 ## 工具项目
 
 - [APIJSON](https://github.com/Tencent/APIJSON) - 专为 `API` 而生的 `JSON` 网络传输协议以及基于这套协议实现的 `ORM` 库。为各种增删改查提供了完全自动化的万能通用接口，零代码实时满足千变万化的各种新增和变更需求。[在线体验](http://apijson.cn/api/) [在线文档](https://github.com/Tencent/APIJSON/blob/master/Document.md)
@@ -1034,7 +1043,7 @@
 - [electerm](https://github.com/electerm/electerm) - 开源终端 `/sshtelnetserialportsftp` 客户端（`linux`, `mac`, `win`）。[在线体验](https://electerm-demo.html5beta.com/)
 - [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QHwD__VbXlnn9NNRLhI6zw)</sup> - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [easynode](https://github.com/chaos-zhu/easynode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IH_K3kW1Wc-NKPCM4eSDRA)</sup> - 一个 `Linux` 服务器 `Web SSH` 面板。
-- [Termix](https://github.com/LukeGus/Termix) - 一个基于 `Web` 的服务器管理平台，具有 `SSH` 终端、隧道和文件编辑功能。[在线文档](https://docs.termix.site/install)
+- [Termix](https://github.com/LukeGus/Termix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1bgaYPhhCaKyk9fYtgpBbg)</sup> - 一个基于 `Web` 的服务器管理平台，具有 `SSH` 终端、隧道和文件编辑功能。[在线文档](https://docs.termix.site/install)
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - 一个用于管理各种远程连接协议（如 `RDP`、`SSH`、`VNC` 等）的开源工具。[在线文档](https://mremoteng.readthedocs.io/en/latest/)
 - [termora](https://github.com/TermoraDev/termora) - 一款跨平台终端模拟器和 `SSH` 客户端，支持 `Windows`、`macOS`、`Linux`. [在线文档](https://www.termora.app/)
 - [shell360](https://github.com/nashaofu/shell360) - 一款跨平台的 `SSH` & `SFTP` 客户端，支持 `Windows`、`macOS`、`Linux`、`Android` 和 `iOS`.
@@ -1059,7 +1068,7 @@
 - [DweebUI](https://github.com/lllllllillllllillll/DweebUI) - 一个用于管理容器的 WebUI.
 - [kite](https://github.com/zxh326/kite)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sWi7E5ifHGBSIIktCh8kHQ)</sup> - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
 - [app2docker](https://github.com/numen06/app2docker) - 一键将应用打包成 `Docker` 镜像的可视化平台。
-- [dockhand](https://github.com/Finsys/dockhand) - 一款现代化、高效的 `Docker` 管理应用程序。[在线文档](https://dockhand.pro/manual/)
+- [dockhand](https://github.com/Finsys/dockhand)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HVFWQWxTe7e9uHO0FdVW1g)</sup> - 一款现代化、高效的 `Docker` 管理应用程序。[在线文档](https://dockhand.pro/manual/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1088,6 +1097,7 @@
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4qfQC-aXEbs4HzBdqeLslA)</sup> - 一个用于管理 `GitHub` `Star` 存储库的应用程序。[在线文档](https://zread.ai/AmintaCCCP/GithubStarsManager)
 - [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) - 基于 `GitHub` 贡献生成太空射击动图。[在线体验](https://gh-space-shooter.kiyo-n-zane.com/)
 - [codeflow](https://github.com/braedonsaunders/codeflow)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Wrcuetcf-MnzA0XJEsbZow)</sup> - 将任何 `GitHub` 代码库或本地代码库转换为交互式架构图。[在线体验](https://codeflow-five.vercel.app/)
+- [metrics](https://github.com/lowlighter/metrics) - 一款生成可嵌入到任何地方的 `GitHub` 指标生成工具。[在线体验](https://metrics.lecoq.io/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1230,6 +1240,7 @@
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。
 - [v2rayN](https://github.com/2dust/v2rayN) - 适用于 `Windows`、`Linux` 和 `macOS` 的代理软件客户端。[在线文档](https://v2rayn.2dust.link/)
+- [fanqiang](https://github.com/bannedbook/fanqiang) - 科学上网教程。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1499,7 +1510,6 @@
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - 分析 `WiFi` 信号的 `Android` 应用程序。 
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
 - [XMSLEEP](https://github.com/Tosencen/XMSLEEP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cID25pd1BA4fywo1bhYoAw)</sup> - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
-- [plain-app](https://github.com/plainhub/plain-app)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pXQ2RSGh76iQ1xhh8f0pDQ)</sup> - 一款开源安卓应用，可让您通过网页浏览器安全地管理手机，通过简洁易用的界面，访问文件、媒体、联系人、短信、通话记录等。
 - [MicYou](https://github.com/LanRhyme/MicYou) - 一款强大的工具，能够将您的 `Android` 设备转变为 `PC` 的高质量麦克风。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1645,6 +1655,7 @@
 - [bangle-io](https://github.com/bangle-io/bangle-io) - 一个现代化的基于网页的笔记平台。[在线体验](https://app.bangle.io/)
 - [files.md](https://github.com/zakirullin/files.md) - 一款简单的 `.md` 文档工具。[在线体验](https://app.files.md/)
 - [FreeEditor](https://github.com/zstar1003/FreeEditor) - 一个免费的双栏型 `Markdown` 编辑器。[在线体验](https://xdxsb.top/FreeEditor/)
+- [tolaria](https://github.com/refactoringhq/tolaria) - 一款用于管理 `Markdown` 知识库的桌面应用程序，适用于 `macOS`、`Windows` 和 `Linux`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1659,6 +1670,7 @@
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer/) - 中国独立开发者项目列表。
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
 - [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 1000 个中国独立开发者项目汇总。
+- [AiToEarn](https://github.com/yikart/AiToEarn) - 通过 AI Agent 自动化，帮助 OPC（一人公司）、创作者、品牌与企业在全球主流平台上构建、分发并变现内容。[在线体验](https://aitoearn.ai/zh-CN)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
