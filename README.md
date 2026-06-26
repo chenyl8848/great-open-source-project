@@ -67,6 +67,8 @@
     - [影视工具](#影视工具)
     - [应用平台](#应用平台)
     - [Skill](#skill)
+    - [提示词工具](#提示词工具)
+    - [编程助手](#编程助手)
   - [工具项目](#工具项目)
     - [开发工具](#开发工具)
     - [远程连接工具](#远程连接工具)
@@ -546,6 +548,7 @@
 - [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站 `web` 移动端。
 - [12306](https://github.com/nageoffer/12306)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4YGAlDgfW5L9tQEYy6JSxQ)</sup> - 仿 12306 铁路购票系统。[在线体验](http://12306.magestack.cn) [在线文档](https://nageoffer.com/12306/)
 - [instagram-mern](https://github.com/jigar-sable/instagram-mern) - 仿 `Instagram` 项目。
+- [mobilegym](https://github.com/Purewhiter/mobilegym) - 一个跑在浏览器里的手机模拟环境，整个环境状态完全可编程。[在线体验](https://mobilegym.dev/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -884,6 +887,7 @@
 - [ChatUI](https://github.com/alibaba/ChatUI) - 阿里巴巴团队开源的对话式 `UI` 设计语言与 `React` 组件库，专为构建智能对话界面而生。[在线文档](https://chatui.io/)
 - [x](https://github.com/ant-design/x) - 基于 `Ant Design` 设计体系的 `React UI` 库、专为 `AI` 驱动界面设计，开箱即用的智能对话组件、无缝集成 `API`服务，快速搭建智能应用界面。[在线文档](https://x.ant.design/components/introduce-cn)
 - [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - 基于 `React` + `TypeScript` 实现、`Animal` 风格的 `UI` 组件库。[在线文档](https://guokaigdg.github.io/animal-island-ui/#/)
+- [react-bits](https://github.com/DavidHDev/react-bits) - 开源 `React` 动画组件库。[在线文档](https://reactbits.dev/get-started/introduction)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -897,12 +901,8 @@
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI`/`GUI`/`Docker`. [在线体验](https://pdf2zh.com/)
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jDC6O6DOT3MMME930B7fIg)</sup> - 一款支持多个大语言模型（`LLM`）服务商的桌面客户端，兼容 `Windows`、`Mac` 和 `Linux` 系统。
 - [deepchat](https://github.com/ThinkInAIXYZ/deepchat)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/KQo0av9iilCDa6bo6RGkBw)</sup> - 一个连接强大 `AI` 与个人世界的智能助手。
-- [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具，支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
-- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
-- [Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化 `Prompt` 管理工作流程。
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
-- [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [airi](https://github.com/moeru-ai/airi) - `AI` 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
 - [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
@@ -917,7 +917,7 @@
 - [gateway](https://github.com/Portkey-AI/gateway) - 超快的 `AI` 网关，通过统一简单的 `API`，让用户轻松快速接入 100 多种大语言模型。
 - [gpt-load](https://github.com/tbphp/gpt-load)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/GULBWTOsJQdHZNGTVGEfpw)</sup> - 一个高性能、企业级的 `AI` 接口透明代理服务，专门为需要集成多种 `AI` 服务的企业和开发者设计。
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/WlMRoTdw625PCJxd-dwJLA)</sup> - 自建 `Claude Code` 镜像，一站式开源中转服务，让 `Claude`、`OpenAI`、`Gemini`、`Droid` 订阅统一接入。[在线体验](https://demo.pincc.ai/admin-next/login) [在线文档](https://pincc.ai/)
-- [one-api](https://github.com/songquanpeng/one-api) - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
+- [one-api](https://github.com/songquanpeng/one-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LnUC9m_RLz98s-hqNte2xQ)</sup> - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - 一个 `AI` `API` 网关平台，用于分发和管理 `AI` 产品订阅的 `API` 配额。[在线体验](https://demo.sub2api.org/login)
 - [metapi](https://github.com/cita-777/metapi) - 中转站的中转站，将分散的 `AI` 中转站聚合为一个统一网关。[在线体验](https://metapi-t9od.onrender.com/) [在线文档](https://metapi.cita777.me/)
@@ -987,12 +987,29 @@
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Jw1FRRGkVUQ8xUQNHXOGJA)</sup> - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
+- [LibreChat](https://github.com/danny-avila/LibreChat) - 一个自托管的 `AI` 对话平台，在一个注重隐私的统一界面中整合了所有主流 `AI` 服务商。[在线体验](https://chat.librechat.ai/) [在线文档](https://www.librechat.ai/zh/docs)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
 ### Skill
 
 - [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill, 张雪峰的认知操作系统，高考志愿、考研、职业规划的实战思维框架。
+- [ai-berkshire](https://github.com/xbtlin/ai-berkshire) - 一套基于 `Claude Code` 的投资研究 `Skill` 合集。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 提示词工具
+
+- [Prompt-Tools](https://github.com/jwangkun/Prompt-Tools) - 一款强大的桌面应用，旨在简化 `Prompt` 管理工作流程。
+- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词。[在线体验](https://prompt.always200.com/)
+- [AI-Gist](https://github.com/yarin-zhang/AI-Gist)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/o0TnSZhFGxC3HL3Q5wsdzg)</sup> - 一款隐私优先的 `AI` 提示词管理工具。[在线文档](https://getaigist.com/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 编程助手
+
+- [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
+- [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1414,6 +1431,7 @@
 ### 经典文学
 
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全**中华古诗词数据库**，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗，两宋时期1564位词人，21050首词。[在线体验](https://awesome-poetry.top/huajianji/)
+- [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 高性能中国古诗词 `API` 服务。[在线体验](https://poetry.palemoky.com/)
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1471,6 +1489,7 @@
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) - 一个开源跨平台的多功能 Steam 工具箱。
 - [keyStats](https://github.com/debugtheworldbot/keyStats)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0OBruaGVfmIwQM4PHPXQkw)</sup> - 一款轻量级的 `macOS/Windows` 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。
 - [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 一款跨平台鼠标特效与输入可视化引擎。<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NRPeRCJoNQwWBloLxynFtw)</sup>
+- [QADB](https://github.com/ludoven/QADB) - 一款基于 `Jetpack Compose Multiplatform` 开发的跨平台 `ADB` 图形化工具，支持 `Windows` 和 `macOS`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
