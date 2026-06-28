@@ -1519,6 +1519,7 @@
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) - 一款免费开源的 Mac 应用清理工具，能够彻底卸载应用并清理残留文件。
+- [Dusty](https://github.com/yagcioglutoprak/dusty) - 一款免费开源的 `macOS` 菜单栏磁盘清理工具，可清理缓存、日志、`Xcode` 及包管理器残留，并通过白名单机制避免误删文件。
 - [AirBattery](https://github.com/lihaoyun6/AirBattery) - 一款专为 `macOS` 设计的电量监控工具，能在 `Mac` 菜单栏实时显示 `iPhone`、`iPad`、`AirPods` 和 `Apple Watch` 等设备的电池电量。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
