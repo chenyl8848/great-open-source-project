@@ -738,6 +738,7 @@
 - [twake-drive](https://github.com/linagora/twake-drive) - 开源网盘工具。
 - [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/PuiS509X7EHxSx2O_ts5vw)</sup>  - 基于 CloudFlare 的开源文件托管解决方案。[在线体验](https://cfbed.1314883.xyz/) [在线文档](https://cfbed.sanyue.de/)
 - [free-fs](https://github.com/dromara/free-fs)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/vQMOTv0fFLICCF3RN0K_pw)</sup> - 基于 `Spring Boot 3.5` + `MyBatis Flex` + `MySQL` + `Redis` 的企业级网盘系统。[在线文档](https://free-fs.top/zh/docs/quick-start)
+- [r2-web](https://github.com/vikiboss/r2-web) - 轻盈优雅的 `Web` 原生 `Cloudflare R2` 文件管理器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -923,7 +924,7 @@
 - [metapi](https://github.com/cita-777/metapi) - 中转站的中转站，将分散的 `AI` 中转站聚合为一个统一网关。[在线体验](https://metapi-t9od.onrender.com/) [在线文档](https://metapi.cita777.me/)
 - [all-api-hub](https://github.com/qixing-jk/all-api-hub) - 开源浏览器插件，统一管理第三方 `AI` 聚合中转站与自建 `New API`. [在线文档](https://all-api-hub.qixing1217.top/)
 - [cc-switch](https://github.com/farion1231/cc-switch)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SSRCkEFEA8uRtuccqQzxxQ)</sup>  - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
-- [codeburn](https://github.com/getagentseal/codeburn) - 一款用于追踪 `AI` 编程助手 `Token` 用量的工具。[在线文档](https://codeburn.app/docs)
+- [codeburn](https://github.com/getagentseal/codeburn)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/w8EeA8jgIBDSMij4r-l2eA)</sup> - 一款用于追踪 `AI` 编程助手 `Token` 用量的工具。[在线文档](https://codeburn.app/docs)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -983,7 +984,7 @@
 ### 应用平台
 
 - [chat-master](https://github.com/panday94/chat-master)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/V3Od95sub0q9mQ-gliEMsQ)</sup> - 基于 `AI` 大模型 `API` 实现的自建后端对话服务，支出同步响应及流式响应，完美呈现打印机效果。[在线体验](https://chatmaster.top/admin/#/index) [在线文档](https://www.yuque.com/panday94/ct0azl/ehxcgoy0xg41l9c3)
-- [aiflowy](https://gitee.com/aiflowy/aiflowy) - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
+- [aiflowy](https://gitee.com/aiflowy/aiflowy)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RdrVI7QPww3-UfZcqjcTaQ)</sup> - 一个基于 `Java` 开发的、企业级 `AI` 应用开发平台。[在线文档](https://aiflowy.tech/)
 - [ruoyi-ai](https://github.com/ageerle/ruoyi-ai)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Jw1FRRGkVUQ8xUQNHXOGJA)</sup> - 一个全栈式 `AI` 开发平台，旨在帮助开发者快速构建和部署个性化的 `AI` 应用。[在线体验](https://web.pandarobot.chat/#/login) [在线文档](https://doc.pandarobot.chat/)
 - [CordysCRM](https://github.com/1Panel-dev/CordysCRM)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QsN6U_faztwsdW3QFK6i1A)</sup> - 新一代的开源 `AI CRM` 系统，是集信息化、数字化、智能化于一体的**客户关系管理系统**。[在线文档](https://cordys.cn/docs/)
 - [MaxKB](https://github.com/1Panel-dev/MaxKB)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/W3eqmjJdXYN--1GJM3oNdA)</sup> - 强大易用的企业级智能体平台。[在线文档](https://maxkb.cn/docs/v2/)
@@ -1071,6 +1072,7 @@
 - [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
 - [GMSSH](https://github.com/GMSSH/GMSSH)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7nkiyuaZE86NZQHBDsYK4Q)</sup> - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
 - [lazyssh](https://github.com/Adembc/lazyssh) - 一个基于终端的交互式 SSH 管理器。
+- [Netcatty](https://github.com/binaricat/Netcatty) - 一个基于 `Electron`、`React` 和 `xterm.js` 构建的现代化 `SSH` 客户端、`SFTP` 浏览器&终端管理器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1425,6 +1427,7 @@
 - [NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照。[在线体验](https://nce.ichochy.com/)
 - [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
 - [MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
+- [Echo-Loop](https://github.com/echo-loop/Echo-Loop) - 一款高效的英语听说训练 `App`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1520,6 +1523,7 @@
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 一款 `Mac` 平台下的显示器亮度控制工具。
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) - 一款免费开源的 Mac 应用清理工具，能够彻底卸载应用并清理残留文件。
 - [AirBattery](https://github.com/lihaoyun6/AirBattery) - 一款专为 `macOS` 设计的电量监控工具，能在 `Mac` 菜单栏实时显示 `iPhone`、`iPad`、`AirPods` 和 `Apple Watch` 等设备的电池电量。
+- [MacTools](https://github.com/ggbond268/MacTools) - 免费开源的 `macOS` 原生菜单栏工具集合。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1530,6 +1534,7 @@
 - [my-tv](https://github.com/lizongying/my-tv) - 电视直播软件，安装即可使用。
 - [XMSLEEP](https://github.com/Tosencen/XMSLEEP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cID25pd1BA4fywo1bhYoAw)</sup> - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
 - [MicYou](https://github.com/LanRhyme/MicYou) - 一款强大的工具，能够将您的 `Android` 设备转变为 `PC` 的高质量麦克风。
+- [shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule) - 一款开源、无广告、极简的课程表 `Android APP`，支持教务导入。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1697,6 +1702,7 @@
 
 - [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
+- [fight-the-landlord](https://github.com/palemoky/fight-the-landlord) - 基于 `Go` 语言实现的斗地主游戏，支持联网对战、断线重连、智能机器人等功能。
 - [moyu](https://github.com/wanghao221/moyu) - 100 个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [CubeCity](https://github.com/hexianWeb/CubeCity) - 一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 `Three.js` 和 `Vue3` 构建。[在线体验](https://cube-city.vercel.app/)
 - [gittype](https://github.com/unhappychoice/gittype) - 一款能够将你写的代码或 `GitHub` 项目转换成打字挑战的工具，支持 `Rust`、`TypeScript`、`Python` 等编程语言。 
