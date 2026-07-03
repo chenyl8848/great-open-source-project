@@ -1072,7 +1072,7 @@
 - [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
 - [GMSSH](https://github.com/GMSSH/GMSSH)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7nkiyuaZE86NZQHBDsYK4Q)</sup> - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
 - [lazyssh](https://github.com/Adembc/lazyssh) - 一个基于终端的交互式 SSH 管理器。
-- [Netcatty](https://github.com/binaricat/Netcatty) - 一个基于 `Electron`、`React` 和 `xterm.js` 构建的现代化 `SSH` 客户端、`SFTP` 浏览器&终端管理器。
+- [Netcatty](https://github.com/binaricat/Netcatty) - 一个基于 `Electron`、`React` 和 `xterm.js` 构建的现代化 `SSH` 客户端、`SFTP` 浏览器&终端管理器。[在线文档](https://netcatty.app/zh/docs/introduction/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
