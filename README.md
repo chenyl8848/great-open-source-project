@@ -880,6 +880,7 @@
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
 - [bmm](https://github.com/Y80/bmm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yzmgUqa8pp3LWHn34GQi4g)</sup> - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
+- [karakeep](https://github.com/karakeep-app/karakeep) - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1072,7 +1073,7 @@
 - [crossdesk](https://github.com/kunkundi/crossdesk) - 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。[在线文档](https://xmake.io/zh/guide/quick-start.html)
 - [GMSSH](https://github.com/GMSSH/GMSSH)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7nkiyuaZE86NZQHBDsYK4Q)</sup> - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
 - [lazyssh](https://github.com/Adembc/lazyssh) - 一个基于终端的交互式 SSH 管理器。
-- [Netcatty](https://github.com/binaricat/Netcatty) - 一个基于 `Electron`、`React` 和 `xterm.js` 构建的现代化 `SSH` 客户端、`SFTP` 浏览器&终端管理器。[在线文档](https://netcatty.app/zh/docs/introduction/)
+- [Netcatty](https://github.com/binaricat/Netcatty)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/M9bppIQo7rbe1OXUljvvlg)</sup> - 一个基于 `Electron`、`React` 和 `xterm.js` 构建的现代化 `SSH` 客户端、`SFTP` 浏览器&终端管理器。[在线文档](https://netcatty.app/zh/docs/introduction/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1702,7 +1703,7 @@
 
 - [server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！[在线体验](http://ratel.isnico.com/)
 - [ratel](https://github.com/ainilili/ratel) - 基于 `Netty` 实现的命令行斗地主游戏。
-- [fight-the-landlord](https://github.com/palemoky/fight-the-landlord) - 基于 `Go` 语言实现的斗地主游戏，支持联网对战、断线重连、智能机器人等功能。
+- [fight-the-landlord](https://github.com/palemoky/fight-the-landlord)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jICBeSOUKYliQTEVe4riGw)</sup> - 基于 `Go` 语言实现的斗地主游戏，支持联网对战、断线重连、智能机器人等功能。
 - [moyu](https://github.com/wanghao221/moyu) - 100 个摸鱼小游戏、小工具源码集合。[在线体验](https://game.haiyong.site/)
 - [CubeCity](https://github.com/hexianWeb/CubeCity) - 一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 `Three.js` 和 `Vue3` 构建。[在线体验](https://cube-city.vercel.app/)
 - [gittype](https://github.com/unhappychoice/gittype) - 一款能够将你写的代码或 `GitHub` 项目转换成打字挑战的工具，支持 `Rust`、`TypeScript`、`Python` 等编程语言。 
