@@ -138,7 +138,7 @@
 - [x-file-storage](https://github.com/dromara/x-file-storage)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/9XbxPW2FaunaNrNdeo7JHw)</sup> - 一行代码将文件存储到各个 `OSS` 平台中。[在线文档](https://x-file-storage.xuyanwu.cn/#/)
 - [MaxKey](https://github.com/dromara/MaxKey) - 单点登录认证系统。[在线文档](https://www.maxkey.top/doc/docs/intro/)
 - [o2oa](https://github.com/o2oa/o2oa) - 开源 `OA` 系统。
-- [smart-doc](https://github.com/TongchengOpenSource/smart-doc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MXeeIVAWIcn7kG-a7T-waA)</sup> - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)
+- ~~[smart-doc](https://github.com/TongchengOpenSource/smart-doc)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MXeeIVAWIcn7kG-a7T-waA)</sup> - 一个无侵入式的 `Api` 接口文档生成器。[在线文档](https://smart-doc-group.github.io/#/zh-cn/)~~
 - [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一个分布式和可扩展的开源工作流协调平台，具有强大的 `DAG` 可视化界面。
 - [screw](https://github.com/pingfangushi/screw)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/tkHIkDV4HTSYxoKlI_TbaQ)</sup> - 简洁好用的数据库表结构文档生成器。
 - [mqcloud](https://github.com/sohutv/mqcloud) - `RocketMQ` 企业级一站式服务平台。
@@ -234,7 +234,7 @@
 - [Mall-Vue](https://github.com/PowerDos/Mall-Vue) - 一个基于 `Vue` + `Vuex` + `iView` 做的一个电商网站前端项目。[在线体验](https://powerdos.github.io/Mall-Vue/index.html#/)
 - [folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存。
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1hNykvtUxQPypb9-l6Irw)</sup> - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
-- [twikoo](https://github.com/twikoojs/twikoo) —— 一个简洁、安全、免费的静态网站评论系统。[在线文档](https://twikoo.js.org/)
+- [twikoo](https://github.com/twikoojs/twikoo) - 一个简洁、安全、免费的静态网站评论系统。[在线文档](https://twikoo.js.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -526,7 +526,7 @@
 - [yudao-cloud](https://github.com/YunaiV/yudao-cloud) - [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 全新 `Cloud` 版本，优化重构所有功能。基于 `Spring Cloud Alibaba` + `MyBatis Plus` + `Vue` & `Element` 实现的**后台管理**系统 + 用户小程序，支持 `RBAC` 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。[在线体验](http://dashboard.yudao.iocoder.cn/login?redirect=%2Findex) [在线文档](https://cloud.iocoder.cn/quick-start/)
 - [oms-erp](https://github.com/FJ-OMS/oms-erp) - 一站式全渠道**业务中台系统**包括订单管理系统 `OMS` /电商 `ERP`、库存 `WMS` 统一管理系统和 `SAP` 财务管理系统等。[在线体验](https://omni.k8s9.com/#/dashboard) 用户名：`demo` 密码：`abcd1234`
 - [gpmall](https://github.com/2227324689/gpmall) - 基于 `SpringBoot` + `Dubbo` + `Kafka`、`Elasticsearch` 微服务架构构建的**电商平台**。
-- [tesco-mall](https://github.com/Jerusalem01/tesco-mall) - 一套完善的**微服务电商系统**，由前台商城系统和后台管理系统构成，基于 `SpringBoot`、`SpringCloud`、`SpringCloud Alibaba`、`Vue` 实现，采用前后端分离开发模式。涵盖 `Restful` 接口、数据校验、网关、注册发现、配置中心、熔断、限流、降级、链路追踪、性能监控、压力测试、系统预警、集群部署、持续集成、持续部署等。
+- ~~[tesco-mall](https://github.com/Jerusalem01/tesco-mall) - 一套完善的**微服务电商系统**，由前台商城系统和后台管理系统构成，基于 `SpringBoot`、`SpringCloud`、`SpringCloud Alibaba`、`Vue` 实现，采用前后端分离开发模式。涵盖 `Restful` 接口、数据校验、网关、注册发现、配置中心、熔断、限流、降级、链路追踪、性能监控、压力测试、系统预警、集群部署、持续集成、持续部署等。~~
 - [congomall](https://github.com/nageoffer/congomall) - `TOC` 商城系统，`SpringCloud-Alibaba` 微服务架构设计，基于 `DDD` 领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能。[在线体验](http://cmall.magestack.cn/#/home) [在线文档](https://magestack.cn/)
 - [youlai-mall](https://github.com/youlaitech/youlai-mall) - 基于 `Spring Boot 3`、`Spring Cloud & Alibaba 2022`、`SAS OAuth2` 、`Vue3`、`Element-Plus`、`uni-app` 构建的开源全栈商城。[在线文档](https://www.youlai.tech/) [在线体验](https://admin.youlai.tech/#/dashboard)
 
@@ -1128,7 +1128,7 @@
 - [lookscanned.io](https://github.com/rwv/lookscanned.io) - 一个能够让 `PDF` 看起来就像是扫描件一样的纯前端网站。[在线体验](https://lookscanned.io/scan)
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
 - [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
-- [bentopdf](https://github.com/alam00000/bentopdf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wyyQBOQzXJj3naWP8c3HEQ)</sup> —— 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
+- [bentopdf](https://github.com/alam00000/bentopdf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wyyQBOQzXJj3naWP8c3HEQ)</sup> - 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
 - [pdfcraft](https://github.com/PDFCraftTool/pdfcraft) - 一款基于 `Next.js` 和 `WebAssembly` 构建的开源 `PDF` 工具箱。[在线体验](https://pdfcraft.devtoolcafe.com/zh/tools/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1183,7 +1183,7 @@
 - [res-downloader](https://github.com/putyy/res-downloader)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8y4yClK1FDdMB37Dy9eMrQ)</sup> - 视频号、小程序、抖音、快手、小红书、直播流、`m3u8`、酷狗、`QQ` 音乐等常见网络资源下载。
 - [FileCentipede](https://github.com/filecxx/FileCentipede) - 一款一体化互联网文件上传/下载管理器、`BitTorrent` 客户端、`WebDAV` 客户端、`FTP` 客户端和 `SSH` 客户端。[在线文档](https://filecxx.com/zh_CN/index.html)
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬，`B` 站直播录播工具。
-- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。
+- ~~[Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一个桌面实用程序，支持从各种网站下载图像/视频/音乐/文本等。~~
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - 一款基于 `Motrix` 的开源下载工具，支持下载 `HTTP`、`FTP`、`BT`、磁力链等资源。
 - [BiliTools](https://github.com/btjawa/BiliTools) - 平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源。
 - [parse-video](https://github.com/wujunwei928/parse-video) - 基于 Golang 实现的短视频去水印工具，视频目前支持 20 个平台，图集目前支持 4 个平台。
@@ -1255,7 +1255,7 @@
 - ~~[new-pac](https://github.com/Alvin9999/new-pac) - 免费科学上网、`VPN`、一键翻墙浏览器，`vps` 一键搭建翻墙服务器脚本/教程。~~
 - ~~[clash-for-linux](https://github.com/wanhebin/clash-for-linux) - `Linux` 端使用 `Clash` 作为代理工具。~~
 - [Free-servers](https://github.com/Pawdroid/Free-servers) - 免费 `clash` 订阅地址，免费翻墙、免费科学上网、免费梯子、免费 `ss/v2ray/trojan` 节点、谷歌商店、翻墙梯子。
-- [clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。
+- ~~[clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - `Linux` 最完整的 `Clash for Linux` 的备份仓库，完全可以使用。~~
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 `ClashMeta` 的多平台代理客户端，简单易用，开源无广告。
 - [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - 基于 `tauri` 的 `Clash` 图形化软件。
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - 一个基于 `Tauri` 的 `Clash` 客户端软件。
@@ -1444,7 +1444,7 @@
 
 - [cook](https://github.com/YunYouJun/cook)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/BJIFTDlZv8H4PDSOri3BsA)</sup> - 做菜指南。[在线体验](https://cook.yunyoujun.cn/)
 - [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RSpQIq0oDq1VJ_g_3rsquw)</sup> - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
-- [what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一个基于 `AI` 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。[在线体验](https://eat.lz-t.top/)
+- ~~[what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一个基于 `AI` 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。[在线体验](https://eat.lz-t.top/)~~
 - [get_jobs](https://github.com/loks666/get_jobs) - `AI` 找工作助手，全平台自动投简历脚本，Boss、前程无忧、猎聘、拉勾、智联招聘。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1726,7 +1726,7 @@
 - [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个**包管理器**，**系统镜像**，以及常用软件的好用镜像。
 - [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 基于 `docsify` 实现的网站集合。
 - [awesome-static-generators](https://github.com/myles/awesome-static-generators) - 静态网站生成工具集合。
-- [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。
+- ~~[awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - B站的浏览器扩展/脚本/程序。~~
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目。[在线体验](https://hellogithub.com/)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 `GitHub` 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 `LeetCode`. [在线体验](https://doocs.github.io/leetcode/#/)
