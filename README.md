@@ -1012,6 +1012,7 @@
 
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
+- [Tura](https://github.com/Tura-AI/tura) - 本地优先的开源 `AI` 编程助手，提供 `CLI`、`TUI`、桌面和 `Web` 界面，支持多会话并发与本地模型。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
