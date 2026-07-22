@@ -197,7 +197,7 @@
 
 ###	PHP 项目
 
-- [dzzoffice](https://github.com/zyx0814/dzzoffice) - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
+- [dzzoffice](https://github.com/zyx0814/dzzoffice)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/--htvCS4AvtU1wX0r0-vFA)</sup> - 一套开源办公套件，包含网盘、文档、表格、演示文稿、图册等等。[在线体验](http://demo.dzzoffice.com/)
 - [dujiaoka](https://github.com/assimon/dujiaoka) - 开源式站长自动化售货解决方案、高效、稳定、快速！
 - [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - 采用 `PHP` 编写的 `Web` 记事本工具。[在线体验](https://notes.orga.cat/)
 - [acg-faka](https://github.com/lizhipay/acg-faka) - 二次元发卡系统。[在线体验](http://162.14.111.118:91/) [在线文档](https://faka.wiki/#/)
@@ -425,7 +425,7 @@
 - [maku-generator](https://gitee.com/makunet/maku-generator)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/nBM_oNemhDrcxfCDbh0u9A)</sup> - 一款低代码生成器。[在线体验](https://demo.maku.net/maku-generator/) [在线文档](https://maku.net/docs/maku-boot/index)
 - [eiam](https://github.com/topiam/eiam) - 一款开源的身份管理与访问控制系统，广泛应用于政府、企业内部、教育机构等身份认证场景。[在线体验](https://demo.topiam.cn/login) [在线文档](https://topiam.cn/docs/overview/introduction/)
 - [magic-api](https://github.com/ssssssss-team/magic-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0t8GMDWTyteu2Ta4tkEW4A)</sup> - 一个基于 `Java` 的接口快速开发框架。[在线体验](https://magic-api.ssssssss.org.cn/magic/web/index.html)
-- [opsli-boot](https://github.com/hiparker/opsli-boot) - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
+- [opsli-boot](https://github.com/hiparker/opsli-boot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wFJKgymgi_gYXiwcGI23Gg)</sup> - 一个基于 `SpringBoot`、`Vue` 的低代码快速开发平台。[在线体验](https://demo.opsli.bedebug.com/#/index) [在线文档](https://wiki.opsli.bedebug.com/)
 - [smart-sso](https://github.com/a466350665/smart-sso)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dw5dHUVsRy-0NU54IFBjcw)</sup> - 一个基于 `SpringBoot` 和 `OAuth2` 协议的轻量级、高可用的**单点认证授权中心**。
 - [erupt](https://github.com/erupts/erupt) - 一个**低代码全栈类**框架，它使用`Java` 注解动态生成页面以及增、删、改、查、权限控制等后台功能。[在线体验](https://www.erupt.xyz/demo/#/passport/login) [在线文档](https://www.yuque.com/erupts)
 - [book_novels](https://gitee.com/lin_zhao_quan/book_novels)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RM8ItTiGhLt4b37R1vvENA)</sup> -  基于 `SpringBoot` + `MybatisPlus` + `Jsoup` + `MySQL` 实现的小说阅读网站。
@@ -880,7 +880,7 @@
 - [homer](https://github.com/bastienwirtz/homer) - 一个简单而强大的个人主页生成器，适合用来展示你的各种服务和链接。[在线体验](https://homer-demo.netlify.app/)
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
 - [bmm](https://github.com/Y80/bmm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yzmgUqa8pp3LWHn34GQi4g)</sup> - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
-- [karakeep](https://github.com/karakeep-app/karakeep) - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
+- [karakeep](https://github.com/karakeep-app/karakeep)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AGWAqwXyjR1chQ4C0vS4LA)</sup> - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -926,6 +926,7 @@
 - [all-api-hub](https://github.com/qixing-jk/all-api-hub) - 开源浏览器插件，统一管理第三方 `AI` 聚合中转站与自建 `New API`. [在线文档](https://all-api-hub.qixing1217.top/)
 - [cc-switch](https://github.com/farion1231/cc-switch)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SSRCkEFEA8uRtuccqQzxxQ)</sup>  - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
 - [codeburn](https://github.com/getagentseal/codeburn)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/w8EeA8jgIBDSMij4r-l2eA)</sup> - 一款用于追踪 `AI` 编程助手 `Token` 用量的工具。[在线文档](https://codeburn.app/docs)
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 一款开源 `AI` `API` 网关，提供统一接口聚合 200+ `AI` 服务商。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1012,6 +1013,7 @@
 
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
+- [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - 给 `Codex` 桌面端换一张会呼吸的脸。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1536,6 +1538,7 @@
 - [XMSLEEP](https://github.com/Tosencen/XMSLEEP)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/cID25pd1BA4fywo1bhYoAw)</sup> - 一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
 - [MicYou](https://github.com/LanRhyme/MicYou) - 一款强大的工具，能够将您的 `Android` 设备转变为 `PC` 的高质量麦克风。
 - [shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule) - 一款开源、无广告、极简的课程表 `Android APP`，支持教务导入。
+- [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - 一款功能全面且可扩展的 `Android` 文本编辑器，具有语法高亮、LSP 驱动的代码智能、内置终端、扩展程序以及用于高效编辑的快速项目级工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
