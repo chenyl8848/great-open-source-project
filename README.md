@@ -294,6 +294,7 @@
 - [newsnow](https://github.com/ourongxing/newsnow) - 优雅地阅读实时热门新闻。[在线体验](https://newsnow.busiyi.world/)
 - [win11React](https://github.com/blueedgetechno/win11React) - 基于 `React` 复刻 `Win11`. [在线体验](https://win11.blueedge.me/)
 - [pointless](https://github.com/kkoomen/pointless) - 一个基于 `React` 开源的绘图画布应用。
+- [ResumeAI](https://withresumeai.com/) - 免费 ATS 简历检测（匿名 3 次/天，免费账号 10 次/天）与开源 [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026)（738 雇主、704 门户核验；Workday 37.9%）。
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 独一无二的简历生成器。安全，可定制，可移植，开源且永久免费。[在线体验](https://rxresu.me/)
 - [open-resume](https://github.com/xitanggg/open-resume) - 一款功能强大的开源简历生成器和简历解析器。[在线体验](https://www.open-resume.com/)
 - [workout-cool](https://github.com/Snouzy/workout-cool) - 一款基于 `Next.js` + `TailwindCSS` 构建、免费开源的健身指导平台，提供丰富的健身动作和视频演示。[在线体验](https://workout.cool/)
