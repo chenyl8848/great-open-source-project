@@ -1094,7 +1094,7 @@
 
 - [xpipe](https://github.com/xpipe-io/xpipe)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HxYkhTJCV9ZhhTDRh1Knig)</sup> - 一款好用的终端工具。
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个跨平台的 `SSH/Sftp/Shell/Telnet/Tmux/Serial` 客户端，适用于 `DevOps`.
-- [electerm](https://github.com/electerm/electerm) - 开源终端 `/sshtelnetserialportsftp` 客户端（`linux`, `mac`, `win`）。[在线体验](https://electerm-demo.html5beta.com/)
+- [electerm](https://github.com/electerm/electerm) - 开源的终端/SSH/SFTP/Telnet/串口/RDP/VNC/Spice/FTP 客户端（支持 Linux、Mac、Windows、Android、HarmonyOS、iOS）。[在线体验](https://electerm.org/)
 - [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/QHwD__VbXlnn9NNRLhI6zw)</sup> - 一款现代化、功能丰富的 `Web SSH/RDP/VNC` 客户端。
 - [easynode](https://github.com/chaos-zhu/easynode)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/IH_K3kW1Wc-NKPCM4eSDRA)</sup> - 一个 `Linux` 服务器 `Web SSH` 面板。
 - [Termix](https://github.com/LukeGus/Termix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1bgaYPhhCaKyk9fYtgpBbg)</sup> - 一个基于 `Web` 的服务器管理平台，具有 `SSH` 终端、隧道和文件编辑功能。[在线文档](https://docs.termix.site/install)
