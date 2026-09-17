@@ -1047,6 +1047,7 @@
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 - [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - 给 `Codex` 桌面端换一张会呼吸的脸。
+- [Tura](https://github.com/Tura-AI/tura) - 构建一个令牌使用量减少 80%、能交付更好结果的智能体。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
