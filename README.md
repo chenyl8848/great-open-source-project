@@ -640,6 +640,7 @@
 - [GoNavi](https://github.com/Syngnat/GoNavi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0APiAe7od1Ub8-olhY_bSw)</sup> - 一款基于 `Wails(Go)` 与 `React` 构建的跨平台数据库管理工具。
 - [dbx](https://github.com/t8y2/dbx)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HpI-miUDzLyIO0lVL1xg3g)</sup> - 轻量级跨平台数据库客户端。[在线文档](https://dbxio.com/cn/docs/what-is-dbx)
 - [open-cdm](https://github.com/ClouGence/open-cdm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eqB_Oq_VbIsiCT_GW_vYUQ)</sup> - 一款免费且开源的数据库管理工具，提供了访问控制、数据脱敏、SQL 审核、CI/CD 等能力，并支持跨地区部署。[在线文档](https://www.cdmgr.com/docs/intro/product_intro/)
+- [libredb-studio](https://github.com/libredb/libredb-studio) - 一款部署在数据库旁边的 Web 版 `SQL` 客户端，支持 16 种数据库引擎，包含表结构浏览、ER 图和查询历史。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
