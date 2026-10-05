@@ -195,6 +195,8 @@
 - [godoos](https://github.com/phpk/godoos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/faGNhoNXXI5nrzo9FReRFA)</sup> - 一款界面精仿 Windows 风格、高效的内网办公操作系统。[在线文档](https://docs.godoos.com/zh/godoos.html)
 - [vikunja](https://github.com/go-vikunja/vikunja)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RVnIJYxKChxbIa6s-FNGeA)</sup> - 一个用 `Go` 语言编写的开源待办事项应用程序，旨在帮助个人和团队更好地组织生活和工作。[在线体验](https://try.vikunja.io/) [在线文档](https://vikunja.io/docs/)
 - [rememory](https://github.com/eljojo/rememory) - 对文件进行加密，并将密钥分配给您信任的人。[在线文档](https://eljojo.github.io/rememory/) [在线体验](https://eljojo.github.io/rememory/maker.html)
+- [hey](https://github.com/rakyll/hey) - 一款用 `Go` 编写的 `Web` 压测命令行工具。
+- [PMail](https://github.com/Jinnrry/PMail) - 一个用 `Go` 编写、追求极简部署流程、极致资源占用的个人域名邮箱服务器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -405,6 +407,7 @@
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换工具，转换中文字符为拼音，可以用于汉字注音、排序、检索。[在线体验](https://pinyin.js.org/example/index.html) [在线文档](https://pinyin.js.org/)
 - [document](https://github.com/ranuts/document) - 基于 `OnlyOffice` 的本地网页文档编辑器，直接在浏览器中编辑文档，无需服务器端处理，保护隐私安全。[在线体验](https://ranuts.github.io/document/)
 - [cloud-mail](https://github.com/maillab/cloud-mail) - 基于 Cloudflare 的简约响应式邮箱服务，支持邮件发送、附件收发。[在线体验](https://skymail.ink/login) [在线文档](https://doc.skymail.ink/)
+- [prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) - 在线史前动物博物馆。[在线体验](https://leon-made-this.work/museum/zh-CN/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -904,6 +907,7 @@
 - [bmm](https://github.com/Y80/bmm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yzmgUqa8pp3LWHn34GQi4g)</sup> - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
 - [karakeep](https://github.com/karakeep-app/karakeep)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AGWAqwXyjR1chQ4C0vS4LA)</sup> - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
 - [newtab-naivetab](https://github.com/GXFG/newtab-naivetab) - 一款可视化键盘展示书签和浏览器指令的浏览器插件，支持自由拖拽布局、深度自定义外观、专注模式、云同步。
+- [](https://github.com/WooHooDai/linkding-cn) - 一款开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 `linkding` 二次开发。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -954,6 +958,7 @@
 - [cc-switch](https://github.com/farion1231/cc-switch)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SSRCkEFEA8uRtuccqQzxxQ)</sup>  - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
 - [codeburn](https://github.com/getagentseal/codeburn)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/w8EeA8jgIBDSMij4r-l2eA)</sup> - 一款用于追踪 `AI` 编程助手 `Token` 用量的工具。[在线文档](https://codeburn.app/docs)
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 一款开源 `AI` `API` 网关，提供统一接口聚合 200+ `AI` 服务商。
+- [magpie](https://github.com/yetone/magpie) - 一处搞定每个 `Agent` 的模型。[在线文档](https://usemagpie.ai/docs/zh/start)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1029,8 +1034,9 @@
 - [ai-berkshire](https://github.com/xbtlin/ai-berkshire) - 一套基于 `Claude Code` 的投资研究 `Skill` 合集。
 - [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - 一个真正适合职场人的 `PPT` `Skill`.
 - [ui-skills](https://github.com/ibelick/ui-skills) - 一个专门面向设计工程师和 `AI` 编程 `Agent` 的开源 `UI` 技能库。[在线文档](https://www.ui-skills.com/)
-- [skillsgate](https://github.com/skillsgate/skillsgate) - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
 - [human-writing](https://github.com/KKKKhazix/human-writing) - 通用创作与改稿 `Skill`, 让 `AI` 写的中文读起来像一个具体的人在说话。
+- [skillsgate](https://github.com/skillsgate/skillsgate) - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
+- [skills-manager](https://github.com/xingkongliang/skills-manager) - 一个应用，统一管理所有 `AI` 编程工具的 `Skills`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1047,6 +1053,8 @@
 - [void](https://github.com/voideditor/void) - 开源的 `Cursor` 替代品。
 - [cline](https://github.com/cline/cline) - 一个开源的 `AI` 编程 `VSCode` 插件。
 - [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - 给 `Codex` 桌面端换一张会呼吸的脸。
+- [Codex-X](https://github.com/yynxxxxx/Codex-X) - 一款面向 `OpenAI Codex` 桌面端/ `Codex CLI` 的跨平台桌面工具。
+- [open-code-review](https://github.com/alibaba/open-code-review) - 一款 `AI` 驱动的代码审查 `CLI` 工具，前身是阿里集团内部官方 `AI` 代码审查助手。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1228,6 +1236,7 @@
 - [videodl](https://github.com/CharlesPikachu/videodl) - 轻量级视频下载器。[在线文档](https://videofetch.readthedocs.io/zh/latest/)
 - [VidBee](https://github.com/nexmoe/VidBee) - 一款现代化的开源视频下载器，支持从全球 1000 多个网站下载视频和音频。[在线文档](https://docs.vidbee.org/)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 一款跨平台（`Windows/Linux/macOS`）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。[在线文档](https://bili23.scott-sloan.cn/)
+- [reclip](https://github.com/averygan/reclip) - 一款自主托管的开源视频和音频下载工具，拥有简洁的网页用户界面。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1284,6 +1293,7 @@
 - [Captura](https://github.com/MathewSachin/Captura) - 一个功能强大、操作易用、基于 `.Net` 实现的**屏幕录制**开源工具。
 - [Kap](https://github.com/wulkano/Kap) - 一款开源的 `MacOS` **屏幕录制**工具。
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `MacOS` **屏幕录制**工具。
+- [bilirec](https://github.com/bilirec/bilirec) - 专为低配设备优化的 B 站直播录制与回放一体化工具，可在手机上运行。[在线文档](https://www.bilirec.org/zh-cn/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1537,6 +1547,7 @@
 - [mhabit](https://github.com/FriesI23/mhabit) - 一款基于 Flutter 开发、用于培养和跟踪个人习惯的应用，通过每日打卡帮助用户更高效地养成习惯。
 - [Habo](https://github.com/xpavle00/Habo) - 一款注重隐私的习惯追踪器，采用 `Flutter` 构建，支持 `iOS` 和 `Android` 系统。
 - [WindInput](https://github.com/huanfeng/WindInput) - 轻量、快速、可定制的开源中文输入法。
+- [disktree](https://github.com/tobi/disktree) - 一款轻量的磁盘清理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1673,6 +1684,7 @@
 - [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 - [Rote](https://github.com/Rabithua/Rote)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wd28kCLtRCcl2NF6dcQ5lA)</sup> - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
 - [blinko](https://github.com/blinkospace/blinko)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wrvxsP3a5jH9_j8qlicHEw)</sup> - 开源的 `AI` 驱动卡片笔记。[在线体验](https://demo.blinko.space/) [在线文档](https://docs.blinko.space/zh/introduction)
+- [edgeever](https://github.com/tianma-if/edgeever) - 一款现代化的开源笔记与个人知识库工作区。[在线体验](https://demo.edgeever.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1742,6 +1754,7 @@
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。[在线文档](https://1000userguide.com/#/)
 - [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus) - 1000 个中国独立开发者项目汇总。
 - [AiToEarn](https://github.com/yikart/AiToEarn) - 通过 AI Agent 自动化，帮助 OPC（一人公司）、创作者、品牌与企业在全球主流平台上构建、分发并变现内容。[在线体验](https://aitoearn.ai/zh-CN)
+- [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
