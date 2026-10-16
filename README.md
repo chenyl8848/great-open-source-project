@@ -1266,6 +1266,7 @@
 - [mihon](https://github.com/mihonapp/mihon) - 一个免费的开源漫画阅读器，适用于 `Android` 平台。
 - [readest](https://github.com/readest/readest)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/0YZsp4ecv7sekswsgSIlsQ)</sup> - 一款免费开源的 `EPUB` 和 `PDF` 电子书阅读器，专为深度沉浸式阅读而打造。[在线体验](https://web.readest.com/)
 - [ColorTxt](https://github.com/ssnangua/ColorTxt) - 一款会给内容上色的本地 `TXT` 小说阅读器，带给你不一样的阅读体验。
+- [LightRead 轻阅](https://github.com/yzfly/LightRead) - 基于 `Tauri 2` 和 `Vue 3` 的开源本地电子书与论文阅读器，支持 `EPUB/MOBI/PDF`、批注与听书，本地阅读无需注册或联网。[下载安装](https://github.com/yzfly/LightRead/releases/latest)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
