@@ -4,20 +4,21 @@
 >
 > [<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTM3NjAzOQ==&action=getalbum&album_id=2783119709868212224#wechat_redirect) 表示在公众号发布过项目介绍信息。
 
-## 【关注公众号，浏览开源项目文章~】
-<img align="" height="200px"  src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
+<!-- ## 【关注公众号，浏览开源项目文章~】 -->
 
-<img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" />
+<!-- <img align="" height="200px"  src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" /> -->
+
+<!-- <img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" /> -->
 
 ## 推荐
 
 - [📚个人博客网站](https://chencoding.top/)
 - [📸证件照生成器](https://chencoding.top:8082/)
+- [🔨在线工具集合](https://chencoding.top:8084/)
 
 ## 目录
 
 - [`Github` 、`Gitee` 优秀的开源项目](#github-gitee-优秀的开源项目)
-  - [【关注公众号，浏览开源项目文章~】](#关注公众号浏览开源项目文章)
   - [推荐](#推荐)
   - [目录](#目录)
   - [编程语言](#编程语言)
@@ -81,6 +82,7 @@
     - [插件工具](#插件工具)
     - [下载工具](#下载工具)
     - [作图工具](#作图工具)
+    - [海报工具](#海报工具)
     - [阅读工具](#阅读工具)
     - [转换工具](#转换工具)
     - [录屏工具](#录屏工具)
@@ -253,14 +255,12 @@
 - [slidev](https://github.com/slidevjs/slidev) - 为开发者打造的**演示文稿**工具。[在线文档](https://cn.sli.dev/)
 - [Dashboard](https://github.com/leon-kfd/Dashboard)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Uz7SW0b_JXT58b3dyznDjQ)</sup> - 基于`Vue3`, `Typescript`, `Vite`的一个完全自定义配置的浏览器起始页。[在线体验](https://www.howdz.xyz/)
 - [yft-design](https://github.com/dromara/yft-design) - 基于 `Vue3` + `TypeScript` + `Fabric.js` + `Element-Plus` 实现的多页面图片设计器。[在线体验](https://yft.design/)
-- [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
 - [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu) - `Nuxt3` + `Vue3` 实战在线教育 `SSR` 网站。
 - [pictode](https://github.com/JessYan0913/pictode) - 一个基于 `Vue3`、`TypeScript`、`Konva`、`HeadlessUI` 和 `Tailwind CSS` 等酷炫技术构建的画板项目。[在线体验](https://pictode.com/)
 - [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 一套轻量级快捷图片资源管理系统、图传系统。[在线体验](http://v2.picture.itchenliang.club/#/) [在线文档](https://ejq9qy8emd.feishu.cn/docx/Eo1HdFD7noXoSlxfRfWcYyzJnpf)
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于 `Vue3` + `WebRTC` + `Node` + `SRS` 搭建的直播间。[在线体验](https://live.hsslive.cn/)
 - [teriteri-client](https://github.com/xunlu129/teriteri-client) - 一个基于 `Vue3` 搭建的视频网站平台客户端。
 - [varlet-app-template](https://github.com/varletjs/varlet-app-template) - 一个开箱即用的轻量化移动端 Web 模板，基于 `Vue3`、 `Varlet`、 `Vite`、`Typescript` 开发。[在线体验](https://varlet-app-template.vercel.app/)
-- [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [resume-design](https://github.com/Hacker233/resume-design) - 一款基于 `Vue3` + `TypeScript` + `Vite` + `Element-Plus` + `pinia` 实现的开源免费**简历制作神器**。
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2A1pjtVQLjoUyoMfcRahdw)</sup> - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
@@ -309,7 +309,8 @@
 - [FreeTool](https://github.com/zstar1003/FreeTool)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eDWUWRWJta4US61LeSZdbw)</sup> - 一个纯前端的多功能在线工具站，提供实用的日常工具。[在线体验](https://xdxsb.top/FreeTool/)
 - [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) - 紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据。[在线体验](https://wdyziweidoushu666.com)
 - [magic-resume](https://github.com/JOYCEQL/magic-resume)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sClb6tG4KSzLUYzLkDoRew)</sup> - 一款基于 `TanStack Start` 和 `Motion` 构建的现代化在线 `AI` 简历编辑器，无需登录、内置多种模板。[在线体验](https://magicv.art/app/dashboard/resumes)
-- [floral-notepaper](https://github.com/Achilng/floral-notepaper) - 基于 `Tauri2` + `React` 构建、轻量、优雅、现代化的本地便签工具。
+- [floral-notepaper](https://github.com/Achilng/floral-notepaper)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/OqeUp7wZ4qkFgTm727_TAw)</sup> - 基于 `Tauri2` + `React` 构建、轻量、优雅、现代化的本地便签工具。
+- [office-website](https://github.com/baotlake/office-website) - 一款现代化、本地优先的纯浏览器 `Office` 文档预览与编辑解决方案。[在线体验](https://office.ziziyi.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -377,7 +378,6 @@
 - [github-rank](https://github.com/jaywcjlove/github-rank) - `Github` 全球/中国用户排名，全球仓库 `Star` 最多排名，通过 `Github API v3` 来生成页面数据。[在线体验](https://wangchujiang.com/github-rank/)
 - [cal.com](https://github.com/calcom/cal.com) -  基于 `Next.js` + `React` + `Tailwind CSS` 构建的现代化、开源的日程管理平台。[在线体验](https://app.cal.com/auth/login)
 - [static](https://github.com/staticfile/static) - 开放静态文件，为开源库提供稳定、快速的免费 `CDN` 服务。[在线体验](https://www.staticfile.net/)
-- [poster-design](https://github.com/palxiao/poster-design)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/OgYfyBZ_Jhv0XbtujxOSbQ)</sup> - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
 - [fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 一款基于 `fabricjs` 的创意图片编辑器。
 - [sweetalert](https://github.com/t4t5/sweetalert) - 一个美观的 `JavaScript` 的 `alert` 的替代品。[在线文档](https://sweetalert.js.org/)
 - [ioredis](https://github.com/redis/ioredis) - 一个用于 `Node.js` 的 `Redis` 客户端，具有强大、性能优化和功能齐全的特点。
@@ -879,7 +879,7 @@
 - [kula](https://github.com/c0m4r/kula) - 一款轻量独立的 Linux 服务器监控工具。[在线体验](https://demo.kula.ovh/)
 - [tianji](https://github.com/msgbyte/tianji) - 一款开源的轻量级监控与洞察工具。[在线文档](https://tianji.dev/zh-Hans/docs/intro)
 - [ServerKit](https://github.com/jhd3197/ServerKit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/fbx1SH17YEJ1uoB-LYx9qQ)</sup> - 一款轻量、现代的服务器控制面板，用于管理 `Web` 应用、数据库、 `Docker` 容器和安全策略。、
-- [casos](https://github.com/casosorg/casos) - 一个基于 `Kubernetes` 构建的云操作系统，提供一个带 `Web` 界面和应用商店的可用集群。
+- [casos](https://github.com/casosorg/casos)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/w9SP0otSg2beX6afWvd1Fg)</sup> - 一个基于 `Kubernetes` 构建的云操作系统，提供一个带 `Web` 界面和应用商店的可用集群。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -907,8 +907,8 @@
 - [flame](https://github.com/pawelmalak/flame) - 个人导航页。
 - [bmm](https://github.com/Y80/bmm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/yzmgUqa8pp3LWHn34GQi4g)</sup> - 专属书签管家。[在线体验](https://bmm.lccl.cc/)
 - [karakeep](https://github.com/karakeep-app/karakeep)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AGWAqwXyjR1chQ4C0vS4LA)</sup> - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
-- [newtab-naivetab](https://github.com/GXFG/newtab-naivetab) - 一款可视化键盘展示书签和浏览器指令的浏览器插件，支持自由拖拽布局、深度自定义外观、专注模式、云同步。
-- [](https://github.com/WooHooDai/linkding-cn) - 一款开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 `linkding` 二次开发。
+- [newtab-naivetab](https://github.com/GXFG/newtab-naivetab)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MHNYt7wNMi_nHc9marYHkw)</sup> - 一款可视化键盘展示书签和浏览器指令的浏览器插件，支持自由拖拽布局、深度自定义外观、专注模式、云同步。
+- [linkding-cn](https://github.com/WooHooDai/linkding-cn) - 一款开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 `linkding` 二次开发。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -954,12 +954,12 @@
 - [one-api](https://github.com/songquanpeng/one-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/LnUC9m_RLz98s-hqNte2xQ)</sup> - `OpenAI` 接口管理 & 分发系统，已打包好 `Docker` 镜像，一键部署，开箱即用。[在线体验](https://openai.justsong.cn/panel)
 - [new-api](https://github.com/QuantumNous/new-api)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/XkGcvome-nmO3eDlmVRT3Q)</sup> - 大模型网关与 `AI` 资产管理系统。[在线文档](https://docs.newapi.pro/zh/docs/installation)
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - 一个 `AI` `API` 网关平台，用于分发和管理 `AI` 产品订阅的 `API` 配额。[在线体验](https://demo.sub2api.org/login)
-- [metapi](https://github.com/cita-777/metapi) - 中转站的中转站，将分散的 `AI` 中转站聚合为一个统一网关。[在线体验](https://metapi-t9od.onrender.com/) [在线文档](https://metapi.cita777.me/)
+- [metapi](https://github.com/cita-777/metapi)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/J7gc_FgFOmQ-l9mbjWx2Pg)</sup> - 中转站的中转站，将分散的 `AI` 中转站聚合为一个统一网关。[在线体验](https://metapi-t9od.onrender.com/) [在线文档](https://metapi.cita777.me/)
 - [all-api-hub](https://github.com/qixing-jk/all-api-hub) - 开源浏览器插件，统一管理第三方 `AI` 聚合中转站与自建 `New API`. [在线文档](https://all-api-hub.qixing1217.top/)
 - [cc-switch](https://github.com/farion1231/cc-switch)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SSRCkEFEA8uRtuccqQzxxQ)</sup>  - `Claude Code`、`Codex`、`Gemini CLI`、`OpenCode`、`OpenClaw` 和 `Hermes Agent` 的全方位管理工具。
 - [codeburn](https://github.com/getagentseal/codeburn)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/w8EeA8jgIBDSMij4r-l2eA)</sup> - 一款用于追踪 `AI` 编程助手 `Token` 用量的工具。[在线文档](https://codeburn.app/docs)
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 一款开源 `AI` `API` 网关，提供统一接口聚合 200+ `AI` 服务商。
-- [magpie](https://github.com/yetone/magpie) - 一处搞定每个 `Agent` 的模型。[在线文档](https://usemagpie.ai/docs/zh/start)
+- [magpie](https://github.com/yetone/magpie)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/eURdy9oR_D5LEChAa3KUnA)</sup> - 一处搞定每个 `Agent` 的模型。[在线文档](https://usemagpie.ai/docs/zh/start)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1036,7 +1036,7 @@
 - [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - 一个真正适合职场人的 `PPT` `Skill`.
 - [ui-skills](https://github.com/ibelick/ui-skills) - 一个专门面向设计工程师和 `AI` 编程 `Agent` 的开源 `UI` 技能库。[在线文档](https://www.ui-skills.com/)
 - [human-writing](https://github.com/KKKKhazix/human-writing) - 通用创作与改稿 `Skill`, 让 `AI` 写的中文读起来像一个具体的人在说话。
-- [skillsgate](https://github.com/skillsgate/skillsgate) - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
+- [skillsgate](https://github.com/skillsgate/skillsgate)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/btXkEO60RzeVSuqri10wRg)</sup> - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
 - [skills-manager](https://github.com/xingkongliang/skills-manager) - 一个应用，统一管理所有 `AI` 编程工具的 `Skills`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -1096,6 +1096,7 @@
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - 一个将多种 API 文档集合于一体的工具网站，支持离线使用、模糊搜索和键盘操作，提升开发者查阅效率。[在线体验](https://devdocs.io/)
 - [nginxpulse](https://github.com/likaia/nginxpulse)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2iLN3tQ51_iLThFpD1peNA)</sup> - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
 - [zoonavigator](https://github.com/elkozmon/zoonavigator) - 基于 Web 的 ZooKeeper 用户界面。[在线文档](https://zoonavigator.elkozmon.com/en/latest/)
+- [port-killer](https://github.com/productdevbook/port-killer) - 一个强大的、专为开发者打造的跨平台端口管理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1174,7 +1175,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - 一个基于 `Web` 标准、用 `JavaScript` 编写的 `PDF` 阅读器。[在线体验](https://mozilla.github.io/pdf.js/web/viewer.html) [在线文档](https://mozilla.github.io/pdf.js/)
 - [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
 - [bentopdf](https://github.com/alam00000/bentopdf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wyyQBOQzXJj3naWP8c3HEQ)</sup> - 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
-- [pdfcraft](https://github.com/PDFCraftTool/pdfcraft) - 一款基于 `Next.js` 和 `WebAssembly` 构建的开源 `PDF` 工具箱。[在线体验](https://pdfcraft.devtoolcafe.com/zh/tools/)
+- [pdfcraft](https://github.com/PDFCraftTool/pdfcraft)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/kCGVKL0gEbFGfw5FlimY9g)</sup> - 一款基于 `Next.js` 和 `WebAssembly` 构建的开源 `PDF` 工具箱。[在线体验](https://pdfcraft.devtoolcafe.com/zh/tools/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1250,6 +1251,15 @@
 - [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/35pbLn3GrNES3sXvVrpzig)</sup> - 朋友圈转发截图生成工具。[在线体验](https://akarin.dev/WechatMomentScreenshot/)
 - [whitebophir](https://github.com/lovasoa/whitebophir) - 简单、免费、易于使用和部署的在线协作白板。[在线体验](https://wbo.ophir.dev/)
 - [drawnix](https://github.com/plait-board/drawnix)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Tz_NbbxFdAIfrmMq_uv43g)</sup> - 一个开源白板工具（`SaaS`），一体化白板，包含思维导图、流程图、自由画等。[在线体验](https://drawnix.com/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 海报工具
+
+- [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
+- [poster-design](https://github.com/palxiao/poster-design)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/OgYfyBZ_Jhv0XbtujxOSbQ)</sup> - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
+- [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
+- [doory](https://github.com/shaongitbd/doory) - 一款在浏览器中运行的海报、社交帖子、故事、幻灯片、请柬、简历、缩略图和名片等设计编辑器。[在线体验](https://doory.art/local/eec41992-9326-47fe-848f-92c5cfb1efbb)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1488,6 +1498,8 @@
 - [MaoZeDongAnthology](https://github.com/weiyinfu/MaoZeDongAnthology) - 毛泽东选集。[在线体验](https://weiyinfu.cn/MaoZeDongAnthology/)
 - [shiji-kb](https://github.com/baojie/shiji-kb) - 《史记》知识库，用 AI 将《史记》57万字转化为可交互、可探索的知识图谱，让两千年前的文字像代码一样可以语法高亮、跳转、搜索、推理。[在线体验](https://shiji.memify.wiki/)
 - [china-history](https://github.com/hunterhug/china-history) - 中华民族二十四史：史记，汉书，后汉书，三国志等。[在线体验](https://hunterhug.github.io/china-history/)
+- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 《定投改变命运》。[在线体验](https://ri.firesbox.com/#/)
+- [lixiaolai](https://github.com/riba2534/lixiaolai) - 笑来作品集在线阅读，包含：《财富自由之路》、《财富的真相》、《让时间陪你慢慢变富》、《思考的真相》、《专注的真相》、《韭菜的自我修养》。[在线体验](https://xiaolai.fate.red/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1548,7 +1560,7 @@
 - [mhabit](https://github.com/FriesI23/mhabit) - 一款基于 Flutter 开发、用于培养和跟踪个人习惯的应用，通过每日打卡帮助用户更高效地养成习惯。
 - [Habo](https://github.com/xpavle00/Habo) - 一款注重隐私的习惯追踪器，采用 `Flutter` 构建，支持 `iOS` 和 `Android` 系统。
 - [WindInput](https://github.com/huanfeng/WindInput) - 轻量、快速、可定制的开源中文输入法。
-- [disktree](https://github.com/tobi/disktree) - 一款轻量的磁盘清理工具。
+- [disktree](https://github.com/tobi/disktree)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/4oYUaOl_efb4Zx1lJionrA)</sup> - 一款轻量的磁盘清理工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1685,7 +1697,7 @@
 - [Ech0](https://github.com/lin-snow/Ech0)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NSeXpWv3RdiZXm6MHCyT9A)</sup> - 面向个人的新一代开源、自托管、专注思想流动的轻量级内容分享发布平台。[在线体验](https://memo.vaaat.com/)
 - [Rote](https://github.com/Rabithua/Rote)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wd28kCLtRCcl2NF6dcQ5lA)</sup> - 一款基于 `React` 和 `Node.js` 构建、追求极简和优雅体验的个人笔记平台。[在线体验](https://demo.rote.ink/home)
 - [blinko](https://github.com/blinkospace/blinko)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wrvxsP3a5jH9_j8qlicHEw)</sup> - 开源的 `AI` 驱动卡片笔记。[在线体验](https://demo.blinko.space/) [在线文档](https://docs.blinko.space/zh/introduction)
-- [edgeever](https://github.com/tianma-if/edgeever) - 一款现代化的开源笔记与个人知识库工作区。[在线体验](https://demo.edgeever.org/)
+- [edgeever](https://github.com/tianma-if/edgeever)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MHAQ-s9cJkstKKVdLlfpdg)</sup> - 一款现代化的开源笔记与个人知识库工作区。[在线体验](https://demo.edgeever.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1838,7 +1850,9 @@
 
 **如果可以的话，请作者喝一杯咖啡☕~**
 
-![](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/pay.png)
+![](https://chencoding.top:8090/public/_media/logo_2.webp)
+
+![](https://chencoding.top:8090/public/_media/sponsor.webp)
 
 **感谢打赏！！！❤️❤️❤️**
 
