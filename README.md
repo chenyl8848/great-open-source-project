@@ -78,6 +78,7 @@
     - [Docker 工具](#docker-工具)
     - [Git 工具](#git-工具)
     - [Github 工具](#github-工具)
+    - [Web 工具箱](#web-工具箱)
     - [PDF 工具](#pdf-工具)
     - [插件工具](#插件工具)
     - [下载工具](#下载工具)
@@ -240,7 +241,6 @@
 - [AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴。[在线体验](https://www.autopiano.cn/)
 - [Mall-Vue](https://github.com/PowerDos/Mall-Vue) - 一个基于 `Vue` + `Vuex` + `iView` 做的一个电商网站前端项目。[在线体验](https://powerdos.github.io/Mall-Vue/index.html#/)
 - [folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存。
-- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1hNykvtUxQPypb9-l6Irw)</sup> - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
 - [twikoo](https://github.com/twikoojs/twikoo) - 一个简洁、安全、免费的静态网站评论系统。[在线文档](https://twikoo.js.org/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
@@ -265,8 +265,6 @@
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2A1pjtVQLjoUyoMfcRahdw)</sup> - 一个纯前端实现的头像生成网站。[在线体验](https://vue-color-avatar.leoku.dev/)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 高度可定制的 `Vue3` 流程图组件。[在线文档](https://vueflow.dev/)
 - [undraw-ui](https://github.com/readpage/undraw-ui) - 基于 `Vue3` 的评论组件。[在线文档](https://readpage.github.io/undraw-ui/)
-- [it-tools](https://github.com/CorentinTh/it-tools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6gFogO0o7zgFNrXPB2OggA)</sup> - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
-- [tools-web](https://github.com/naroat/tools-web)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dVHHZ8kXXWSPP5LPO337GQ)</sup> - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
 - [logoly](https://github.com/bestony/logoly)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/gpyI8EVdhp0nS6HMzyUY7g)</sup> - 一个 `Pornhub` 风格的 `Logo` 生成器。[在线体验](https://www.logoly.pro/)
 - [form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的 `Vue` 可视化表单设计器，可以通过拖拽的方式快速创建表单。[在线体验](https://form-create.com/v3/designer/) [在线文档](https://view.form-create.com/)
 - [annotree](https://github.com/itchaox/annotree) - 生成文件夹目录注释树。[在线文档](https://www.annotree.com/)
@@ -1037,7 +1035,8 @@
 - [ui-skills](https://github.com/ibelick/ui-skills) - 一个专门面向设计工程师和 `AI` 编程 `Agent` 的开源 `UI` 技能库。[在线文档](https://www.ui-skills.com/)
 - [human-writing](https://github.com/KKKKhazix/human-writing) - 通用创作与改稿 `Skill`, 让 `AI` 写的中文读起来像一个具体的人在说话。
 - [skillsgate](https://github.com/skillsgate/skillsgate)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/btXkEO60RzeVSuqri10wRg)</sup> - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
-- [skills-manager](https://github.com/xingkongliang/skills-manager) - 一个应用，统一管理所有 `AI` 编程工具的 `Skills`.
+- [skills-manager](https://github.com/xingkongliang/skills-manager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/CoOlw8YpDtJvHyQXny9gOg)</sup> - 一个应用，统一管理所有 `AI` 编程工具的 `Skills`.
+- [huashu-design](https://github.com/alchaincyf/huashu-design) - - 在你的 agent 里打一句话，拿回一份能交付的设计。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1167,6 +1166,15 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
+### Web 工具箱
+
+- [it-tools](https://github.com/CorentinTh/it-tools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6gFogO0o7zgFNrXPB2OggA)</sup> - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
+- [tools-web](https://github.com/naroat/tools-web)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dVHHZ8kXXWSPP5LPO337GQ)</sup> - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
+- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1hNykvtUxQPypb9-l6Irw)</sup> - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
+- [omni-tools](https://github.com/iib0011/omni-tools) - 一款基于 `React` 开发的在线工具集合，提供图片、音视频、`PDF`、文本、日期时间、数学计算和数据处理等日常工具，所有文件都在本地浏览器中处理。[在线体验](https://omnitools.app/)
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
 ### PDF 工具
 
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/drxolRcIBRsNRNxnb1QMdA)</sup> - 实现对 `PDF` 的各种操作。
@@ -1239,6 +1247,7 @@
 - [VidBee](https://github.com/nexmoe/VidBee) - 一款现代化的开源视频下载器，支持从全球 1000 多个网站下载视频和音频。[在线文档](https://docs.vidbee.org/)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 一款跨平台（`Windows/Linux/macOS`）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。[在线文档](https://bili23.scott-sloan.cn/)
 - [reclip](https://github.com/averygan/reclip) - 一款自主托管的开源视频和音频下载工具，拥有简洁的网页用户界面。
+- [wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器。[在线文档](https://ltaoo.github.io/wx_channels_download/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1258,8 +1267,8 @@
 
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 海报生成器。[在线体验](https://tencent.github.io/tmagic-editor/playground/index.html#/)
 - [poster-design](https://github.com/palxiao/poster-design)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/OgYfyBZ_Jhv0XbtujxOSbQ)</sup> - 一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。[在线体验](https://design.palxp.cn/home)
-- [gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
-- [doory](https://github.com/shaongitbd/doory) - 一款在浏览器中运行的海报、社交帖子、故事、幻灯片、请柬、简历、缩略图和名片等设计编辑器。[在线体验](https://doory.art/local/eec41992-9326-47fe-848f-92c5cfb1efbb)
+- [gzm-design](https://github.com/LvHuaiSheng/gzm-design)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/mfiQTVvpDbkjAjVQ-IMC9Q)</sup> - 一个基于 `vue3` +  `vite4` + `TypeScript` 免费开源的海报设计器。[在线体验](http://gzm-design.guozimi.cn/#/editor)
+- [doory](https://github.com/shaongitbd/doory)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/mfiQTVvpDbkjAjVQ-IMC9Q)</sup> - 一款在浏览器中运行的海报、社交帖子、故事、幻灯片、请柬、简历、缩略图和名片等设计编辑器。[在线体验](https://doory.art/local/eec41992-9326-47fe-848f-92c5cfb1efbb)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1488,6 +1497,7 @@
 - [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
 - [MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
 - [Echo-Loop](https://github.com/echo-loop/Echo-Loop) - 一款高效的英语听说训练 `App`.
+- [word-atlas](https://github.com/designfuchen/word-atlas) - 7298 个雅思核心词，每个词一幅原创插画、两条原创例句、英美发音和一套刚刚好的复习节奏。[在线体验](https://0xlei.tech/words/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
