@@ -1096,6 +1096,7 @@
 - [nginxpulse](https://github.com/likaia/nginxpulse)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2iLN3tQ51_iLThFpD1peNA)</sup> - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
 - [zoonavigator](https://github.com/elkozmon/zoonavigator) - 基于 Web 的 ZooKeeper 用户界面。[在线文档](https://zoonavigator.elkozmon.com/en/latest/)
 - [port-killer](https://github.com/productdevbook/port-killer) - 一个强大的、专为开发者打造的跨平台端口管理工具。
+- [agent-qa](https://github.com/vostride/agent-qa) - 用自然语言测试网页与移动应用的 QA CLI，内置持久化记忆和自我改进；需 `Node.js 24+`。早期项目，`FSL-1.1-ALv2` 限制竞争性商业使用，模型与设备费用另计。[官网](https://vostride.com) [在线文档](https://vostride.com/docs/agent-qa)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
