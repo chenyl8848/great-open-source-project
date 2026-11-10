@@ -1608,6 +1608,7 @@
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) - 一款免费开源的 Mac 应用清理工具，能够彻底卸载应用并清理残留文件。
 - [AirBattery](https://github.com/lihaoyun6/AirBattery) - 一款专为 `macOS` 设计的电量监控工具，能在 `Mac` 菜单栏实时显示 `iPhone`、`iPad`、`AirPods` 和 `Apple Watch` 等设备的电池电量。
 - [MacTools](https://github.com/ggbond268/MacTools) - 免费开源的 `macOS` 原生菜单栏工具集合。
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 免费开源的 `macOS` 菜单栏工具，按外接显示器记住并恢复窗口位置、大小与所属桌面（`Space`），支持按机身接口自动切换显示器排列与息屏不休眠。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
