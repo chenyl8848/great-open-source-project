@@ -1072,6 +1072,7 @@
 
 ###	开发工具
 
+- [agent-qa](https://github.com/vostride/agent-qa) - 自然语言驱动的网页、Android 和 iOS QA，内置持久化 memidex 记忆、经验证的自我改进及步骤截图。Node.js 24+；FSL-1.1-ALv2 允许的本地使用免费，模型与设备费用另计。[官网](https://vostride.com)
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j9iDDyjILfmOSeCfk0cGlg)</sup> - 一个更快、更好、更稳定的 `Redis` 桌面管理器[ `GUI` 客户端]，兼容 `Linux`、`Windows`、`Mac`。
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MEr6ODb1mqNxHqp4o7AwtA)</sup> - 一款现代化、轻量级的跨平台 `Redis` 桌面客户端，可在 `Mac`、`Windows` 和 `Linux` 系统上运行。
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/SzXcIzE8RaPzE1HkyB3Q2Q)</sup> - 最好用的 `Redis` 可视化工具。
