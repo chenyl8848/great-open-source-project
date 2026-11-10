@@ -1010,7 +1010,7 @@
 ### 影视工具
 
 - [moyin-creator](https://github.com/MemeCalculate/moyin-creator) - `AI` 影视生产级工具，支持 `Seedance2.0`，剧本到成片全流程批量化。
-- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - `AI` 全自动短视频引擎。[在线文档](https://aidc-ai.github.io/Pixelle-Video/zh/)
+- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Cr-EtdGXt5amhz6V7ODL5Q)</sup> - `AI` 全自动短视频引擎。[在线文档](https://aidc-ai.github.io/Pixelle-Video/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1095,7 +1095,8 @@
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - 一个将多种 API 文档集合于一体的工具网站，支持离线使用、模糊搜索和键盘操作，提升开发者查阅效率。[在线体验](https://devdocs.io/)
 - [nginxpulse](https://github.com/likaia/nginxpulse)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2iLN3tQ51_iLThFpD1peNA)</sup> - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
 - [zoonavigator](https://github.com/elkozmon/zoonavigator) - 基于 Web 的 ZooKeeper 用户界面。[在线文档](https://zoonavigator.elkozmon.com/en/latest/)
-- [port-killer](https://github.com/productdevbook/port-killer) - 一个强大的、专为开发者打造的跨平台端口管理工具。
+- [port-killer](https://github.com/productdevbook/port-killer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/iMRXylkU8yk4jdk2h20zmA)</sup> - 一个强大的、专为开发者打造的跨平台端口管理工具。
+- [navop](https://github.com/feigeCode/navop) - 数据库、`SSH`、`SFTP`、终端、远程桌面、监控与 `AI` 一体化的原生桌面工作台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1171,7 +1172,7 @@
 - [it-tools](https://github.com/CorentinTh/it-tools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/6gFogO0o7zgFNrXPB2OggA)</sup> - 为开发者收集方便的在线工具，具有很好的用户体验。[在线体验](https://it-tools.tech/)
 - [tools-web](https://github.com/naroat/tools-web)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/dVHHZ8kXXWSPP5LPO337GQ)</sup> - 只需简单几步，即可快速搭建属于自己的在线工具箱。[在线体验](https://tools.ranblogs.com/)
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/E1hNykvtUxQPypb9-l6Irw)</sup> - 一个轻量的工具集合。[在线体验](https://tools.miku.ac/)
-- [omni-tools](https://github.com/iib0011/omni-tools) - 一款基于 `React` 开发的在线工具集合，提供图片、音视频、`PDF`、文本、日期时间、数学计算和数据处理等日常工具，所有文件都在本地浏览器中处理。[在线体验](https://omnitools.app/)
+- [omni-tools](https://github.com/iib0011/omni-tools)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wWTgUdi-nn_hU13DLzyVXQ)</sup> - 一款基于 `React` 开发的在线工具集合，提供图片、音视频、`PDF`、文本、日期时间、数学计算和数据处理等日常工具，所有文件都在本地浏览器中处理。[在线体验](https://omnitools.app/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1510,6 +1511,8 @@
 - [china-history](https://github.com/hunterhug/china-history) - 中华民族二十四史：史记，汉书，后汉书，三国志等。[在线体验](https://hunterhug.github.io/china-history/)
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 《定投改变命运》。[在线体验](https://ri.firesbox.com/#/)
 - [lixiaolai](https://github.com/riba2534/lixiaolai) - 笑来作品集在线阅读，包含：《财富自由之路》、《财富的真相》、《让时间陪你慢慢变富》、《思考的真相》、《专注的真相》、《韭菜的自我修养》。[在线体验](https://xiaolai.fate.red/)
+- [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) -  一幅可以拖动时间、点城读史、追随古人足迹的中国历史交互舆图（公元前 403 年三家分晋 — 今）。[在线体验](https://deanchen.me/jiangshan-map/)
+- [chinese-history-atlas](https://github.com/zinging/chinese-history-atlas) - 帝王谱系、思想源流、诗词鉴赏、格物致知、神话异志，五条线并排展开，把一个时代的权力、思想、审美、工艺与想象，重新接回同一张网里。[在线体验](https://zinging.github.io/chinese-history-atlas/web/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1519,6 +1522,8 @@
 - [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/RSpQIq0oDq1VJ_g_3rsquw)</sup> - 像老乡鸡那样做饭，老乡鸡菜品溯源报告。[在线体验](https://cooklikehoc.soilzhu.su/)
 - ~~[what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一个基于 `AI` 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。[在线体验](https://eat.lz-t.top/)~~
 - [get_jobs](https://github.com/loks666/get_jobs) - `AI` 找工作助手，全平台自动投简历脚本，Boss、前程无忧、猎聘、拉勾、智联招聘。
+- [investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) - 一份面向中文投资者的公开投资入门指南，适合想从零开始了解美股、期权和加密货币，却不知道应该先学什么、怎样建立完整知识框架的人。
+- [HowToGetAlong](https://github.com/kkk-bot/HowToGetAlong) - 一份面向大学生和初入职场者的人情世故指南，讲清大学课堂里往往没有系统教过的相处方法、沟通技巧，以及进入社会后需要了解的规则与边界。[在线体验](https://kkk-bot.github.io/HowToGetAlong/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1593,6 +1598,7 @@
 - [LiteMonitor](https://github.com/Diorser/LiteMonitor)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/1-Z-fBZCYjfmoP32DGYqVA)</sup> - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 `CPU`、`GPU`、内存、磁盘、网络等系统性能。
 - [Inkeys](https://github.com/Alan-CRL/Inkeys) - 全能型屏幕批注工具。[在线文档](https://www.inkeys.top/)
 - [Screenbox](https://github.com/huynhsontung/Screenbox) - 一款基于 `LibVLC` 的 `Windows` 媒体播放器。
+- [DeskBox](https://github.com/Tianyu199509/DeskBox) - 免费开源、本地优先的 `Windows 10/11` 桌面整理工具，提供原生质感的 `WinUI3` 格子。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
