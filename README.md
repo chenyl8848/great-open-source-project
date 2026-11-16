@@ -1185,6 +1185,7 @@
 - [leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer) - 一款开源的 `PDF` 注释和绘图工具，专为保护隐私而设计。[在线体验](https://leed.my/)
 - [bentopdf](https://github.com/alam00000/bentopdf)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/wyyQBOQzXJj3naWP8c3HEQ)</sup> - 一款功能强大、注重隐私的客户端 `PDF` 工具包，支持自托管，可直接在浏览器中操作、编辑、合并和处理 `PDF` 文件，无需服务器端处理。[在线体验](https://bentopdf.com/)
 - [pdfcraft](https://github.com/PDFCraftTool/pdfcraft)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/kCGVKL0gEbFGfw5FlimY9g)</sup> - 一款基于 `Next.js` 和 `WebAssembly` 构建的开源 `PDF` 工具箱。[在线体验](https://pdfcraft.devtoolcafe.com/zh/tools/)
+- [nyxiontech-tools](https://github.com/jurecki007/nyxiontech-tools) - 一款开源（`AGPL-3.0`）的浏览器端 `PDF` 工具箱，包含合并、拆分、压缩、签名、`OCR` 和去除敏感信息等 25 个工具，全部通过 `WebAssembly` 在本地完成，文件不上传服务器，无需注册。[在线体验](https://tools.nyxiontech.com/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
