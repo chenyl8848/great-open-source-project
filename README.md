@@ -69,6 +69,7 @@
     - [音频处理](#音频处理)
     - [影视工具](#影视工具)
     - [应用平台](#应用平台)
+    - [Agent](#agent)
     - [Skill](#skill)
     - [提示词工具](#提示词工具)
     - [编程助手](#编程助手)
@@ -512,7 +513,7 @@
 - [buildadmin](https://github.com/build-admin/buildadmin) - 一个基于 `Vue3.x` + `ThinkPHP8` + `TypeScript` + `Vite` + `Pinia` + `Element Plus` 等流行技术栈的后台管理系统。[在线体验](https://demo.buildadmin.com/#/admin/dashboard) [在线文档](https://doc.buildadmin.com/)
 - [art-design-pro](https://github.com/Daymychen/art-design-pro)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/j9FnOedR-cPI6LhUm7QzRw)</sup> - 一款专注于用户体验和快速开发的开源**后台管理**解决方案。[在线体验](https://www.lingchen.kim/art-design-pro/#/dashboard/console)
 - [eladmin](https://github.com/elunez/eladmin) - 一个基于 `SpringBoot`、`SpringBoot Jpa`、`JWT`、`Spring Security`、`Redis`、`Vue` 的前后端分离的**后台管理系统**。[在线体验](https://eladmin.vip/demo/#/login?redirect=%2Fdashboard) [在线文档](https://eladmin.vip/)
-- [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin) - 一款基于 `Vue3`、`TypeScript`、`Vite6`、`Pinia`、`Arco.Design` 开源的后台管理框架。[在线体验](http://101.126.93.137/#/home) [在线文档](http://101.126.93.137:81/)
+- [SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pWIR4MiaKf4rbaevHE_aZQ)</sup> - 一款基于 `Vue3`、`TypeScript`、`Vite6`、`Pinia`、`Arco.Design` 开源的后台管理框架。[在线体验](http://124.223.224.174/#/home) [在线文档](http://124.223.224.174:91/)
 - [hsweb-framework](https://github.com/hs-web/hsweb-framework) - 一个基于 `Spring-Boot 2.x` 开发，首个使用全**响应式编程**的企业级后台管理系统基础项目。
 - [admin3](https://github.com/cjbi/admin3)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/y3Dr6u6O7HFapxof30BV8A)</sup> - 一个轻巧的后台管理框架，项目后端基于 `Java17`、`SpringBoot 3.0`，前端基于 `TypeScript`、`Vite3`、`Vue3`、`Element Plus`.
 - [sz-boot-parent](https://github.com/feiyuchuixue/sz-boot-parent)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/iEvyw6fMOTTDHxmsSy25mw)</sup> - 一个开源 `RBAC` 中后台框架，专为现代应用设计。[在线体验](https://preview.szadmin.cn/home/index) [在线文档](https://szadmin.cn/)
@@ -938,9 +939,7 @@
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
 - [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 - [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
-- [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，提供任务板、`Git` 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心邓功能。
 - [OlliteRT](https://github.com/NightMean/OlliteRT) - 将安卓手机变成兼容 `OpenAI` 的 `API` `LLM` 服务器。
-- [dsh-desktop](https://github.com/dataelement/dsh-desktop)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8iuu9KiX72R3KJTCqU8ZZA)</sup> - 为 `DeepSeek Harness` 打造的本地优先、跨平台桌面应用。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1011,6 +1010,7 @@
 
 - [moyin-creator](https://github.com/MemeCalculate/moyin-creator) - `AI` 影视生产级工具，支持 `Seedance2.0`，剧本到成片全流程批量化。
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Cr-EtdGXt5amhz6V7ODL5Q)</sup> - `AI` 全自动短视频引擎。[在线文档](https://aidc-ai.github.io/Pixelle-Video/zh/)
+- [autoclip](https://github.com/zhouxiaoka/autoclip) - 开源 `AI` 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、`TikTok`、`Reels` 与 `YouTube Shorts`.
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1024,8 +1024,15 @@
 - [LibreChat](https://github.com/danny-avila/LibreChat) - 一个自托管的 `AI` 对话平台，在一个注重隐私的统一界面中整合了所有主流 `AI` 服务商。[在线体验](https://chat.librechat.ai/) [在线文档](https://www.librechat.ai/zh/docs)
 - [StaffDeck](https://github.com/OpenBMB/StaffDeck)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/vffKjJR94DDsF3Tgewfa3A)</sup> - 一个数字员工全流程构建与管理平台。[在线文档](https://staffdeck.openbmb.cn/#/docs/introduce?lang=zh)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/jB3WNN7VOG9lD8UdG0oEyQ)</sup> - 一个开源的一站式 `Agent` 聊天机器人平台，可接入主流即时通讯应用，为个人、开发者和团队提供可靠、可扩展的对话式 `AI` 基础设施。[在线文档](https://docs.astrbot.app/)
+- [chat-demo](https://github.com/deepseek-ai/chat-demo) - 克隆高仿 `DeepSeek` 官网网页的聊天界面，无需应用后端，浏览器直接配置 Api Key 即可使用。[在线体验](https://deepseek-ai.github.io/chat-demo/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### Agent
+
+- [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，提供任务板、`Git` 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心邓功能。
+- [dsh-desktop](https://github.com/dataelement/dsh-desktop)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8iuu9KiX72R3KJTCqU8ZZA)</sup> - 为 `DeepSeek Harness` 打造的本地优先、跨平台桌面应用。
+- [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - 手机端的 DeepSeek Harness, 既能手机本机运行，也能远程遥控操作电脑。
 
 ### Skill
 
@@ -1036,7 +1043,8 @@
 - [human-writing](https://github.com/KKKKhazix/human-writing) - 通用创作与改稿 `Skill`, 让 `AI` 写的中文读起来像一个具体的人在说话。
 - [skillsgate](https://github.com/skillsgate/skillsgate)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/btXkEO60RzeVSuqri10wRg)</sup> - 一款面向 `AI` 编程 `Agent` 的可视化 `Skill` 管理工具，提供桌面端和终端 `TUI` 两种使用方式。
 - [skills-manager](https://github.com/xingkongliang/skills-manager)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/CoOlw8YpDtJvHyQXny9gOg)</sup> - 一个应用，统一管理所有 `AI` 编程工具的 `Skills`.
-- [huashu-design](https://github.com/alchaincyf/huashu-design) - - 在你的 agent 里打一句话，拿回一份能交付的设计。
+- [huashu-design](https://github.com/alchaincyf/huashu-design) - - 在你的 Agent 里打一句话，拿回一份能交付的设计。
+- [baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 宝玉分享的 AI Agent 技能集。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1096,7 +1104,7 @@
 - [nginxpulse](https://github.com/likaia/nginxpulse)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/2iLN3tQ51_iLThFpD1peNA)</sup> - 轻量级 `Nginx` 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。[在线体验](https://nginx-pulse.kaisir.cn/)
 - [zoonavigator](https://github.com/elkozmon/zoonavigator) - 基于 Web 的 ZooKeeper 用户界面。[在线文档](https://zoonavigator.elkozmon.com/en/latest/)
 - [port-killer](https://github.com/productdevbook/port-killer)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/iMRXylkU8yk4jdk2h20zmA)</sup> - 一个强大的、专为开发者打造的跨平台端口管理工具。
-- [navop](https://github.com/feigeCode/navop) - 数据库、`SSH`、`SFTP`、终端、远程桌面、监控与 `AI` 一体化的原生桌面工作台。
+- [navop](https://github.com/feigeCode/navop)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/pl3Ghqx209DapygLs5YluQ)</sup> - 数据库、`SSH`、`SFTP`、终端、远程桌面、监控与 `AI` 一体化的原生桌面工作台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1134,6 +1142,7 @@
 - [kite](https://github.com/zxh326/kite)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sWi7E5ifHGBSIIktCh8kHQ)</sup> - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
 - [app2docker](https://github.com/numen06/app2docker) - 一键将应用打包成 `Docker` 镜像的可视化平台。
 - [dockhand](https://github.com/Finsys/dockhand)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HVFWQWxTe7e9uHO0FdVW1g)</sup> - 一款现代化、高效的 `Docker` 管理应用程序。[在线文档](https://dockhand.pro/manual/)
+- [arcane](https://github.com/getarcaneapp/arcane) - 现代化的 `Docker` 管理平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1250,6 +1259,7 @@
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 一款跨平台（`Windows/Linux/macOS`）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。[在线文档](https://bili23.scott-sloan.cn/)
 - [reclip](https://github.com/averygan/reclip) - 一款自主托管的开源视频和音频下载工具，拥有简洁的网页用户界面。
 - [wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器。[在线文档](https://ltaoo.github.io/wx_channels_download/)
+- [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - 下载器的集大成者。[在线文档](https://gd.xychr.com/zh/docs/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1499,7 +1509,7 @@
 - [typing-practice.toolsnav.top](https://github.com/wincatcher/typing-practice.toolsnav.top) - 一个使用 `Vite` 构建的在线英文打字练习应用。[在线体验](https://typing-practice.toolsnav.top/)
 - [MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
 - [Echo-Loop](https://github.com/echo-loop/Echo-Loop) - 一款高效的英语听说训练 `App`.
-- [word-atlas](https://github.com/designfuchen/word-atlas) - 7298 个雅思核心词，每个词一幅原创插画、两条原创例句、英美发音和一套刚刚好的复习节奏。[在线体验](https://0xlei.tech/words/)
+- [word-atlas](https://github.com/designfuchen/word-atlas)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/56EKWb9pV3ICJhDPFVN5vg)</sup> - 7298 个雅思核心词，每个词一幅原创插画、两条原创例句、英美发音和一套刚刚好的复习节奏。[在线体验](https://0xlei.tech/words/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
