@@ -937,6 +937,7 @@
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
 - [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
+- [Pagekin](https://github.com/EthanYoQ/Pagekin) - 开源的 AI 长篇小说写作桌面工具，支持章节规划、上下文衔接和改稿，适用于 Windows 和 macOS。[中文工作流](https://github.com/EthanYoQ/Pagekin/blob/master/docs/long-form-fiction-workflow.zh.md)
 - [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 - [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
 - [OlliteRT](https://github.com/NightMean/OlliteRT) - 将安卓手机变成兼容 `OpenAI` 的 `API` `LLM` 服务器。
