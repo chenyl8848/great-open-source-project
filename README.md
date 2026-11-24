@@ -1362,7 +1362,7 @@
 - [react-video-editor](https://github.com/designcombo/react-video-editor) - 一款基于 `React` + `TypeScript` 实现的在线视频剪辑工具。[在线体验](https://designcombo.dev/edit)
 - [clip-js](https://github.com/mohyware/clip-js) - 一个由 `Next.js` 构建的在线视频剪辑器。[在线体验](https://clipjs.vercel.app/projects)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - CapCut 开源替代品。[在线体验](https://opencut.app/projects)
-- - [CutVoke](https://github.com/frankShan001/CutVoke) - 开源、本地优先的桌面视频剪辑软件，内置 `MCP` 服务器，`Claude Code`、`Codex`、`Cursor` 等 AI Agent 和你编辑同一条多轨时间线，支持 Windows / macOS / Linux。
+- [CutVoke](https://github.com/frankShan001/CutVoke) - 开源、本地优先的桌面视频剪辑软件，内置 `MCP` 服务器，`Claude Code`、`Codex`、`Cursor` 等 AI Agent 和你编辑同一条多轨时间线，支持 Windows / macOS / Linux。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
