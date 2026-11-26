@@ -968,7 +968,7 @@
 - [SoraWebui](https://github.com/SoraWebui/SoraWebui)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Fos4RKNRoWhXVOyHdoX8AA)</sup> - 一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频。[在线体验](https://sorawebui.com/)
 - [polyglot](https://github.com/liou666/polyglot) - 跨平台 `AI` 语言练习应用。[在线体验](https://polyglotai.xyz/)
 - [mi-gpt](https://github.com/idootop/mi-gpt) - 将小爱音箱接入 `ChatGPT` 和豆包，改造成你的专属语音助手。
-- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入。[在线文档](https://docs.link-ai.tech/cow/quick-start)
+- [CowAgent](https://github.com/zhayujie/CowAgent) - 开源的超级 AI 助理，打造真正属于自己的 Personal Agent。能规划任务、调用工具与 Skills，带长期记忆、知识库和自进化，支持多 Agent 团队；桌面客户端和手机 App 即用，也可源码部署，可接入微信、企业微信、飞书、钉钉、QQ 等渠道。[在线文档](https://docs.cowagent.ai/zh/intro)
 - [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
