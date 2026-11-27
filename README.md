@@ -73,6 +73,7 @@
     - [Skill](#skill)
     - [提示词工具](#提示词工具)
     - [编程助手](#编程助手)
+    - [小说创作](#小说创作)
   - [工具项目](#工具项目)
     - [开发工具](#开发工具)
     - [远程连接工具](#远程连接工具)
@@ -908,6 +909,7 @@
 - [karakeep](https://github.com/karakeep-app/karakeep)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/AGWAqwXyjR1chQ4C0vS4LA)</sup> - 一款可自托管的书签应用（支持链接、笔记和图片），具备基于人工智能的自动标签功能和全文搜索功能。[在线体验](https://try.karakeep.app/) [在线文档](https://docs.karakeep.app/)
 - [newtab-naivetab](https://github.com/GXFG/newtab-naivetab)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/MHNYt7wNMi_nHc9marYHkw)</sup> - 一款可视化键盘展示书签和浏览器指令的浏览器插件，支持自由拖拽布局、深度自定义外观、专注模式、云同步。
 - [linkding-cn](https://github.com/WooHooDai/linkding-cn) - 一款开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 `linkding` 二次开发。
+- [light-note](https://github.com/VeteranBoLuo/light-note) - 免费的书签、笔记与云文件管理平台，内置 `AI` 助手，支持跨设备同步。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -933,11 +935,8 @@
 - [pycorrector](https://github.com/shibing624/pycorrector) - 中文文本纠错工具，支持中文音似、形似、语法错误纠正。[在线体验](https://www.mulanai.com/)
 - [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书、公众号、知识笔记、思维导图、视频字幕等各种风格的文档。
 - [airi](https://github.com/moeru-ai/airi) - `AI` 灵魂伴侣。[在线体验](https://airi.moeru.ai/) [在线文档](https://airi.moeru.ai/docs/zh-Hans/)
-- [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) - 基于 `Deno` 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。
 - [RedInk](https://github.com/HisMax/RedInk) - 小红书 `AI` 图文生成器。
-- [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
-- [Pagekin](https://github.com/EthanYoQ/Pagekin) - 开源的 AI 长篇小说写作桌面工具，支持章节规划、上下文衔接和改稿，适用于 Windows 和 macOS。[中文工作流](https://github.com/EthanYoQ/Pagekin/blob/master/docs/long-form-fiction-workflow.zh.md)
 - [llmfit](https://github.com/AlexsJones/llmfit)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/NM1EiOshq0fNoPKiXbyl-Q)</sup> - 一款终端工具，根据你系统的 `RAM`、`CPU` 和 `GPU` 为 `LLM` 模型匹配合适的规格。
 - [edict](https://github.com/cft0808/edict) - 一个基于“三省六部”制度思想的 `AI` 多智能体（`Multi-Agent`）协作系统。
 - [OlliteRT](https://github.com/NightMean/OlliteRT) - 将安卓手机变成兼容 `OpenAI` 的 `API` `LLM` 服务器。
@@ -1033,7 +1032,8 @@
 
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness (DSH) Web UI 的插件和皮肤集合，提供任务板、`Git` 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心邓功能。
 - [dsh-desktop](https://github.com/dataelement/dsh-desktop)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/8iuu9KiX72R3KJTCqU8ZZA)</sup> - 为 `DeepSeek Harness` 打造的本地优先、跨平台桌面应用。
-- [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - 手机端的 DeepSeek Harness, 既能手机本机运行，也能远程遥控操作电脑。
+- [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/D3YiYYRQrw3Gvzx-z-OjiQ)</sup> - 手机端的 DeepSeek Harness, 既能手机本机运行，也能远程遥控操作电脑。
+- [DS-Bot](https://github.com/Fei-Craft/DS-Bot) - 一款基于 `DeepSeek Harness` 构建的 AI 协作工具，可创建拥有独立记忆的助手，在群聊中分派任务、协作完成工作。
 
 ### Skill
 
@@ -1064,6 +1064,15 @@
 - [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - 给 `Codex` 桌面端换一张会呼吸的脸。
 - [Codex-X](https://github.com/yynxxxxx/Codex-X) - 一款面向 `OpenAI Codex` 桌面端/ `Codex CLI` 的跨平台桌面工具。
 - [open-code-review](https://github.com/alibaba/open-code-review) - 一款 `AI` 驱动的代码审查 `CLI` 工具，前身是阿里集团内部官方 `AI` 代码审查助手。
+
+**[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
+
+### 小说创作
+
+- [AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用 `AI` 生成多章节的长篇小说，自动衔接上下文、伏笔。
+- [91Writing](https://github.com/ponysb/91Writing)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/G1MQ4P_uXlbzmR7GdFANtA)</sup> - 一个基于 `Vue3` + `Element Plus` 的智能 `AI` 小说创作工具，集成多种 `AI` 模型，助力作者高效创作。[在线体验](https://mlimli.art/home/kaiyuan/#/)
+- [Pagekin](https://github.com/EthanYoQ/Pagekin) - 开源的 AI 长篇小说写作桌面工具，支持章节规划、上下文衔接和改稿，适用于 Windows 和 macOS。[中文工作流](https://github.com/EthanYoQ/Pagekin/blob/master/docs/long-form-fiction-workflow.zh.md)
+
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1128,6 +1137,7 @@
 - [GMSSH](https://github.com/GMSSH/GMSSH)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/7nkiyuaZE86NZQHBDsYK4Q)</sup> - 一款桌面级 `AI` 运维系统，为 `Linux` 服务器提供基于类 `Windows` 的桌面级可视化管理体验。[在线体验](https://web.gmssh.com/newweb/)
 - [lazyssh](https://github.com/Adembc/lazyssh) - 一个基于终端的交互式 SSH 管理器。
 - [Netcatty](https://github.com/binaricat/Netcatty)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/M9bppIQo7rbe1OXUljvvlg)</sup> - 一个基于 `Electron`、`React` 和 `xterm.js` 构建的现代化 `SSH` 客户端、`SFTP` 浏览器&终端管理器。[在线文档](https://netcatty.app/zh/docs/introduction/)
+- [motty](https://github.com/t8y2/motty) - 一个桌面 `SSH` 客户端。终端、`SFTP` 面板、端口转发、远程桌面和 `AI` 助手 放在同一个窗口里，一次会话既不用另开文件工具，也不用开浏览器标签页看屏幕。[在线文档](https://motty.page/zh/docs)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1143,7 +1153,7 @@
 - [kite](https://github.com/zxh326/kite)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/sWi7E5ifHGBSIIktCh8kHQ)</sup> - 一个轻量级、现代化的 `Kubernetes` Dashboard. [在线体验](https://kite-demo.zzde.me/login) [在线文档](https://kite.zzde.me/zh/)
 - [app2docker](https://github.com/numen06/app2docker) - 一键将应用打包成 `Docker` 镜像的可视化平台。
 - [dockhand](https://github.com/Finsys/dockhand)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/HVFWQWxTe7e9uHO0FdVW1g)</sup> - 一款现代化、高效的 `Docker` 管理应用程序。[在线文档](https://dockhand.pro/manual/)
-- [arcane](https://github.com/getarcaneapp/arcane) - 现代化的 `Docker` 管理平台。
+- [arcane](https://github.com/getarcaneapp/arcane)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/xw_H1JtzPl8k8sHZyzf3Tg)</sup> - 现代化的 `Docker` 管理平台。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1174,6 +1184,7 @@
 - [codeflow](https://github.com/braedonsaunders/codeflow)<sup>[<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/s/Wrcuetcf-MnzA0XJEsbZow)</sup> - 将任何 `GitHub` 代码库或本地代码库转换为交互式架构图。[在线体验](https://codeflow-five.vercel.app/)
 - [metrics](https://github.com/lowlighter/metrics) - 一款生成可嵌入到任何地方的 `GitHub` 指标生成工具。[在线体验](https://metrics.lecoq.io/)
 - [gitfut](https://github.com/Younesfdj/gitfut) - 一款将 `GitHub` 个人数据生成足球球星卡的 `Web` 应用，可根据提交、`Star`、`PR`、关注者、语言等数据换算成球员能力值。[在线体验](https://gitfut.com/)
+- [github-chinese](https://github.com/setube/github-chinese) - 把 `GitHub` 界面翻译成简体中文、繁体中文的浏览器扩展。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1328,6 +1339,7 @@
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `MacOS` **屏幕录制**工具。
 - [bilirec](https://github.com/bilirec/bilirec) - 专为低配设备优化的 B 站直播录制与回放一体化工具，可在手机上运行。[在线文档](https://www.bilirec.org/zh-cn/)
 - [OhMyShot](https://github.com/MMFoundation/OhMyShot) - 一款原生 `macOS` **截图与录屏**工具，支持滚动截图、标注、贴图和端侧离线 `OCR`（公式转 `LaTeX`、表格识别），兼容 `CleanShot X` 的 `URL` 命令。[在线体验](https://www.ohmyshot.org/zh/)
+- [snow-shot](https://github.com/mg-chao/snow-shot) - 适用于 `Windows` 和 `macOS` 的免费开源截图与录屏工具。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1612,6 +1624,7 @@
 - [Inkeys](https://github.com/Alan-CRL/Inkeys) - 全能型屏幕批注工具。[在线文档](https://www.inkeys.top/)
 - [Screenbox](https://github.com/huynhsontung/Screenbox) - 一款基于 `LibVLC` 的 `Windows` 媒体播放器。
 - [DeskBox](https://github.com/Tianyu199509/DeskBox) - 免费开源、本地优先的 `Windows 10/11` 桌面整理工具，提供原生质感的 `WinUI3` 格子。
+- [BrimDeck](https://github.com/MoFeng2223/BrimDeck) - 一款 `Windows11` 上的灵动岛，在屏幕顶部集中显示 `AI` 编程工具的额度与用量、正在播放的音乐、系统读数和无线设备电量，并提供剪贴板记录与文件中转。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
@@ -1781,6 +1794,7 @@
 - [files.md](https://github.com/zakirullin/files.md) - 一款简单的 `.md` 文档工具。[在线体验](https://app.files.md/)
 - [FreeEditor](https://github.com/zstar1003/FreeEditor) - 一个免费的双栏型 `Markdown` 编辑器。[在线体验](https://xdxsb.top/FreeEditor/)
 - [tolaria](https://github.com/refactoringhq/tolaria) - 一款用于管理 `Markdown` 知识库的桌面应用程序，适用于 `macOS`、`Windows` 和 `Linux`.
+- [ArcMD](https://github.com/Ciao1019/ArcMD) - 一款用纯 `Go` 开发、Arc 风格的 `Markdown` 编辑器。
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
