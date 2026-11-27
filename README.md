@@ -1327,6 +1327,7 @@
 - [Kap](https://github.com/wulkano/Kap) - 一款开源的 `MacOS` **屏幕录制**工具。
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 `MacOS` **屏幕录制**工具。
 - [bilirec](https://github.com/bilirec/bilirec) - 专为低配设备优化的 B 站直播录制与回放一体化工具，可在手机上运行。[在线文档](https://www.bilirec.org/zh-cn/)
+- [OhMyShot](https://github.com/MMFoundation/OhMyShot) - 一款原生 `macOS` **截图与录屏**工具，支持滚动截图、标注、贴图和端侧离线 `OCR`（公式转 `LaTeX`、表格识别），兼容 `CleanShot X` 的 `URL` 命令。[在线体验](https://www.ohmyshot.org/zh/)
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
